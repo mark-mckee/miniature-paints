@@ -1,5 +1,6 @@
 # TODO
 
+- [X] Add contact information for each brand where possible
 - [ ] Update all paint sets to match the 2026 product catalogues from all brands.
   - [ ] AK
   - [ ] AKRC
