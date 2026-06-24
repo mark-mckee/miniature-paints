@@ -1,5 +1,5 @@
-# Citadel Colour
-![Citadel_Colour](../logos/Citadel_Colour.png "Citadel_Colour")
+# Warhammer Colour
+![Warhammer_Colour](../logos/Warhammer_Colour.png "Warhammer_Colour")
 
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|
