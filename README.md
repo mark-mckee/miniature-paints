@@ -3,7 +3,7 @@
 <p align="center"><a href="https://miniaturepainterpro.app/"> <img src="logos/logo_rnd.png" height="200" /></a>
 </p>
 
-List of miniature paints forked from Arcturus5404/miniature-paints. This fork is updated and maintained by me. 
+List of miniature paints forked from Arcturus5404/miniature-paints. Original paint list scraped by Arcturus5404 from [Miniature Painter Pro](https://miniaturepainterpro.app/) team. This fork is updated and maintained by me. 
 
 Feel free to use or improve any of these paints in your own personal projects. Also feel free to submit PR's
 
@@ -25,7 +25,7 @@ Feel free to use or improve any of these paints in your own personal projects. A
 |  <a href="paints/Warcolours.md"> <img src="logos/Warcolours.png" height="70" /> <br/> Warcolours</a>| <a href="paints/Warhammer_Colour.md"> <img src="logos/Warhammer_Colour.png" height="70" /> <br/> Warhammer Colour</a>||
 <!-- END -->
 
-Are you missing your favorite brand? Let me know @ <a href="mailto:paintmaster@rickfleuren.nl">paintmaster@rickfleuren.nl</a>
+**NOTE: I am not affiliated in any way with the [Miniature Painter Pro](https://miniaturepainterpro.app/) team or app**
 
 ## About [Miniature Painter Pro](https://miniaturepainterpro.app/)
 Miniature Painter Pro is for created for all your miniature painting joys. This tool has been developed to aid miniature painters in their quest for the perfect paint color. Use the color picker, save your paints in a palette, compare paints across brands and find complementary colors. When colors are missing from your own supply, you can compare them cross-brand or even mix them with existing paints you own.
