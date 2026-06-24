@@ -7,6 +7,8 @@ List of miniature paints forked from Arcturus5404/miniature-paints. Original pai
 
 Feel free to use or improve any of these paints in your own personal projects. Also feel free to submit PR's
 
+**NOTE: I am not affiliated in any way with the [Miniature Painter Pro](https://miniaturepainterpro.app/) team or app**
+
 ## Paints by brand
 
 <!-- START -->
@@ -24,23 +26,3 @@ Feel free to use or improve any of these paints in your own personal projects. A
 |  <a href="paints/TomColor.md"> <img src="logos/TomColor.png" height="70" /> <br/> Tom Color</a>|  <a href="paints/TurboDork.md"> <img src="logos/TurboDork.png" height="70" /> <br/> Turbo Dork</a>|  <a href="paints/Vallejo.md"> <img src="logos/Vallejo.png" height="70" /> <br/> Vallejo</a>|
 |  <a href="paints/Warcolours.md"> <img src="logos/Warcolours.png" height="70" /> <br/> Warcolours</a>| <a href="paints/Warhammer_Colour.md"> <img src="logos/Warhammer_Colour.png" height="70" /> <br/> Warhammer Colour</a>||
 <!-- END -->
-
-**NOTE: I am not affiliated in any way with the [Miniature Painter Pro](https://miniaturepainterpro.app/) team or app**
-
-## About [Miniature Painter Pro](https://miniaturepainterpro.app/)
-Miniature Painter Pro is for created for all your miniature painting joys. This tool has been developed to aid miniature painters in their quest for the perfect paint color. Use the color picker, save your paints in a palette, compare paints across brands and find complementary colors. When colors are missing from your own supply, you can compare them cross-brand or even mix them with existing paints you own.
-
-FEATURES
-- pick colors from images and/or photos
-- organise paints in your own palettes
-- compare colors cross-brand (20+ brands now available)
-- mix colors from your own paint supply
-- easily find complementary colors in different triads
-- updated regularly
-
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="logos/Android.png" height="50" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="logos/iOS.png" height="50" /></a>
-</p>
-
-
