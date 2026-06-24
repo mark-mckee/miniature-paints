@@ -1,6 +1,19 @@
 # Mr Hobby
 ![MrHobby](../logos/MrHobby.png "MrHobby")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 ||UG1|Mr Color Gundam Color|241|247|250|![#F1F7FA](https://placehold.co/15x15/F1F7FA/F1F7FA.png) `#F1F7FA`|

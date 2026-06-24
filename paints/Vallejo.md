@@ -1,6 +1,19 @@
 # Vallejo
 ![Vallejo](../logos/Vallejo.png "Vallejo")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |3B Russian Green|71.281|Model Air|71|73|70|![#474946](https://placehold.co/15x15/474946/474946.png) `#474946`|

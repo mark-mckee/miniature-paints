@@ -10,6 +10,10 @@ Feel free to use or improve any of these paints in your own personal projects. A
 
 [To Do file is here](TODO.md)
 
+## JSON
+
+I have added a single JSON file that contains all brands and paints. This file will be built every time I update the paints in the MD files. 
+
 ## Paints by brand
 
 <!-- START -->

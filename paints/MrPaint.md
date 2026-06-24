@@ -1,6 +1,19 @@
 # Mr Paint
 ![MrPaint](../logos/MrPaint.png "MrPaint")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |4bo - 1941 Russian Green|MRP-A034|Mr Paint - Aqua Colors|69|64|34|![#454022](https://placehold.co/15x15/454022/454022.png) `#454022`|

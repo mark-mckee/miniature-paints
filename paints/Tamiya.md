@@ -1,6 +1,19 @@
 # Tamiya
 ![Tamiya](../logos/Tamiya.png "Tamiya")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Acrylic thinner|X-20A|Acrylics Mini Gloss|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|

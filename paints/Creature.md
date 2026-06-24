@@ -1,6 +1,19 @@
 # Creature
 ![Creature](../logos/Creature.png "Creature")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Black|MPA-053|Monument Pro Acryl Transparent|9|7|11|![#09070B](https://placehold.co/15x15/09070B/09070B.png) `#09070B`|

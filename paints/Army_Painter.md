@@ -1,6 +1,19 @@
 # Army Painter
 ![Army_Painter](../logos/Army_Painter.png "Army_Painter")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Abomination Gore|WP1401|Warpaints|163|47|38|![#A32F26](https://placehold.co/15x15/A32F26/A32F26.png) `#A32F26`|

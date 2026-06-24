@@ -1,6 +1,19 @@
 # Revell
 ![Revell](../logos/Revell.png "Revell")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|
 |Africa Brown|Email Color - Matt|212|156|97|![#D49C61](https://placehold.co/15x15/D49C61/D49C61.png) `#D49C61`|

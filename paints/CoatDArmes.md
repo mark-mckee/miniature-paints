@@ -1,6 +1,19 @@
 # Coat D Armes
 ![CoatDArmes](../logos/CoatDArmes.png "CoatDArmes")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Amethest Purple|160|Fantasy Range|103|90|146|![#675A92](https://placehold.co/15x15/675A92/675A92.png) `#675A92`|

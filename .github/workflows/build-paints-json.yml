@@ -1,0 +1,40 @@
+name: Build paints.json
+
+# Regenerate paints.json whenever a brand markdown file (or the build script)
+# changes on main, and commit the result back. The bot commit only touches
+# paints.json, which is not in the trigger paths, so it will not re-run.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'paints/**.md'
+      - 'scripts/build_paints.py'
+      - '.github/workflows/build-paints-json.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Build paints.json
+        run: python scripts/build_paints.py
+
+      - name: Commit paints.json if it changed
+        run: |
+          if [ -n "$(git status --porcelain paints.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add paints.json
+            git commit -m "Auto-build paints.json [skip ci]"
+            git push
+          else
+            echo "paints.json already up to date — nothing to commit."
+          fi

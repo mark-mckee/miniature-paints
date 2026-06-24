@@ -1,6 +1,19 @@
 # Golden
 ![Golden](../logos/Golden.png "Golden")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Alizarin Crimson Hue|7450|OPEN Acrylics|153|64|63|![#99403F](https://placehold.co/15x15/99403F/99403F.png) `#99403F`|

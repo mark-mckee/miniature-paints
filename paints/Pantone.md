@@ -1,6 +1,19 @@
 # Pantone
 ![Pantone](../logos/Pantone.png "Pantone")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|
 |100 C|Pantone Coated|246|235|97|![#F6EB61](https://placehold.co/15x15/F6EB61/F6EB61.png) `#F6EB61`|

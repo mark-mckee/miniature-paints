@@ -1,6 +1,19 @@
 # Mission Models
 ![MissionModels](../logos/MissionModels.png "MissionModels")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Aircraft Grey Gloss FS 16473|MMP-102|Mission Models|175|176|181|![#AFB0B5](https://placehold.co/15x15/AFB0B5/AFB0B5.png) `#AFB0B5`|

@@ -1,6 +1,19 @@
 # Kimera Kolors
 ![KimeraKolors](../logos/KimeraKolors.png "KimeraKolors")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Alizarin Crimson|PR 179|Kimera Kolors Expansion Set 1|98|25|47|![#62192F](https://placehold.co/15x15/62192F/62192F.png) `#62192F`|

@@ -1,6 +1,19 @@
 # AK
 ![AK](../logos/AK.png "AK")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |3b Au Basic Protector|AK749|General|59|64|57|![#3B4039](https://placehold.co/15x15/3B4039/3B4039.png) `#3B4039`|

@@ -1,6 +1,19 @@
 # Monument
 ![Monument](../logos/Monument.png "Monument")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |AdeptiCon Spray-Team Bright Shadow Flesh|S41|Monument Pro Acrylic Primer|247|155|125|![#F79B7D](https://placehold.co/15x15/F79B7D/F79B7D.png) `#F79B7D`|

@@ -1,6 +1,19 @@
 # Folk Art
 ![FolkArt](../logos/FolkArt.png "FolkArt")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |14K Gold|2965|Multi-Surface Metallic Acrylics|203|173|113|![#CBAD71](https://placehold.co/15x15/CBAD71/CBAD71.png) `#CBAD71`|

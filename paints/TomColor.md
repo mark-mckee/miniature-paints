@@ -1,6 +1,19 @@
 # Tom Color
 ![TomColor](../logos/TomColor.png "TomColor")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |4bo Green|TC-0146|Tom Colors|67|72|31|![#43481F](https://placehold.co/15x15/43481F/43481F.png) `#43481F`|

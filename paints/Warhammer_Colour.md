@@ -1,6 +1,19 @@
 # Warhammer Colour
 ![Warhammer_Colour](../logos/Warhammer_Colour.png "Warhammer_Colour")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|
 |'Ardcoat|Technical|249|249|249|![#F9F9F9](https://placehold.co/15x15/F9F9F9/F9F9F9.png) `#F9F9F9`|

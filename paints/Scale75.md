@@ -1,6 +1,19 @@
 # Scale75
 ![Scale75](../logos/Scale75.png "Scale75")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|
 |Abyssal Blue|Scale Color Range|41|42|47|![#292A2F](https://placehold.co/15x15/292A2F/292A2F.png) `#292A2F`|

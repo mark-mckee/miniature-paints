@@ -1,6 +1,19 @@
 # Liquitex
 ![Liquitex](../logos/Liquitex.png "Liquitex")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Alizarin Crimson Hue Permanent|116|Liquitex Heavy Body Acrylix|252|254|253|![#FCFEFD](https://placehold.co/15x15/FCFEFD/FCFEFD.png) `#FCFEFD`|

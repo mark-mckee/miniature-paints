@@ -1,6 +1,19 @@
 # RAL
 ![RAL](../logos/RAL.png "RAL")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Agate grey|7038|RAL Color System|186|189|186|![#BABDBA](https://placehold.co/15x15/BABDBA/BABDBA.png) `#BABDBA`|

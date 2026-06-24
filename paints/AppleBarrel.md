@@ -1,6 +1,19 @@
 # Apple Barrel
 ![AppleBarrel](../logos/AppleBarrel.png "AppleBarrel")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Acapulco|21972E|Multi-Surface Satin Acrylic Paints|104|170|168|![#68AAA8](https://placehold.co/15x15/68AAA8/68AAA8.png) `#68AAA8`|

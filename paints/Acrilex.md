@@ -1,6 +1,19 @@
 # Acrilex
 ![Acrilex](../logos/Acrilex.png "Acrilex")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Acqua Marina|803|Acrilex Paints|129|200|209|![#81C8D1](https://placehold.co/15x15/81C8D1/81C8D1.png) `#81C8D1`|

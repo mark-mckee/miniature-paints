@@ -1,6 +1,19 @@
 # Foundry
 ![Foundry](../logos/Foundry.png "Foundry")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |African Flesh|126B|Foundry Paint System|115|72|79|![#73484F](https://placehold.co/15x15/73484F/73484F.png) `#73484F`|

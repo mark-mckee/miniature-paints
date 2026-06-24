@@ -5,8 +5,16 @@
   "brands": {
     "AK": {
       "displayName": "AK",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 892,
       "paints": [
         {
@@ -10717,8 +10725,16 @@
     },
     "AKRC": {
       "displayName": "A K R C",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 432,
       "paints": [
         {
@@ -15909,8 +15925,16 @@
     },
     "Acrilex": {
       "displayName": "Acrilex",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 95,
       "paints": [
         {
@@ -17057,8 +17081,16 @@
     },
     "AppleBarrel": {
       "displayName": "Apple Barrel",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 213,
       "paints": [
         {
@@ -19621,8 +19653,16 @@
     },
     "Army_Painter": {
       "displayName": "Army Painter",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 704,
       "paints": [
         {
@@ -28077,8 +28117,16 @@
     },
     "Arteza": {
       "displayName": "Arteza",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 96,
       "paints": [
         {
@@ -29237,8 +29285,16 @@
     },
     "CoatDArmes": {
       "displayName": "Coat D Armes",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 157,
       "paints": [
         {
@@ -31129,8 +31185,16 @@
     },
     "Creature": {
       "displayName": "Creature",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 53,
       "paints": [
         {
@@ -31773,8 +31837,16 @@
     },
     "Duncan": {
       "displayName": "Duncan",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 180,
       "paints": [
         {
@@ -33941,8 +34013,16 @@
     },
     "FolkArt": {
       "displayName": "Folk Art",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 436,
       "paints": [
         {
@@ -39181,8 +39261,16 @@
     },
     "Foundry": {
       "displayName": "Foundry",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 360,
       "paints": [
         {
@@ -43509,8 +43597,16 @@
     },
     "Golden": {
       "displayName": "Golden",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 346,
       "paints": [
         {
@@ -47669,8 +47765,16 @@
     },
     "GreenStuffWorld": {
       "displayName": "Green Stuff World",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 220,
       "paints": [
         {
@@ -50317,8 +50421,16 @@
     },
     "Humbrol": {
       "displayName": "Humbrol",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 115,
       "paints": [
         {
@@ -51705,8 +51817,16 @@
     },
     "Italeri": {
       "displayName": "Italeri",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 100,
       "paints": [
         {
@@ -52913,8 +53033,16 @@
     },
     "KimeraKolors": {
       "displayName": "Kimera Kolors",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 39,
       "paints": [
         {
@@ -53389,8 +53517,16 @@
     },
     "Liquitex": {
       "displayName": "Liquitex",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 105,
       "paints": [
         {
@@ -54657,8 +54793,16 @@
     },
     "Mig": {
       "displayName": "Mig",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "info@ammo.es",
+      "website": "",
+      "phone": "",
       "paintCount": 473,
       "paints": [
         {
@@ -60341,8 +60485,16 @@
     },
     "MissionModels": {
       "displayName": "Mission Models",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 202,
       "paints": [
         {
@@ -62773,8 +62925,16 @@
     },
     "Monument": {
       "displayName": "Monument",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 131,
       "paints": [
         {
@@ -64353,8 +64513,16 @@
     },
     "MrHobby": {
       "displayName": "Mr Hobby",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 669,
       "paints": [
         {
@@ -72389,8 +72557,16 @@
     },
     "MrPaint": {
       "displayName": "Mr Paint",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 568,
       "paints": [
         {
@@ -79213,8 +79389,16 @@
     },
     "P3": {
       "displayName": "P3",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 131,
       "paints": [
         {
@@ -80793,8 +80977,16 @@
     },
     "Pantone": {
       "displayName": "Pantone",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 1341,
       "paints": [
         {
@@ -96893,8 +97085,16 @@
     },
     "RAL": {
       "displayName": "RAL",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 193,
       "paints": [
         {
@@ -99217,8 +99417,16 @@
     },
     "Reaper": {
       "displayName": "Reaper",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 438,
       "paints": [
         {
@@ -104481,8 +104689,16 @@
     },
     "Revell": {
       "displayName": "Revell",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 88,
       "paints": [
         {
@@ -105545,8 +105761,16 @@
     },
     "Scale75": {
       "displayName": "Scale75",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 358,
       "paints": [
         {
@@ -109849,8 +110073,16 @@
     },
     "Tamiya": {
       "displayName": "Tamiya",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 320,
       "paints": [
         {
@@ -113697,8 +113929,16 @@
     },
     "TomColor": {
       "displayName": "Tom Color",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 271,
       "paints": [
         {
@@ -116957,8 +117197,16 @@
     },
     "TurboDork": {
       "displayName": "Turbo Dork",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 40,
       "paints": [
         {
@@ -117445,8 +117693,16 @@
     },
     "Vallejo": {
       "displayName": "Vallejo",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 1268,
       "paints": [
         {
@@ -132669,8 +132925,16 @@
     },
     "Warcolours": {
       "displayName": "Warcolours",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 178,
       "paints": [
         {
@@ -134813,8 +135077,16 @@
     },
     "Warhammer_Colour": {
       "displayName": "Warhammer Colour",
-      "address": {},
+      "company": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      },
       "contactEmail": "",
+      "website": "",
+      "phone": "",
       "paintCount": 457,
       "paints": [
         {

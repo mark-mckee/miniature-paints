@@ -1,6 +1,19 @@
 # Green Stuff World
 ![GreenStuffWorld](../logos/GreenStuffWorld.png "GreenStuffWorld")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|
 |Abyss Blue|Acrylic Colors|0|19|75|![#00134B](https://placehold.co/15x15/00134B/00134B.png) `#00134B`|

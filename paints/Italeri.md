@@ -1,6 +1,19 @@
 # Italeri
 ![Italeri](../logos/Italeri.png "Italeri")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Aluminium|4677AP|Italeri Acrylic Paint|137|140|133|![#898C85](https://placehold.co/15x15/898C85/898C85.png) `#898C85`|

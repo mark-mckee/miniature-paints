@@ -1,6 +1,19 @@
 # Reaper
 ![Reaper](../logos/Reaper.png "Reaper")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Adamantine|89556|Master Series Paints Pathfinder|144|134|125|![#90867D](https://placehold.co/15x15/90867D/90867D.png) `#90867D`|

@@ -1,6 +1,19 @@
 # A K R C
 ![AKRC](../logos/AKRC.png "AKRC")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |A-14 Interior Steel Grey 10ml|RC319|Real Colors - Air|100|113|119|![#647177](https://placehold.co/15x15/647177/647177.png) `#647177`|

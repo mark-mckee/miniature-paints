@@ -1,6 +1,19 @@
 # Duncan
 ![Duncan](../logos/Duncan.png "Duncan")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|
 |Abyss Blue|Wave 2|51|74|102|![#334A66](https://placehold.co/15x15/334A66/334A66.png) `#334A66`|

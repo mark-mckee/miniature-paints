@@ -1,6 +1,19 @@
 # Warcolours
 ![Warcolours](../logos/Warcolours.png "Warcolours")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|
 |Black|Layer paints|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|

@@ -1,6 +1,19 @@
 # Arteza
 ![Arteza](../logos/Arteza.png "Arteza")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Aztec Gold|A201|Acrylic Pearl Paints|205|139|69|![#CD8B45](https://placehold.co/15x15/CD8B45/CD8B45.png) `#CD8B45`|

@@ -1,6 +1,19 @@
 # Mig
 ![Mig](../logos/Mig.png "Mig")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email | info@ammo.es |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 | Sand Yellow|AMIG0030|Acrylics|216|166|79|![#D8A64F](https://placehold.co/15x15/D8A64F/D8A64F.png) `#D8A64F`|

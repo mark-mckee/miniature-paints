@@ -1,6 +1,19 @@
 # Humbrol
 ![Humbrol](../logos/Humbrol.png "Humbrol")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
 |Aluminium|56|Humbrol Acrylics - Metallics|202|209|215|![#CAD1D7](https://placehold.co/15x15/CAD1D7/CAD1D7.png) `#CAD1D7`|

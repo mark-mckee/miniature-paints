@@ -1,6 +1,19 @@
 # Turbo Dork
 ![TurboDork](../logos/TurboDork.png "TurboDork")
 
+## Brand Details
+
+| Field | Value |
+| --- | --- |
+| Company |  |
+| Address |  |
+| City |  |
+| Postcode |  |
+| Country |  |
+| Email |  |
+| Website |  |
+| Phone |  |
+
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|
 |Absinthe|Turbo Dork|64|195|133|![#40C385](https://placehold.co/15x15/40C385/40C385.png) `#40C385`|
