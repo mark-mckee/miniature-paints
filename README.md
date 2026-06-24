@@ -1,8 +1,5 @@
 # Name, Set, RGB, and Hex values of Miniature Paints
 
-<p align="center"><a href="https://miniaturepainterpro.app/"> <img src="logos/logo_rnd.png" height="200" /></a>
-</p>
-
 List of miniature paints forked from Arcturus5404/miniature-paints. Original paint list scraped by Arcturus5404 from [Miniature Painter Pro](https://miniaturepainterpro.app/) team. This fork is updated and maintained by me. 
 
 Feel free to use or improve any of these paints in your own personal projects. Also feel free to submit PR's
