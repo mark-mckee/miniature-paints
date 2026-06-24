@@ -1,3 +1,51 @@
 # TODO
 
 - [ ] Update all paint sets to match the 2026 product catalogues from all brands.
+  - [ ] AK
+  - [ ] AKRC
+  - [ ] Acrilex
+  - [ ] Apple Barrel
+  - [ ] Army Painter
+  - [ ] Arteza
+  - [ ] Coat D'Armes
+  - [ ] Creature Caster
+  - [ ] Duncan Rhodes
+  - [ ] Golden
+  - [ ] Green Stuff World
+  - [ ] Humbrol
+  - [ ] Italeri
+  - [ ] Kimera Kolors
+  - [ ] Liquitex
+  - [ ] Mig
+    - [X] ATOM
+    - [ ] Rail Center
+    - [ ] Weathering
+    - [ ] Cobra Motor Paints
+    - [ ] Shader
+    - [ ] Wargaming Universe
+    - [ ] Modelling Pigment
+    - [ ] A-Stand
+    - [ ] Thinners & Cleaners
+    - [ ] Primers
+    - [ ] Drybrush
+    - [ ] Filters
+    - [ ] Washes
+    - [ ] Panel Lines
+    - [ ] Pigments
+    - [ ] Review the addition of Textures, Decals, Putties and more. Are they worth adding to this list?
+  - [ ] Mission Models
+  - [ ] Monument Hobbies
+  - [ ] Mr Hobby
+  - [ ] Mr Paint
+  - [ ] P3
+  - [ ] Pantone
+  - [ ] RAL
+  - [ ] Reaper
+  - [ ] Revell
+  - [ ] Scale75
+  - [ ] Tamiya
+  - [ ] Tom Color
+  - [ ] Turbo Dork
+  - [ ] Vallejo
+  - [ ] Warcolours
+  - [ ] Warhammer Colour
