@@ -9,6 +9,10 @@ Feel free to use or improve any of these paints in your own personal projects. A
 
 **NOTE: I am not affiliated in any way with the [Miniature Painter Pro](https://miniaturepainterpro.app/) team or app**
 
+## To Do
+[] Add product numbers to all paint sets where possible.
+[] Update all paint sets to match the 2026 product catalogues from all brands. 
+
 ## Paints by brand
 
 <!-- START -->
