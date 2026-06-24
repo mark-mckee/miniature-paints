@@ -10,6 +10,7 @@
 |7k Russian Tan|AMIG0021|Acrylics|112|96|62|![#70603E](https://placehold.co/15x15/70603E/70603E.png) `#70603E`|
 |Afrika Korps Wash|AMIG1001|Washes|50|42|29|![#322A1D](https://placehold.co/15x15/322A1D/322A1D.png) `#322A1D`|
 |Air Superiority Blue|ATOM-20121|ATOM|158|205|219|![#9ECDDB](https://placehold.co/15x15/9ECDDB/9ECDDB.png) `#9ECDDB`|
+|Aluminium|AMMO.R-0008|Rail Center|189|188|189|![#BDBCBD](https://placehold.co/15x15/BDBCBD/BDBCBD.png) `#BDBCBD`|
 |Aluminum|ATOM-20165|ATOM|225|223|223|![#E1DFDF](https://placehold.co/15x15/E1DFDF/E1DFDF.png) `#E1DFDF`|
 |Amethyst|ATOM-20152|ATOM|170|89|159|![#AA599F](https://placehold.co/15x15/AA599F/AA599F.png) `#AA599F`|
 |Aotake Blue|ATOM-20176|ATOM|83|134|196|![#5386C4](https://placehold.co/15x15/5386C4/5386C4.png) `#5386C4`|
@@ -34,7 +35,9 @@
 |Blue Wash For Panzer Grey|AMIG1006|Washes|31|36|42|![#1F242A](https://placehold.co/15x15/1F242A/1F242A.png) `#1F242A`|
 |Bluish Grey|ATOM-20104|ATOM|72|81|107|![#48516B](https://placehold.co/15x15/48516B/48516B.png) `#48516B`|
 |Bluish Titanium|AMIG0193|Acrylics|97|145|133|![#619185](https://placehold.co/15x15/619185/619185.png) `#619185`|
+|Boiler Brown|AMMO.R-0023|Rail Center|110|56|43|![#6E382B](https://placehold.co/15x15/6E382B/6E382B.png) `#6E382B`|
 |Bone|AMIG0122|Acrylics|237|238|220|![#EDEEDC](https://placehold.co/15x15/EDEEDC/EDEEDC.png) `#EDEEDC`|
+|Boxcar Brown|AMMO.R-0031|Rail Center|167|48|32|![#A73020](https://placehold.co/15x15/A73020/A73020.png) `#A73020`|
 |Brass|AMIG0197|Acrylics|183|136|28|![#B7881C](https://placehold.co/15x15/B7881C/B7881C.png) `#B7881C`|
 |Brass|ATOM-20173|ATOM|194|165|126|![#C2A57E](https://placehold.co/15x15/C2A57E/C2A57E.png) `#C2A57E`|
 |Braunviolett RLM 81|ATOM-20059|ATOM|137|78|75|![#894E4B](https://placehold.co/15x15/894E4B/894E4B.png) `#894E4B`|
@@ -46,10 +49,12 @@
 |Brown|ATOM-20057|ATOM|103|59|41|![#673B29](https://placehold.co/15x15/673B29/673B29.png) `#673B29`|
 |Brown Soil|AMIG0076|Acrylics|110|73|57|![#6E4939](https://placehold.co/15x15/6E4939/6E4939.png) `#6E4939`|
 |Brown Wash For German Dark Yellow|AMIG1000|Washes|66|50|34|![#423222](https://placehold.co/15x15/423222/423222.png) `#423222`|
+|Buff|AMMO.R-0028|Rail Center|190|187|148|![#BEBB94](https://placehold.co/15x15/BEBB94/BEBB94.png) `#BEBB94`|
 |Burnt Brown|ATOM-20056|ATOM|73|42|0|![#492A00](https://placehold.co/15x15/492A00/492A00.png) `#492A00`|
 |Burnt Brown Red|AMIG0134|Acrylics|53|32|5|![#352005](https://placehold.co/15x15/352005/352005.png) `#352005`|
 |Burnt Iron|ATOM-20169|ATOM|85|62|48|![#553E30](https://placehold.co/15x15/553E30/553E30.png) `#553E30`|
 |Burnt Sand|AMIG0118|Acrylics|126|90|58|![#7E5A3A](https://placehold.co/15x15/7E5A3A/7E5A3A.png) `#7E5A3A`|
+|Caboose Red|AMMO.R-0007|Rail Center|221|65|71|![#DD4147](https://placehold.co/15x15/DD4147/DD4147.png) `#DD4147`|
 |Carmine|ATOM-20032|ATOM|192|39|24|![#C02718](https://placehold.co/15x15/C02718/C02718.png) `#C02718`|
 |Chipping|AMIG0044|Acrylics|38|14|14|![#260E0E](https://placehold.co/15x15/260E0E/260E0E.png) `#260E0E`|
 |Chipping|ATOM-20064|ATOM|47|7|7|![#2F0707](https://placehold.co/15x15/2F0707/2F0707.png) `#2F0707`|
@@ -59,9 +64,11 @@
 |Coffee Brown|ATOM-20060|ATOM|105|66|60|![#69423C](https://placehold.co/15x15/69423C/69423C.png) `#69423C`|
 |Cold Gray|AMIG0119|Acrylics|211|211|211|![#D3D3D3](https://placehold.co/15x15/D3D3D3/D3D3D3.png) `#D3D3D3`|
 |Cold Gray|ATOM-20123|ATOM|223|222|221|![#DFDEDD](https://placehold.co/15x15/DFDEDD/DFDEDD.png) `#DFDEDD`|
+|Concrete|AMMO.R-0026|Rail Center|149|151|152|![#959798](https://placehold.co/15x15/959798/959798.png) `#959798`|
 |Copper|AMIG0199|Acrylics|201|74|93|![#C94A5D](https://placehold.co/15x15/C94A5D/C94A5D.png) `#C94A5D`|
 |Copper|ATOM-20170|ATOM|215|94|31|![#D75E1F](https://placehold.co/15x15/D75E1F/D75E1F.png) `#D75E1F`|
 |Coral Pink|ATOM-20035|ATOM|202|21|25|![#CA1519](https://placehold.co/15x15/CA1519/CA1519.png) `#CA1519`|
+|Cream|AMMO.R-0040|Rail Center|242|236|198|![#F2ECC6](https://placehold.co/15x15/F2ECC6/F2ECC6.png) `#F2ECC6`|
 |Cremeweiss RAL 9001|ATOM-20002|ATOM|245|241|200|![#F5F1C8](https://placehold.co/15x15/F5F1C8/F5F1C8.png) `#F5F1C8`|
 |Crystal Black Blue|AMIG0099|Acrylics|2|35|52|![#022334](https://placehold.co/15x15/022334/022334.png) `#022334`|
 |Crystal Glass|AMIG0094|Acrylics|167|167|167|![#A7A7A7](https://placehold.co/15x15/A7A7A7/A7A7A7.png) `#A7A7A7`|
@@ -73,22 +80,27 @@
 |Crystal Smoke|AMIG0095|Acrylics|19|30|24|![#131E18](https://placehold.co/15x15/131E18/131E18.png) `#131E18`|
 |Cyan|AMIG0128|Acrylics|36|149|251|![#2495FB](https://placehold.co/15x15/2495FB/2495FB.png) `#2495FB`|
 |Cyan|ATOM-20111|ATOM|114|199|228|![#72C7E4](https://placehold.co/15x15/72C7E4/72C7E4.png) `#72C7E4`|
+|Dark Blues|AMMO.R-0020|Rail Center|53|62|97|![#353E61](https://placehold.co/15x15/353E61/353E61.png) `#353E61`|
 |Dark Brown Wash For Green Vehicles|AMIG1005|Washes|29|14|11|![#1D0E0B](https://placehold.co/15x15/1D0E0B/1D0E0B.png) `#1D0E0B`|
 |Dark Ghost Gray|ATOM-20133|ATOM|134|135|134|![#868786](https://placehold.co/15x15/868786/868786.png) `#868786`|
 |Dark Green|ATOM-20092|ATOM|0|73|46|![#00492E](https://placehold.co/15x15/00492E/00492E.png) `#00492E`|
 |Dark Green (bs 241)|AMIG0915|Acrylics|69|83|48|![#455330](https://placehold.co/15x15/455330/455330.png) `#455330`|
 |Dark Grey|ATOM-20146|ATOM|107|110|119|![#6B6E77](https://placehold.co/15x15/6B6E77/6B6E77.png) `#6B6E77`|
+|Dark Grey|AMMO.R-0005|Rail Center|51|48|62|![#33303E](https://placehold.co/15x15/33303E/33303E.png) `#33303E`|
 |Dark Nude Pink|ATOM-20037|ATOM|203|144|146|![#CB9092](https://placehold.co/15x15/CB9092/CB9092.png) `#CB9092`|
 |Dark Olive Drab|ATOM-20065|ATOM|74|66|28|![#4A421C](https://placehold.co/15x15/4A421C/4A421C.png) `#4A421C`|
 |Dark Olive Green|ATOM-20072|ATOM|108|105|9|![#6C6909](https://placehold.co/15x15/6C6909/6C6909.png) `#6C6909`|
 |Dark Rust|AMIG0041|Acrylics|137|59|36|![#893B24](https://placehold.co/15x15/893B24/893B24.png) `#893B24`|
 |Dark Rust|ATOM-20047|ATOM|153|41|8|![#992908](https://placehold.co/15x15/992908/992908.png) `#992908`|
+|Dark Rust|AMMO.R-0033|Rail Center|163|62|52|![#A33E34](https://placehold.co/15x15/A33E34/A33E34.png) `#A33E34`|
 |Dark Tracks|AMIG0035|Acrylics|19|7|7|![#130707](https://placehold.co/15x15/130707/130707.png) `#130707`|
 |Dark Wash|AMIG1008|Washes|23|19|16|![#171310](https://placehold.co/15x15/171310/171310.png) `#171310`|
 |Dark Wood|ATOM-20050|ATOM|124|95|61|![#7C5F3D](https://placehold.co/15x15/7C5F3D/7C5F3D.png) `#7C5F3D`|
+|Deep Blue Livery|AMMO.R-0038|Rail Center|8|92|150|![#085C96](https://placehold.co/15x15/085C96/085C96.png) `#085C96`|
 |Deep Cyan|ATOM-20109|ATOM|0|163|228|![#00A3E4](https://placehold.co/15x15/00A3E4/00A3E4.png) `#00A3E4`|
 |Deep Green|AMIG0052|Acrylics|11|86|45|![#0B562D](https://placehold.co/15x15/0B562D/0B562D.png) `#0B562D`|
 |Deep Green|ATOM-20098|ATOM|15|50|43|![#0F322B](https://placehold.co/15x15/0F322B/0F322B.png) `#0F322B`|
+|Deep Green|AMMO.R-0014|Rail Center|56|108|81|![#386C51](https://placehold.co/15x15/386C51/386C51.png) `#386C51`|
 |Desert Sand|ATOM-20007|ATOM|215|186|130|![#D7BA82](https://placehold.co/15x15/D7BA82/D7BA82.png) `#D7BA82`|
 |Desert Yellow|AMIG0138|Acrylics|184|153|109|![#B8996D](https://placehold.co/15x15/B8996D/B8996D.png) `#B8996D`|
 |Duck Blue|ATOM-20117|ATOM|0|124|155|![#007C9B](https://placehold.co/15x15/007C9B/007C9B.png) `#007C9B`|
@@ -116,6 +128,7 @@
 |Earth|ATOM-20051|ATOM|144|99|61|![#90633D](https://placehold.co/15x15/90633D/90633D.png) `#90633D`|
 |Earth Brown|AMIG0064|Acrylics|129|68|40|![#814428](https://placehold.co/15x15/814428/814428.png) `#814428`|
 |Earth Brown|ATOM-20052|ATOM|166|77|40|![#A64D28](https://placehold.co/15x15/A64D28/A64D28.png) `#A64D28`|
+|Engine Black|AMMO.R-0002|Rail Center|28|23|23|![#1C1717](https://placehold.co/15x15/1C1717/1C1717.png) `#1C1717`|
 |Faded Green|ATOM-20085|ATOM|176|205|134|![#B0CD86](https://placehold.co/15x15/B0CD86/B0CD86.png) `#B0CD86`|
 |Faded Sinai Grey|AMIG0066|Acrylics|115|108|90|![#736C5A](https://placehold.co/15x15/736C5A/736C5A.png) `#736C5A`|
 |Faded Yellow|AMIG0130|Acrylics|216|205|115|![#D8CD73](https://placehold.co/15x15/D8CD73/D8CD73.png) `#D8CD73`|
@@ -124,6 +137,7 @@
 |Field Grey|ATOM-20080|ATOM|99|122|101|![#637A65](https://placehold.co/15x15/637A65/637A65.png) `#637A65`|
 |Forest Green|AMIG0065|Acrylics|56|69|39|![#384527](https://placehold.co/15x15/384527/384527.png) `#384527`|
 |Forest Green|ATOM-20093|ATOM|0|91|54|![#005B36](https://placehold.co/15x15/005B36/005B36.png) `#005B36`|
+|Freight Red|AMMO.R-0025|Rail Center|164|58|32|![#A43A20](https://placehold.co/15x15/A43A20/A43A20.png) `#A43A20`|
 |French Blue|AMIG0062|Acrylics|68|83|102|![#445366](https://placehold.co/15x15/445366/445366.png) `#445366`|
 |French Blue|ATOM-20105|ATOM|0|108|123|![#006C7B](https://placehold.co/15x15/006C7B/006C7B.png) `#006C7B`|
 |Fs 15102 Dark Gray Blue|AMIG0229|Acrylics|36|137|189|![#2489BD](https://placehold.co/15x15/2489BD/2489BD.png) `#2489BD`|
@@ -181,11 +195,13 @@
 |Grey Brown Amt-1|AMIG0252|Acrylics|130|123|113|![#827B71](https://placehold.co/15x15/827B71/827B71.png) `#827B71`|
 |Grey High Light|AMIG0910|Acrylics|125|128|135|![#7D8087](https://placehold.co/15x15/7D8087/7D8087.png) `#7D8087`|
 |Grey Shine|AMIG0911|Acrylics|162|165|172|![#A2A5AC](https://placehold.co/15x15/A2A5AC/A2A5AC.png) `#A2A5AC`|
+|Grimy Brown|AMMO.R-0041|Rail Center|72|40|31|![#48281F](https://placehold.co/15x15/48281F/48281F.png) `#48281F`|
 |Gun Metal|AMIG0045|Acrylics|82|80|68|![#525044](https://placehold.co/15x15/525044/525044.png) `#525044`|
 |Gun Metal|ATOM-20167|ATOM|136|135|135|![#888787](https://placehold.co/15x15/888787/888787.png) `#888787`|
 |Hellblau RLM 65|ATOM-20127|ATOM|202|223|229|![#CADFE5](https://placehold.co/15x15/CADFE5/CADFE5.png) `#CADFE5`|
 |Hellblau RLM 78|ATOM-20126|ATOM|136|169|171|![#88A9AB](https://placehold.co/15x15/88A9AB/88A9AB.png) `#88A9AB`|
 |Hellgrün / Chromate Green|ATOM-20075|ATOM|62|95|45|![#3E5F2D](https://placehold.co/15x15/3E5F2D/3E5F2D.png) `#3E5F2D`|
+|Hopper Green|AMMO.R-0013|Rail Center|95|105|93|![#5F695D](https://placehold.co/15x15/5F695D/5F695D.png) `#5F695D`|
 |Idf Green|AMIG0068|Acrylics|86|84|46|![#56542E](https://placehold.co/15x15/56542E/56542E.png) `#56542E`|
 |IDF Sand Grey ´73|ATOM-20008|ATOM|198|177|141|![#C6B18D](https://placehold.co/15x15/C6B18D/C6B18D.png) `#C6B18D`|
 |IJA Grey Green|ATOM-20142|ATOM|172|171|165|![#ACABA5](https://placehold.co/15x15/ACABA5/ACABA5.png) `#ACABA5`|
@@ -196,11 +212,13 @@
 |IJN Mitsubishi Green|ATOM-20095|ATOM|80|125|51|![#507D33](https://placehold.co/15x15/507D33/507D33.png) `#507D33`|
 |IJN Nakajima Dark Green|ATOM-20096|ATOM|0|98|68|![#006244](https://placehold.co/15x15/006244/006244.png) `#006244`|
 |Imperial Red|ATOM-20030|ATOM|237|94|85|![#ED5E55](https://placehold.co/15x15/ED5E55/ED5E55.png) `#ED5E55`|
+|Industrial Grey|AMMO.R-0004|Rail Center|115|117|123|![#73757B](https://placehold.co/15x15/73757B/73757B.png) `#73757B`|
 |Interior Light Green|ATOM-20128|ATOM|143|170|147|![#8FAA93](https://placehold.co/15x15/8FAA93/8FAA93.png) `#8FAA93`|
 |Interior Turquoise Green|AMIG0223|Acrylics|28|131|104|![#1C8368](https://placehold.co/15x15/1C8368/1C8368.png) `#1C8368`|
 |Interiors Wash|AMIG1003|Washes|60|50|41|![#3C3229](https://placehold.co/15x15/3C3229/3C3229.png) `#3C3229`|
 |Intermediate Blue|ATOM-20136|ATOM|89|96|119|![#596077](https://placehold.co/15x15/596077/596077.png) `#596077`|
 |Jade Green|ATOM-20115|ATOM|0|187|174|![#00BBAE](https://placehold.co/15x15/00BBAE/00BBAE.png) `#00BBAE`|
+|Jade Green|AMMO.R-0018|Rail Center|0|158|143|![#009E8F](https://placehold.co/15x15/009E8F/009E8F.png) `#009E8F`|
 |Jet Exhaust Burnt Iron|AMIG0187|Acrylics|62|36|23|![#3E2417](https://placehold.co/15x15/3E2417/3E2417.png) `#3E2417`|
 |Khaki|AMIG0071|Acrylics|115|85|51|![#735533](https://placehold.co/15x15/735533/735533.png) `#735533`|
 |Khaki Brown|AMIG0088|Acrylics|179|146|103|![#B39267](https://placehold.co/15x15/B39267/B39267.png) `#B39267`|
@@ -217,6 +235,9 @@
 |Light Green|AMIG0917|Acrylics|147|175|117|![#93AF75](https://placehold.co/15x15/93AF75/93AF75.png) `#93AF75`|
 |Light Green Khaki|AMIG0058|Acrylics|124|123|77|![#7C7B4D](https://placehold.co/15x15/7C7B4D/7C7B4D.png) `#7C7B4D`|
 |Light Green Khv-553m|AMIG0051|Acrylics|165|187|138|![#A5BB8A](https://placehold.co/15x15/A5BB8A/A5BB8A.png) `#A5BB8A`|
+|Light Green Livery|AMMO.R-0015|Rail Center|72|112|61|![#48703D](https://placehold.co/15x15/48703D/48703D.png) `#48703D`|
+|Light Grey|AMMO.R-0030|Rail Center|205|204|203|![#CDCCCB](https://placehold.co/15x15/CDCCCB/CDCCCB.png) `#CDCCCB`|
+|Light Olive|AMMO.R-0016|Rail Center|101|128|61|![#65803D](https://placehold.co/15x15/65803D/65803D.png) `#65803D`|
 |Light Pink Flesh|ATOM-20040|ATOM|255|228|218|![#FFE4DA](https://placehold.co/15x15/FFE4DA/FFE4DA.png) `#FFE4DA`|
 |Light Plum|ATOM-20154|ATOM|203|136|186|![#CB88BA](https://placehold.co/15x15/CB88BA/CB88BA.png) `#CB88BA`|
 |Light Rust|AMIG0039|Acrylics|229|145|11|![#E5910B](https://placehold.co/15x15/E5910B/E5910B.png) `#E5910B`|
@@ -238,8 +259,11 @@
 |Matt White|AMIG0050|Acrylics|252|254|251|![#FCFEFB](https://placehold.co/15x15/FCFEFB/FCFEFB.png) `#FCFEFB`|
 |Matt White|ATOM-20000|ATOM|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
 |Mauve|ATOM-20155|ATOM|153|140|180|![#998CB4](https://placehold.co/15x15/998CB4/998CB4.png) `#998CB4`|
+|Medium Ash Grey|AMMO.R-0032|Rail Center|88|87|93|![#58575D](https://placehold.co/15x15/58575D/58575D.png) `#58575D`|
 |Medium Blue|AMIG0103|Acrylics|41|72|136|![#294888](https://placehold.co/15x15/294888/294888.png) `#294888`|
+|Medium Blue|AMMO.R-0021|Rail Center|10|99|156|![#0A639C](https://placehold.co/15x15/0A639C/0A639C.png) `#0A639C`|
 |Medium Brown Dark Earth (bs 450)|AMIG0070|Acrylics|82|54|40|![#523628](https://placehold.co/15x15/523628/523628.png) `#523628`|
+|Medium Green|AMMO.R-0035|Rail Center|2|96|53|![#026035](https://placehold.co/15x15/026035/026035.png) `#026035`|
 |Medium Rust|AMIG0040|Acrylics|184|84|48|![#B85430](https://placehold.co/15x15/B85430/B85430.png) `#B85430`|
 |Medium Sea Grey (bs 637)|AMIG0246|Acrylics|133|143|145|![#858F91](https://placehold.co/15x15/858F91/858F91.png) `#858F91`|
 |Metallic Black|ATOM-20168|ATOM|15|15|14|![#0F0F0E](https://placehold.co/15x15/0F0F0E/0F0F0E.png) `#0F0F0E`|
@@ -263,6 +287,7 @@
 |Ocean Blue|ATOM-20102|ATOM|33|36|65|![#212441](https://placehold.co/15x15/212441/212441.png) `#212441`|
 |Ocean Grey|ATOM-20137|ATOM|115|129|138|![#73818A](https://placehold.co/15x15/73818A/73818A.png) `#73818A`|
 |Ocean Grey (bs 629)|AMIG0245|Acrylics|98|107|114|![#626B72](https://placehold.co/15x15/626B72/626B72.png) `#626B72`|
+|Ocher Sand|AMMO.R-0027|Rail Center|174|131|81|![#AE8351](https://placehold.co/15x15/AE8351/AE8351.png) `#AE8351`|
 |Ochre|ATOM-20014|ATOM|198|188|153|![#C6BC99](https://placehold.co/15x15/C6BC99/C6BC99.png) `#C6BC99`|
 |Ochre Brown|AMIG0102|Acrylics|158|131|86|![#9E8356](https://placehold.co/15x15/9E8356/9E8356.png) `#9E8356`|
 |Ochre Earth|AMIG0078|Acrylics|194|142|92|![#C28E5C](https://placehold.co/15x15/C28E5C/C28E5C.png) `#C28E5C`|
@@ -290,7 +315,9 @@
 |Orchid|ATOM-20153|ATOM|188|95|154|![#BC5F9A](https://placehold.co/15x15/BC5F9A/BC5F9A.png) `#BC5F9A`|
 |Pacific Green|ATOM-20082|ATOM|153|186|101|![#99BA65](https://placehold.co/15x15/99BA65/99BA65.png) `#99BA65`|
 |Pale Green|AMIG0060|Acrylics|58|99|39|![#3A6327](https://placehold.co/15x15/3A6327/3A6327.png) `#3A6327`|
+|Pale Greenish Grey|AMMO.R-0034|Rail Center|190|185|153|![#BEB999](https://placehold.co/15x15/BEB999/BEB999.png) `#BEB999`|
 |Pale Grey|ATOM-20130|ATOM|178|203|197|![#B2CBC5](https://placehold.co/15x15/B2CBC5/B2CBC5.png) `#B2CBC5`|
+|Passenger Wagon Green|AMMO.R-0019|Rail Center|100|143|112|![#648F70](https://placehold.co/15x15/648F70/648F70.png) `#648F70`|
 |Phtalo Green|ATOM-20094|ATOM|49|91|69|![#315B45](https://placehold.co/15x15/315B45/315B45.png) `#315B45`|
 |Pink Flesh|ATOM-20039|ATOM|255|204|204|![#FFCCCC](https://placehold.co/15x15/FFCCCC/FFCCCC.png) `#FFCCCC`|
 |Pistachio|ATOM-20088|ATOM|203|201|0|![#CBC900](https://placehold.co/15x15/CBC900/CBC900.png) `#CBC900`|
@@ -298,9 +325,11 @@
 |Protective Green|AMIG0023|Acrylics|94|115|59|![#5E733B](https://placehold.co/15x15/5E733B/5E733B.png) `#5E733B`|
 |Protective Mc 1200|AMIG0053|Acrylics|24|52|27|![#18341B](https://placehold.co/15x15/18341B/18341B.png) `#18341B`|
 |Prussian Blue|ATOM-20108|ATOM|49|70|117|![#314675](https://placehold.co/15x15/314675/314675.png) `#314675`|
+|Pullman Green|AMMO.R-0017|Rail Center|60|69|45|![#3C452D](https://placehold.co/15x15/3C452D/3C452D.png) `#3C452D`|
 |Purple|AMIG0127|Acrylics|145|84|164|![#9154A4](https://placehold.co/15x15/9154A4/9154A4.png) `#9154A4`|
 |Purple|ATOM-20151|ATOM|173|96|162|![#AD60A2](https://placehold.co/15x15/AD60A2/AD60A2.png) `#AD60A2`|
 |Putrid Flesh|ATOM-20156|ATOM|164|147|151|![#A49397](https://placehold.co/15x15/A49397/A49397.png) `#A49397`|
+|Rail Brown|AMMO.R-0001|Rail Center|196|87|66|![#C45742](https://placehold.co/15x15/C45742/C45742.png) `#C45742`|
 |RAL 6003 Olivgrün Opt.1|AMIG0001|Acrylics|53|61|38|![#353D26](https://placehold.co/15x15/353D26/353D26.png) `#353D26`|
 |RAL 6003 Olivgrün Opt.2|AMIG0002|Acrylics|78|85|54|![#4E5536](https://placehold.co/15x15/4E5536/4E5536.png) `#4E5536`|
 |RAL 6011 B Resedagrün|AMIG0004|Acrylics|82|93|51|![#525D33](https://placehold.co/15x15/525D33/525D33.png) `#525D33`|
@@ -326,7 +355,9 @@
 |Real Idf Sinai Grey 82|AMIG0131|Acrylics|83|79|42|![#534F2A](https://placehold.co/15x15/534F2A/534F2A.png) `#534F2A`|
 |Red|AMIG0049|Acrylics|189|38|21|![#BD2615](https://placehold.co/15x15/BD2615/BD2615.png) `#BD2615`|
 |Red|ATOM-20029|ATOM|252|31|2|![#FC1F02](https://placehold.co/15x15/FC1F02/FC1F02.png) `#FC1F02`|
+|Red|AMMO.R-0022|Rail Center|214|27|34|![#D61B22](https://placehold.co/15x15/D61B22/D61B22.png) `#D61B22`|
 |Red Brick|ATOM-20053|ATOM|164|67|20|![#A44314](https://placehold.co/15x15/A44314/A44314.png) `#A44314`|
+|Red Brown|AMMO.R-0029|Rail Center|132|40|28|![#84281C](https://placehold.co/15x15/84281C/84281C.png) `#84281C`|
 |Red Brown Base|AMIG0913|Acrylics|107|50|30|![#6B321E](https://placehold.co/15x15/6B321E/6B321E.png) `#6B321E`|
 |Red Brown Light|AMIG0914|Acrylics|158|83|64|![#9E5340](https://placehold.co/15x15/9E5340/9E5340.png) `#9E5340`|
 |Red Brown Shadow|AMIG0912|Acrylics|66|29|20|![#421D14](https://placehold.co/15x15/421D14/421D14.png) `#421D14`|
@@ -338,6 +369,8 @@
 |Red Primer Light Base|AMIG0921|Primers|99|37|12|![#63250C](https://placehold.co/15x15/63250C/63250C.png) `#63250C`|
 |Red Primer Shadow|AMIG0918|Primers|50|24|25|![#321819](https://placehold.co/15x15/321819/321819.png) `#321819`|
 |Reddish Earth|AMIG0139|Acrylics|112|84|70|![#705446](https://placehold.co/15x15/705446/705446.png) `#705446`|
+|Reefer Orange|AMMO.R-0010|Rail Center|240|130|51|![#F08233](https://placehold.co/15x15/F08233/F08233.png) `#F08233`|
+|Reefer Yellow|AMMO.R-0011|Rail Center|235|206|123|![#EBCE7B](https://placehold.co/15x15/EBCE7B/EBCE7B.png) `#EBCE7B`|
 |Resedagrün (RAL 6011)|ATOM-20081|ATOM|94|132|59|![#5E843B](https://placehold.co/15x15/5E843B/5E843B.png) `#5E843B`|
 |RLM 65 Hellblau|AMIG0231|Acrylics|199|219|226|![#C7DBE2](https://placehold.co/15x15/C7DBE2/C7DBE2.png) `#C7DBE2`|
 |RLM 66 Schwartzgrau|AMIG0218|Acrylics|40|43|52|![#282B34](https://placehold.co/15x15/282B34/282B34.png) `#282B34`|
@@ -367,6 +400,7 @@
 |Russian Shadow|AMIG0930|Acrylics|48|48|14|![#30300E](https://placehold.co/15x15/30300E/30300E.png) `#30300E`|
 |Russian Shine|AMIG0935|Acrylics|158|151|109|![#9E976D](https://placehold.co/15x15/9E976D/9E976D.png) `#9E976D`|
 |Rust|ATOM-20045|ATOM|220|96|48|![#DC6030](https://placehold.co/15x15/DC6030/DC6030.png) `#DC6030`|
+|Rust|AMMO.R-0024|Rail Center|204|98|57|![#CC6239](https://placehold.co/15x15/CC6239/CC6239.png) `#CC6239`|
 |Rust Tracks|AMIG0034|Acrylics|56|38|28|![#38261C](https://placehold.co/15x15/38261C/38261C.png) `#38261C`|
 |Sand Grey|ATOM-20011|ATOM|151|134|79|![#97864F](https://placehold.co/15x15/97864F/97864F.png) `#97864F`|
 |Sand Yellow|ATOM-20021|ATOM|235|177|80|![#EBB150](https://placehold.co/15x15/EBB150/EBB150.png) `#EBB150`|
@@ -387,11 +421,15 @@
 |Shadow Grey|ATOM-20148|ATOM|78|75|92|![#4E4B5C](https://placehold.co/15x15/4E4B5C/4E4B5C.png) `#4E4B5C`|
 |Shadow Rust|AMIG0043|Acrylics|51|23|22|![#331716](https://placehold.co/15x15/331716/331716.png) `#331716`|
 |Signal Green|AMIG0054|Acrylics|40|129|45|![#28812D](https://placehold.co/15x15/28812D/28812D.png) `#28812D`|
+|Signal Green|AMMO.R-0036|Rail Center|0|141|61|![#008D3D](https://placehold.co/15x15/008D3D/008D3D.png) `#008D3D`|
+|Signal Red|AMMO.R-0037|Rail Center|217|32|28|![#D9201C](https://placehold.co/15x15/D9201C/D9201C.png) `#D9201C`|
+|Signal Yellow|AMMO.R-0012|Rail Center|251|190|14|![#FBBE0E](https://placehold.co/15x15/FBBE0E/FBBE0E.png) `#FBBE0E`|
 |Silver|AMIG0195|Acrylics|198|209|193|![#C6D1C1](https://placehold.co/15x15/C6D1C1/C6D1C1.png) `#C6D1C1`|
 |Silver|ATOM-20164|ATOM|205|205|206|![#CDCDCE](https://placehold.co/15x15/CDCDCE/CDCDCE.png) `#CDCDCE`|
 |Sinai Grey|ATOM-20070|ATOM|118|109|52|![#766D34](https://placehold.co/15x15/766D34/766D34.png) `#766D34`|
 |Sky Green|ATOM-20140|ATOM|172|192|168|![#ACC0A8](https://placehold.co/15x15/ACC0A8/ACC0A8.png) `#ACC0A8`|
 |Sky Type S (bs 210)|AMIG0243|Acrylics|180|178|153|![#B4B299](https://placehold.co/15x15/B4B299/B4B299.png) `#B4B299`|
+|Sleeper Brown|AMMO.R-0006|Rail Center|104|70|53|![#684635](https://placehold.co/15x15/684635/684635.png) `#684635`|
 |Spanish Green-khaki|AMIG0031|Acrylics|80|71|40|![#504728](https://placehold.co/15x15/504728/504728.png) `#504728`|
 |Starship Wash|AMIG1009|Washes|15|11|10|![#0F0B0A](https://placehold.co/15x15/0F0B0A/0F0B0A.png) `#0F0B0A`|
 |Steel|AMIG0191|Acrylics|183|194|177|![#B7C2B1](https://placehold.co/15x15/B7C2B1/B7C2B1.png) `#B7C2B1`|
@@ -402,6 +440,7 @@
 |Tracks Wash|AMIG1002|Washes|26|18|15|![#1A120F](https://placehold.co/15x15/1A120F/1A120F.png) `#1A120F`|
 |Troll Green|ATOM-20090|ATOM|0|146|64|![#009240](https://placehold.co/15x15/009240/009240.png) `#009240`|
 |Turquoise Green|ATOM-20114|ATOM|0|159|136|![#009F88](https://placehold.co/15x15/009F88/009F88.png) `#009F88`|
+|Tuscan|AMMO.R-0009|Rail Center|123|62|64|![#7B3E40](https://placehold.co/15x15/7B3E40/7B3E40.png) `#7B3E40`|
 |Umber Brown|ATOM-20055|ATOM|138|79|69|![#8A4F45](https://placehold.co/15x15/8A4F45/8A4F45.png) `#8A4F45`|
 |Uniform Blue|ATOM-20107|ATOM|39|112|160|![#2770A0](https://placehold.co/15x15/2770A0/2770A0.png) `#2770A0`|
 |US Desert Tan|ATOM-20009|ATOM|217|179|143|![#D9B38F](https://placehold.co/15x15/D9B38F/D9B38F.png) `#D9B38F`|
@@ -411,6 +450,7 @@
 |Violet|AMIG0126|Acrylics|86|67|156|![#56439C](https://placehold.co/15x15/56439C/56439C.png) `#56439C`|
 |Violet|ATOM-20150|ATOM|92|60|144|![#5C3C90](https://placehold.co/15x15/5C3C90/5C3C90.png) `#5C3C90`|
 |Waffen Ss|AMIG0018|Acrylics|66|104|91|![#42685B](https://placehold.co/15x15/42685B/42685B.png) `#42685B`|
+|Wagon Grey|AMMO.R-0039|Rail Center|162|169|163|![#A2A9A3](https://placehold.co/15x15/A2A9A3/A2A9A3.png) `#A2A9A3`|
 |Warhead Metallic Blue|AMIG0196|Acrylics|35|126|233|![#237EE9](https://placehold.co/15x15/237EE9/237EE9.png) `#237EE9`|
 |Warm Sand-yellow|AMIG0061|Acrylics|215|182|87|![#D7B657](https://placehold.co/15x15/D7B657/D7B657.png) `#D7B657`|
 |Warm Skin|ATOM-20043|ATOM|205|155|127|![#CD9B7F](https://placehold.co/15x15/CD9B7F/CD9B7F.png) `#CD9B7F`|
@@ -425,6 +465,7 @@
 |Washable Sand (RAL 8020)|AMIG0106|Acrylics|192|152|83|![#C09853](https://placehold.co/15x15/C09853/C09853.png) `#C09853`|
 |Washable White|ATOM-20177|ATOM|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
 |Washable White Camo|AMIG0024|Acrylics|250|251|246|![#FAFBF6](https://placehold.co/15x15/FAFBF6/FAFBF6.png) `#FAFBF6`|
+|White|AMMO.R-0003|Rail Center|238|237|237|![#EEEDED](https://placehold.co/15x15/EEEDED/EEEDED.png) `#EEEDED`|
 |Wood|ATOM-20004|ATOM|205|180|149|![#CDB495](https://placehold.co/15x15/CDB495/CDB495.png) `#CDB495`|
 |Xb-518 Zashchitniy Zeleno (russian Postwar Green)|AMIG0083|Acrylics|78|79|48|![#4E4F30](https://placehold.co/15x15/4E4F30/4E4F30.png) `#4E4F30`|
 |Yellow|AMIG0048|Acrylics|235|195|11|![#EBC30B](https://placehold.co/15x15/EBC30B/EBC30B.png) `#EBC30B`|
