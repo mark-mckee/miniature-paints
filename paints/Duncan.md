@@ -5,13 +5,13 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
+| Company | Duncan Rhodes Painting Academy Limited |
+| Address | Unit 24 Wilford Business Park, Ruddington Lane |
+| City | Nottingham |
+| Postcode | NG11 7EP |
+| Country | United Kingdom |
+| Email | contact@duncanrhodes.com |
+| Website | https://www.duncanrhodes.com |
 | Phone |  |
 
 |Name|Set|R|G|B|Hex|

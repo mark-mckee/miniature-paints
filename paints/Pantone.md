@@ -5,13 +5,13 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
+| Company | Pantone LLC |
+| Address | 590 Commerce Boulevard |
+| City | Carlstadt |
+| Postcode | 07072 |
+| Country | United States |
 | Email |  |
-| Website |  |
+| Website | https://www.pantone.com |
 | Phone |  |
 
 |Name|Set|R|G|B|Hex|

@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | Pegaso Models S.r.l. |
+| Address | Via Giovanni XXIII 1/1 |
+| City | Monteriggioni |
+| Postcode | 53035 |
+| Country | Italy |
+| Email | info@pegasomodels.it |
+| Website | https://www.pegasoworld.com |
+| Phone | +39 0577 317110 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

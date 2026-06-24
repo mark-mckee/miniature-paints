@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | Hobby-Q, Inc. (DBA Reaper Miniatures) |
+| Address | 9088 Teasley Ln |
+| City | Denton |
+| Postcode | 76210 |
+| Country | United States |
+| Email | customerservice@reapermini.com |
+| Website | https://www.reapermini.com |
+| Phone | (940) 484-6464 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

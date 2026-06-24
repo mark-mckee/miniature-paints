@@ -5,13 +5,13 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
+| Company | The Army Painter ApS |
+| Address | Niels Bohrs Vej 34 |
+| City | Skanderborg |
+| Postcode | 8660 |
+| Country | Denmark |
+| Email | contact@thearmypainter.com |
+| Website | https://thearmypainter.com |
 | Phone |  |
 
 |Name|Code|Set|R|G|B|Hex|

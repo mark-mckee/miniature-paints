@@ -5,13 +5,13 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
+| Company | Tamiya, Inc. |
+| Address | 3-7 Ondawara, Suruga-ku |
+| City | Shizuoka |
+| Postcode | 422-8610 |
+| Country | Japan |
 | Email |  |
-| Website |  |
+| Website | https://www.tamiya.com/ |
 | Phone |  |
 
 |Name|Code|Set|R|G|B|Hex|

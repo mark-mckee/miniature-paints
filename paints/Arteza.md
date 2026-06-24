@@ -5,13 +5,13 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
+| Company | Plaid Enterprises, Inc. |
+| Address | 3225 Westech Drive |
+| City | Norcross |
+| Postcode | 30092 |
+| Country | USA |
+| Email | help@arteza.com |
+| Website | https://arteza.com |
 | Phone |  |
 
 |Name|Code|Set|R|G|B|Hex|

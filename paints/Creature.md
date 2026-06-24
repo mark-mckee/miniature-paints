@@ -5,13 +5,13 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
+| Company | Creature Caster |
 | Address |  |
 | City |  |
 | Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
+| Country | Canada |
+| Email | support@creaturecaster.com |
+| Website | https://us.creaturecaster.com |
 | Phone |  |
 
 |Name|Code|Set|R|G|B|Hex|

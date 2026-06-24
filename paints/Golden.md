@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | Golden Artist Colors, Inc. |
+| Address | 188 Bell Road |
+| City | New Berlin |
+| Postcode | 13411-9527 |
+| Country | USA |
+| Email | help@goldenpaints.com |
+| Website | https://goldenpaints.com |
+| Phone | 800-959-6543 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

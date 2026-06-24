@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | GREEN STUFF WORLD, S.L. |
+| Address | Calle Chelín, 24 |
+| City | Alicante |
+| Postcode | 03114 |
+| Country | Spain |
+| Email | support@greenstuffworld.com |
+| Website | https://www.greenstuffworld.com |
+| Phone | +34 965 14 51 07 |
 
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|

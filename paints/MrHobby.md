@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
+| Company | GSI Creos Corporation |
+| Address | Shiba 3-8-2, Shiba Park First Building |
+| City | Minato-ku, Tokyo |
+| Postcode | 105-0014 |
+| Country | Japan |
 | Email |  |
-| Website |  |
-| Phone |  |
+| Website | https://www.mr-hobby.com/ |
+| Phone | 03-5418-2124 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

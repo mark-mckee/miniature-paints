@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | Italeri S.p.A. |
+| Address | Via Pradazzo 6/b |
+| City | Calderara di Reno |
+| Postcode | 40012 |
+| Country | Italy |
+| Email | italeri@italeri.com |
+| Website | https://www.italeri.com |
+| Phone | +39 051 3175211 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

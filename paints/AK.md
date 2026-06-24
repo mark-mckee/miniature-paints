@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | AK-INTERACTIVE, S.L. |
+| Address | Calle Valsalado, 2 |
+| City | Logroño |
+| Postcode | 26006 |
+| Country | Spain |
+| Email | info@ak-interactive.com |
+| Website | https://ak-interactive.com |
+| Phone | +34 941 223 064 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

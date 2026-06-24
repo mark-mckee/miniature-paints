@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | Wargames Foundry Limited |
+| Address | The Carriage Court, Stoke Hall, Church Lane, East Stoke |
+| City | Newark |
+| Postcode | NG23 5QF |
+| Country | United Kingdom |
+| Email | customers@wargamesfoundry.com |
+| Website | https://www.wargamesfoundry.com |
+| Phone | +44 1636 526886 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

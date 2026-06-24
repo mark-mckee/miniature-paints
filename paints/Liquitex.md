@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
+| Company | Colart Americas, Inc. |
+| Address | 2 Corporate Place South |
+| City | Piscataway |
+| Postcode | 08854 |
+| Country | USA |
 | Email |  |
-| Website |  |
-| Phone |  |
+| Website | https://www.liquitex.com |
+| Phone | (732) 562-0770 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

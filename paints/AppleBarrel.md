@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | Plaid Enterprises, Inc. |
+| Address | 3225 Westech Drive |
+| City | Norcross |
+| Postcode | 30092 |
+| Country | USA |
+| Email | generalcs@plaidonline.com |
+| Website | https://plaidonline.com |
+| Phone | (800) 842-4197 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

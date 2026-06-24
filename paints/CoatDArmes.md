@@ -5,13 +5,13 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
+| Company | Battlezone Miniatures |
+| Address | 3 Hillside Lane |
+| City | Arrington |
+| Postcode | SG8 0DA |
+| Country | United Kingdom |
+| Email | admin@battlezone-miniatures.co.uk |
+| Website | https://www.battlezone-miniatures.co.uk |
 | Phone |  |
 
 |Name|Code|Set|R|G|B|Hex|

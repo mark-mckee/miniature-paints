@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | Games Workshop Limited |
+| Address | Willow Road, Lenton |
+| City | Nottingham |
+| Postcode | NG7 2WS |
+| Country | United Kingdom |
+| Email | uk.custserv@gwplc.com |
+| Website | https://www.warhammer.com |
+| Phone | +44 115 91 40000 |
 
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|

@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | RAL Deutsches Institut für Gütesicherung und Kennzeichnung e. V. |
+| Address | Fränkische Straße 7 |
+| City | Bonn |
+| Postcode | 53229 |
+| Country | Germany |
+| Email | kontakt@ral.de |
+| Website | https://www.ral.de/ |
+| Phone | +49 228 68895-0 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

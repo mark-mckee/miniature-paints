@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | GREEN s.r.o. |
+| Address | Košická 378/1A |
+| City | Družstevná pri Hornáde |
+| Postcode | 04431 |
+| Country | Slovakia |
+| Email | paints.mr@gmail.com |
+| Website | https://mrpaint.sk |
+| Phone | +421 915 203 552 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

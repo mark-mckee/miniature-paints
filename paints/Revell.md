@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
-| Address |  |
-| City |  |
-| Postcode |  |
-| Country |  |
-| Email |  |
-| Website |  |
-| Phone |  |
+| Company | Carrera Revell GmbH |
+| Address | Henschelstraße 20-30 |
+| City | Bünde |
+| Postcode | 32257 |
+| Country | Germany |
+| Email | info.de@carrera-revell.com |
+| Website | https://www.revell.de |
+| Phone | +49 5223 9650 |
 
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|

@@ -5,14 +5,14 @@
 
 | Field | Value |
 | --- | --- |
-| Company |  |
+| Company | Warcolours |
 | Address |  |
-| City |  |
+| City | Nicosia |
 | Postcode |  |
-| Country |  |
+| Country | Cyprus |
 | Email |  |
-| Website |  |
-| Phone |  |
+| Website | https://www.warcolours.com |
+| Phone | +357 99882999 |
 
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|

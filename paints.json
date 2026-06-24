@@ -5,16 +5,16 @@
   "brands": {
     "AK": {
       "displayName": "AK",
-      "company": "",
+      "company": "AK-INTERACTIVE, S.L.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Calle Valsalado, 2",
+        "city": "Logroño",
+        "postcode": "26006",
+        "country": "Spain"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "info@ak-interactive.com",
+      "website": "https://ak-interactive.com",
+      "phone": "+34 941 223 064",
       "paintCount": 892,
       "paints": [
         {
@@ -10725,16 +10725,16 @@
     },
     "AKRC": {
       "displayName": "A K R C",
-      "company": "",
+      "company": "AK-INTERACTIVE, S.L.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Calle Valsalado, 2",
+        "city": "Logroño",
+        "postcode": "26006",
+        "country": "Spain"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "info@ak-interactive.com",
+      "website": "https://ak-interactive.com",
+      "phone": "+34 941 223 064",
       "paintCount": 432,
       "paints": [
         {
@@ -15925,16 +15925,16 @@
     },
     "Acrilex": {
       "displayName": "Acrilex",
-      "company": "",
+      "company": "Acrilex Tintas Especiais S.A.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Estrada Galvão Bueno 5000",
+        "city": "São Bernardo do Campo",
+        "postcode": "09842-900",
+        "country": "Brazil"
       },
       "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "website": "https://acrilex.com.br",
+      "phone": "+55 11 4397-9255",
       "paintCount": 95,
       "paints": [
         {
@@ -17081,16 +17081,16 @@
     },
     "AppleBarrel": {
       "displayName": "Apple Barrel",
-      "company": "",
+      "company": "Plaid Enterprises, Inc.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "3225 Westech Drive",
+        "city": "Norcross",
+        "postcode": "30092",
+        "country": "USA"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "generalcs@plaidonline.com",
+      "website": "https://plaidonline.com",
+      "phone": "(800) 842-4197",
       "paintCount": 213,
       "paints": [
         {
@@ -19653,15 +19653,15 @@
     },
     "Army_Painter": {
       "displayName": "Army Painter",
-      "company": "",
+      "company": "The Army Painter ApS",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Niels Bohrs Vej 34",
+        "city": "Skanderborg",
+        "postcode": "8660",
+        "country": "Denmark"
       },
-      "contactEmail": "",
-      "website": "",
+      "contactEmail": "contact@thearmypainter.com",
+      "website": "https://thearmypainter.com",
       "phone": "",
       "paintCount": 704,
       "paints": [
@@ -28117,15 +28117,15 @@
     },
     "Arteza": {
       "displayName": "Arteza",
-      "company": "",
+      "company": "Plaid Enterprises, Inc.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "3225 Westech Drive",
+        "city": "Norcross",
+        "postcode": "30092",
+        "country": "USA"
       },
-      "contactEmail": "",
-      "website": "",
+      "contactEmail": "help@arteza.com",
+      "website": "https://arteza.com",
       "phone": "",
       "paintCount": 96,
       "paints": [
@@ -29285,15 +29285,15 @@
     },
     "CoatDArmes": {
       "displayName": "Coat D Armes",
-      "company": "",
+      "company": "Battlezone Miniatures",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "3 Hillside Lane",
+        "city": "Arrington",
+        "postcode": "SG8 0DA",
+        "country": "United Kingdom"
       },
-      "contactEmail": "",
-      "website": "",
+      "contactEmail": "admin@battlezone-miniatures.co.uk",
+      "website": "https://www.battlezone-miniatures.co.uk",
       "phone": "",
       "paintCount": 157,
       "paints": [
@@ -31185,15 +31185,15 @@
     },
     "Creature": {
       "displayName": "Creature",
-      "company": "",
+      "company": "Creature Caster",
       "address": {
         "street": "",
         "city": "",
         "postcode": "",
-        "country": ""
+        "country": "Canada"
       },
-      "contactEmail": "",
-      "website": "",
+      "contactEmail": "support@creaturecaster.com",
+      "website": "https://us.creaturecaster.com",
       "phone": "",
       "paintCount": 53,
       "paints": [
@@ -31837,15 +31837,15 @@
     },
     "Duncan": {
       "displayName": "Duncan",
-      "company": "",
+      "company": "Duncan Rhodes Painting Academy Limited",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Unit 24 Wilford Business Park, Ruddington Lane",
+        "city": "Nottingham",
+        "postcode": "NG11 7EP",
+        "country": "United Kingdom"
       },
-      "contactEmail": "",
-      "website": "",
+      "contactEmail": "contact@duncanrhodes.com",
+      "website": "https://www.duncanrhodes.com",
       "phone": "",
       "paintCount": 180,
       "paints": [
@@ -34013,16 +34013,16 @@
     },
     "FolkArt": {
       "displayName": "Folk Art",
-      "company": "",
+      "company": "Plaid Enterprises, Inc.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "3225 Westech Drive",
+        "city": "Norcross",
+        "postcode": "30092",
+        "country": "USA"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "generalcs@plaidonline.com",
+      "website": "https://plaidonline.com",
+      "phone": "(800) 842-4197",
       "paintCount": 436,
       "paints": [
         {
@@ -39261,16 +39261,16 @@
     },
     "Foundry": {
       "displayName": "Foundry",
-      "company": "",
+      "company": "Wargames Foundry Limited",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "The Carriage Court, Stoke Hall, Church Lane, East Stoke",
+        "city": "Newark",
+        "postcode": "NG23 5QF",
+        "country": "United Kingdom"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "customers@wargamesfoundry.com",
+      "website": "https://www.wargamesfoundry.com",
+      "phone": "+44 1636 526886",
       "paintCount": 360,
       "paints": [
         {
@@ -43597,16 +43597,16 @@
     },
     "Golden": {
       "displayName": "Golden",
-      "company": "",
+      "company": "Golden Artist Colors, Inc.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "188 Bell Road",
+        "city": "New Berlin",
+        "postcode": "13411-9527",
+        "country": "USA"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "help@goldenpaints.com",
+      "website": "https://goldenpaints.com",
+      "phone": "800-959-6543",
       "paintCount": 346,
       "paints": [
         {
@@ -47765,16 +47765,16 @@
     },
     "GreenStuffWorld": {
       "displayName": "Green Stuff World",
-      "company": "",
+      "company": "GREEN STUFF WORLD, S.L.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Calle Chelín, 24",
+        "city": "Alicante",
+        "postcode": "03114",
+        "country": "Spain"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "support@greenstuffworld.com",
+      "website": "https://www.greenstuffworld.com",
+      "phone": "+34 965 14 51 07",
       "paintCount": 220,
       "paints": [
         {
@@ -50421,16 +50421,16 @@
     },
     "Humbrol": {
       "displayName": "Humbrol",
-      "company": "",
+      "company": "Hornby Hobbies Limited",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Enterprise Road, Westwood Industrial Estate",
+        "city": "Margate",
+        "postcode": "CT9 4JX",
+        "country": "United Kingdom"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "customercare@hornby.com",
+      "website": "https://uk.humbrol.com",
+      "phone": "+44 1843 233519",
       "paintCount": 115,
       "paints": [
         {
@@ -51817,16 +51817,16 @@
     },
     "Italeri": {
       "displayName": "Italeri",
-      "company": "",
+      "company": "Italeri S.p.A.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Via Pradazzo 6/b",
+        "city": "Calderara di Reno",
+        "postcode": "40012",
+        "country": "Italy"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "italeri@italeri.com",
+      "website": "https://www.italeri.com",
+      "phone": "+39 051 3175211",
       "paintCount": 100,
       "paints": [
         {
@@ -53033,16 +53033,16 @@
     },
     "KimeraKolors": {
       "displayName": "Kimera Kolors",
-      "company": "",
+      "company": "Pegaso Models S.r.l.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Via Giovanni XXIII 1/1",
+        "city": "Monteriggioni",
+        "postcode": "53035",
+        "country": "Italy"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "info@pegasomodels.it",
+      "website": "https://www.pegasoworld.com",
+      "phone": "+39 0577 317110",
       "paintCount": 39,
       "paints": [
         {
@@ -53517,16 +53517,16 @@
     },
     "Liquitex": {
       "displayName": "Liquitex",
-      "company": "",
+      "company": "Colart Americas, Inc.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "2 Corporate Place South",
+        "city": "Piscataway",
+        "postcode": "08854",
+        "country": "USA"
       },
       "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "website": "https://www.liquitex.com",
+      "phone": "(732) 562-0770",
       "paintCount": 105,
       "paints": [
         {
@@ -54793,16 +54793,16 @@
     },
     "Mig": {
       "displayName": "Mig",
-      "company": "",
+      "company": "AMMO of Mig Jimenez S.L.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Calle Zarapuz 3",
+        "city": "Estella",
+        "postcode": "31200",
+        "country": "Spain"
       },
       "contactEmail": "info@ammo.es",
-      "website": "",
-      "phone": "",
+      "website": "https://www.migjimenez.com",
+      "phone": "+34 948 552 882",
       "paintCount": 473,
       "paints": [
         {
@@ -60485,15 +60485,15 @@
     },
     "MissionModels": {
       "displayName": "Mission Models",
-      "company": "",
+      "company": "Mission Models",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "215 W Palm Ave, Ste 104",
+        "city": "Burbank",
+        "postcode": "91502",
+        "country": "United States"
       },
-      "contactEmail": "",
-      "website": "",
+      "contactEmail": "info@missionmodelsus.com",
+      "website": "https://missionmodelsus.com",
       "phone": "",
       "paintCount": 202,
       "paints": [
@@ -62925,16 +62925,16 @@
     },
     "Monument": {
       "displayName": "Monument",
-      "company": "",
+      "company": "Monument Hobbies",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "2901 W Clarendon Ave",
+        "city": "Phoenix",
+        "postcode": "85017",
+        "country": "United States"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "support@monumenthobbies.com",
+      "website": "https://monumenthobbies.com",
+      "phone": "+1 602-612-3863",
       "paintCount": 131,
       "paints": [
         {
@@ -64513,16 +64513,16 @@
     },
     "MrHobby": {
       "displayName": "Mr Hobby",
-      "company": "",
+      "company": "GSI Creos Corporation",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Shiba 3-8-2, Shiba Park First Building",
+        "city": "Minato-ku, Tokyo",
+        "postcode": "105-0014",
+        "country": "Japan"
       },
       "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "website": "https://www.mr-hobby.com/",
+      "phone": "03-5418-2124",
       "paintCount": 669,
       "paints": [
         {
@@ -72557,16 +72557,16 @@
     },
     "MrPaint": {
       "displayName": "Mr Paint",
-      "company": "",
+      "company": "GREEN s.r.o.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Košická 378/1A",
+        "city": "Družstevná pri Hornáde",
+        "postcode": "04431",
+        "country": "Slovakia"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "paints.mr@gmail.com",
+      "website": "https://mrpaint.sk",
+      "phone": "+421 915 203 552",
       "paintCount": 568,
       "paints": [
         {
@@ -79389,16 +79389,16 @@
     },
     "P3": {
       "displayName": "P3",
-      "company": "",
+      "company": "Privateer Press Inc.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "21220 87th Ave. S.E.",
+        "city": "Woodinville",
+        "postcode": "98072",
+        "country": "United States"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "frontdesk@privateerpress.com",
+      "website": "https://privateerpress.com",
+      "phone": "425-643-5900",
       "paintCount": 131,
       "paints": [
         {
@@ -80977,15 +80977,15 @@
     },
     "Pantone": {
       "displayName": "Pantone",
-      "company": "",
+      "company": "Pantone LLC",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "590 Commerce Boulevard",
+        "city": "Carlstadt",
+        "postcode": "07072",
+        "country": "United States"
       },
       "contactEmail": "",
-      "website": "",
+      "website": "https://www.pantone.com",
       "phone": "",
       "paintCount": 1341,
       "paints": [
@@ -97085,16 +97085,16 @@
     },
     "RAL": {
       "displayName": "RAL",
-      "company": "",
+      "company": "RAL Deutsches Institut für Gütesicherung und Kennzeichnung e. V.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Fränkische Straße 7",
+        "city": "Bonn",
+        "postcode": "53229",
+        "country": "Germany"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "kontakt@ral.de",
+      "website": "https://www.ral.de/",
+      "phone": "+49 228 68895-0",
       "paintCount": 193,
       "paints": [
         {
@@ -99417,16 +99417,16 @@
     },
     "Reaper": {
       "displayName": "Reaper",
-      "company": "",
+      "company": "Hobby-Q, Inc. (DBA Reaper Miniatures)",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "9088 Teasley Ln",
+        "city": "Denton",
+        "postcode": "76210",
+        "country": "United States"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "customerservice@reapermini.com",
+      "website": "https://www.reapermini.com",
+      "phone": "(940) 484-6464",
       "paintCount": 438,
       "paints": [
         {
@@ -104689,16 +104689,16 @@
     },
     "Revell": {
       "displayName": "Revell",
-      "company": "",
+      "company": "Carrera Revell GmbH",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Henschelstraße 20-30",
+        "city": "Bünde",
+        "postcode": "32257",
+        "country": "Germany"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "info.de@carrera-revell.com",
+      "website": "https://www.revell.de",
+      "phone": "+49 5223 9650",
       "paintCount": 88,
       "paints": [
         {
@@ -105761,16 +105761,16 @@
     },
     "Scale75": {
       "displayName": "Scale75",
-      "company": "",
+      "company": "SCALE75 HOBBIES AND GAMES, S.L.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Calle Cadmio, 12",
+        "city": "Arganda del Rey",
+        "postcode": "28500",
+        "country": "Spain"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "info@scale75.com",
+      "website": "https://scale75.com",
+      "phone": "+34 918 70 74 71",
       "paintCount": 358,
       "paints": [
         {
@@ -110073,15 +110073,15 @@
     },
     "Tamiya": {
       "displayName": "Tamiya",
-      "company": "",
+      "company": "Tamiya, Inc.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "3-7 Ondawara, Suruga-ku",
+        "city": "Shizuoka",
+        "postcode": "422-8610",
+        "country": "Japan"
       },
       "contactEmail": "",
-      "website": "",
+      "website": "https://www.tamiya.com/",
       "phone": "",
       "paintCount": 320,
       "paints": [
@@ -113929,16 +113929,16 @@
     },
     "TomColor": {
       "displayName": "Tom Color",
-      "company": "",
+      "company": "Tom Colors Ltda",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Avenida Etore Tiveron, 428",
+        "city": "Marília, SP",
+        "postcode": "17533-073",
+        "country": "Brazil"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "tomcolors@tomcolors.com.br",
+      "website": "https://www.tomcolors.com.br/",
+      "phone": "+55 14 98122-2459",
       "paintCount": 271,
       "paints": [
         {
@@ -117197,15 +117197,15 @@
     },
     "TurboDork": {
       "displayName": "Turbo Dork",
-      "company": "",
+      "company": "Turbo Dork",
       "address": {
         "street": "",
-        "city": "",
+        "city": "Austin",
         "postcode": "",
-        "country": ""
+        "country": "United States"
       },
-      "contactEmail": "",
-      "website": "",
+      "contactEmail": "Turbo@TurboDork.com",
+      "website": "https://turbodork.com",
       "phone": "",
       "paintCount": 40,
       "paints": [
@@ -117693,16 +117693,16 @@
     },
     "Vallejo": {
       "displayName": "Vallejo",
-      "company": "",
+      "company": "ACRYLICOS VALLEJO, S.L.",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Carrer d'Eusebi Millán, 14",
+        "city": "Vilanova i la Geltrú",
+        "postcode": "08800",
+        "country": "Spain"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "info@acrylicosvallejo.com",
+      "website": "https://acrylicosvallejo.com",
+      "phone": "+34 93 893 60 12",
       "paintCount": 1268,
       "paints": [
         {
@@ -132925,16 +132925,16 @@
     },
     "Warcolours": {
       "displayName": "Warcolours",
-      "company": "",
+      "company": "Warcolours",
       "address": {
         "street": "",
-        "city": "",
+        "city": "Nicosia",
         "postcode": "",
-        "country": ""
+        "country": "Cyprus"
       },
       "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "website": "https://www.warcolours.com",
+      "phone": "+357 99882999",
       "paintCount": 178,
       "paints": [
         {
@@ -135077,16 +135077,16 @@
     },
     "Warhammer_Colour": {
       "displayName": "Warhammer Colour",
-      "company": "",
+      "company": "Games Workshop Limited",
       "address": {
-        "street": "",
-        "city": "",
-        "postcode": "",
-        "country": ""
+        "street": "Willow Road, Lenton",
+        "city": "Nottingham",
+        "postcode": "NG7 2WS",
+        "country": "United Kingdom"
       },
-      "contactEmail": "",
-      "website": "",
-      "phone": "",
+      "contactEmail": "uk.custserv@gwplc.com",
+      "website": "https://www.warhammer.com",
+      "phone": "+44 115 91 40000",
       "paintCount": 457,
       "paints": [
         {
