@@ -18,7 +18,6 @@ I have added a single JSON file that contains all brands and paints. This file w
 
 <!-- START -->
 |  |  |  |
-| :---: | :---: | :---: |
 |  <a href="paints/AK.md"> <img src="logos/AK.png" height="70" /> <br/> AK</a>|  <a href="paints/Acrilex.md"> <img src="logos/Acrilex.png" height="70" /> <br/> Acrilex</a>|
 |  <a href="paints/AppleBarrel.md"> <img src="logos/AppleBarrel.png" height="70" /> <br/> Apple Barrel</a>|  <a href="paints/Army_Painter.md"> <img src="logos/Army_Painter.png" height="70" /> <br/> Army Painter</a>|  <a href="paints/Arteza.md"> <img src="logos/Arteza.png" height="70" /> <br/> Arteza</a>|
 |  <a href="paints/CoatDArmes.md"> <img src="logos/CoatDArmes.png" height="70" /> <br/> Coat D Armes</a>|  <a href="paints/Creature.md"> <img src="logos/Creature.png" height="70" /> <br/> Creature</a>| <a href="paints/Duncan.md"> <img src="logos/Duncan.png" height="70" /> <br/> Duncan</a>|  <a href="paints/FolkArt.md"> <img src="logos/FolkArt.png" height="70" /> <br/> Folk Art</a>|  <a href="paints/Foundry.md"> <img src="logos/Foundry.png" height="70" /> <br/> Foundry</a>|
