@@ -4,7 +4,7 @@ List of miniature paints forked from Arcturus5404/miniature-paints. Original pai
 
 Feel free to use or improve any of these paints in your own personal projects. Also feel free to submit PR's
 
-**NOTE: I am not affiliated in any way with the [Miniature Painter Pro](https://miniaturepainterpro.app/) team or app**
+**NOTE: I am not affiliated in any way with the [Miniature Painter Pro](https://miniaturepainterpro.app/) team or app, nor am I affiliated with any of the brands shared here. So far, all knowledge of paints has been gathered from publicly available websites or product catalogues. I have reached out to several brands to ask for any spreadhseets they can share to make life a bit easier. I'll update here if I get a response from them**
 
 ## To Do
 
