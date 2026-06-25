@@ -1,7 +1,7 @@
 {
   "schema": "miniature-paints/v1",
   "brandCount": 33,
-  "paintCount": 11799,
+  "paintCount": 11919,
   "brands": {
     "AK": {
       "displayName": "AK",
@@ -105891,1062 +105891,2498 @@
       "website": "https://www.revell.de",
       "phone": "+49 5223 9650",
       "updatedCatalogueRequested": "",
-      "paintCount": 88,
+      "paintCount": 208,
       "paints": [
         {
-          "id": "revell-africa-brown",
-          "name": "Africa Brown",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#D49C61",
-          "rgb": {
-            "r": 212,
-            "g": 156,
-            "b": 97
-          }
-        },
-        {
-          "id": "revell-aluminium",
-          "name": "Aluminium",
-          "code": null,
-          "set": "Email Color - Metallic",
-          "hex": "#BABFC2",
-          "rgb": {
-            "r": 186,
-            "g": 191,
-            "b": 194
-          }
-        },
-        {
-          "id": "revell-anthracite-grey",
-          "name": "Anthracite Grey",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#2E2F34",
-          "rgb": {
-            "r": 46,
-            "g": 47,
-            "b": 52
-          }
-        },
-        {
-          "id": "revell-beige",
-          "name": "Beige",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#A7937B",
-          "rgb": {
-            "r": 167,
-            "g": 147,
-            "b": 123
-          }
-        },
-        {
-          "id": "revell-beige-2",
-          "name": "Beige",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#CFB487",
-          "rgb": {
-            "r": 207,
-            "g": 180,
-            "b": 135
-          }
-        },
-        {
-          "id": "revell-black",
-          "name": "Black",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#17181C",
-          "rgb": {
-            "r": 23,
-            "g": 24,
-            "b": 28
-          }
-        },
-        {
-          "id": "revell-black-2",
-          "name": "Black",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#141519",
-          "rgb": {
-            "r": 20,
-            "g": 21,
-            "b": 25
-          }
-        },
-        {
-          "id": "revell-black-3",
-          "name": "Black",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#212026",
-          "rgb": {
-            "r": 33,
-            "g": 32,
-            "b": 38
-          }
-        },
-        {
-          "id": "revell-black-green",
-          "name": "Black Green",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#013832",
-          "rgb": {
-            "r": 1,
-            "g": 56,
-            "b": 50
-          }
-        },
-        {
-          "id": "revell-blue",
-          "name": "Blue",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#0070B4",
-          "rgb": {
-            "r": 0,
-            "g": 112,
-            "b": 180
-          }
-        },
-        {
-          "id": "revell-blue-2",
-          "name": "Blue",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#01448A",
-          "rgb": {
-            "r": 1,
-            "g": 68,
-            "b": 138
-          }
-        },
-        {
-          "id": "revell-brass",
-          "name": "Brass",
-          "code": null,
-          "set": "Email Color - Metallic",
-          "hex": "#BE8F03",
-          "rgb": {
-            "r": 190,
-            "g": 143,
-            "b": 3
-          }
-        },
-        {
-          "id": "revell-bronze",
-          "name": "Bronze",
-          "code": null,
-          "set": "Email Color - Metallic",
-          "hex": "#9C653C",
-          "rgb": {
-            "r": 156,
-            "g": 101,
-            "b": 60
-          }
-        },
-        {
-          "id": "revell-bronze-green",
-          "name": "Bronze Green",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#4A563E",
-          "rgb": {
-            "r": 74,
-            "g": 86,
-            "b": 62
-          }
-        },
-        {
-          "id": "revell-brown",
-          "name": "Brown",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#765C4D",
-          "rgb": {
-            "r": 118,
-            "g": 92,
-            "b": 77
-          }
-        },
-        {
-          "id": "revell-brown-2",
-          "name": "Brown",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#A45D33",
-          "rgb": {
-            "r": 164,
-            "g": 93,
-            "b": 51
-          }
-        },
-        {
-          "id": "revell-carmine-red",
-          "name": "Carmine Red",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#991523",
-          "rgb": {
-            "r": 153,
-            "g": 21,
-            "b": 35
-          }
-        },
-        {
-          "id": "revell-clear",
+          "id": "revell-32101",
           "name": "Clear",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#FFFFFF",
+          "code": "32101",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#E5E6EA",
           "rgb": {
-            "r": 255,
-            "g": 255,
-            "b": 255
+            "r": 229,
+            "g": 230,
+            "b": 234
           }
         },
         {
-          "id": "revell-clear-2",
+          "id": "revell-32102",
           "name": "Clear",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#FFFFFF",
+          "code": "32102",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#E3DEDD",
           "rgb": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
-        {
-          "id": "revell-clear-blue",
-          "name": "Clear Blue",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#A8DEF8",
-          "rgb": {
-            "r": 168,
+            "r": 227,
             "g": 222,
-            "b": 248
+            "b": 221
           }
         },
         {
-          "id": "revell-clear-orange",
-          "name": "Clear Orange",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#FE8C45",
+          "id": "revell-32104",
+          "name": "White RAL 9010",
+          "code": "32104",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#F4F3F7",
           "rgb": {
-            "r": 254,
-            "g": 140,
-            "b": 69
+            "r": 244,
+            "g": 243,
+            "b": 247
           }
         },
         {
-          "id": "revell-clear-red",
-          "name": "Clear Red",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#FE6255",
+          "id": "revell-32105",
+          "name": "White RAL 9001",
+          "code": "32105",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#F5F0EC",
           "rgb": {
-            "r": 254,
-            "g": 98,
-            "b": 85
+            "r": 245,
+            "g": 240,
+            "b": 236
           }
         },
         {
-          "id": "revell-copper",
-          "name": "Copper",
-          "code": null,
-          "set": "Email Color - Metallic",
-          "hex": "#B37451",
-          "rgb": {
-            "r": 179,
-            "g": 116,
-            "b": 81
-          }
-        },
-        {
-          "id": "revell-dark-blue",
-          "name": "Dark Blue",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#1F2D52",
-          "rgb": {
-            "r": 31,
-            "g": 45,
-            "b": 82
-          }
-        },
-        {
-          "id": "revell-dark-earth-raf",
-          "name": "Dark Earth (RAF)",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#8C673B",
-          "rgb": {
-            "r": 140,
-            "g": 103,
-            "b": 59
-          }
-        },
-        {
-          "id": "revell-dark-green",
-          "name": "Dark Green",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#394736",
-          "rgb": {
-            "r": 57,
-            "g": 71,
-            "b": 54
-          }
-        },
-        {
-          "id": "revell-dark-green-2",
-          "name": "Dark Green",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#1C5A45",
-          "rgb": {
-            "r": 28,
-            "g": 90,
-            "b": 69
-          }
-        },
-        {
-          "id": "revell-dark-green-raf",
-          "name": "Dark Green (RAF)",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#274837",
-          "rgb": {
-            "r": 39,
-            "g": 72,
-            "b": 55
-          }
-        },
-        {
-          "id": "revell-dark-grey",
-          "name": "Dark Grey",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#565E61",
-          "rgb": {
-            "r": 86,
-            "g": 94,
-            "b": 97
-          }
-        },
-        {
-          "id": "revell-dust-grey",
-          "name": "Dust Grey",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#565E61",
-          "rgb": {
-            "r": 86,
-            "g": 94,
-            "b": 97
-          }
-        },
-        {
-          "id": "revell-earth-brown",
-          "name": "Earth Brown",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#766A5C",
-          "rgb": {
-            "r": 118,
-            "g": 106,
-            "b": 92
-          }
-        },
-        {
-          "id": "revell-emerald-green",
-          "name": "Emerald Green",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#016E44",
-          "rgb": {
-            "r": 1,
-            "g": 110,
-            "b": 68
-          }
-        },
-        {
-          "id": "revell-fiery-red",
-          "name": "Fiery Red",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#9F2927",
-          "rgb": {
-            "r": 159,
-            "g": 41,
-            "b": 39
-          }
-        },
-        {
-          "id": "revell-fiery-red-2",
-          "name": "Fiery Red",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#A02625",
-          "rgb": {
-            "r": 160,
-            "g": 38,
-            "b": 37
-          }
-        },
-        {
-          "id": "revell-flesh",
-          "name": "Flesh",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#EFA87C",
-          "rgb": {
-            "r": 239,
-            "g": 168,
-            "b": 124
-          }
-        },
-        {
-          "id": "revell-gold",
-          "name": "Gold",
-          "code": null,
-          "set": "Email Color - Metallic",
-          "hex": "#CDB285",
-          "rgb": {
-            "r": 205,
-            "g": 178,
-            "b": 133
-          }
-        },
-        {
-          "id": "revell-granite-grey",
-          "name": "Granite Grey",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#354044",
-          "rgb": {
-            "r": 53,
-            "g": 64,
-            "b": 68
-          }
-        },
-        {
-          "id": "revell-green",
-          "name": "Green",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#56733D",
-          "rgb": {
-            "r": 86,
-            "g": 115,
-            "b": 61
-          }
-        },
-        {
-          "id": "revell-greenish-grey",
-          "name": "Greenish Grey",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#585D56",
-          "rgb": {
-            "r": 88,
-            "g": 93,
-            "b": 86
-          }
-        },
-        {
-          "id": "revell-grey",
-          "name": "Grey",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#798790",
-          "rgb": {
-            "r": 121,
-            "g": 135,
-            "b": 144
-          }
-        },
-        {
-          "id": "revell-grey-2",
-          "name": "Grey",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#8C969F",
-          "rgb": {
-            "r": 140,
-            "g": 150,
-            "b": 159
-          }
-        },
-        {
-          "id": "revell-grey-usaf",
-          "name": "Grey (USAF)",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#889093",
-          "rgb": {
-            "r": 136,
-            "g": 144,
-            "b": 147
-          }
-        },
-        {
-          "id": "revell-greyish-blue",
-          "name": "Greyish Blue",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#5B6870",
-          "rgb": {
-            "r": 91,
-            "g": 104,
-            "b": 112
-          }
-        },
-        {
-          "id": "revell-greyish-green",
-          "name": "Greyish Green",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#76765A",
-          "rgb": {
-            "r": 118,
-            "g": 118,
-            "b": 90
-          }
-        },
-        {
-          "id": "revell-gunship-grey",
-          "name": "Gunship Grey",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#5E6369",
-          "rgb": {
-            "r": 94,
-            "g": 99,
-            "b": 105
-          }
-        },
-        {
-          "id": "revell-italian-red",
-          "name": "Italian Red",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#C80225",
-          "rgb": {
-            "r": 200,
-            "g": 2,
-            "b": 37
-          }
-        },
-        {
-          "id": "revell-leaf-green",
-          "name": "Leaf Green",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#276D3B",
-          "rgb": {
-            "r": 39,
-            "g": 109,
-            "b": 59
-          }
-        },
-        {
-          "id": "revell-leather-brown",
-          "name": "Leather Brown",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#583E41",
-          "rgb": {
-            "r": 88,
-            "g": 62,
-            "b": 65
-          }
-        },
-        {
-          "id": "revell-light-blue",
-          "name": "Light Blue",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#2881BB",
+          "id": "revell-32106",
+          "name": "Tar black RAL 9021",
+          "code": "32106",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#282425",
           "rgb": {
             "r": 40,
-            "g": 129,
-            "b": 187
+            "g": 36,
+            "b": 37
           }
         },
         {
-          "id": "revell-light-blue-2",
-          "name": "Light Blue",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#86B9B4",
+          "id": "revell-32107",
+          "name": "Black RAL 9005",
+          "code": "32107",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#010504",
           "rgb": {
-            "r": 134,
-            "g": 185,
-            "b": 180
+            "r": 1,
+            "g": 5,
+            "b": 4
           }
         },
         {
-          "id": "revell-light-green",
-          "name": "Light Green",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#76BABB",
+          "id": "revell-32108",
+          "name": "Black RAL 9011",
+          "code": "32108",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#131313",
           "rgb": {
-            "r": 118,
-            "g": 186,
-            "b": 187
+            "r": 19,
+            "g": 19,
+            "b": 19
           }
         },
         {
-          "id": "revell-light-grey",
-          "name": "Light Grey",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#C4CACA",
+          "id": "revell-32109",
+          "name": "Anthracite RAL 7021",
+          "code": "32109",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#1F2829",
           "rgb": {
-            "r": 196,
-            "g": 202,
-            "b": 202
+            "r": 31,
+            "g": 40,
+            "b": 41
           }
         },
         {
-          "id": "revell-light-grey-usaf",
-          "name": "Light Grey (USAF)",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#9DA2A6",
+          "id": "revell-32112",
+          "name": "Yellow RAL 1018",
+          "code": "32112",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#ECD001",
           "rgb": {
-            "r": 157,
-            "g": 162,
-            "b": 166
+            "r": 236,
+            "g": 208,
+            "b": 1
           }
         },
         {
-          "id": "revell-light-olive",
-          "name": "Light Olive",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#79796D",
+          "id": "revell-32115",
+          "name": "Yellow RAL 1017",
+          "code": "32115",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#F8BB00",
           "rgb": {
-            "r": 121,
-            "g": 121,
-            "b": 109
-          }
-        },
-        {
-          "id": "revell-luminous-orange",
-          "name": "Luminous Orange",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#FA0200",
-          "rgb": {
-            "r": 250,
-            "g": 2,
+            "r": 248,
+            "g": 187,
             "b": 0
           }
         },
         {
-          "id": "revell-luminous-red",
-          "name": "Luminous Red",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#BF111B",
+          "id": "revell-32116",
+          "name": "Sandy yellow RAL 1024",
+          "code": "32116",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#B99740",
           "rgb": {
-            "r": 191,
-            "g": 17,
-            "b": 27
-          }
-        },
-        {
-          "id": "revell-luminous-yellow",
-          "name": "Luminous Yellow",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#ECEA40",
-          "rgb": {
-            "r": 236,
-            "g": 234,
+            "r": 185,
+            "g": 151,
             "b": 64
           }
         },
         {
-          "id": "revell-mouse-grey",
-          "name": "Mouse Grey",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#6C706F",
+          "id": "revell-32117",
+          "name": "Africa brown",
+          "code": "32117",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#BF9362",
           "rgb": {
-            "r": 108,
-            "g": 112,
-            "b": 111
+            "r": 191,
+            "g": 147,
+            "b": 98
           }
         },
         {
-          "id": "revell-mud-brown",
-          "name": "Mud Brown",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#815331",
+          "id": "revell-32125",
+          "name": "Luminous orange",
+          "code": "32125",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#E12E06",
           "rgb": {
-            "r": 129,
-            "g": 83,
-            "b": 49
+            "r": 225,
+            "g": 46,
+            "b": 6
           }
         },
         {
-          "id": "revell-nato-olive",
-          "name": "NATO Olive",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#565246",
+          "id": "revell-32130",
+          "name": "Orange RAL 2004",
+          "code": "32130",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#E95A02",
           "rgb": {
-            "r": 86,
-            "g": 82,
-            "b": 70
+            "r": 233,
+            "g": 90,
+            "b": 2
           }
         },
         {
-          "id": "revell-night-blue",
-          "name": "Night Blue",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#28285E",
+          "id": "revell-32131",
+          "name": "Fiery red RAL 3000",
+          "code": "32131",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#BA1D24",
           "rgb": {
-            "r": 40,
-            "g": 40,
-            "b": 94
+            "r": 186,
+            "g": 29,
+            "b": 36
           }
         },
         {
-          "id": "revell-ochre-brown",
-          "name": "Ochre Brown",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#AE8551",
+          "id": "revell-32134",
+          "name": "Ferrari red",
+          "code": "32134",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#AB1D2B",
           "rgb": {
-            "r": 174,
-            "g": 133,
-            "b": 81
-          }
-        },
-        {
-          "id": "revell-olive-brown",
-          "name": "Olive Brown",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#756544",
-          "rgb": {
-            "r": 117,
-            "g": 101,
-            "b": 68
-          }
-        },
-        {
-          "id": "revell-olive-green",
-          "name": "Olive Green",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#4F543D",
-          "rgb": {
-            "r": 79,
-            "g": 84,
-            "b": 61
-          }
-        },
-        {
-          "id": "revell-olive-grey",
-          "name": "Olive Grey",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#565857",
-          "rgb": {
-            "r": 86,
-            "g": 88,
-            "b": 87
-          }
-        },
-        {
-          "id": "revell-olive-yellow",
-          "name": "Olive Yellow",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#424335",
-          "rgb": {
-            "r": 66,
-            "g": 67,
-            "b": 53
-          }
-        },
-        {
-          "id": "revell-orange",
-          "name": "Orange",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#E5550F",
-          "rgb": {
-            "r": 229,
-            "g": 85,
-            "b": 15
-          }
-        },
-        {
-          "id": "revell-patina-green",
-          "name": "Patina Green",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#317663",
-          "rgb": {
-            "r": 49,
-            "g": 118,
-            "b": 99
-          }
-        },
-        {
-          "id": "revell-purple-red",
-          "name": "Purple Red",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#6B1A29",
-          "rgb": {
-            "r": 107,
-            "g": 26,
-            "b": 41
-          }
-        },
-        {
-          "id": "revell-reddish-brown",
-          "name": "Reddish Brown",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#6C312B",
-          "rgb": {
-            "r": 108,
-            "g": 49,
+            "r": 171,
+            "g": 29,
             "b": 43
           }
         },
         {
-          "id": "revell-rust",
-          "name": "Rust",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#894E4A",
+          "id": "revell-32135",
+          "name": "Flesh",
+          "code": "32135",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#E0A782",
           "rgb": {
-            "r": 137,
-            "g": 78,
-            "b": 74
+            "r": 224,
+            "g": 167,
+            "b": 130
           }
         },
         {
-          "id": "revell-sandy-yellow",
-          "name": "Sandy Yellow",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#B8964F",
+          "id": "revell-32136",
+          "name": "Carmine red RAL 3002",
+          "code": "32136",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#B00A23",
           "rgb": {
-            "r": 184,
-            "g": 150,
-            "b": 79
+            "r": 176,
+            "g": 10,
+            "b": 35
           }
         },
         {
-          "id": "revell-sea-green",
-          "name": "Sea Green",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#4A563E",
+          "id": "revell-32137",
+          "name": "Reddish brown RAL 3009",
+          "code": "32137",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#80322D",
           "rgb": {
-            "r": 74,
-            "g": 86,
-            "b": 62
+            "r": 128,
+            "g": 50,
+            "b": 45
           }
         },
         {
-          "id": "revell-sea-green-2",
-          "name": "Sea Green",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#2C544C",
+          "id": "revell-32139",
+          "name": "Dark green",
+          "code": "32139",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#23513C",
           "rgb": {
-            "r": 44,
-            "g": 84,
-            "b": 76
+            "r": 35,
+            "g": 81,
+            "b": 60
           }
         },
         {
-          "id": "revell-silver",
-          "name": "Silver",
-          "code": null,
-          "set": "Email Color - Metallic",
-          "hex": "#A6A9AE",
+          "id": "revell-32140",
+          "name": "Black green",
+          "code": "32140",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#022E24",
           "rgb": {
-            "r": 166,
-            "g": 169,
-            "b": 174
+            "r": 2,
+            "g": 46,
+            "b": 36
           }
         },
         {
-          "id": "revell-sky-raf",
-          "name": "Sky (RAF)",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#C3D4B2",
+          "id": "revell-32142",
+          "name": "Yellowish olive",
+          "code": "32142",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#323529",
           "rgb": {
-            "r": 195,
-            "g": 212,
-            "b": 178
-          }
-        },
-        {
-          "id": "revell-steel",
-          "name": "Steel",
-          "code": null,
-          "set": "Email Color - Metallic",
-          "hex": "#757A80",
-          "rgb": {
-            "r": 117,
-            "g": 122,
-            "b": 128
-          }
-        },
-        {
-          "id": "revell-stone-grey",
-          "name": "Stone Grey",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#909088",
-          "rgb": {
-            "r": 144,
-            "g": 144,
-            "b": 136
-          }
-        },
-        {
-          "id": "revell-tank-grey",
-          "name": "Tank Grey",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#484B52",
-          "rgb": {
-            "r": 72,
-            "g": 75,
-            "b": 82
-          }
-        },
-        {
-          "id": "revell-tar-black",
-          "name": "Tar Black",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#252429",
-          "rgb": {
-            "r": 37,
-            "g": 36,
+            "r": 50,
+            "g": 53,
             "b": 41
           }
         },
         {
-          "id": "revell-ultramarine-blue",
-          "name": "Ultramarine Blue",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#182F7B",
+          "id": "revell-32143",
+          "name": "Medium grey",
+          "code": "32143",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#7E8386",
           "rgb": {
-            "r": 24,
-            "g": 47,
-            "b": 123
+            "r": 126,
+            "g": 131,
+            "b": 134
           }
         },
         {
-          "id": "revell-white",
-          "name": "White",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#FFFFFF",
+          "id": "revell-32145",
+          "name": "Light olive RAL 7003",
+          "code": "32145",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#707362",
           "rgb": {
-            "r": 255,
-            "g": 255,
-            "b": 255
+            "r": 112,
+            "g": 115,
+            "b": 98
           }
         },
         {
-          "id": "revell-white-2",
-          "name": "White",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#BABFC2",
+          "id": "revell-32146",
+          "name": "Nato olive RAL 7013",
+          "code": "32146",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#4E4734",
           "rgb": {
-            "r": 186,
-            "g": 191,
-            "b": 194
+            "r": 78,
+            "g": 71,
+            "b": 52
           }
         },
         {
-          "id": "revell-white-3",
-          "name": "White",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#F3F2ED",
+          "id": "revell-32147",
+          "name": "Mouse grey RAL 7005",
+          "code": "32147",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#6A6E6D",
           "rgb": {
-            "r": 243,
-            "g": 242,
-            "b": 237
+            "r": 106,
+            "g": 110,
+            "b": 109
           }
         },
         {
-          "id": "revell-wood-brown",
-          "name": "Wood Brown",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#9C6836",
+          "id": "revell-32148",
+          "name": "Sea green RAL 6028",
+          "code": "32148",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#03503C",
           "rgb": {
-            "r": 156,
-            "g": 104,
-            "b": 54
+            "r": 3,
+            "g": 80,
+            "b": 60
           }
         },
         {
-          "id": "revell-yellow",
-          "name": "Yellow",
-          "code": null,
-          "set": "Email Color - Gloss",
-          "hex": "#FDDA38",
+          "id": "revell-32149",
+          "name": "Light blue",
+          "code": "32149",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#8FB9B1",
           "rgb": {
-            "r": 253,
-            "g": 218,
+            "r": 143,
+            "g": 185,
+            "b": 177
+          }
+        },
+        {
+          "id": "revell-32150",
+          "name": "Light blue RAL 5012",
+          "code": "32150",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#0294C4",
+          "rgb": {
+            "r": 2,
+            "g": 148,
+            "b": 196
+          }
+        },
+        {
+          "id": "revell-32151",
+          "name": "Ultramarine RAL 5002",
+          "code": "32151",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#244281",
+          "rgb": {
+            "r": 36,
+            "g": 66,
+            "b": 129
+          }
+        },
+        {
+          "id": "revell-32152",
+          "name": "Blue RAL 5005",
+          "code": "32152",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#015B90",
+          "rgb": {
+            "r": 1,
+            "g": 91,
+            "b": 144
+          }
+        },
+        {
+          "id": "revell-32154",
+          "name": "Night blue RAL 5022",
+          "code": "32154",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#21274E",
+          "rgb": {
+            "r": 33,
+            "g": 39,
+            "b": 78
+          }
+        },
+        {
+          "id": "revell-32155",
+          "name": "Light green RAL 6027",
+          "code": "32155",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#A2E1D6",
+          "rgb": {
+            "r": 162,
+            "g": 225,
+            "b": 214
+          }
+        },
+        {
+          "id": "revell-32156",
+          "name": "Blue RAL 5000",
+          "code": "32156",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#204677",
+          "rgb": {
+            "r": 32,
+            "g": 70,
+            "b": 119
+          }
+        },
+        {
+          "id": "revell-32157",
+          "name": "Grey RAL 7000",
+          "code": "32157",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#6A8691",
+          "rgb": {
+            "r": 106,
+            "g": 134,
+            "b": 145
+          }
+        },
+        {
+          "id": "revell-32159",
+          "name": "Sky RAF",
+          "code": "32159",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#C7D2B0",
+          "rgb": {
+            "r": 199,
+            "g": 210,
+            "b": 176
+          }
+        },
+        {
+          "id": "revell-32161",
+          "name": "Emerald green RAL 6029",
+          "code": "32161",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#018841",
+          "rgb": {
+            "r": 1,
+            "g": 136,
+            "b": 65
+          }
+        },
+        {
+          "id": "revell-32162",
+          "name": "Sea green RAL 6005",
+          "code": "32162",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#064226",
+          "rgb": {
+            "r": 6,
+            "g": 66,
+            "b": 38
+          }
+        },
+        {
+          "id": "revell-32165",
+          "name": "Bronze green RAL 6031",
+          "code": "32165",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#3D4633",
+          "rgb": {
+            "r": 61,
+            "g": 70,
+            "b": 51
+          }
+        },
+        {
+          "id": "revell-32166",
+          "name": "Olive grey RAL 7010",
+          "code": "32166",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#4C534C",
+          "rgb": {
+            "r": 76,
+            "g": 83,
+            "b": 76
+          }
+        },
+        {
+          "id": "revell-32167",
+          "name": "Greenish grey RAL 7009",
+          "code": "32167",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#4A614F",
+          "rgb": {
+            "r": 74,
+            "g": 97,
+            "b": 79
+          }
+        },
+        {
+          "id": "revell-32168",
+          "name": "Dark green RAF",
+          "code": "32168",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#223A2D",
+          "rgb": {
+            "r": 34,
+            "g": 58,
+            "b": 45
+          }
+        },
+        {
+          "id": "revell-32169",
+          "name": "Granite grey RAL 7026",
+          "code": "32169",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#192D34",
+          "rgb": {
+            "r": 25,
+            "g": 45,
+            "b": 52
+          }
+        },
+        {
+          "id": "revell-32174",
+          "name": "Gunship grey",
+          "code": "32174",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#4E5357",
+          "rgb": {
+            "r": 78,
+            "g": 83,
+            "b": 87
+          }
+        },
+        {
+          "id": "revell-32175",
+          "name": "Stone grey RAL 7030",
+          "code": "32175",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#929487",
+          "rgb": {
+            "r": 146,
+            "g": 148,
+            "b": 135
+          }
+        },
+        {
+          "id": "revell-32176",
+          "name": "Light grey USAF",
+          "code": "32176",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#94999C",
+          "rgb": {
+            "r": 148,
+            "g": 153,
+            "b": 156
+          }
+        },
+        {
+          "id": "revell-32177",
+          "name": "Dust grey RAL 7012",
+          "code": "32177",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#4A5557",
+          "rgb": {
+            "r": 74,
+            "g": 85,
+            "b": 87
+          }
+        },
+        {
+          "id": "revell-32178",
+          "name": "Tank grey RAL 7024",
+          "code": "32178",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#283138",
+          "rgb": {
+            "r": 40,
+            "g": 49,
             "b": 56
           }
         },
         {
-          "id": "revell-yellow-2",
-          "name": "Yellow",
-          "code": null,
-          "set": "Email Color - Matt",
-          "hex": "#FCD937",
+          "id": "revell-32179",
+          "name": "Greyish blue RAL 7031",
+          "code": "32179",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#556972",
           "rgb": {
-            "r": 252,
-            "g": 217,
-            "b": 55
+            "r": 85,
+            "g": 105,
+            "b": 114
           }
         },
         {
-          "id": "revell-yellow-3",
-          "name": "Yellow",
-          "code": null,
-          "set": "Email Color - Silk",
-          "hex": "#FEA500",
+          "id": "revell-32180",
+          "name": "Mud brown RAL 8003",
+          "code": "32180",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#823F1F",
           "rgb": {
-            "r": 254,
-            "g": 165,
+            "r": 130,
+            "g": 63,
+            "b": 31
+          }
+        },
+        {
+          "id": "revell-32182",
+          "name": "Dark earh RAF",
+          "code": "32182",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#725833",
+          "rgb": {
+            "r": 114,
+            "g": 88,
+            "b": 51
+          }
+        },
+        {
+          "id": "revell-32183",
+          "name": "Rust",
+          "code": "32183",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#70433D",
+          "rgb": {
+            "r": 112,
+            "g": 67,
+            "b": 61
+          }
+        },
+        {
+          "id": "revell-32184",
+          "name": "Leather brown RAL 8027",
+          "code": "32184",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#41342E",
+          "rgb": {
+            "r": 65,
+            "g": 52,
+            "b": 46
+          }
+        },
+        {
+          "id": "revell-32185",
+          "name": "Brown RAL 8023",
+          "code": "32185",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#A44122",
+          "rgb": {
+            "r": 164,
+            "g": 65,
+            "b": 34
+          }
+        },
+        {
+          "id": "revell-32186",
+          "name": "Olive brown RAL 7008",
+          "code": "32186",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#80733F",
+          "rgb": {
+            "r": 128,
+            "g": 115,
+            "b": 63
+          }
+        },
+        {
+          "id": "revell-32187",
+          "name": "Earth brown RAL 7006",
+          "code": "32187",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#665F4D",
+          "rgb": {
+            "r": 102,
+            "g": 95,
+            "b": 77
+          }
+        },
+        {
+          "id": "revell-32188",
+          "name": "Ochre brown RAL 1011",
+          "code": "32188",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#C1924E",
+          "rgb": {
+            "r": 193,
+            "g": 146,
+            "b": 78
+          }
+        },
+        {
+          "id": "revell-32189",
+          "name": "Beige RAL 1019",
+          "code": "32189",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#9F8F75",
+          "rgb": {
+            "r": 159,
+            "g": 143,
+            "b": 117
+          }
+        },
+        {
+          "id": "revell-32190",
+          "name": "Silver",
+          "code": "32190",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#B3B8BC",
+          "rgb": {
+            "r": 179,
+            "g": 184,
+            "b": 188
+          }
+        },
+        {
+          "id": "revell-32191",
+          "name": "Steel",
+          "code": "32191",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#ABB0B4",
+          "rgb": {
+            "r": 171,
+            "g": 176,
+            "b": 180
+          }
+        },
+        {
+          "id": "revell-32192",
+          "name": "Brass",
+          "code": "32192",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#C19134",
+          "rgb": {
+            "r": 193,
+            "g": 145,
+            "b": 52
+          }
+        },
+        {
+          "id": "revell-32193",
+          "name": "Copper",
+          "code": "32193",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#C1876A",
+          "rgb": {
+            "r": 193,
+            "g": 135,
+            "b": 106
+          }
+        },
+        {
+          "id": "revell-32194",
+          "name": "Gold",
+          "code": "32194",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#D6BA8A",
+          "rgb": {
+            "r": 214,
+            "g": 186,
+            "b": 138
+          }
+        },
+        {
+          "id": "revell-32195",
+          "name": "Bronze",
+          "code": "32195",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#BB6754",
+          "rgb": {
+            "r": 187,
+            "g": 103,
+            "b": 84
+          }
+        },
+        {
+          "id": "revell-32199",
+          "name": "Aluminium",
+          "code": "32199",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#CBD0D4",
+          "rgb": {
+            "r": 203,
+            "g": 208,
+            "b": 212
+          }
+        },
+        {
+          "id": "revell-32301",
+          "name": "White RAL 9010",
+          "code": "32301",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#F4F3F6",
+          "rgb": {
+            "r": 244,
+            "g": 243,
+            "b": 246
+          }
+        },
+        {
+          "id": "revell-32302",
+          "name": "Black RAL 9005",
+          "code": "32302",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#010101",
+          "rgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "id": "revell-32310",
+          "name": "Lufthansa yellow RAL 1028",
+          "code": "32310",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#F5A802",
+          "rgb": {
+            "r": 245,
+            "g": 168,
+            "b": 2
+          }
+        },
+        {
+          "id": "revell-32312",
+          "name": "Luminous yellow RAL 1026",
+          "code": "32312",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#FBDF12",
+          "rgb": {
+            "r": 251,
+            "g": 223,
+            "b": 18
+          }
+        },
+        {
+          "id": "revell-32314",
+          "name": "Beige RAL 1001",
+          "code": "32314",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#DCC693",
+          "rgb": {
+            "r": 220,
+            "g": 198,
+            "b": 147
+          }
+        },
+        {
+          "id": "revell-32330",
+          "name": "Fiery red RAL 3000",
+          "code": "32330",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#B9181E",
+          "rgb": {
+            "r": 185,
+            "g": 24,
+            "b": 30
+          }
+        },
+        {
+          "id": "revell-32331",
+          "name": "Purple red RAL 3004",
+          "code": "32331",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#801525",
+          "rgb": {
+            "r": 128,
+            "g": 21,
+            "b": 37
+          }
+        },
+        {
+          "id": "revell-32332",
+          "name": "Luminous red RAL 3026",
+          "code": "32332",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#DC2213",
+          "rgb": {
+            "r": 220,
+            "g": 34,
+            "b": 19
+          }
+        },
+        {
+          "id": "revell-32350",
+          "name": "Lufthansa blue RAL 5013",
+          "code": "32350",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#002F61",
+          "rgb": {
+            "r": 0,
+            "g": 47,
+            "b": 97
+          }
+        },
+        {
+          "id": "revell-32360",
+          "name": "Fern green RAL 6025",
+          "code": "32360",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#4E7836",
+          "rgb": {
+            "r": 78,
+            "g": 120,
+            "b": 54
+          }
+        },
+        {
+          "id": "revell-32361",
+          "name": "Olive green RAL 6003",
+          "code": "32361",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#495432",
+          "rgb": {
+            "r": 73,
+            "g": 84,
+            "b": 50
+          }
+        },
+        {
+          "id": "revell-32362",
+          "name": "Greyish green RAL 6013",
+          "code": "32362",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#777254",
+          "rgb": {
+            "r": 119,
+            "g": 114,
+            "b": 84
+          }
+        },
+        {
+          "id": "revell-32363",
+          "name": "Dark green RAL 6020",
+          "code": "32363",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#123717",
+          "rgb": {
+            "r": 18,
+            "g": 55,
+            "b": 23
+          }
+        },
+        {
+          "id": "revell-32364",
+          "name": "Leaf green RAL 6001",
+          "code": "32364",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#027A3C",
+          "rgb": {
+            "r": 2,
+            "g": 122,
+            "b": 60
+          }
+        },
+        {
+          "id": "revell-32365",
+          "name": "Patina green RAL 6000",
+          "code": "32365",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#2C7965",
+          "rgb": {
+            "r": 44,
+            "g": 121,
+            "b": 101
+          }
+        },
+        {
+          "id": "revell-32371",
+          "name": "Light grey RAL 7035",
+          "code": "32371",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#D0D5CF",
+          "rgb": {
+            "r": 208,
+            "g": 213,
+            "b": 207
+          }
+        },
+        {
+          "id": "revell-32374",
+          "name": "Grey RAL 7001",
+          "code": "32374",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#88A0AB",
+          "rgb": {
+            "r": 136,
+            "g": 160,
+            "b": 171
+          }
+        },
+        {
+          "id": "revell-32378",
+          "name": "Dark grey RAL 7012",
+          "code": "32378",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#4C5155",
+          "rgb": {
+            "r": 76,
+            "g": 81,
+            "b": 85
+          }
+        },
+        {
+          "id": "revell-32381",
+          "name": "Brown RAL 8025",
+          "code": "32381",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#65473C",
+          "rgb": {
+            "r": 101,
+            "g": 71,
+            "b": 60
+          }
+        },
+        {
+          "id": "revell-32382",
+          "name": "Wood brown RAL 8001",
+          "code": "32382",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#A05601",
+          "rgb": {
+            "r": 160,
+            "g": 86,
+            "b": 1
+          }
+        },
+        {
+          "id": "revell-32730",
+          "name": "Orange",
+          "code": "32730",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#F89750",
+          "rgb": {
+            "r": 248,
+            "g": 151,
+            "b": 80
+          }
+        },
+        {
+          "id": "revell-32731",
+          "name": "Red",
+          "code": "32731",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#F66A56",
+          "rgb": {
+            "r": 246,
+            "g": 106,
+            "b": 86
+          }
+        },
+        {
+          "id": "revell-32752",
+          "name": "Blue",
+          "code": "32752",
+          "set": "Revell Email Color (Enamel)",
+          "hex": "#B1D8E7",
+          "rgb": {
+            "r": 177,
+            "g": 216,
+            "b": 231
+          }
+        },
+        {
+          "id": "revell-36101",
+          "name": "Clear",
+          "code": "36101",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#E5E6EA",
+          "rgb": {
+            "r": 229,
+            "g": 230,
+            "b": 234
+          }
+        },
+        {
+          "id": "revell-36102",
+          "name": "Clear",
+          "code": "36102",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#E3DEDD",
+          "rgb": {
+            "r": 227,
+            "g": 222,
+            "b": 221
+          }
+        },
+        {
+          "id": "revell-36104",
+          "name": "White RAL 9010",
+          "code": "36104",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#F4F3F7",
+          "rgb": {
+            "r": 244,
+            "g": 243,
+            "b": 247
+          }
+        },
+        {
+          "id": "revell-36105",
+          "name": "White RAL 9001",
+          "code": "36105",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#F5F0EC",
+          "rgb": {
+            "r": 245,
+            "g": 240,
+            "b": 236
+          }
+        },
+        {
+          "id": "revell-36106",
+          "name": "Tar black RAL 9021",
+          "code": "36106",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#282425",
+          "rgb": {
+            "r": 40,
+            "g": 36,
+            "b": 37
+          }
+        },
+        {
+          "id": "revell-36107",
+          "name": "Black RAL 9005",
+          "code": "36107",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#010504",
+          "rgb": {
+            "r": 1,
+            "g": 5,
+            "b": 4
+          }
+        },
+        {
+          "id": "revell-36108",
+          "name": "Black RAL 9011",
+          "code": "36108",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#131313",
+          "rgb": {
+            "r": 19,
+            "g": 19,
+            "b": 19
+          }
+        },
+        {
+          "id": "revell-36109",
+          "name": "Anthracite RAL 7021",
+          "code": "36109",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#1E2829",
+          "rgb": {
+            "r": 30,
+            "g": 40,
+            "b": 41
+          }
+        },
+        {
+          "id": "revell-36112",
+          "name": "Yellow RAL 1018",
+          "code": "36112",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#ECD001",
+          "rgb": {
+            "r": 236,
+            "g": 208,
+            "b": 1
+          }
+        },
+        {
+          "id": "revell-36115",
+          "name": "Yellow RAL 1017",
+          "code": "36115",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#F8BB00",
+          "rgb": {
+            "r": 248,
+            "g": 187,
             "b": 0
+          }
+        },
+        {
+          "id": "revell-36116",
+          "name": "Sandy yellow RAL 1024",
+          "code": "36116",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#B99740",
+          "rgb": {
+            "r": 185,
+            "g": 151,
+            "b": 64
+          }
+        },
+        {
+          "id": "revell-36117",
+          "name": "Africa brown",
+          "code": "36117",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#BE9261",
+          "rgb": {
+            "r": 190,
+            "g": 146,
+            "b": 97
+          }
+        },
+        {
+          "id": "revell-36125",
+          "name": "Luminous orange",
+          "code": "36125",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#E12E06",
+          "rgb": {
+            "r": 225,
+            "g": 46,
+            "b": 6
+          }
+        },
+        {
+          "id": "revell-36130",
+          "name": "Orange RAL 2004",
+          "code": "36130",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#E95A02",
+          "rgb": {
+            "r": 233,
+            "g": 90,
+            "b": 2
+          }
+        },
+        {
+          "id": "revell-36131",
+          "name": "Fiery red RAL 3000",
+          "code": "36131",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#BA1D24",
+          "rgb": {
+            "r": 186,
+            "g": 29,
+            "b": 36
+          }
+        },
+        {
+          "id": "revell-36134",
+          "name": "Ferrari red",
+          "code": "36134",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#AB1D2B",
+          "rgb": {
+            "r": 171,
+            "g": 29,
+            "b": 43
+          }
+        },
+        {
+          "id": "revell-36135",
+          "name": "Flesh",
+          "code": "36135",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#E1A782",
+          "rgb": {
+            "r": 225,
+            "g": 167,
+            "b": 130
+          }
+        },
+        {
+          "id": "revell-36136",
+          "name": "Carmine red RAL 3002",
+          "code": "36136",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#B00A22",
+          "rgb": {
+            "r": 176,
+            "g": 10,
+            "b": 34
+          }
+        },
+        {
+          "id": "revell-36137",
+          "name": "Reddish brown RAL 3009",
+          "code": "36137",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#80332D",
+          "rgb": {
+            "r": 128,
+            "g": 51,
+            "b": 45
+          }
+        },
+        {
+          "id": "revell-36139",
+          "name": "Dark green",
+          "code": "36139",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#23513C",
+          "rgb": {
+            "r": 35,
+            "g": 81,
+            "b": 60
+          }
+        },
+        {
+          "id": "revell-36140",
+          "name": "Black green",
+          "code": "36140",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#012E24",
+          "rgb": {
+            "r": 1,
+            "g": 46,
+            "b": 36
+          }
+        },
+        {
+          "id": "revell-36142",
+          "name": "Yellowish olive",
+          "code": "36142",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#313529",
+          "rgb": {
+            "r": 49,
+            "g": 53,
+            "b": 41
+          }
+        },
+        {
+          "id": "revell-36143",
+          "name": "Medium grey",
+          "code": "36143",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#7E8386",
+          "rgb": {
+            "r": 126,
+            "g": 131,
+            "b": 134
+          }
+        },
+        {
+          "id": "revell-36145",
+          "name": "Light olive RAL 7003",
+          "code": "36145",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#707362",
+          "rgb": {
+            "r": 112,
+            "g": 115,
+            "b": 98
+          }
+        },
+        {
+          "id": "revell-36146",
+          "name": "Nato olive RAL 7013",
+          "code": "36146",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#4E4734",
+          "rgb": {
+            "r": 78,
+            "g": 71,
+            "b": 52
+          }
+        },
+        {
+          "id": "revell-36147",
+          "name": "Mouse grey RAL 7005",
+          "code": "36147",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#6A6E6D",
+          "rgb": {
+            "r": 106,
+            "g": 110,
+            "b": 109
+          }
+        },
+        {
+          "id": "revell-36148",
+          "name": "Sea green RAL 6028",
+          "code": "36148",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#03503C",
+          "rgb": {
+            "r": 3,
+            "g": 80,
+            "b": 60
+          }
+        },
+        {
+          "id": "revell-36149",
+          "name": "Light blue",
+          "code": "36149",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#8FB9B1",
+          "rgb": {
+            "r": 143,
+            "g": 185,
+            "b": 177
+          }
+        },
+        {
+          "id": "revell-36150",
+          "name": "Light blue RAL 5012",
+          "code": "36150",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#0596C7",
+          "rgb": {
+            "r": 5,
+            "g": 150,
+            "b": 199
+          }
+        },
+        {
+          "id": "revell-36151",
+          "name": "Ultramarine RAL 5002",
+          "code": "36151",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#244281",
+          "rgb": {
+            "r": 36,
+            "g": 66,
+            "b": 129
+          }
+        },
+        {
+          "id": "revell-36152",
+          "name": "Blue RAL 5005",
+          "code": "36152",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#015B90",
+          "rgb": {
+            "r": 1,
+            "g": 91,
+            "b": 144
+          }
+        },
+        {
+          "id": "revell-36154",
+          "name": "Night blue RAL 5022",
+          "code": "36154",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#21274E",
+          "rgb": {
+            "r": 33,
+            "g": 39,
+            "b": 78
+          }
+        },
+        {
+          "id": "revell-36155",
+          "name": "Light green RAL 6027",
+          "code": "36155",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#A2E1D6",
+          "rgb": {
+            "r": 162,
+            "g": 225,
+            "b": 214
+          }
+        },
+        {
+          "id": "revell-36156",
+          "name": "Blue RAL 5000",
+          "code": "36156",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#204677",
+          "rgb": {
+            "r": 32,
+            "g": 70,
+            "b": 119
+          }
+        },
+        {
+          "id": "revell-36157",
+          "name": "Grey RAL 7000",
+          "code": "36157",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#6A8692",
+          "rgb": {
+            "r": 106,
+            "g": 134,
+            "b": 146
+          }
+        },
+        {
+          "id": "revell-36159",
+          "name": "Sky",
+          "code": "36159",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#C7D2B0",
+          "rgb": {
+            "r": 199,
+            "g": 210,
+            "b": 176
+          }
+        },
+        {
+          "id": "revell-36161",
+          "name": "Emerald green RAL 6029",
+          "code": "36161",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#038942",
+          "rgb": {
+            "r": 3,
+            "g": 137,
+            "b": 66
+          }
+        },
+        {
+          "id": "revell-36162",
+          "name": "Sea green RAL 6005",
+          "code": "36162",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#0D4529",
+          "rgb": {
+            "r": 13,
+            "g": 69,
+            "b": 41
+          }
+        },
+        {
+          "id": "revell-36165",
+          "name": "Bronze green RAL 6031",
+          "code": "36165",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#3D4633",
+          "rgb": {
+            "r": 61,
+            "g": 70,
+            "b": 51
+          }
+        },
+        {
+          "id": "revell-36166",
+          "name": "Olive grey RAL 7010",
+          "code": "36166",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#4C534C",
+          "rgb": {
+            "r": 76,
+            "g": 83,
+            "b": 76
+          }
+        },
+        {
+          "id": "revell-36167",
+          "name": "Greenish grey RAL 7009",
+          "code": "36167",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#4A614F",
+          "rgb": {
+            "r": 74,
+            "g": 97,
+            "b": 79
+          }
+        },
+        {
+          "id": "revell-36168",
+          "name": "Dark green RAF",
+          "code": "36168",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#223A2D",
+          "rgb": {
+            "r": 34,
+            "g": 58,
+            "b": 45
+          }
+        },
+        {
+          "id": "revell-36169",
+          "name": "Granite grey RAL 7026",
+          "code": "36169",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#192D34",
+          "rgb": {
+            "r": 25,
+            "g": 45,
+            "b": 52
+          }
+        },
+        {
+          "id": "revell-36174",
+          "name": "Gunship grey",
+          "code": "36174",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#4E5357",
+          "rgb": {
+            "r": 78,
+            "g": 83,
+            "b": 87
+          }
+        },
+        {
+          "id": "revell-36175",
+          "name": "Stone grey RAL 7030",
+          "code": "36175",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#929487",
+          "rgb": {
+            "r": 146,
+            "g": 148,
+            "b": 135
+          }
+        },
+        {
+          "id": "revell-36176",
+          "name": "Light grey USAF",
+          "code": "36176",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#94999C",
+          "rgb": {
+            "r": 148,
+            "g": 153,
+            "b": 156
+          }
+        },
+        {
+          "id": "revell-36177",
+          "name": "Dust grey RAL 7012",
+          "code": "36177",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#4A5557",
+          "rgb": {
+            "r": 74,
+            "g": 85,
+            "b": 87
+          }
+        },
+        {
+          "id": "revell-36178",
+          "name": "Tank grey RAL 7024",
+          "code": "36178",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#283138",
+          "rgb": {
+            "r": 40,
+            "g": 49,
+            "b": 56
+          }
+        },
+        {
+          "id": "revell-36179",
+          "name": "Greyish blue RAL 7031",
+          "code": "36179",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#556972",
+          "rgb": {
+            "r": 85,
+            "g": 105,
+            "b": 114
+          }
+        },
+        {
+          "id": "revell-36180",
+          "name": "Mud brown RAL 8003",
+          "code": "36180",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#844223",
+          "rgb": {
+            "r": 132,
+            "g": 66,
+            "b": 35
+          }
+        },
+        {
+          "id": "revell-36182",
+          "name": "Dark earh RAF",
+          "code": "36182",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#725833",
+          "rgb": {
+            "r": 114,
+            "g": 88,
+            "b": 51
+          }
+        },
+        {
+          "id": "revell-36183",
+          "name": "Rust",
+          "code": "36183",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#70433D",
+          "rgb": {
+            "r": 112,
+            "g": 67,
+            "b": 61
+          }
+        },
+        {
+          "id": "revell-36184",
+          "name": "Leather brown RAL 8027",
+          "code": "36184",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#41342E",
+          "rgb": {
+            "r": 65,
+            "g": 52,
+            "b": 46
+          }
+        },
+        {
+          "id": "revell-36185",
+          "name": "Brown RAL 8023",
+          "code": "36185",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#A44022",
+          "rgb": {
+            "r": 164,
+            "g": 64,
+            "b": 34
+          }
+        },
+        {
+          "id": "revell-36186",
+          "name": "Olive brown RAL 7008",
+          "code": "36186",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#80733F",
+          "rgb": {
+            "r": 128,
+            "g": 115,
+            "b": 63
+          }
+        },
+        {
+          "id": "revell-36187",
+          "name": "Earth brown RAL 7006",
+          "code": "36187",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#665F4D",
+          "rgb": {
+            "r": 102,
+            "g": 95,
+            "b": 77
+          }
+        },
+        {
+          "id": "revell-36188",
+          "name": "Ochre brown RAL 1011",
+          "code": "36188",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#C1924E",
+          "rgb": {
+            "r": 193,
+            "g": 146,
+            "b": 78
+          }
+        },
+        {
+          "id": "revell-36189",
+          "name": "Beige RAL 1019",
+          "code": "36189",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#9F8F75",
+          "rgb": {
+            "r": 159,
+            "g": 143,
+            "b": 117
+          }
+        },
+        {
+          "id": "revell-36190",
+          "name": "Silver",
+          "code": "36190",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#B2B7BB",
+          "rgb": {
+            "r": 178,
+            "g": 183,
+            "b": 187
+          }
+        },
+        {
+          "id": "revell-36191",
+          "name": "Steel",
+          "code": "36191",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#ABB0B4",
+          "rgb": {
+            "r": 171,
+            "g": 176,
+            "b": 180
+          }
+        },
+        {
+          "id": "revell-36192",
+          "name": "Brass",
+          "code": "36192",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#C19034",
+          "rgb": {
+            "r": 193,
+            "g": 144,
+            "b": 52
+          }
+        },
+        {
+          "id": "revell-36193",
+          "name": "Copper",
+          "code": "36193",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#C1876A",
+          "rgb": {
+            "r": 193,
+            "g": 135,
+            "b": 106
+          }
+        },
+        {
+          "id": "revell-36194",
+          "name": "Gold",
+          "code": "36194",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#D6B98A",
+          "rgb": {
+            "r": 214,
+            "g": 185,
+            "b": 138
+          }
+        },
+        {
+          "id": "revell-36195",
+          "name": "Bronze",
+          "code": "36195",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#BD6755",
+          "rgb": {
+            "r": 189,
+            "g": 103,
+            "b": 85
+          }
+        },
+        {
+          "id": "revell-36199",
+          "name": "Aluminium",
+          "code": "36199",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#CBD0D4",
+          "rgb": {
+            "r": 203,
+            "g": 208,
+            "b": 212
+          }
+        },
+        {
+          "id": "revell-36301",
+          "name": "White RAL 9010",
+          "code": "36301",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#F4F3F6",
+          "rgb": {
+            "r": 244,
+            "g": 243,
+            "b": 246
+          }
+        },
+        {
+          "id": "revell-36302",
+          "name": "Black RAL 9005",
+          "code": "36302",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#010101",
+          "rgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "id": "revell-36310",
+          "name": "Lufthansa yellow RAL 1028",
+          "code": "36310",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#F5A802",
+          "rgb": {
+            "r": 245,
+            "g": 168,
+            "b": 2
+          }
+        },
+        {
+          "id": "revell-36312",
+          "name": "Luminous yellow RAL 1026",
+          "code": "36312",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#FBDF15",
+          "rgb": {
+            "r": 251,
+            "g": 223,
+            "b": 21
+          }
+        },
+        {
+          "id": "revell-36314",
+          "name": "Beige RAL 1001",
+          "code": "36314",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#DCC694",
+          "rgb": {
+            "r": 220,
+            "g": 198,
+            "b": 148
+          }
+        },
+        {
+          "id": "revell-36330",
+          "name": "Fiery red RAL 3000",
+          "code": "36330",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#B9181E",
+          "rgb": {
+            "r": 185,
+            "g": 24,
+            "b": 30
+          }
+        },
+        {
+          "id": "revell-36331",
+          "name": "Purple red RAL 3004",
+          "code": "36331",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#821525",
+          "rgb": {
+            "r": 130,
+            "g": 21,
+            "b": 37
+          }
+        },
+        {
+          "id": "revell-36332",
+          "name": "Luminous red RAL 3026",
+          "code": "36332",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#DC2313",
+          "rgb": {
+            "r": 220,
+            "g": 35,
+            "b": 19
+          }
+        },
+        {
+          "id": "revell-36350",
+          "name": "Lufthansa blue RAL 5013",
+          "code": "36350",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#002F60",
+          "rgb": {
+            "r": 0,
+            "g": 47,
+            "b": 96
+          }
+        },
+        {
+          "id": "revell-36360",
+          "name": "Fern green RAL 6025",
+          "code": "36360",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#4E7836",
+          "rgb": {
+            "r": 78,
+            "g": 120,
+            "b": 54
+          }
+        },
+        {
+          "id": "revell-36361",
+          "name": "Olive green RAL 6003",
+          "code": "36361",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#485332",
+          "rgb": {
+            "r": 72,
+            "g": 83,
+            "b": 50
+          }
+        },
+        {
+          "id": "revell-36362",
+          "name": "Greyish green RAL 6013",
+          "code": "36362",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#797455",
+          "rgb": {
+            "r": 121,
+            "g": 116,
+            "b": 85
+          }
+        },
+        {
+          "id": "revell-36363",
+          "name": "Dark green RAL 6020",
+          "code": "36363",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#163919",
+          "rgb": {
+            "r": 22,
+            "g": 57,
+            "b": 25
+          }
+        },
+        {
+          "id": "revell-36364",
+          "name": "Leaf green RAL 6001",
+          "code": "36364",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#027A3C",
+          "rgb": {
+            "r": 2,
+            "g": 122,
+            "b": 60
+          }
+        },
+        {
+          "id": "revell-36365",
+          "name": "Patina green RAL 6000",
+          "code": "36365",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#327A67",
+          "rgb": {
+            "r": 50,
+            "g": 122,
+            "b": 103
+          }
+        },
+        {
+          "id": "revell-36371",
+          "name": "Light grey RAL 7035",
+          "code": "36371",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#D0D5CF",
+          "rgb": {
+            "r": 208,
+            "g": 213,
+            "b": 207
+          }
+        },
+        {
+          "id": "revell-36374",
+          "name": "Grey RAL 7001",
+          "code": "36374",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#87A0AB",
+          "rgb": {
+            "r": 135,
+            "g": 160,
+            "b": 171
+          }
+        },
+        {
+          "id": "revell-36378",
+          "name": "Dark grey RAL 7012",
+          "code": "36378",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#4C5155",
+          "rgb": {
+            "r": 76,
+            "g": 81,
+            "b": 85
+          }
+        },
+        {
+          "id": "revell-36381",
+          "name": "Brown RAL 8025",
+          "code": "36381",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#65473C",
+          "rgb": {
+            "r": 101,
+            "g": 71,
+            "b": 60
+          }
+        },
+        {
+          "id": "revell-36382",
+          "name": "Wood brown RAL 8001",
+          "code": "36382",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#A05601",
+          "rgb": {
+            "r": 160,
+            "g": 86,
+            "b": 1
+          }
+        },
+        {
+          "id": "revell-36730",
+          "name": "Orange",
+          "code": "36730",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#F99851",
+          "rgb": {
+            "r": 249,
+            "g": 152,
+            "b": 81
+          }
+        },
+        {
+          "id": "revell-36731",
+          "name": "Red",
+          "code": "36731",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#F66C58",
+          "rgb": {
+            "r": 246,
+            "g": 108,
+            "b": 88
+          }
+        },
+        {
+          "id": "revell-36752",
+          "name": "Blue",
+          "code": "36752",
+          "set": "Revell Aqua Color (Acrylic)",
+          "hex": "#B4DAE8",
+          "rgb": {
+            "r": 180,
+            "g": 218,
+            "b": 232
+          }
+        },
+        {
+          "id": "revell-34101",
+          "name": "Clear",
+          "code": "34101",
+          "set": "Revell Spray Color",
+          "hex": "#E5E6EA",
+          "rgb": {
+            "r": 229,
+            "g": 230,
+            "b": 234
+          }
+        },
+        {
+          "id": "revell-34102",
+          "name": "Clear",
+          "code": "34102",
+          "set": "Revell Spray Color",
+          "hex": "#E3DEDD",
+          "rgb": {
+            "r": 227,
+            "g": 222,
+            "b": 221
+          }
+        },
+        {
+          "id": "revell-34104",
+          "name": "White RAL 9010",
+          "code": "34104",
+          "set": "Revell Spray Color",
+          "hex": "#F4F3F7",
+          "rgb": {
+            "r": 244,
+            "g": 243,
+            "b": 247
+          }
+        },
+        {
+          "id": "revell-34105",
+          "name": "White RAL 9001",
+          "code": "34105",
+          "set": "Revell Spray Color",
+          "hex": "#F5F0EC",
+          "rgb": {
+            "r": 245,
+            "g": 240,
+            "b": 236
+          }
+        },
+        {
+          "id": "revell-34107",
+          "name": "Black RAL 9005",
+          "code": "34107",
+          "set": "Revell Spray Color",
+          "hex": "#010504",
+          "rgb": {
+            "r": 1,
+            "g": 5,
+            "b": 4
+          }
+        },
+        {
+          "id": "revell-34108",
+          "name": "Black RAL 9011",
+          "code": "34108",
+          "set": "Revell Spray Color",
+          "hex": "#131313",
+          "rgb": {
+            "r": 19,
+            "g": 19,
+            "b": 19
+          }
+        },
+        {
+          "id": "revell-34109",
+          "name": "Anthracite RAL 7021",
+          "code": "34109",
+          "set": "Revell Spray Color",
+          "hex": "#1F2829",
+          "rgb": {
+            "r": 31,
+            "g": 40,
+            "b": 41
+          }
+        },
+        {
+          "id": "revell-34112",
+          "name": "Yellow RAL 1018",
+          "code": "34112",
+          "set": "Revell Spray Color",
+          "hex": "#ECD001",
+          "rgb": {
+            "r": 236,
+            "g": 208,
+            "b": 1
+          }
+        },
+        {
+          "id": "revell-34115",
+          "name": "Yellow RAL 1017",
+          "code": "34115",
+          "set": "Revell Spray Color",
+          "hex": "#F8BB00",
+          "rgb": {
+            "r": 248,
+            "g": 187,
+            "b": 0
+          }
+        },
+        {
+          "id": "revell-34116",
+          "name": "Sandy yellow RAL 1024",
+          "code": "34116",
+          "set": "Revell Spray Color",
+          "hex": "#B99740",
+          "rgb": {
+            "r": 185,
+            "g": 151,
+            "b": 64
+          }
+        },
+        {
+          "id": "revell-34125",
+          "name": "Luminous orange",
+          "code": "34125",
+          "set": "Revell Spray Color",
+          "hex": "#E12E06",
+          "rgb": {
+            "r": 225,
+            "g": 46,
+            "b": 6
+          }
+        },
+        {
+          "id": "revell-34131",
+          "name": "Fiery red RAL 3000",
+          "code": "34131",
+          "set": "Revell Spray Color",
+          "hex": "#BA1D24",
+          "rgb": {
+            "r": 186,
+            "g": 29,
+            "b": 36
+          }
+        },
+        {
+          "id": "revell-34134",
+          "name": "Ferrari red",
+          "code": "34134",
+          "set": "Revell Spray Color",
+          "hex": "#AB1D2B",
+          "rgb": {
+            "r": 171,
+            "g": 29,
+            "b": 43
+          }
+        },
+        {
+          "id": "revell-34136",
+          "name": "Carmine red RAL 3002",
+          "code": "34136",
+          "set": "Revell Spray Color",
+          "hex": "#B00A23",
+          "rgb": {
+            "r": 176,
+            "g": 10,
+            "b": 35
+          }
+        },
+        {
+          "id": "revell-34146",
+          "name": "Nato olive RAL 7013",
+          "code": "34146",
+          "set": "Revell Spray Color",
+          "hex": "#4E4734",
+          "rgb": {
+            "r": 78,
+            "g": 71,
+            "b": 52
+          }
+        },
+        {
+          "id": "revell-34152",
+          "name": "Blue RAL 5005",
+          "code": "34152",
+          "set": "Revell Spray Color",
+          "hex": "#015B90",
+          "rgb": {
+            "r": 1,
+            "g": 91,
+            "b": 144
+          }
+        },
+        {
+          "id": "revell-34156",
+          "name": "Blue RAL 5000",
+          "code": "34156",
+          "set": "Revell Spray Color",
+          "hex": "#204677",
+          "rgb": {
+            "r": 32,
+            "g": 70,
+            "b": 119
+          }
+        },
+        {
+          "id": "revell-34157",
+          "name": "Grey RAL 7000",
+          "code": "34157",
+          "set": "Revell Spray Color",
+          "hex": "#6A8691",
+          "rgb": {
+            "r": 106,
+            "g": 134,
+            "b": 145
+          }
+        },
+        {
+          "id": "revell-34176",
+          "name": "Light grey USAF",
+          "code": "34176",
+          "set": "Revell Spray Color",
+          "hex": "#94999C",
+          "rgb": {
+            "r": 148,
+            "g": 153,
+            "b": 156
+          }
+        },
+        {
+          "id": "revell-34178",
+          "name": "Tank grey RAL 7024",
+          "code": "34178",
+          "set": "Revell Spray Color",
+          "hex": "#283138",
+          "rgb": {
+            "r": 40,
+            "g": 49,
+            "b": 56
+          }
+        },
+        {
+          "id": "revell-34185",
+          "name": "Brown RAL 8023",
+          "code": "34185",
+          "set": "Revell Spray Color",
+          "hex": "#A44122",
+          "rgb": {
+            "r": 164,
+            "g": 65,
+            "b": 34
+          }
+        },
+        {
+          "id": "revell-34188",
+          "name": "Ochre brown RAL 1011",
+          "code": "34188",
+          "set": "Revell Spray Color",
+          "hex": "#C1924E",
+          "rgb": {
+            "r": 193,
+            "g": 146,
+            "b": 78
+          }
+        },
+        {
+          "id": "revell-34190",
+          "name": "Silver",
+          "code": "34190",
+          "set": "Revell Spray Color",
+          "hex": "#B3B8BC",
+          "rgb": {
+            "r": 179,
+            "g": 184,
+            "b": 188
+          }
+        },
+        {
+          "id": "revell-34191",
+          "name": "Steel",
+          "code": "34191",
+          "set": "Revell Spray Color",
+          "hex": "#ABB0B4",
+          "rgb": {
+            "r": 171,
+            "g": 176,
+            "b": 180
+          }
+        },
+        {
+          "id": "revell-34194",
+          "name": "Gold",
+          "code": "34194",
+          "set": "Revell Spray Color",
+          "hex": "#D6BA8A",
+          "rgb": {
+            "r": 214,
+            "g": 186,
+            "b": 138
+          }
+        },
+        {
+          "id": "revell-34199",
+          "name": "Aluminium",
+          "code": "34199",
+          "set": "Revell Spray Color",
+          "hex": "#CBD0D4",
+          "rgb": {
+            "r": 203,
+            "g": 208,
+            "b": 212
+          }
+        },
+        {
+          "id": "revell-34200",
+          "name": "RBR Blue",
+          "code": "34200",
+          "set": "Revell Spray Color",
+          "hex": null,
+          "rgb": null
+        },
+        {
+          "id": "revell-34301",
+          "name": "White RAL 9010",
+          "code": "34301",
+          "set": "Revell Spray Color",
+          "hex": "#F4F3F6",
+          "rgb": {
+            "r": 244,
+            "g": 243,
+            "b": 246
+          }
+        },
+        {
+          "id": "revell-34302",
+          "name": "Black RAL 9005",
+          "code": "34302",
+          "set": "Revell Spray Color",
+          "hex": "#010101",
+          "rgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "id": "revell-34330",
+          "name": "Fiery red RAL 3000",
+          "code": "34330",
+          "set": "Revell Spray Color",
+          "hex": "#B9181E",
+          "rgb": {
+            "r": 185,
+            "g": 24,
+            "b": 30
+          }
+        },
+        {
+          "id": "revell-34371",
+          "name": "Light grey RAL 7035",
+          "code": "34371",
+          "set": "Revell Spray Color",
+          "hex": "#D0D5CF",
+          "rgb": {
+            "r": 208,
+            "g": 213,
+            "b": 207
+          }
+        },
+        {
+          "id": "revell-34374",
+          "name": "Grey RAL 7001",
+          "code": "34374",
+          "set": "Revell Spray Color",
+          "hex": "#88A0AB",
+          "rgb": {
+            "r": 136,
+            "g": 160,
+            "b": 171
           }
         }
       ]
