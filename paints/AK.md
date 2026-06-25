@@ -574,34 +574,34 @@
 |Russian Uniform|AK17077|Quick Gen|79|87|32|![#4F5720](https://placehold.co/15x15/4F5720/4F5720.png) `#4F5720`|
 |Russian Blue|AK17078|Quick Gen|15|57|95|![#0F395F](https://placehold.co/15x15/0F395F/0F395F.png) `#0F395F`|
 |Desert Sand|AK17079|Quick Gen|160|108|18|![#A06C12](https://placehold.co/15x15/A06C12/A06C12.png) `#A06C12`|
-||AK16001|The Inks|42|20|15|![#2A140F](https://placehold.co/15x15/2A140F/2A140F.png) `#2A140F`|
-||AK16002|The Inks|0|27|64|![#001B40](https://placehold.co/15x15/001B40/001B40.png) `#001B40`|
-||AK16003|The Inks|125|29|45|![#7D1D2D](https://placehold.co/15x15/7D1D2D/7D1D2D.png) `#7D1D2D`|
-||AK16004|The Inks|23|5|55|![#170537](https://placehold.co/15x15/170537/170537.png) `#170537`|
-||AK16005|The Inks|36|31|31|![#241F1F](https://placehold.co/15x15/241F1F/241F1F.png) `#241F1F`|
-|Yellow|AK16006|The Inks|255|209|0|![#FFD100](https://placehold.co/15x15/FFD100/FFD100.png) `#FFD100`|
-||AK16007|The Inks|28|49|30|![#1C311E](https://placehold.co/15x15/1C311E/1C311E.png) `#1C311E`|
-||AK16008|The Inks|0|130|58|![#00823A](https://placehold.co/15x15/00823A/00823A.png) `#00823A`|
-||AK16009|The Inks|198|39|30|![#C6271E](https://placehold.co/15x15/C6271E/C6271E.png) `#C6271E`|
-||AK16010|The Inks|89|34|23|![#592217](https://placehold.co/15x15/592217/592217.png) `#592217`|
-||AK16011|The Inks|44|40|31|![#2C281F](https://placehold.co/15x15/2C281F/2C281F.png) `#2C281F`|
-||AK16012|The Inks|234|90|11|![#EA5A0B](https://placehold.co/15x15/EA5A0B/EA5A0B.png) `#EA5A0B`|
+|Wood Brown|AK16001|The Inks|42|20|15|![#2A140F](https://placehold.co/15x15/2A140F/2A140F.png) `#2A140F`|
+|Deep Blue|AK16002|The Inks|0|27|64|![#001B40](https://placehold.co/15x15/001B40/001B40.png) `#001B40`|
+|Pure Magenta|AK16003|The Inks|125|29|45|![#7D1D2D](https://placehold.co/15x15/7D1D2D/7D1D2D.png) `#7D1D2D`|
+|Night Purple|AK16004|The Inks|23|5|55|![#170537](https://placehold.co/15x15/170537/170537.png) `#170537`|
+|Black|AK16005|The Inks|36|31|31|![#241F1F](https://placehold.co/15x15/241F1F/241F1F.png) `#241F1F`|
+|Primary Yellow|AK16006|The Inks|255|209|0|![#FFD100](https://placehold.co/15x15/FFD100/FFD100.png) `#FFD100`|
+|Camo Green|AK16007|The Inks|28|49|30|![#1C311E](https://placehold.co/15x15/1C311E/1C311E.png) `#1C311E`|
+|Nature Green|AK16008|The Inks|0|130|58|![#00823A](https://placehold.co/15x15/00823A/00823A.png) `#00823A`|
+|Blood Scarlet|AK16009|The Inks|198|39|30|![#C6271E](https://placehold.co/15x15/C6271E/C6271E.png) `#C6271E`|
+|Intense Sienna|AK16010|The Inks|89|34|23|![#592217](https://placehold.co/15x15/592217/592217.png) `#592217`|
+|Brown Black|AK16011|The Inks|44|40|31|![#2C281F](https://placehold.co/15x15/2C281F/2C281F.png) `#2C281F`|
+|Fire Orange|AK16012|The Inks|234|90|11|![#EA5A0B](https://placehold.co/15x15/EA5A0B/EA5A0B.png) `#EA5A0B`|
 |White|AK16013|The Inks|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
-||AK16014|The Inks|19|60|107|![#133C6B](https://placehold.co/15x15/133C6B/133C6B.png) `#133C6B`|
-||AK16041|The Inks|229|0|104|![#E50068](https://placehold.co/15x15/E50068/E50068.png) `#E50068`|
-||AK16042|The Inks|228|1|52|![#E40134](https://placehold.co/15x15/E40134/E40134.png) `#E40134`|
-||AK16043|The Inks|237|111|3|![#ED6F03](https://placehold.co/15x15/ED6F03/ED6F03.png) `#ED6F03`|
-||AK16044|The Inks|255|237|0|![#FFED00](https://placehold.co/15x15/FFED00/FFED00.png) `#FFED00`|
-||AK16045|The Inks|175|202|19|![#AFCA13](https://placehold.co/15x15/AFCA13/AFCA13.png) `#AFCA13`|
-||AK16046|The Inks|2|75|152|![#024B98](https://placehold.co/15x15/024B98/024B98.png) `#024B98`|
-||AK16047|The Inks|79|50|18|![#4F3212](https://placehold.co/15x15/4F3212/4F3212.png) `#4F3212`|
-||AK16048|The Inks|101|27|32|![#651B20](https://placehold.co/15x15/651B20/651B20.png) `#651B20`|
-||AK16049|The Inks|140|190|34|![#8CBE22](https://placehold.co/15x15/8CBE22/8CBE22.png) `#8CBE22`|
-||AK16050|The Inks|29|66|30|![#1D421E](https://placehold.co/15x15/1D421E/1D421E.png) `#1D421E`|
-|De|AK16051|The Inks|229|59|44|![#E53B2C](https://placehold.co/15x15/E53B2C/E53B2C.png) `#E53B2C`|
-|Tintas|AK16052|The Inks|57|34|102|![#392266](https://placehold.co/15x15/392266/392266.png) `#392266`|
-||AK16053|The Inks|234|180|38|![#EAB426](https://placehold.co/15x15/EAB426/EAB426.png) `#EAB426`|
-||AK16054|The Inks|0|158|227|![#009EE3](https://placehold.co/15x15/009EE3/009EE3.png) `#009EE3`|
+|Ocean Blue|AK16014|The Inks|19|60|107|![#133C6B](https://placehold.co/15x15/133C6B/133C6B.png) `#133C6B`|
+|Fluor Magenta|AK16041|The Inks|229|0|104|![#E50068](https://placehold.co/15x15/E50068/E50068.png) `#E50068`|
+|Fluor Red|AK16042|The Inks|228|1|52|![#E40134](https://placehold.co/15x15/E40134/E40134.png) `#E40134`|
+|Fluor Orange|AK16043|The Inks|237|111|3|![#ED6F03](https://placehold.co/15x15/ED6F03/ED6F03.png) `#ED6F03`|
+|Fluor Yellow|AK16044|The Inks|255|237|0|![#FFED00](https://placehold.co/15x15/FFED00/FFED00.png) `#FFED00`|
+|Fluor Green|AK16045|The Inks|175|202|19|![#AFCA13](https://placehold.co/15x15/AFCA13/AFCA13.png) `#AFCA13`|
+|Fluor Blue|AK16046|The Inks|2|75|152|![#024B98](https://placehold.co/15x15/024B98/024B98.png) `#024B98`|
+|Mahogani|AK16047|The Inks|79|50|18|![#4F3212](https://placehold.co/15x15/4F3212/4F3212.png) `#4F3212`|
+|Crimson|AK16048|The Inks|101|27|32|![#651B20](https://placehold.co/15x15/651B20/651B20.png) `#651B20`|
+|Lime Green|AK16049|The Inks|140|190|34|![#8CBE22](https://placehold.co/15x15/8CBE22/8CBE22.png) `#8CBE22`|
+|Toad Green|AK16050|The Inks|29|66|30|![#1D421E](https://placehold.co/15x15/1D421E/1D421E.png) `#1D421E`|
+|Forge Red|AK16051|The Inks|229|59|44|![#E53B2C](https://placehold.co/15x15/E53B2C/E53B2C.png) `#E53B2C`|
+|Eggplant|AK16052|The Inks|57|34|102|![#392266](https://placehold.co/15x15/392266/392266.png) `#392266`|
+|Light Wood|AK16053|The Inks|234|180|38|![#EAB426](https://placehold.co/15x15/EAB426/EAB426.png) `#EAB426`|
+|Cyan|AK16054|The Inks|0|158|227|![#009EE3](https://placehold.co/15x15/009EE3/009EE3.png) `#009EE3`|
 |Flat Varnish|RC801|Real Colors|151|151|150|![#979796](https://placehold.co/15x15/979796/979796.png) `#979796`|
 |Satin Varnish|RC802|Real Colors|132|133|132|![#848584](https://placehold.co/15x15/848584/848584.png) `#848584`|
 |Gloss Varnish|RC803|Real Colors|155|155|153|![#9B9B99](https://placehold.co/15x15/9B9B99/9B9B99.png) `#9B9B99`|
@@ -845,8 +845,8 @@
 |North Africa Dust|AK041|Pigments|216|164|94|![#D8A45E](https://placehold.co/15x15/D8A45E/D8A45E.png) `#D8A45E`|
 |European Earth|AK042|Pigments|161|135|118|![#A18776](https://placehold.co/15x15/A18776/A18776.png) `#A18776`|
 |Medium Rust|AK043|Pigments|113|44|14|![#712C0E](https://placehold.co/15x15/712C0E/712C0E.png) `#712C0E`|
-|Light Rust Pig- Ment|AK044|Pigments|149|50|13|![#95320D](https://placehold.co/15x15/95320D/95320D.png) `#95320D`|
-|Fixer Models Bases. Once Return To Dry Color.|AK048|Pigments|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|
+|Light Rust Pigment|AK044|Pigments|149|50|13|![#95320D](https://placehold.co/15x15/95320D/95320D.png) `#95320D`|
+|Pigment Fixer|AK048|Pigments|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|
 |Dark Earth|AK081|Pigments|81|39|16|![#512710](https://placehold.co/15x15/512710/512710.png) `#512710`|
 |Track Rust|AK085|Pigments|103|32|10|![#67200A](https://placehold.co/15x15/67200A/67200A.png) `#67200A`|
 |Dark Steel|AK086|Pigments|41|41|41|![#292929](https://placehold.co/15x15/292929/292929.png) `#292929`|
@@ -869,18 +869,18 @@
 |Jet Exhaust|AK486|XTREME Metal|35|34|40|![#232228](https://placehold.co/15x15/232228/232228.png) `#232228`|
 |Blue Electric Metal|AK487|XTREME Metal|49|60|71|![#313C47](https://placehold.co/15x15/313C47/313C47.png) `#313C47`|
 |Matte Aluminum|AK488|XTREME Metal|174|174|174|![#AEAEAE](https://placehold.co/15x15/AEAEAE/AEAEAE.png) `#AEAEAE`|
-||AK450|True Metal|||||
-||AK451|True Metal|||||
-||AK452|True Metal|||||
-||AK453|True Metal|||||
-||AK454|True Metal|||||
-||AK455|True Metal|||||
-||AK456|True Metal|||||
-||AK457|True Metal|||||
-||AK458|True Metal|||||
-||AK459|True Metal|||||
-||AK460|True Metal|||||
-||AK461|True Metal|||||
+|Gold|AK450|True Metal|||||
+|Metallic Blue|AK451|True Metal|||||
+|Metallic Purple|AK452|True Metal|||||
+|Old Bronze|AK453|True Metal|||||
+|Copper|AK454|True Metal|||||
+|Aluminum|AK455|True Metal|||||
+|Dark Aluminum|AK456|True Metal|||||
+|Steel|AK457|True Metal|||||
+|Silver|AK458|True Metal|||||
+|Brass|AK459|True Metal|||||
+|Iron|AK460|True Metal|||||
+|Gun Metal|AK461|True Metal|||||
 |Super Chrome|AK9198|Super Chrome|||||
 |Gold|AK1301|Metallic Liquid Markers|||||
 |Chrome|AK1302|Metallic Liquid Markers|||||
@@ -928,8 +928,8 @@
 |Cyborg Skin Space|AK1056|Sprays & Primers|||||
 |Space Robots Brown|AK1057|Sprays & Primers|||||
 |Purple Heart Cold|AK1058|Sprays & Primers|||||
-|Cold Blood Turquoise Catalogue|AK1059|Sprays & Primers|||||
-|Bone Fine Quick Gen|AK1060|Sprays & Primers|||||
+|Cold Blood Turquoise|AK1059|Sprays & Primers|||||
+|Bone|AK1060|Sprays & Primers|||||
 |Rubber Black|RCM001|Real Colors Markers|35|36|35|![#232423](https://placehold.co/15x15/232423/232423.png) `#232423`|
 |Off White|RCM002|Real Colors Markers|223|214|198|![#DFD6C6](https://placehold.co/15x15/DFD6C6/DFD6C6.png) `#DFD6C6`|
 |Signal Red|RCM003|Real Colors Markers|198|49|23|![#C63117](https://placehold.co/15x15/C63117/C63117.png) `#C63117`|
@@ -975,7 +975,7 @@
 |Black Skin|AKM009|Playmarkers|109|77|56|![#6D4D38](https://placehold.co/15x15/6D4D38/6D4D38.png) `#6D4D38`|
 |Pink Skin|AKM010|Playmarkers|237|184|168|![#EDB8A8](https://placehold.co/15x15/EDB8A8/EDB8A8.png) `#EDB8A8`|
 |Skin Zombie|AKM011|Playmarkers|188|177|124|![#BCB17C](https://placehold.co/15x15/BCB17C/BCB17C.png) `#BCB17C`|
-|Green Light Catalogue|AKM012|Playmarkers|153|196|82|![#99C452](https://placehold.co/15x15/99C452/99C452.png) `#99C452`|
+|Light Green|AKM012|Playmarkers|153|196|82|![#99C452](https://placehold.co/15x15/99C452/99C452.png) `#99C452`|
 |Dark Green|AKM013|Playmarkers|130|150|124|![#82967C](https://placehold.co/15x15/82967C/82967C.png) `#82967C`|
 |Animal Green|AKM014|Playmarkers|130|180|116|![#82B474](https://placehold.co/15x15/82B474/82B474.png) `#82B474`|
 |Emerald|AKM015|Playmarkers|130|188|183|![#82BCB7](https://placehold.co/15x15/82BCB7/82BCB7.png) `#82BCB7`|

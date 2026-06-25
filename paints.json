@@ -6693,7 +6693,7 @@
         },
         {
           "id": "ak-ak16001",
-          "name": "",
+          "name": "Wood Brown",
           "code": "AK16001",
           "set": "The Inks",
           "hex": "#2A140F",
@@ -6705,7 +6705,7 @@
         },
         {
           "id": "ak-ak16002",
-          "name": "",
+          "name": "Deep Blue",
           "code": "AK16002",
           "set": "The Inks",
           "hex": "#001B40",
@@ -6717,7 +6717,7 @@
         },
         {
           "id": "ak-ak16003",
-          "name": "",
+          "name": "Pure Magenta",
           "code": "AK16003",
           "set": "The Inks",
           "hex": "#7D1D2D",
@@ -6729,7 +6729,7 @@
         },
         {
           "id": "ak-ak16004",
-          "name": "",
+          "name": "Night Purple",
           "code": "AK16004",
           "set": "The Inks",
           "hex": "#170537",
@@ -6741,7 +6741,7 @@
         },
         {
           "id": "ak-ak16005",
-          "name": "",
+          "name": "Black",
           "code": "AK16005",
           "set": "The Inks",
           "hex": "#241F1F",
@@ -6753,7 +6753,7 @@
         },
         {
           "id": "ak-ak16006",
-          "name": "Yellow",
+          "name": "Primary Yellow",
           "code": "AK16006",
           "set": "The Inks",
           "hex": "#FFD100",
@@ -6765,7 +6765,7 @@
         },
         {
           "id": "ak-ak16007",
-          "name": "",
+          "name": "Camo Green",
           "code": "AK16007",
           "set": "The Inks",
           "hex": "#1C311E",
@@ -6777,7 +6777,7 @@
         },
         {
           "id": "ak-ak16008",
-          "name": "",
+          "name": "Nature Green",
           "code": "AK16008",
           "set": "The Inks",
           "hex": "#00823A",
@@ -6789,7 +6789,7 @@
         },
         {
           "id": "ak-ak16009",
-          "name": "",
+          "name": "Blood Scarlet",
           "code": "AK16009",
           "set": "The Inks",
           "hex": "#C6271E",
@@ -6801,7 +6801,7 @@
         },
         {
           "id": "ak-ak16010",
-          "name": "",
+          "name": "Intense Sienna",
           "code": "AK16010",
           "set": "The Inks",
           "hex": "#592217",
@@ -6813,7 +6813,7 @@
         },
         {
           "id": "ak-ak16011",
-          "name": "",
+          "name": "Brown Black",
           "code": "AK16011",
           "set": "The Inks",
           "hex": "#2C281F",
@@ -6825,7 +6825,7 @@
         },
         {
           "id": "ak-ak16012",
-          "name": "",
+          "name": "Fire Orange",
           "code": "AK16012",
           "set": "The Inks",
           "hex": "#EA5A0B",
@@ -6849,7 +6849,7 @@
         },
         {
           "id": "ak-ak16014",
-          "name": "",
+          "name": "Ocean Blue",
           "code": "AK16014",
           "set": "The Inks",
           "hex": "#133C6B",
@@ -6861,7 +6861,7 @@
         },
         {
           "id": "ak-ak16041",
-          "name": "",
+          "name": "Fluor Magenta",
           "code": "AK16041",
           "set": "The Inks",
           "hex": "#E50068",
@@ -6873,7 +6873,7 @@
         },
         {
           "id": "ak-ak16042",
-          "name": "",
+          "name": "Fluor Red",
           "code": "AK16042",
           "set": "The Inks",
           "hex": "#E40134",
@@ -6885,7 +6885,7 @@
         },
         {
           "id": "ak-ak16043",
-          "name": "",
+          "name": "Fluor Orange",
           "code": "AK16043",
           "set": "The Inks",
           "hex": "#ED6F03",
@@ -6897,7 +6897,7 @@
         },
         {
           "id": "ak-ak16044",
-          "name": "",
+          "name": "Fluor Yellow",
           "code": "AK16044",
           "set": "The Inks",
           "hex": "#FFED00",
@@ -6909,7 +6909,7 @@
         },
         {
           "id": "ak-ak16045",
-          "name": "",
+          "name": "Fluor Green",
           "code": "AK16045",
           "set": "The Inks",
           "hex": "#AFCA13",
@@ -6921,7 +6921,7 @@
         },
         {
           "id": "ak-ak16046",
-          "name": "",
+          "name": "Fluor Blue",
           "code": "AK16046",
           "set": "The Inks",
           "hex": "#024B98",
@@ -6933,7 +6933,7 @@
         },
         {
           "id": "ak-ak16047",
-          "name": "",
+          "name": "Mahogani",
           "code": "AK16047",
           "set": "The Inks",
           "hex": "#4F3212",
@@ -6945,7 +6945,7 @@
         },
         {
           "id": "ak-ak16048",
-          "name": "",
+          "name": "Crimson",
           "code": "AK16048",
           "set": "The Inks",
           "hex": "#651B20",
@@ -6957,7 +6957,7 @@
         },
         {
           "id": "ak-ak16049",
-          "name": "",
+          "name": "Lime Green",
           "code": "AK16049",
           "set": "The Inks",
           "hex": "#8CBE22",
@@ -6969,7 +6969,7 @@
         },
         {
           "id": "ak-ak16050",
-          "name": "",
+          "name": "Toad Green",
           "code": "AK16050",
           "set": "The Inks",
           "hex": "#1D421E",
@@ -6981,7 +6981,7 @@
         },
         {
           "id": "ak-ak16051",
-          "name": "De",
+          "name": "Forge Red",
           "code": "AK16051",
           "set": "The Inks",
           "hex": "#E53B2C",
@@ -6993,7 +6993,7 @@
         },
         {
           "id": "ak-ak16052",
-          "name": "Tintas",
+          "name": "Eggplant",
           "code": "AK16052",
           "set": "The Inks",
           "hex": "#392266",
@@ -7005,7 +7005,7 @@
         },
         {
           "id": "ak-ak16053",
-          "name": "",
+          "name": "Light Wood",
           "code": "AK16053",
           "set": "The Inks",
           "hex": "#EAB426",
@@ -7017,7 +7017,7 @@
         },
         {
           "id": "ak-ak16054",
-          "name": "",
+          "name": "Cyan",
           "code": "AK16054",
           "set": "The Inks",
           "hex": "#009EE3",
@@ -9713,7 +9713,7 @@
         },
         {
           "id": "ak-ak044",
-          "name": "Light Rust Pig- Ment",
+          "name": "Light Rust Pigment",
           "code": "AK044",
           "set": "Pigments",
           "hex": "#95320D",
@@ -9725,7 +9725,7 @@
         },
         {
           "id": "ak-ak048",
-          "name": "Fixer Models Bases. Once Return To Dry Color.",
+          "name": "Pigment Fixer",
           "code": "AK048",
           "set": "Pigments",
           "hex": "#000000",
@@ -10001,7 +10001,7 @@
         },
         {
           "id": "ak-ak450",
-          "name": "",
+          "name": "Gold",
           "code": "AK450",
           "set": "True Metal",
           "hex": null,
@@ -10009,7 +10009,7 @@
         },
         {
           "id": "ak-ak451",
-          "name": "",
+          "name": "Metallic Blue",
           "code": "AK451",
           "set": "True Metal",
           "hex": null,
@@ -10017,7 +10017,7 @@
         },
         {
           "id": "ak-ak452",
-          "name": "",
+          "name": "Metallic Purple",
           "code": "AK452",
           "set": "True Metal",
           "hex": null,
@@ -10025,7 +10025,7 @@
         },
         {
           "id": "ak-ak453",
-          "name": "",
+          "name": "Old Bronze",
           "code": "AK453",
           "set": "True Metal",
           "hex": null,
@@ -10033,7 +10033,7 @@
         },
         {
           "id": "ak-ak454",
-          "name": "",
+          "name": "Copper",
           "code": "AK454",
           "set": "True Metal",
           "hex": null,
@@ -10041,7 +10041,7 @@
         },
         {
           "id": "ak-ak455",
-          "name": "",
+          "name": "Aluminum",
           "code": "AK455",
           "set": "True Metal",
           "hex": null,
@@ -10049,7 +10049,7 @@
         },
         {
           "id": "ak-ak456",
-          "name": "",
+          "name": "Dark Aluminum",
           "code": "AK456",
           "set": "True Metal",
           "hex": null,
@@ -10057,7 +10057,7 @@
         },
         {
           "id": "ak-ak457",
-          "name": "",
+          "name": "Steel",
           "code": "AK457",
           "set": "True Metal",
           "hex": null,
@@ -10065,7 +10065,7 @@
         },
         {
           "id": "ak-ak458",
-          "name": "",
+          "name": "Silver",
           "code": "AK458",
           "set": "True Metal",
           "hex": null,
@@ -10073,7 +10073,7 @@
         },
         {
           "id": "ak-ak459",
-          "name": "",
+          "name": "Brass",
           "code": "AK459",
           "set": "True Metal",
           "hex": null,
@@ -10081,7 +10081,7 @@
         },
         {
           "id": "ak-ak460",
-          "name": "",
+          "name": "Iron",
           "code": "AK460",
           "set": "True Metal",
           "hex": null,
@@ -10089,7 +10089,7 @@
         },
         {
           "id": "ak-ak461",
-          "name": "",
+          "name": "Gun Metal",
           "code": "AK461",
           "set": "True Metal",
           "hex": null,
@@ -10545,7 +10545,7 @@
         },
         {
           "id": "ak-ak1059",
-          "name": "Cold Blood Turquoise Catalogue",
+          "name": "Cold Blood Turquoise",
           "code": "AK1059",
           "set": "Sprays & Primers",
           "hex": null,
@@ -10553,7 +10553,7 @@
         },
         {
           "id": "ak-ak1060",
-          "name": "Bone Fine Quick Gen",
+          "name": "Bone",
           "code": "AK1060",
           "set": "Sprays & Primers",
           "hex": null,
@@ -11101,7 +11101,7 @@
         },
         {
           "id": "ak-akm012",
-          "name": "Green Light Catalogue",
+          "name": "Light Green",
           "code": "AKM012",
           "set": "Playmarkers",
           "hex": "#99C452",

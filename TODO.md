@@ -2,26 +2,26 @@
 
 - [X] Add contact information for each brand where possible
 - [ ] Update all paint sets to match the 2026 product catalogues from all brands.
-  - [ ] AK
-    - [ ] 3rd Gen Acrylics
-    - [ ] Acrylic Washes
-    - [ ] Quick Gen
-    - [ ] The Inks
-    - [ ] Real Colors
-    - [ ] Weathering Products
-    - [ ] Pigments
-    - [ ] XTREME Metal
-    - [ ] True Metal
-    - [ ] Super Chrome
-    - [ ] Metallic Liquid Markers
-    - [ ] Artist Dense Acrylic Color
-    - [ ] Dual Exo
-    - [ ] Sprays
-    - [ ] AK Markers
-    - [ ] Real Colors Markers
-    - [ ] Playmakers
-    - [ ] Quick Markers
-    - [ ] Primers
+  - [X] AK
+    - [X] 3rd Gen Acrylics
+    - [X] Acrylic Washes
+    - [X] Quick Gen
+    - [X] The Inks
+    - [X] Real Colors
+    - [X] Weathering Products
+    - [X] Pigments
+    - [X] XTREME Metal
+    - [X] True Metal
+    - [X] Super Chrome
+    - [X] Metallic Liquid Markers
+    - [X] Artist Dense Acrylic Color
+    - [X] Dual Exo
+    - [X] Sprays
+    - [X] AK Markers
+    - [X] Real Colors Markers
+    - [X] Playmakers
+    - [X] Quick Markers
+    - [X] Primers
   - [ ] Acrilex
   - [ ] Apple Barrel
   - [ ] Army Painter
@@ -71,6 +71,9 @@
   - [ ] RAL
   - [ ] Reaper
   - [ ] Revell
+    - [ ] Enamel
+    - [ ] Acrylic
+    - [ ] Spray
   - [ ] Scale75
   - [ ] Tamiya
   - [ ] Tom Color
