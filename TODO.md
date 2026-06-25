@@ -70,10 +70,10 @@
   - [ ] Pantone
   - [ ] RAL
   - [ ] Reaper
-  - [ ] Revell
-    - [ ] Enamel
-    - [ ] Acrylic
-    - [ ] Spray
+  - [X] Revell
+    - [X] Enamel
+    - [X] Acrylic
+    - [X] Spray
   - [ ] Scale75
   - [ ] Tamiya
   - [ ] Tom Color
