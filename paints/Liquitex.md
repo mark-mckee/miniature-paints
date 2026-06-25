@@ -315,7 +315,7 @@
 |Peach|259|Acrylic Gouache|245|165|123|![#F5A57B](https://placehold.co/15x15/F5A57B/F5A57B.png) `#F5A57B`|
 |Mars Black|276|Acrylic Gouache|0|2|15|![#00020F](https://placehold.co/15x15/00020F/00020F.png) `#00020F`|
 |Sky Blue|279|Acrylic Gouache|0|118|179|![#0076B3](https://placehold.co/15x15/0076B3/0076B3.png) `#0076B3`|
-|Phthalocyanine Green Shade|316|Acrylic Gouache|27|49|117|![#1B3175](https://placehold.co/15x15/1B3175/1B3175.png) `#1B3175`|
+|Phthalocyanine Blue Green Shade|316|Acrylic Gouache|27|49|117|![#1B3175](https://placehold.co/15x15/1B3175/1B3175.png) `#1B3175`|
 |Prussian Blue Hue|320|Acrylic Gouache|31|29|91|![#1F1D5B](https://placehold.co/15x15/1F1D5B/1F1D5B.png) `#1F1D5B`|
 |Raw Sienna|330|Acrylic Gouache|158|72|24|![#9E4818](https://placehold.co/15x15/9E4818/9E4818.png) `#9E4818`|
 |Raw Umber|331|Acrylic Gouache|80|59|32|![#503B20](https://placehold.co/15x15/503B20/503B20.png) `#503B20`|
@@ -367,8 +367,8 @@
 |Mars Black|276|Bio-Based Acrylic|21|20|25|![#151419](https://placehold.co/15x15/151419/151419.png) `#151419`|
 |Naphthol Crimson|292|Bio-Based Acrylic|176|1|19|![#B00113](https://placehold.co/15x15/B00113/B00113.png) `#B00113`|
 |Payne's Gray|310|Bio-Based Acrylic|20|19|25|![#141319](https://placehold.co/15x15/141319/141319.png) `#141319`|
-|Phthalocyanine Green Shade|316|Bio-Based Acrylic|16|19|69|![#101345](https://placehold.co/15x15/101345/101345.png) `#101345`|
-|Phthalocyanine Blue Shade|317|Bio-Based Acrylic|0|45|55|![#002D37](https://placehold.co/15x15/002D37/002D37.png) `#002D37`|
+|Phthalocyanine Blue Green Shade|316|Bio-Based Acrylic|16|19|69|![#101345](https://placehold.co/15x15/101345/101345.png) `#101345`|
+|Phthalocyanine Green Blue Shade|317|Bio-Based Acrylic|0|45|55|![#002D37](https://placehold.co/15x15/002D37/002D37.png) `#002D37`|
 |Prussian Blue Hue|320|Bio-Based Acrylic|21|18|37|![#151225](https://placehold.co/15x15/151225/151225.png) `#151225`|
 |Pyrrole Orange|323|Bio-Based Acrylic|237|56|18|![#ED3812](https://placehold.co/15x15/ED3812/ED3812.png) `#ED3812`|
 |Raw Sienna|330|Bio-Based Acrylic|160|69|21|![#A04515](https://placehold.co/15x15/A04515/A04515.png) `#A04515`|
@@ -462,11 +462,11 @@
 |Naphthol Red Light|294|Acrylic Ink|230|56|42|![#E6382A](https://placehold.co/15x15/E6382A/E6382A.png) `#E6382A`|
 |Yellow Deep|295|Acrylic Ink|248|174|0|![#F8AE00](https://placehold.co/15x15/F8AE00/F8AE00.png) `#F8AE00`|
 |Yellow Orange|298|Acrylic Ink|241|137|0|![#F18900](https://placehold.co/15x15/F18900/F18900.png) `#F18900`|
-|Phthalocyanine Red Shade|314|Acrylic Ink|31|15|73|![#1F0F49](https://placehold.co/15x15/1F0F49/1F0F49.png) `#1F0F49`|
+|Phthalocyanine Blue Red Shade|314|Acrylic Ink|31|15|73|![#1F0F49](https://placehold.co/15x15/1F0F49/1F0F49.png) `#1F0F49`|
 |Sap Green Permanent|315|Acrylic Ink|0|65|26|![#00411A](https://placehold.co/15x15/00411A/00411A.png) `#00411A`|
-|Phthalocyanine Green Shade|316|Acrylic Ink|0|59|111|![#003B6F](https://placehold.co/15x15/003B6F/003B6F.png) `#003B6F`|
-|Phthalocyanine Blue Shade|317|Acrylic Ink|0|53|36|![#003524](https://placehold.co/15x15/003524/003524.png) `#003524`|
-|Phthalocyanine Yellow Shade|319|Acrylic Ink|0|89|49|![#005931](https://placehold.co/15x15/005931/005931.png) `#005931`|
+|Phthalocyanine Blue Green Shade|316|Acrylic Ink|0|59|111|![#003B6F](https://placehold.co/15x15/003B6F/003B6F.png) `#003B6F`|
+|Phthalocyanine Green Blue Shade|317|Acrylic Ink|0|53|36|![#003524](https://placehold.co/15x15/003524/003524.png) `#003524`|
+|Phthalocyanine Green Yellow Shade|319|Acrylic Ink|0|89|49|![#005931](https://placehold.co/15x15/005931/005931.png) `#005931`|
 |Prussian Blue Hue|320|Acrylic Ink|14|43|102|![#0E2B66](https://placehold.co/15x15/0E2B66/0E2B66.png) `#0E2B66`|
 |Pyrrole Red|321|Acrylic Ink|229|31|68|![#E51F44](https://placehold.co/15x15/E51F44/E51F44.png) `#E51F44`|
 |Transparent Raw Sienna|332|Acrylic Ink|171|119|75|![#AB774B](https://placehold.co/15x15/AB774B/AB774B.png) `#AB774B`|
@@ -511,8 +511,8 @@
 |Iridescent Rich Silver|239|Acrylic Paint Markers|194|194|193|![#C2C2C1](https://placehold.co/15x15/C2C2C1/C2C2C1.png) `#C2C2C1`|
 |Cadmium Red Deep Hue|311|Acrylic Paint Markers|124|21|46|![#7C152E](https://placehold.co/15x15/7C152E/7C152E.png) `#7C152E`|
 |Light Green Permanent|312|Acrylic Paint Markers|0|161|81|![#00A151](https://placehold.co/15x15/00A151/00A151.png) `#00A151`|
-|Phthalocyanine Green Shade|316|Acrylic Paint Markers|0|59|111|![#003B6F](https://placehold.co/15x15/003B6F/003B6F.png) `#003B6F`|
-|Phthalocyanine Blue Shade|317|Acrylic Paint Markers|0|53|36|![#003524](https://placehold.co/15x15/003524/003524.png) `#003524`|
+|Phthalocyanine Blue Green Shade|316|Acrylic Paint Markers|0|59|111|![#003B6F](https://placehold.co/15x15/003B6F/003B6F.png) `#003B6F`|
+|Phthalocyanine Green Blue Shade|317|Acrylic Paint Markers|0|53|36|![#003524](https://placehold.co/15x15/003524/003524.png) `#003524`|
 |Prussian Blue Hue|320|Acrylic Paint Markers|14|43|102|![#0E2B66](https://placehold.co/15x15/0E2B66/0E2B66.png) `#0E2B66`|
 |Raw Sienna|330|Acrylic Paint Markers|152|82|16|![#985210](https://placehold.co/15x15/985210/985210.png) `#985210`|
 |Raw Umber|331|Acrylic Paint Markers|75|43|1|![#4B2B01](https://placehold.co/15x15/4B2B01/4B2B01.png) `#4B2B01`|
