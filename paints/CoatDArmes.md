@@ -11,6 +11,7 @@
 | Postcode | SG8 0DA |
 | Country | United Kingdom |
 | Email | admin@battlezone-miniatures.co.uk |
+| Contact Form |  |
 | Website | https://www.battlezone-miniatures.co.uk |
 | Phone |  |
 

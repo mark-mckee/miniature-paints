@@ -11,6 +11,7 @@
 | Postcode | 17533-073 |
 | Country | Brazil |
 | Email | tomcolors@tomcolors.com.br |
+| Contact Form |  |
 | Website | https://www.tomcolors.com.br/ |
 | Phone | +55 14 98122-2459 |
 

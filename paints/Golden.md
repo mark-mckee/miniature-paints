@@ -11,6 +11,7 @@
 | Postcode | 13411-9527 |
 | Country | USA |
 | Email | help@goldenpaints.com |
+| Contact Form |  |
 | Website | https://goldenpaints.com |
 | Phone | 800-959-6543 |
 

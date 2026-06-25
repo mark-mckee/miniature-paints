@@ -11,6 +11,7 @@
 | Postcode | 30092 |
 | Country | USA |
 | Email | generalcs@plaidonline.com |
+| Contact Form |  |
 | Website | https://plaidonline.com |
 | Phone | (800) 842-4197 |
 

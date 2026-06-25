@@ -27,6 +27,7 @@ DETAIL_MAP = {
     "postcode": ("address", "postcode"),
     "country":  ("address", "country"),
     "email":    (None, "contactEmail"),
+    "contact form": (None, "contactForm"),
     "website":  (None, "website"),
     "phone":    (None, "phone"),
 }
@@ -134,6 +135,7 @@ def build():
         brand["company"] = ""
         brand["address"] = {"street": "", "city": "", "postcode": "", "country": ""}
         brand["contactEmail"] = ""
+        brand["contactForm"] = ""
         brand["website"] = ""
         brand["phone"] = ""
         for field, (group, key) in DETAIL_MAP.items():

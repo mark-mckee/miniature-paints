@@ -11,6 +11,7 @@
 | Postcode | 09842-900 |
 | Country | Brazil |
 | Email |  |
+| Contact Form | https://acrilex.com.br/en/sac/ |
 | Website | https://acrilex.com.br |
 | Phone | +55 11 4397-9255 |
 

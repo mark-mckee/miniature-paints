@@ -17,6 +17,15 @@
   - [ ] Italeri
   - [ ] Kimera Kolors
   - [ ] Liquitex
+    - [ ] Heavy Body
+    - [ ] Soft Body
+    - [ ] Gouache
+    - [ ] Ink
+    - [ ] Marker
+    - [ ] Spray
+    - [ ] Mediums
+    - [ ] Basics
+    - [ ] Bio-Based
   - [ ] Mig
     - [X] ATOM
     - [X] Rail Center

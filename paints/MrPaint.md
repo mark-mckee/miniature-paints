@@ -11,6 +11,7 @@
 | Postcode | 04431 |
 | Country | Slovakia |
 | Email | paints.mr@gmail.com |
+| Contact Form |  |
 | Website | https://mrpaint.sk |
 | Phone | +421 915 203 552 |
 

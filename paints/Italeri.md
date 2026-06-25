@@ -11,6 +11,7 @@
 | Postcode | 40012 |
 | Country | Italy |
 | Email | italeri@italeri.com |
+| Contact Form |  |
 | Website | https://www.italeri.com |
 | Phone | +39 051 3175211 |
 

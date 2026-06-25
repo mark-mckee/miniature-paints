@@ -11,6 +11,7 @@
 | Postcode | 30092 |
 | Country | USA |
 | Email | help@arteza.com |
+| Contact Form |  |
 | Website | https://arteza.com |
 | Phone |  |
 

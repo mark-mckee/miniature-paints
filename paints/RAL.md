@@ -11,6 +11,7 @@
 | Postcode | 53229 |
 | Country | Germany |
 | Email | kontakt@ral.de |
+| Contact Form |  |
 | Website | https://www.ral.de/ |
 | Phone | +49 228 68895-0 |
 

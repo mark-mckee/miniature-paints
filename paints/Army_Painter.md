@@ -11,6 +11,7 @@
 | Postcode | 8660 |
 | Country | Denmark |
 | Email | contact@thearmypainter.com |
+| Contact Form |  |
 | Website | https://thearmypainter.com |
 | Phone |  |
 

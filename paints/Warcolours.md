@@ -11,6 +11,7 @@
 | Postcode |  |
 | Country | Cyprus |
 | Email |  |
+| Contact Form | https://www.warcolours.com/index.php?route=information/contact |
 | Website | https://www.warcolours.com |
 | Phone | +357 99882999 |
 

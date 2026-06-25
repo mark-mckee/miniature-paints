@@ -11,6 +11,7 @@
 | Postcode | 105-0014 |
 | Country | Japan |
 | Email |  |
+| Contact Form | https://www.mr-hobby.com/en/inquiry/global/input |
 | Website | https://www.mr-hobby.com/ |
 | Phone | 03-5418-2124 |
 

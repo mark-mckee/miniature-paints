@@ -11,6 +11,7 @@
 | Postcode |  |
 | Country | Canada |
 | Email | support@creaturecaster.com |
+| Contact Form |  |
 | Website | https://us.creaturecaster.com |
 | Phone |  |
 

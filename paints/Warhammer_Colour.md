@@ -11,6 +11,7 @@
 | Postcode | NG7 2WS |
 | Country | United Kingdom |
 | Email | uk.custserv@gwplc.com |
+| Contact Form |  |
 | Website | https://www.warhammer.com |
 | Phone | +44 115 91 40000 |
 

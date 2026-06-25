@@ -11,6 +11,7 @@
 | Postcode | 53035 |
 | Country | Italy |
 | Email | info@pegasomodels.it |
+| Contact Form |  |
 | Website | https://www.pegasoworld.com |
 | Phone | +39 0577 317110 |
 

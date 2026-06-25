@@ -11,6 +11,7 @@
 | Postcode | 07072 |
 | Country | United States |
 | Email |  |
+| Contact Form | https://www.pantone.com/customer-service/contact-sales |
 | Website | https://www.pantone.com |
 | Phone |  |
 

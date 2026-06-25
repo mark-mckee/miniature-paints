@@ -11,6 +11,7 @@
 | Postcode | 422-8610 |
 | Country | Japan |
 | Email |  |
+| Contact Form | https://www.tamiyausa.com/contact/ |
 | Website | https://www.tamiya.com/ |
 | Phone |  |
 

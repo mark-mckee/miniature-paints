@@ -11,6 +11,7 @@
 | Postcode | NG23 5QF |
 | Country | United Kingdom |
 | Email | customers@wargamesfoundry.com |
+| Contact Form |  |
 | Website | https://www.wargamesfoundry.com |
 | Phone | +44 1636 526886 |
 
