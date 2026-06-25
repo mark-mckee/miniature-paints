@@ -3,7 +3,25 @@
 - [X] Add contact information for each brand where possible
 - [ ] Update all paint sets to match the 2026 product catalogues from all brands.
   - [ ] AK
-  - [ ] AKRC
+    - [ ] 3rd Gen Acrylics
+    - [ ] Acrylic Washes
+    - [ ] Quick Gen
+    - [ ] The Inks
+    - [ ] Real Colors
+    - [ ] Weathering Products
+    - [ ] Pigments
+    - [ ] XTREME Metal
+    - [ ] True Metal
+    - [ ] Super Chrome
+    - [ ] Metallic Liquid Markers
+    - [ ] Artist Dense Acrylic Color
+    - [ ] Dual Exo
+    - [ ] Sprays
+    - [ ] AK Markers
+    - [ ] Real Colors Markers
+    - [ ] Playmakers
+    - [ ] Quick Markers
+    - [ ] Primers
   - [ ] Acrilex
   - [ ] Apple Barrel
   - [ ] Army Painter
