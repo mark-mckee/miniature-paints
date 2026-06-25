@@ -14,6 +14,7 @@
 | Contact Form |  |
 | Website | https://arteza.com |
 | Phone |  |
+| Updated catalogue requested | 24/06/2026 (email bounced) |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

@@ -14,6 +14,7 @@
 | Contact Form | https://www.pantone.com/customer-service/contact-sales |
 | Website | https://www.pantone.com |
 | Phone |  |
+| Updated catalogue requested |  |
 
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|

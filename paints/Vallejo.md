@@ -14,6 +14,7 @@
 | Contact Form |  |
 | Website | https://acrylicosvallejo.com |
 | Phone | +34 93 893 60 12 |
+| Updated catalogue requested |  |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

@@ -14,6 +14,7 @@
 | Contact Form | https://www.tamiyausa.com/contact/ |
 | Website | https://www.tamiya.com/ |
 | Phone |  |
+| Updated catalogue requested |  |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

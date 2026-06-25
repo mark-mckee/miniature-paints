@@ -14,6 +14,7 @@
 | Contact Form | https://www.liquitex.com/us/contact-us/ |
 | Website | https://www.liquitex.com |
 | Phone | (732) 562-0770 |
+| Updated catalogue requested |  |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

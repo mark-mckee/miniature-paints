@@ -14,6 +14,7 @@
 | Contact Form | https://www.warcolours.com/index.php?route=information/contact |
 | Website | https://www.warcolours.com |
 | Phone | +357 99882999 |
+| Updated catalogue requested |  |
 
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|

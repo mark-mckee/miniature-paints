@@ -30,6 +30,7 @@ DETAIL_MAP = {
     "contact form": (None, "contactForm"),
     "website":  (None, "website"),
     "phone":    (None, "phone"),
+    "updated catalogue requested": (None, "updatedCatalogueRequested"),
 }
 
 
@@ -138,6 +139,7 @@ def build():
         brand["contactForm"] = ""
         brand["website"] = ""
         brand["phone"] = ""
+        brand["updatedCatalogueRequested"] = ""
         for field, (group, key) in DETAIL_MAP.items():
             val = details.get(field, "")
             if group is None:

@@ -10,10 +10,11 @@
 | City | São Bernardo do Campo |
 | Postcode | 09842-900 |
 | Country | Brazil |
-| Email |  |
+| Email | tintas@acrilex.com.br |
 | Contact Form | https://acrilex.com.br/en/sac/ |
 | Website | https://acrilex.com.br |
 | Phone | +55 11 4397-9255 |
+| Updated catalogue requested | 25/06/2026 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

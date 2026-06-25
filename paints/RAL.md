@@ -14,6 +14,7 @@
 | Contact Form |  |
 | Website | https://www.ral.de/ |
 | Phone | +49 228 68895-0 |
+| Updated catalogue requested |  |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

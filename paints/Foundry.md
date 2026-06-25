@@ -14,6 +14,7 @@
 | Contact Form |  |
 | Website | https://www.wargamesfoundry.com |
 | Phone | +44 1636 526886 |
+| Updated catalogue requested |  |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

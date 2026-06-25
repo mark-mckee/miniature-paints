@@ -14,6 +14,7 @@
 | Contact Form |  |
 | Website | https://www.migjimenez.com |
 | Phone | +34 948 552 882 |
+| Updated catalogue requested | 24/06/2026 |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

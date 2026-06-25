@@ -14,6 +14,7 @@
 | Contact Form |  |
 | Website | https://www.warhammer.com |
 | Phone | +44 115 91 40000 |
+| Updated catalogue requested | 24/06/2026 |
 
 |Name|Set|R|G|B|Hex|
 |---|---|---|---|---|---|

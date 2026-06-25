@@ -14,6 +14,7 @@
 | Contact Form |  |
 | Website | https://www.italeri.com |
 | Phone | +39 051 3175211 |
+| Updated catalogue requested |  |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

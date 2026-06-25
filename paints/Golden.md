@@ -14,6 +14,7 @@
 | Contact Form |  |
 | Website | https://goldenpaints.com |
 | Phone | 800-959-6543 |
+| Updated catalogue requested |  |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

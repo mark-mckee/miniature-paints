@@ -14,6 +14,7 @@
 | Contact Form |  |
 | Website | https://www.battlezone-miniatures.co.uk |
 | Phone |  |
+| Updated catalogue requested |  |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|

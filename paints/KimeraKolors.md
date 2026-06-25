@@ -14,6 +14,7 @@
 | Contact Form |  |
 | Website | https://www.pegasoworld.com |
 | Phone | +39 0577 317110 |
+| Updated catalogue requested |  |
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
