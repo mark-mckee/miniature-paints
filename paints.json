@@ -56130,7 +56130,7 @@
           "id": "liquitex-045",
           "name": "Transparent Yellow",
           "code": "045",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#FFEE07",
           "rgb": {
             "r": 255,
@@ -56142,7 +56142,7 @@
           "id": "liquitex-046",
           "name": "Turquoise Blue",
           "code": "046",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#00839B",
           "rgb": {
             "r": 0,
@@ -56154,7 +56154,7 @@
           "id": "liquitex-047",
           "name": "Transparent Red",
           "code": "047",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#E51F44",
           "rgb": {
             "r": 229,
@@ -56166,7 +56166,7 @@
           "id": "liquitex-048",
           "name": "Rose Pink",
           "code": "048",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#F08DAD",
           "rgb": {
             "r": 240,
@@ -56178,7 +56178,7 @@
           "id": "liquitex-049",
           "name": "Iridescent Graphite Mica",
           "code": "049",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#FFFFFF",
           "rgb": {
             "r": 255,
@@ -56190,7 +56190,7 @@
           "id": "liquitex-051",
           "name": "Gold",
           "code": "051",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#DDB141",
           "rgb": {
             "r": 221,
@@ -56202,7 +56202,7 @@
           "id": "liquitex-052",
           "name": "Silver",
           "code": "052",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#D2D7DB",
           "rgb": {
             "r": 210,
@@ -56214,7 +56214,7 @@
           "id": "liquitex-053",
           "name": "Copper",
           "code": "053",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#C98A54",
           "rgb": {
             "r": 201,
@@ -56226,7 +56226,7 @@
           "id": "liquitex-054",
           "name": "Bronze",
           "code": "054",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#B17A61",
           "rgb": {
             "r": 177,
@@ -56238,7 +56238,7 @@
           "id": "liquitex-114-3",
           "name": "Quinacridone Magenta",
           "code": "114",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#8C044E",
           "rgb": {
             "r": 140,
@@ -56250,7 +56250,7 @@
           "id": "liquitex-115-2",
           "name": "Deep Violet",
           "code": "115",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#58125B",
           "rgb": {
             "r": 88,
@@ -56262,7 +56262,7 @@
           "id": "liquitex-116-3",
           "name": "Alizarin Crimson Hue Permanent",
           "code": "116",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#A6092D",
           "rgb": {
             "r": 166,
@@ -56274,7 +56274,7 @@
           "id": "liquitex-127-3",
           "name": "Burnt Sienna",
           "code": "127",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#863005",
           "rgb": {
             "r": 134,
@@ -56286,7 +56286,7 @@
           "id": "liquitex-128-3",
           "name": "Burnt Umber",
           "code": "128",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#3E1200",
           "rgb": {
             "r": 62,
@@ -56298,7 +56298,7 @@
           "id": "liquitex-142",
           "name": "Blue Gray",
           "code": "142",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#7D9DB3",
           "rgb": {
             "r": 125,
@@ -56310,7 +56310,7 @@
           "id": "liquitex-151",
           "name": "Cadmium Red Medium Hue",
           "code": "151",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#E52636",
           "rgb": {
             "r": 229,
@@ -56322,7 +56322,7 @@
           "id": "liquitex-159",
           "name": "Cadmium Yellow Light Hue",
           "code": "159",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#FFED00",
           "rgb": {
             "r": 255,
@@ -56334,7 +56334,7 @@
           "id": "liquitex-163",
           "name": "Cadmium Yellow Deep Hue",
           "code": "163",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#F4B908",
           "rgb": {
             "r": 244,
@@ -56346,7 +56346,7 @@
           "id": "liquitex-186-3",
           "name": "Dioxazine Purple",
           "code": "186",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#4A1F67",
           "rgb": {
             "r": 74,
@@ -56358,7 +56358,7 @@
           "id": "liquitex-205",
           "name": "Green Gray",
           "code": "205",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#9CAF9D",
           "rgb": {
             "r": 156,
@@ -56370,7 +56370,7 @@
           "id": "liquitex-218",
           "name": "Light Olive Green",
           "code": "218",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#B8C104",
           "rgb": {
             "r": 184,
@@ -56382,7 +56382,7 @@
           "id": "liquitex-222",
           "name": "Lime Green",
           "code": "222",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#69B650",
           "rgb": {
             "r": 105,
@@ -56394,7 +56394,7 @@
           "id": "liquitex-224-3",
           "name": "Hooker's Green Hue Permanent",
           "code": "224",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#00682F",
           "rgb": {
             "r": 0,
@@ -56406,7 +56406,7 @@
           "id": "liquitex-238-3",
           "name": "Iridescent White",
           "code": "238",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#F0F0ED",
           "rgb": {
             "r": 240,
@@ -56418,7 +56418,7 @@
           "id": "liquitex-244-3",
           "name": "Ivory Black",
           "code": "244",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#081308",
           "rgb": {
             "r": 8,
@@ -56430,7 +56430,7 @@
           "id": "liquitex-263",
           "name": "Purple Gray",
           "code": "263",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#894C98",
           "rgb": {
             "r": 137,
@@ -56442,7 +56442,7 @@
           "id": "liquitex-276-3",
           "name": "Mars Black",
           "code": "276",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#000309",
           "rgb": {
             "r": 0,
@@ -56454,7 +56454,7 @@
           "id": "liquitex-292-3",
           "name": "Naphthol Crimson",
           "code": "292",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#D60925",
           "rgb": {
             "r": 214,
@@ -56466,7 +56466,7 @@
           "id": "liquitex-310-3",
           "name": "Payne's Gray",
           "code": "310",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#263C4E",
           "rgb": {
             "r": 38,
@@ -56478,7 +56478,7 @@
           "id": "liquitex-311",
           "name": "Cadmium Red Deep Hue",
           "code": "311",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#B80745",
           "rgb": {
             "r": 184,
@@ -56490,7 +56490,7 @@
           "id": "liquitex-312-3",
           "name": "Light Green Permanent",
           "code": "312",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#00A151",
           "rgb": {
             "r": 0,
@@ -56502,7 +56502,7 @@
           "id": "liquitex-316-3",
           "name": "Phthalocyanine Blue",
           "code": "316",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#004593",
           "rgb": {
             "r": 0,
@@ -56514,7 +56514,7 @@
           "id": "liquitex-317-3",
           "name": "Phthalocyanine Green",
           "code": "317",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#00594E",
           "rgb": {
             "r": 0,
@@ -56526,7 +56526,7 @@
           "id": "liquitex-320-3",
           "name": "Prussian Blue Hue",
           "code": "320",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#0E2B66",
           "rgb": {
             "r": 14,
@@ -56538,7 +56538,7 @@
           "id": "liquitex-321-3",
           "name": "Pyrrole Red",
           "code": "321",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#E52931",
           "rgb": {
             "r": 229,
@@ -56550,7 +56550,7 @@
           "id": "liquitex-330-3",
           "name": "Raw Sienna",
           "code": "330",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#A46429",
           "rgb": {
             "r": 164,
@@ -56562,7 +56562,7 @@
           "id": "liquitex-331-3",
           "name": "Raw Umber",
           "code": "331",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#554D42",
           "rgb": {
             "r": 85,
@@ -56574,7 +56574,7 @@
           "id": "liquitex-335-3",
           "name": "Red Oxide",
           "code": "335",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#9D3009",
           "rgb": {
             "r": 157,
@@ -56586,7 +56586,7 @@
           "id": "liquitex-350-3",
           "name": "Permanent Green Deep",
           "code": "350",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#004F2E",
           "rgb": {
             "r": 0,
@@ -56598,7 +56598,7 @@
           "id": "liquitex-380-3",
           "name": "Ultramarine Blue",
           "code": "380",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#2E2984",
           "rgb": {
             "r": 46,
@@ -56610,7 +56610,7 @@
           "id": "liquitex-381-3",
           "name": "Cobalt Blue Hue",
           "code": "381",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#2955A2",
           "rgb": {
             "r": 41,
@@ -56622,7 +56622,7 @@
           "id": "liquitex-391-3",
           "name": "Prism Violet",
           "code": "391",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#4A1F67",
           "rgb": {
             "r": 74,
@@ -56634,7 +56634,7 @@
           "id": "liquitex-410",
           "name": "Primary Yellow",
           "code": "410",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#FFE500",
           "rgb": {
             "r": 255,
@@ -56646,7 +56646,7 @@
           "id": "liquitex-415",
           "name": "Primary Red",
           "code": "415",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#D90148",
           "rgb": {
             "r": 217,
@@ -56658,7 +56658,7 @@
           "id": "liquitex-416-3",
           "name": "Yellow Oxide",
           "code": "416",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#C9A801",
           "rgb": {
             "r": 201,
@@ -56670,7 +56670,7 @@
           "id": "liquitex-420",
           "name": "Primary Blue",
           "code": "420",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#0E4B8E",
           "rgb": {
             "r": 14,
@@ -56682,7 +56682,7 @@
           "id": "liquitex-430-3",
           "name": "Transparent Mixing White",
           "code": "430",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#FFFFFF",
           "rgb": {
             "r": 255,
@@ -56694,7 +56694,7 @@
           "id": "liquitex-432-3",
           "name": "Titanium White",
           "code": "432",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#FFFFFF",
           "rgb": {
             "r": 255,
@@ -56706,7 +56706,7 @@
           "id": "liquitex-434-3",
           "name": "Unbleached Titanium",
           "code": "434",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#F6ECC8",
           "rgb": {
             "r": 246,
@@ -56718,7 +56718,7 @@
           "id": "liquitex-436-3",
           "name": "Parchment",
           "code": "436",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#EFE5BD",
           "rgb": {
             "r": 239,
@@ -56730,7 +56730,7 @@
           "id": "liquitex-470-3",
           "name": "Cerulean Blue Hue",
           "code": "470",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#0070B8",
           "rgb": {
             "r": 0,
@@ -56742,7 +56742,7 @@
           "id": "liquitex-500-3",
           "name": "Medium Magenta",
           "code": "500",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#D861A0",
           "rgb": {
             "r": 216,
@@ -56754,7 +56754,7 @@
           "id": "liquitex-510",
           "name": "Cadmium Red Light Hue",
           "code": "510",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#EB602B",
           "rgb": {
             "r": 235,
@@ -56766,7 +56766,7 @@
           "id": "liquitex-530-3",
           "name": "Bronze Yellow",
           "code": "530",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#A68200",
           "rgb": {
             "r": 166,
@@ -56778,7 +56778,7 @@
           "id": "liquitex-570-3",
           "name": "Brilliant Blue",
           "code": "570",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#0098D4",
           "rgb": {
             "r": 0,
@@ -56790,7 +56790,7 @@
           "id": "liquitex-590-3",
           "name": "Brilliant Purple",
           "code": "590",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#8A6FAF",
           "rgb": {
             "r": 138,
@@ -56802,7 +56802,7 @@
           "id": "liquitex-599-3",
           "name": "Neutral Gray",
           "code": "599",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#A1A29E",
           "rgb": {
             "r": 161,
@@ -56814,7 +56814,7 @@
           "id": "liquitex-601-3",
           "name": "Naples Yellow Hue",
           "code": "601",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#FFDF7D",
           "rgb": {
             "r": 255,
@@ -56826,7 +56826,7 @@
           "id": "liquitex-620-3",
           "name": "Vivid Red Orange",
           "code": "620",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#EA5D0A",
           "rgb": {
             "r": 234,
@@ -56838,7 +56838,7 @@
           "id": "liquitex-660-3",
           "name": "Bright Aqua Green",
           "code": "660",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#03AA98",
           "rgb": {
             "r": 3,
@@ -56850,7 +56850,7 @@
           "id": "liquitex-680-3",
           "name": "Light Blue Violet",
           "code": "680",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#95B3DE",
           "rgb": {
             "r": 149,
@@ -56862,7 +56862,7 @@
           "id": "liquitex-720",
           "name": "Cadmium Orange Hue",
           "code": "720",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#EF7A04",
           "rgb": {
             "r": 239,
@@ -56874,7 +56874,7 @@
           "id": "liquitex-770-3",
           "name": "Light Blue Permanent",
           "code": "770",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#76CAE6",
           "rgb": {
             "r": 118,
@@ -56886,7 +56886,7 @@
           "id": "liquitex-810-3",
           "name": "Light Portrait Pink",
           "code": "810",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#F7C7B7",
           "rgb": {
             "r": 247,
@@ -56898,7 +56898,7 @@
           "id": "liquitex-830",
           "name": "Cadmium Yellow Medium Hue",
           "code": "830",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#FFD600",
           "rgb": {
             "r": 255,
@@ -56910,7 +56910,7 @@
           "id": "liquitex-840-3",
           "name": "Brilliant Yellow Green",
           "code": "840",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#A9CD71",
           "rgb": {
             "r": 169,
@@ -56922,7 +56922,7 @@
           "id": "liquitex-981-3",
           "name": "Fluorescent Yellow",
           "code": "981",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#F2E300",
           "rgb": {
             "r": 242,
@@ -56934,7 +56934,7 @@
           "id": "liquitex-982-3",
           "name": "Fluorescent Orange",
           "code": "982",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#E95512",
           "rgb": {
             "r": 233,
@@ -56946,7 +56946,7 @@
           "id": "liquitex-983-3",
           "name": "Fluorescent Red",
           "code": "983",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#E30A1C",
           "rgb": {
             "r": 227,
@@ -56958,7 +56958,7 @@
           "id": "liquitex-984-3",
           "name": "Fluorescent Blue",
           "code": "984",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#1165AF",
           "rgb": {
             "r": 17,
@@ -56970,7 +56970,7 @@
           "id": "liquitex-985-3",
           "name": "Fluorescent Green",
           "code": "985",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#0BA537",
           "rgb": {
             "r": 11,
@@ -56982,7 +56982,7 @@
           "id": "liquitex-987-3",
           "name": "Fluorescent Pink",
           "code": "987",
-          "set": "BASICS Acrylic",
+          "set": "Basic Acrylic",
           "hex": "#E50C52",
           "rgb": {
             "r": 229,
@@ -57594,7 +57594,7 @@
           "id": "liquitex-110-3",
           "name": "Quinacridone Crimson",
           "code": "110",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#890014",
           "rgb": {
             "r": 137,
@@ -57606,7 +57606,7 @@
           "id": "liquitex-116-4",
           "name": "Alizarin Crimson Hue Permanent",
           "code": "116",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#700217",
           "rgb": {
             "r": 112,
@@ -57618,7 +57618,7 @@
           "id": "liquitex-127-5",
           "name": "Burnt Sienna",
           "code": "127",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#64110D",
           "rgb": {
             "r": 100,
@@ -57630,7 +57630,7 @@
           "id": "liquitex-128-5",
           "name": "Burnt Umber",
           "code": "128",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#39170E",
           "rgb": {
             "r": 57,
@@ -57642,7 +57642,7 @@
           "id": "liquitex-156-2",
           "name": "Light Bismuth Yellow",
           "code": "156",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#EDEDA1",
           "rgb": {
             "r": 237,
@@ -57654,7 +57654,7 @@
           "id": "liquitex-166-3",
           "name": "Chromium Oxide Green",
           "code": "166",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#225C22",
           "rgb": {
             "r": 34,
@@ -57666,7 +57666,7 @@
           "id": "liquitex-186-5",
           "name": "Dioxazine Purple",
           "code": "186",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#201422",
           "rgb": {
             "r": 32,
@@ -57678,7 +57678,7 @@
           "id": "liquitex-224-5",
           "name": "Hooker's Green Hue Permanent",
           "code": "224",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#1E3B03",
           "rgb": {
             "r": 30,
@@ -57690,7 +57690,7 @@
           "id": "liquitex-234-4",
           "name": "Iridescent Bright Gold",
           "code": "234",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#BE8F35",
           "rgb": {
             "r": 190,
@@ -57702,7 +57702,7 @@
           "id": "liquitex-236-4",
           "name": "Iridescent Bright Silver",
           "code": "236",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#A0A7A8",
           "rgb": {
             "r": 160,
@@ -57714,7 +57714,7 @@
           "id": "liquitex-276-5",
           "name": "Mars Black",
           "code": "276",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#151419",
           "rgb": {
             "r": 21,
@@ -57726,7 +57726,7 @@
           "id": "liquitex-292-4",
           "name": "Naphthol Crimson",
           "code": "292",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#B00113",
           "rgb": {
             "r": 176,
@@ -57738,7 +57738,7 @@
           "id": "liquitex-310-4",
           "name": "Payne's Gray",
           "code": "310",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#141319",
           "rgb": {
             "r": 20,
@@ -57750,7 +57750,7 @@
           "id": "liquitex-316-5",
           "name": "Phthalocyanine Blue Green Shade",
           "code": "316",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#101345",
           "rgb": {
             "r": 16,
@@ -57762,7 +57762,7 @@
           "id": "liquitex-317-4",
           "name": "Phthalocyanine Green Blue Shade",
           "code": "317",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#002D37",
           "rgb": {
             "r": 0,
@@ -57774,7 +57774,7 @@
           "id": "liquitex-320-5",
           "name": "Prussian Blue Hue",
           "code": "320",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#151225",
           "rgb": {
             "r": 21,
@@ -57786,7 +57786,7 @@
           "id": "liquitex-323-3",
           "name": "Pyrrole Orange",
           "code": "323",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#ED3812",
           "rgb": {
             "r": 237,
@@ -57798,7 +57798,7 @@
           "id": "liquitex-330-5",
           "name": "Raw Sienna",
           "code": "330",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#A04515",
           "rgb": {
             "r": 160,
@@ -57810,7 +57810,7 @@
           "id": "liquitex-331-5",
           "name": "Raw Umber",
           "code": "331",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#34211B",
           "rgb": {
             "r": 52,
@@ -57822,7 +57822,7 @@
           "id": "liquitex-336",
           "name": "Lamp Black",
           "code": "336",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#131217",
           "rgb": {
             "r": 19,
@@ -57834,7 +57834,7 @@
           "id": "liquitex-382-4",
           "name": "Ultramarine Blue Red Shade",
           "code": "382",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#271879",
           "rgb": {
             "r": 39,
@@ -57846,7 +57846,7 @@
           "id": "liquitex-411-3",
           "name": "Yellow Light Hansa",
           "code": "411",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#EAE35A",
           "rgb": {
             "r": 234,
@@ -57858,7 +57858,7 @@
           "id": "liquitex-412-3",
           "name": "Yellow Medium Azo",
           "code": "412",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#EAC01C",
           "rgb": {
             "r": 234,
@@ -57870,7 +57870,7 @@
           "id": "liquitex-416-5",
           "name": "Yellow Oxide",
           "code": "416",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#C48830",
           "rgb": {
             "r": 196,
@@ -57882,7 +57882,7 @@
           "id": "liquitex-430-4",
           "name": "Transparent Mixing White",
           "code": "430",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#E0E4E3",
           "rgb": {
             "r": 224,
@@ -57894,7 +57894,7 @@
           "id": "liquitex-432-5",
           "name": "Titanium White",
           "code": "432",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#DFE2E1",
           "rgb": {
             "r": 223,
@@ -57906,7 +57906,7 @@
           "id": "liquitex-434-5",
           "name": "Unbleached Titanium",
           "code": "434",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#D2C398",
           "rgb": {
             "r": 210,
@@ -57918,7 +57918,7 @@
           "id": "liquitex-450-4",
           "name": "Emerald Green",
           "code": "450",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#016B3B",
           "rgb": {
             "r": 1,
@@ -57930,7 +57930,7 @@
           "id": "liquitex-470-5",
           "name": "Cerulean Blue Hue",
           "code": "470",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#00669B",
           "rgb": {
             "r": 0,
@@ -57942,7 +57942,7 @@
           "id": "liquitex-500-5",
           "name": "Medium Magenta",
           "code": "500",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#C93470",
           "rgb": {
             "r": 201,
@@ -57954,7 +57954,7 @@
           "id": "liquitex-570-4",
           "name": "Brilliant Blue",
           "code": "570",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#0090BC",
           "rgb": {
             "r": 0,
@@ -57966,7 +57966,7 @@
           "id": "liquitex-601-4",
           "name": "Naples Yellow Hue",
           "code": "601",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#DFA64D",
           "rgb": {
             "r": 223,
@@ -57978,7 +57978,7 @@
           "id": "liquitex-660-5",
           "name": "Bright Aqua Green",
           "code": "660",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#00BEA5",
           "rgb": {
             "r": 0,
@@ -57990,7 +57990,7 @@
           "id": "liquitex-770-5",
           "name": "Light Blue Permanent",
           "code": "770",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#48C9CE",
           "rgb": {
             "r": 72,
@@ -58002,7 +58002,7 @@
           "id": "liquitex-810-5",
           "name": "Light Pink",
           "code": "810",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#E39B8D",
           "rgb": {
             "r": 227,
@@ -58014,7 +58014,7 @@
           "id": "liquitex-889-4",
           "name": "Cadmium-Free Yellow Light",
           "code": "889",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#F3DC35",
           "rgb": {
             "r": 243,
@@ -58026,7 +58026,7 @@
           "id": "liquitex-890-4",
           "name": "Cadmium-Free Yellow Medium",
           "code": "890",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#FACF33",
           "rgb": {
             "r": 250,
@@ -58038,7 +58038,7 @@
           "id": "liquitex-892-4",
           "name": "Cadmium-Free Orange",
           "code": "892",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#ED5D10",
           "rgb": {
             "r": 237,
@@ -58050,7 +58050,7 @@
           "id": "liquitex-893-4",
           "name": "Cadmium-Free Red Light",
           "code": "893",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#DC3020",
           "rgb": {
             "r": 220,
@@ -58062,7 +58062,7 @@
           "id": "liquitex-894-4",
           "name": "Cadmium-Free Red Medium",
           "code": "894",
-          "set": "Bio-Based Acrylic",
+          "set": "Bio-based Acrylics",
           "hex": "#BB0912",
           "rgb": {
             "r": 187,
@@ -59322,7 +59322,7 @@
           "id": "liquitex-110-4",
           "name": "Quinacridone Crimson",
           "code": "110",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#C50636",
           "rgb": {
             "r": 197,
@@ -59334,7 +59334,7 @@
           "id": "liquitex-127-6",
           "name": "Burnt Sienna",
           "code": "127",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#6F1D0D",
           "rgb": {
             "r": 111,
@@ -59346,7 +59346,7 @@
           "id": "liquitex-128-6",
           "name": "Burnt Umber",
           "code": "128",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#3E1200",
           "rgb": {
             "r": 62,
@@ -59358,7 +59358,7 @@
           "id": "liquitex-151-2",
           "name": "Cadmium Red Medium Hue",
           "code": "151",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#E52636",
           "rgb": {
             "r": 229,
@@ -59370,7 +59370,7 @@
           "id": "liquitex-159-3",
           "name": "Cadmium Yellow Light Hue",
           "code": "159",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#FFED00",
           "rgb": {
             "r": 255,
@@ -59382,7 +59382,7 @@
           "id": "liquitex-163-2",
           "name": "Cadmium Yellow Deep Hue",
           "code": "163",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#FBC04E",
           "rgb": {
             "r": 251,
@@ -59394,7 +59394,7 @@
           "id": "liquitex-169-3",
           "name": "Cobalt Turquoise Hue",
           "code": "169",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#007881",
           "rgb": {
             "r": 0,
@@ -59406,7 +59406,7 @@
           "id": "liquitex-186-7",
           "name": "Dioxazine Purple",
           "code": "186",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#2B0F4B",
           "rgb": {
             "r": 43,
@@ -59418,7 +59418,7 @@
           "id": "liquitex-224-7",
           "name": "Hooker's Green Hue Permanent",
           "code": "224",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#062E1C",
           "rgb": {
             "r": 6,
@@ -59430,7 +59430,7 @@
           "id": "liquitex-237-3",
           "name": "Iridescent Antique Gold",
           "code": "237",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#A29166",
           "rgb": {
             "r": 162,
@@ -59442,7 +59442,7 @@
           "id": "liquitex-239-3",
           "name": "Iridescent Rich Silver",
           "code": "239",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#C2C2C1",
           "rgb": {
             "r": 194,
@@ -59454,7 +59454,7 @@
           "id": "liquitex-311-2",
           "name": "Cadmium Red Deep Hue",
           "code": "311",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#7C152E",
           "rgb": {
             "r": 124,
@@ -59466,7 +59466,7 @@
           "id": "liquitex-312-4",
           "name": "Light Green Permanent",
           "code": "312",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#00A151",
           "rgb": {
             "r": 0,
@@ -59478,7 +59478,7 @@
           "id": "liquitex-316-7",
           "name": "Phthalocyanine Blue Green Shade",
           "code": "316",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#003B6F",
           "rgb": {
             "r": 0,
@@ -59490,7 +59490,7 @@
           "id": "liquitex-317-6",
           "name": "Phthalocyanine Green Blue Shade",
           "code": "317",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#003524",
           "rgb": {
             "r": 0,
@@ -59502,7 +59502,7 @@
           "id": "liquitex-320-7",
           "name": "Prussian Blue Hue",
           "code": "320",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#0E2B66",
           "rgb": {
             "r": 14,
@@ -59514,7 +59514,7 @@
           "id": "liquitex-330-6",
           "name": "Raw Sienna",
           "code": "330",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#985210",
           "rgb": {
             "r": 152,
@@ -59526,7 +59526,7 @@
           "id": "liquitex-331-6",
           "name": "Raw Umber",
           "code": "331",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#4B2B01",
           "rgb": {
             "r": 75,
@@ -59538,7 +59538,7 @@
           "id": "liquitex-337-2",
           "name": "Carbon Black",
           "code": "337",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#1C1C1B",
           "rgb": {
             "r": 28,
@@ -59550,7 +59550,7 @@
           "id": "liquitex-381-4",
           "name": "Cobalt Blue Hue",
           "code": "381",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#3953A0",
           "rgb": {
             "r": 57,
@@ -59562,7 +59562,7 @@
           "id": "liquitex-412-5",
           "name": "Yellow Medium Azo",
           "code": "412",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#FFED00",
           "rgb": {
             "r": 255,
@@ -59574,7 +59574,7 @@
           "id": "liquitex-416-7",
           "name": "Yellow Oxide",
           "code": "416",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#DD9100",
           "rgb": {
             "r": 221,
@@ -59586,7 +59586,7 @@
           "id": "liquitex-432-7",
           "name": "Titanium White",
           "code": "432",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#FFFFFF",
           "rgb": {
             "r": 255,
@@ -59598,7 +59598,7 @@
           "id": "liquitex-434-6",
           "name": "Unbleached Titanium",
           "code": "434",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#FAE1C4",
           "rgb": {
             "r": 250,
@@ -59610,7 +59610,7 @@
           "id": "liquitex-436-4",
           "name": "Parchment",
           "code": "436",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#DFE1C2",
           "rgb": {
             "r": 223,
@@ -59622,7 +59622,7 @@
           "id": "liquitex-450-5",
           "name": "Emerald Green",
           "code": "450",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#008137",
           "rgb": {
             "r": 0,
@@ -59634,7 +59634,7 @@
           "id": "liquitex-470-7",
           "name": "Cerulean Blue Hue",
           "code": "470",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#1165AF",
           "rgb": {
             "r": 17,
@@ -59646,7 +59646,7 @@
           "id": "liquitex-500-6",
           "name": "Medium Magenta",
           "code": "500",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#C42084",
           "rgb": {
             "r": 196,
@@ -59658,7 +59658,7 @@
           "id": "liquitex-510-2",
           "name": "Cadmium Red Light Hue",
           "code": "510",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#E8443B",
           "rgb": {
             "r": 232,
@@ -59670,7 +59670,7 @@
           "id": "liquitex-530-4",
           "name": "Bronze Yellow",
           "code": "530",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#836E23",
           "rgb": {
             "r": 131,
@@ -59682,7 +59682,7 @@
           "id": "liquitex-570-5",
           "name": "Brilliant Blue",
           "code": "570",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#0092D4",
           "rgb": {
             "r": 0,
@@ -59694,7 +59694,7 @@
           "id": "liquitex-590-5",
           "name": "Brilliant Purple",
           "code": "590",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#7158A1",
           "rgb": {
             "r": 113,
@@ -59706,7 +59706,7 @@
           "id": "liquitex-601-5",
           "name": "Naples Yellow Hue",
           "code": "601",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#EEB161",
           "rgb": {
             "r": 238,
@@ -59718,7 +59718,7 @@
           "id": "liquitex-660-6",
           "name": "Bright Aqua Green",
           "code": "660",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#1EB19D",
           "rgb": {
             "r": 30,
@@ -59730,7 +59730,7 @@
           "id": "liquitex-680-4",
           "name": "Light Blue Violet",
           "code": "680",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#577ABC",
           "rgb": {
             "r": 87,
@@ -59742,7 +59742,7 @@
           "id": "liquitex-720-3",
           "name": "Cadmium Orange Hue",
           "code": "720",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#F39400",
           "rgb": {
             "r": 243,
@@ -59754,7 +59754,7 @@
           "id": "liquitex-740-5",
           "name": "Vivid Lime Green",
           "code": "740",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#74B84D",
           "rgb": {
             "r": 116,
@@ -59766,7 +59766,7 @@
           "id": "liquitex-770-6",
           "name": "Light Blue Permanent",
           "code": "770",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#76CAE6",
           "rgb": {
             "r": 118,
@@ -59778,7 +59778,7 @@
           "id": "liquitex-790",
           "name": "Light Violet",
           "code": "790",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#A695C7",
           "rgb": {
             "r": 166,
@@ -59790,7 +59790,7 @@
           "id": "liquitex-810-6",
           "name": "Light Portrait Pink",
           "code": "810",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#FBDBCD",
           "rgb": {
             "r": 251,
@@ -59802,7 +59802,7 @@
           "id": "liquitex-830-2",
           "name": "Cadmium Yellow Medium Hue",
           "code": "830",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#FFD500",
           "rgb": {
             "r": 255,
@@ -59814,7 +59814,7 @@
           "id": "liquitex-981-6",
           "name": "Fluorescent Yellow",
           "code": "981",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#FFEA00",
           "rgb": {
             "r": 255,
@@ -59826,7 +59826,7 @@
           "id": "liquitex-982-6",
           "name": "Fluorescent Orange",
           "code": "982",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#F39200",
           "rgb": {
             "r": 243,
@@ -59838,7 +59838,7 @@
           "id": "liquitex-983-6",
           "name": "Fluorescent Red",
           "code": "983",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#E95053",
           "rgb": {
             "r": 233,
@@ -59850,7 +59850,7 @@
           "id": "liquitex-984-5",
           "name": "Fluorescent Blue",
           "code": "984",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#008DD3",
           "rgb": {
             "r": 0,
@@ -59862,7 +59862,7 @@
           "id": "liquitex-985-6",
           "name": "Fluorescent Green",
           "code": "985",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#64B22E",
           "rgb": {
             "r": 100,
@@ -59874,7 +59874,7 @@
           "id": "liquitex-987-6",
           "name": "Fluorescent Pink",
           "code": "987",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#DF1D73",
           "rgb": {
             "r": 223,
@@ -59886,7 +59886,7 @@
           "id": "liquitex-5599-2",
           "name": "Neutral Gray",
           "code": "5599",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#80807F",
           "rgb": {
             "r": 128,
@@ -59898,7 +59898,7 @@
           "id": "liquitex-7599-2",
           "name": "Neutral Gray",
           "code": "7599",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#D2D7DB",
           "rgb": {
             "r": 210,
@@ -59910,7 +59910,7 @@
           "id": "liquitex-8599-2",
           "name": "Neutral Gray",
           "code": "8599",
-          "set": "Acrylic Paint Markers",
+          "set": "Acrylic Marker",
           "hex": "#E2E5E5",
           "rgb": {
             "r": 226,
