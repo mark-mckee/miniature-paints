@@ -31,3 +31,8 @@ I have added a single JSON file that contains all brands and paints. This file w
 |  <a href="paints/TomColor.md"> <img src="logos/TomColor.png" height="70" /> <br/> Tom Color</a>|  <a href="paints/TurboDork.md"> <img src="logos/TurboDork.png" height="70" /> <br/> Turbo Dork</a>|  <a href="paints/Vallejo.md"> <img src="logos/Vallejo.png" height="70" /> <br/> Vallejo</a>|
 |  <a href="paints/Warcolours.md"> <img src="logos/Warcolours.png" height="70" /> <br/> Warcolours</a>| <a href="paints/Warhammer_Colour.md"> <img src="logos/Warhammer_Colour.png" height="70" /> <br/> Warhammer Colour</a>||
 <!-- END -->
+
+## Use of AI
+There's a lot of paints! Tens of thousands of them! I have been feeding the latest product catalogues into Claude and asking it to pull out all the paints and the sets they belong to. After I process and verify the output, Claude then updates the tables in the markdown files. AI can make mistakes, and so can I, so there may be errors. I verify as much as possible, but if a mistake slips through feel free to open a PR and I'll correct it. 
+
+There's still an awful lot of legwork involved, and Claude takes the mundane tasks off of me.
