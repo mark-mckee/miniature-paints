@@ -19,7 +19,7 @@ I have added a single JSON file that contains all brands and paints. This file w
 <!-- START -->
 |  |  |  |
 | :---: | :---: | :---: |
-|  <a href="paints/AK.md"> <img src="logos/AK.png" height="70" /> <br/> AK</a>|  <a href="paints/AKRC.md"> <img src="logos/AKRC.png" height="70" /> <br/> A K R C</a>|  <a href="paints/Acrilex.md"> <img src="logos/Acrilex.png" height="70" /> <br/> Acrilex</a>|
+|  <a href="paints/AK.md"> <img src="logos/AK.png" height="70" /> <br/> AK</a>|  <a href="paints/Acrilex.md"> <img src="logos/Acrilex.png" height="70" /> <br/> Acrilex</a>|
 |  <a href="paints/AppleBarrel.md"> <img src="logos/AppleBarrel.png" height="70" /> <br/> Apple Barrel</a>|  <a href="paints/Army_Painter.md"> <img src="logos/Army_Painter.png" height="70" /> <br/> Army Painter</a>|  <a href="paints/Arteza.md"> <img src="logos/Arteza.png" height="70" /> <br/> Arteza</a>|
 |  <a href="paints/CoatDArmes.md"> <img src="logos/CoatDArmes.png" height="70" /> <br/> Coat D Armes</a>|  <a href="paints/Creature.md"> <img src="logos/Creature.png" height="70" /> <br/> Creature</a>| <a href="paints/Duncan.md"> <img src="logos/Duncan.png" height="70" /> <br/> Duncan</a>|  <a href="paints/FolkArt.md"> <img src="logos/FolkArt.png" height="70" /> <br/> Folk Art</a>|  <a href="paints/Foundry.md"> <img src="logos/Foundry.png" height="70" /> <br/> Foundry</a>|
 |  <a href="paints/Golden.md"> <img src="logos/Golden.png" height="70" /> <br/> Golden</a>|  <a href="paints/GreenStuffWorld.md"> <img src="logos/GreenStuffWorld.png" height="70" /> <br/> Green Stuff World</a>|  <a href="paints/Humbrol.md"> <img src="logos/Humbrol.png" height="70" /> <br/> Humbrol</a>|
