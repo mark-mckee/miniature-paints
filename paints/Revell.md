@@ -68,7 +68,7 @@
 |Tank grey RAL 7024|32178|Revell Email Color (Enamel)|40|49|56|![#283138](https://placehold.co/15x15/283138/283138.png) `#283138`|
 |Greyish blue RAL 7031|32179|Revell Email Color (Enamel)|85|105|114|![#556972](https://placehold.co/15x15/556972/556972.png) `#556972`|
 |Mud brown RAL 8003|32180|Revell Email Color (Enamel)|130|63|31|![#823F1F](https://placehold.co/15x15/823F1F/823F1F.png) `#823F1F`|
-|Dark earh RAF|32182|Revell Email Color (Enamel)|114|88|51|![#725833](https://placehold.co/15x15/725833/725833.png) `#725833`|
+|Dark earth RAF|32182|Revell Email Color (Enamel)|114|88|51|![#725833](https://placehold.co/15x15/725833/725833.png) `#725833`|
 |Rust|32183|Revell Email Color (Enamel)|112|67|61|![#70433D](https://placehold.co/15x15/70433D/70433D.png) `#70433D`|
 |Leather brown RAL 8027|32184|Revell Email Color (Enamel)|65|52|46|![#41342E](https://placehold.co/15x15/41342E/41342E.png) `#41342E`|
 |Brown RAL 8023|32185|Revell Email Color (Enamel)|164|65|34|![#A44122](https://placehold.co/15x15/A44122/A44122.png) `#A44122`|
@@ -156,7 +156,7 @@
 |Tank grey RAL 7024|36178|Revell Aqua Color (Acrylic)|40|49|56|![#283138](https://placehold.co/15x15/283138/283138.png) `#283138`|
 |Greyish blue RAL 7031|36179|Revell Aqua Color (Acrylic)|85|105|114|![#556972](https://placehold.co/15x15/556972/556972.png) `#556972`|
 |Mud brown RAL 8003|36180|Revell Aqua Color (Acrylic)|132|66|35|![#844223](https://placehold.co/15x15/844223/844223.png) `#844223`|
-|Dark earh RAF|36182|Revell Aqua Color (Acrylic)|114|88|51|![#725833](https://placehold.co/15x15/725833/725833.png) `#725833`|
+|Dark earth RAF|36182|Revell Aqua Color (Acrylic)|114|88|51|![#725833](https://placehold.co/15x15/725833/725833.png) `#725833`|
 |Rust|36183|Revell Aqua Color (Acrylic)|112|67|61|![#70433D](https://placehold.co/15x15/70433D/70433D.png) `#70433D`|
 |Leather brown RAL 8027|36184|Revell Aqua Color (Acrylic)|65|52|46|![#41342E](https://placehold.co/15x15/41342E/41342E.png) `#41342E`|
 |Brown RAL 8023|36185|Revell Aqua Color (Acrylic)|164|64|34|![#A44022](https://placehold.co/15x15/A44022/A44022.png) `#A44022`|

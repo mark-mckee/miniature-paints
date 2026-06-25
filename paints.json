@@ -34742,7 +34742,7 @@
       "contactForm": "",
       "website": "https://www.wargamesfoundry.com",
       "phone": "+44 1636 526886",
-      "updatedCatalogueRequested": "",
+      "updatedCatalogueRequested": "25/06/2026",
       "paintCount": 360,
       "paints": [
         {
@@ -106495,7 +106495,7 @@
         },
         {
           "id": "revell-32182",
-          "name": "Dark earh RAF",
+          "name": "Dark earth RAF",
           "code": "32182",
           "set": "Revell Email Color (Enamel)",
           "hex": "#725833",
@@ -107551,7 +107551,7 @@
         },
         {
           "id": "revell-36182",
-          "name": "Dark earh RAF",
+          "name": "Dark earth RAF",
           "code": "36182",
           "set": "Revell Aqua Color (Acrylic)",
           "hex": "#725833",
