@@ -10,7 +10,7 @@
 | City | Norcross |
 | Postcode | 30092 |
 | Country | USA |
-| Email | help@arteza.com |
+| Email | help@arteza.com (bounced) |
 | Contact Form |  |
 | Website | https://arteza.com |
 | Phone |  |
