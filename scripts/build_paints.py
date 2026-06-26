@@ -15,8 +15,23 @@ from collections import OrderedDict
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAINTS_DIR = os.path.join(ROOT, "paints")
 OUT_PATH = os.path.join(ROOT, "paints.json")
+JSON_DIR = os.path.join(ROOT, "json")
 
 HEX_RE = re.compile(r'#([0-9A-Fa-f]{6})')
+POT_RE = re.compile(r'([\d]+(?:\.[\d]+)?)\s*([a-zA-Z]+)')
+
+
+def parse_pot_size(raw):
+    """'17ml' -> {'raw':'17ml','value':17,'unit':'ml'}; falsy -> None."""
+    if not raw:
+        return None
+    m = POT_RE.search(raw)
+    if not m:
+        return {"raw": raw, "value": None, "unit": None}
+    value = float(m.group(1))
+    if value.is_integer():
+        value = int(value)
+    return {"raw": raw, "value": value, "unit": m.group(2).lower()}
 
 # Brand Details table field -> location in the brand object.
 # ("address", k) nests under address; (None, k) sits at brand top level.
@@ -91,6 +106,8 @@ def parse_paints(lines, brand_slug):
         code = fix(row.get('Code', '').strip()) if 'Code' in header else ''
         code = code or None
         setv = fix(row.get('Set', '').strip()) or None
+        pot = parse_pot_size(fix(row.get('Pot Size', '').strip()) or None)
+        desc = fix(row.get('Description', '').strip()) or None
 
         def to_int(v):
             v = (v or '').strip()
@@ -114,6 +131,8 @@ def parse_paints(lines, brand_slug):
             "set": setv,
             "hex": hexv,
             "rgb": {"r": R, "g": G, "b": B} if None not in (R, G, B) else None,
+            "potSize": pot,
+            "description": desc,
         })
     return paints
 
@@ -153,7 +172,7 @@ def build():
         total += len(paints)
 
     doc = OrderedDict()
-    doc["schema"] = "miniature-paints/v1"
+    doc["schema"] = "miniature-paints/v2"
     doc["brandCount"] = len(brands)
     doc["paintCount"] = total
     doc["brands"] = brands
@@ -165,7 +184,15 @@ def main():
     with open(OUT_PATH, 'w', encoding='utf-8') as f:
         json.dump(doc, f, ensure_ascii=False, indent=2)
         f.write('\n')
-    print(f"Wrote {OUT_PATH}: {doc['brandCount']} brands, {doc['paintCount']} paints")
+    # Per-brand files, serialized from the same brand objects as the aggregate
+    # (so json/<stem>.json can never drift from brands.<stem> in paints.json).
+    os.makedirs(JSON_DIR, exist_ok=True)
+    for stem, brand in doc["brands"].items():
+        with open(os.path.join(JSON_DIR, f"{stem}.json"), 'w', encoding='utf-8') as f:
+            json.dump(brand, f, ensure_ascii=False, indent=2)
+            f.write('\n')
+    print(f"Wrote {OUT_PATH} and {len(doc['brands'])} files in {JSON_DIR}: "
+          f"{doc['brandCount']} brands, {doc['paintCount']} paints")
 
 
 if __name__ == "__main__":

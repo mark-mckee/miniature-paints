@@ -1,0 +1,1852 @@
+{
+  "displayName": "P3",
+  "company": "Privateer Press Inc.",
+  "address": {
+    "street": "21220 87th Ave. S.E.",
+    "city": "Woodinville",
+    "postcode": "98072",
+    "country": "United States"
+  },
+  "contactEmail": "frontdesk@privateerpress.com",
+  "contactForm": "",
+  "website": "https://privateerpress.com",
+  "phone": "425-643-5900",
+  "updatedCatalogueRequested": "",
+  "paintCount": 131,
+  "paints": [
+    {
+      "id": "p3-jack-bone",
+      "name": "'Jack Bone",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#D6D3AA",
+      "rgb": {
+        "r": 214,
+        "g": 211,
+        "b": 170
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-amethyst-rose",
+      "name": "Amethyst Rose",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#481306",
+      "rgb": {
+        "r": 72,
+        "g": 19,
+        "b": 6
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-arcane-blue",
+      "name": "Arcane Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#7ACFD9",
+      "rgb": {
+        "r": 122,
+        "g": 207,
+        "b": 217
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-arcantrik-green",
+      "name": "Arcantrik Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#547E5B",
+      "rgb": {
+        "r": 84,
+        "g": 126,
+        "b": 91
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-armor-wash",
+      "name": "Armor Wash",
+      "code": null,
+      "set": "Privateer Press Formula P3 Wash",
+      "hex": "#879284",
+      "rgb": {
+        "r": 135,
+        "g": 146,
+        "b": 132
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-asheth-grey",
+      "name": "Asheth Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#2A2524",
+      "rgb": {
+        "r": 42,
+        "g": 37,
+        "b": 36
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bad-bruise",
+      "name": "Bad Bruise",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#33283A",
+      "rgb": {
+        "r": 51,
+        "g": 40,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bane-grey",
+      "name": "Bane Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#564F3D",
+      "rgb": {
+        "r": 86,
+        "g": 79,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-basilisk-brown",
+      "name": "Basilisk Brown",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#76412B",
+      "rgb": {
+        "r": 118,
+        "g": 65,
+        "b": 43
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bastion-grey",
+      "name": "Bastion Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#777965",
+      "rgb": {
+        "r": 119,
+        "g": 121,
+        "b": 101
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-battle-dress-green",
+      "name": "Battle Dress Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#5E4E14",
+      "rgb": {
+        "r": 94,
+        "g": 78,
+        "b": 20
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-battledress-green",
+      "name": "Battledress Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#757131",
+      "rgb": {
+        "r": 117,
+        "g": 113,
+        "b": 49
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-battlefield-brown",
+      "name": "Battlefield Brown",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#32261D",
+      "rgb": {
+        "r": 50,
+        "g": 38,
+        "b": 29
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-beast-hide",
+      "name": "Beast Hide",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#AF9369",
+      "rgb": {
+        "r": 175,
+        "g": 147,
+        "b": 105
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-beaten-purple",
+      "name": "Beaten Purple",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#552A72",
+      "rgb": {
+        "r": 85,
+        "g": 42,
+        "b": 114
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bile-thrall",
+      "name": "Bile Thrall",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#6A4E16",
+      "rgb": {
+        "r": 106,
+        "g": 78,
+        "b": 22
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-blazing-ink",
+      "name": "Blazing Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#EEAA58",
+      "rgb": {
+        "r": 238,
+        "g": 170,
+        "b": 88
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bleached-blue",
+      "name": "Bleached Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#877A68",
+      "rgb": {
+        "r": 135,
+        "g": 122,
+        "b": 104
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-blighted-gold",
+      "name": "Blighted Gold",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#8B9742",
+      "rgb": {
+        "r": 139,
+        "g": 151,
+        "b": 66
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-blindwater-green",
+      "name": "Blindwater Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#2A271A",
+      "rgb": {
+        "r": 42,
+        "g": 39,
+        "b": 26
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bloodstone",
+      "name": "Bloodstone",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#9E4923",
+      "rgb": {
+        "r": 158,
+        "g": 73,
+        "b": 35
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bloodtracker-brown",
+      "name": "Bloodtracker Brown",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#A56A28",
+      "rgb": {
+        "r": 165,
+        "g": 106,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-blue-ink",
+      "name": "Blue Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#3B5BA1",
+      "rgb": {
+        "r": 59,
+        "g": 91,
+        "b": 161
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bog-moss",
+      "name": "Bog Moss",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#80703C",
+      "rgb": {
+        "r": 128,
+        "g": 112,
+        "b": 60
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bogrin-brown",
+      "name": "Bogrin Brown",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#92653C",
+      "rgb": {
+        "r": 146,
+        "g": 101,
+        "b": 60
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-boiler-black",
+      "name": "Boiler Black",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#5D5A55",
+      "rgb": {
+        "r": 93,
+        "g": 90,
+        "b": 85
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bootstrap-leather",
+      "name": "Bootstrap Leather",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#946839",
+      "rgb": {
+        "r": 148,
+        "g": 104,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-brass-balls",
+      "name": "Brass Balls",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#FAF8D2",
+      "rgb": {
+        "r": 250,
+        "g": 248,
+        "b": 210
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-broken-brick",
+      "name": "Broken Brick",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#A53331",
+      "rgb": {
+        "r": 165,
+        "g": 51,
+        "b": 49
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-bronze-badge",
+      "name": "Bronze Badge",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#954A02",
+      "rgb": {
+        "r": 149,
+        "g": 74,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-brown-ink",
+      "name": "Brown Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#744439",
+      "rgb": {
+        "r": 116,
+        "g": 68,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-carnal-pink",
+      "name": "Carnal Pink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F9E0EA",
+      "rgb": {
+        "r": 249,
+        "g": 224,
+        "b": 234
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-caspian-flesh-wash",
+      "name": "Caspian Flesh Wash",
+      "code": null,
+      "set": "Privateer Press Formula P3 Wash",
+      "hex": "#A49881",
+      "rgb": {
+        "r": 164,
+        "g": 152,
+        "b": 129
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-coal-black",
+      "name": "Coal Black",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#005A61",
+      "rgb": {
+        "r": 0,
+        "g": 90,
+        "b": 97
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-cold-steel",
+      "name": "Cold Steel",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#BFCACE",
+      "rgb": {
+        "r": 191,
+        "g": 202,
+        "b": 206
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-copper-pipe",
+      "name": "Copper Pipe",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#745738",
+      "rgb": {
+        "r": 116,
+        "g": 87,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-cryx-bane-base",
+      "name": "Cryx Bane Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#313A25",
+      "rgb": {
+        "r": 49,
+        "g": 58,
+        "b": 37
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-cryx-bane-highlight",
+      "name": "Cryx Bane Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#908E7C",
+      "rgb": {
+        "r": 144,
+        "g": 142,
+        "b": 124
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-cryx-green",
+      "name": "Cryx Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#2C281B",
+      "rgb": {
+        "r": 44,
+        "g": 40,
+        "b": 27
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-cygnar-blue-base",
+      "name": "Cygnar Blue Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#124B9A",
+      "rgb": {
+        "r": 18,
+        "g": 75,
+        "b": 154
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-cygnar-blue-highlight",
+      "name": "Cygnar Blue Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#2C75BB",
+      "rgb": {
+        "r": 44,
+        "g": 117,
+        "b": 187
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-cygnus-yellow",
+      "name": "Cygnus Yellow",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F7E52D",
+      "rgb": {
+        "r": 247,
+        "g": 229,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-deathless-metal",
+      "name": "Deathless Metal",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#503528",
+      "rgb": {
+        "r": 80,
+        "g": 53,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-devout-white",
+      "name": "Devout White",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B3A998",
+      "rgb": {
+        "r": 179,
+        "g": 169,
+        "b": 152
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-drake-grey",
+      "name": "Drake Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#8D8581",
+      "rgb": {
+        "r": 141,
+        "g": 133,
+        "b": 129
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-eldritch",
+      "name": "Eldritch",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#35795E",
+      "rgb": {
+        "r": 53,
+        "g": 121,
+        "b": 94
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-eldritch-green",
+      "name": "Eldritch Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#21573B",
+      "rgb": {
+        "r": 33,
+        "g": 87,
+        "b": 59
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-ember-orange",
+      "name": "Ember Orange",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#EE2C24",
+      "rgb": {
+        "r": 238,
+        "g": 44,
+        "b": 36
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-exile-blue",
+      "name": "Exile Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#203467",
+      "rgb": {
+        "r": 32,
+        "g": 52,
+        "b": 103
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-flesh-wash",
+      "name": "Flesh Wash",
+      "code": null,
+      "set": "Privateer Press Formula P3 Wash",
+      "hex": "#CCB19D",
+      "rgb": {
+        "r": 204,
+        "g": 177,
+        "b": 157
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-frostbite",
+      "name": "Frostbite",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#E6EFF5",
+      "rgb": {
+        "r": 230,
+        "g": 239,
+        "b": 245
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-galvanized-steel",
+      "name": "Galvanized Steel",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B5BCB2",
+      "rgb": {
+        "r": 181,
+        "g": 188,
+        "b": 178
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-gnarls-green",
+      "name": "Gnarls Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#0D6232",
+      "rgb": {
+        "r": 13,
+        "g": 98,
+        "b": 50
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-gravedigger-denim",
+      "name": "Gravedigger Denim",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#4A5456",
+      "rgb": {
+        "r": 74,
+        "g": 84,
+        "b": 86
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-greatcoat-grey",
+      "name": "Greatcoat Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#4E5861",
+      "rgb": {
+        "r": 78,
+        "g": 88,
+        "b": 97
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-green-ink",
+      "name": "Green Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#129959",
+      "rgb": {
+        "r": 18,
+        "g": 153,
+        "b": 89
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-greylord",
+      "name": "Greylord",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#48453D",
+      "rgb": {
+        "r": 72,
+        "g": 69,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-gun-corps-brown",
+      "name": "Gun Corps Brown",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#927D47",
+      "rgb": {
+        "r": 146,
+        "g": 125,
+        "b": 71
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-hammerfall-khaki",
+      "name": "Hammerfall Khaki",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C7BF97",
+      "rgb": {
+        "r": 199,
+        "g": 191,
+        "b": 151
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-heartfire",
+      "name": "Heartfire",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F4AF46",
+      "rgb": {
+        "r": 244,
+        "g": 175,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-hoksune-red",
+      "name": "Hoksune Red",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#4B2015",
+      "rgb": {
+        "r": 75,
+        "g": 32,
+        "b": 21
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-icy-yellow",
+      "name": "Icy Yellow",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C7B378",
+      "rgb": {
+        "r": 199,
+        "g": 179,
+        "b": 120
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-idrian-flesh",
+      "name": "Idrian Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#9B5E37",
+      "rgb": {
+        "r": 155,
+        "g": 94,
+        "b": 55
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-immortal-black",
+      "name": "Immortal Black",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#30281F",
+      "rgb": {
+        "r": 48,
+        "g": 40,
+        "b": 31
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-inferno-orange",
+      "name": "Inferno Orange",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#E16E41",
+      "rgb": {
+        "r": 225,
+        "g": 110,
+        "b": 65
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-iosan-green",
+      "name": "Iosan Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#23A652",
+      "rgb": {
+        "r": 35,
+        "g": 166,
+        "b": 82
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-ironhull-grey",
+      "name": "Ironhull Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#8E959A",
+      "rgb": {
+        "r": 142,
+        "g": 149,
+        "b": 154
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-jack-bone-2",
+      "name": "Jack Bone",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#D6D3AE",
+      "rgb": {
+        "r": 214,
+        "g": 211,
+        "b": 174
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-kapitan-red",
+      "name": "Kapitan Red",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#D07B3A",
+      "rgb": {
+        "r": 208,
+        "g": 123,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-khador-red-base",
+      "name": "Khador Red Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#EE2C24",
+      "rgb": {
+        "r": 238,
+        "g": 44,
+        "b": 36
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-khador-red-highlight",
+      "name": "Khador Red Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F09042",
+      "rgb": {
+        "r": 240,
+        "g": 144,
+        "b": 66
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-khardic-flesh",
+      "name": "Khardic Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C87A5A",
+      "rgb": {
+        "r": 200,
+        "g": 122,
+        "b": 90
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-kossite-flesh-wash",
+      "name": "Kossite Flesh Wash",
+      "code": null,
+      "set": "Privateer Press Formula P3 Wash",
+      "hex": "#AA9883",
+      "rgb": {
+        "r": 170,
+        "g": 152,
+        "b": 131
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-lyossan-flesh",
+      "name": "Lyossan Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#AC8454",
+      "rgb": {
+        "r": 172,
+        "g": 132,
+        "b": 84
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-mage-hunter-green",
+      "name": "Mage Hunter Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#596453",
+      "rgb": {
+        "r": 89,
+        "g": 100,
+        "b": 83
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-meaty-ochre",
+      "name": "Meaty Ochre",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B28240",
+      "rgb": {
+        "r": 178,
+        "g": 130,
+        "b": 64
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-menoth-white-base",
+      "name": "Menoth White Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#EFECBA",
+      "rgb": {
+        "r": 239,
+        "g": 236,
+        "b": 186
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-menoth-white-highlight",
+      "name": "Menoth White Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F2F1DC",
+      "rgb": {
+        "r": 242,
+        "g": 241,
+        "b": 220
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-meredius-blue",
+      "name": "Meredius Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#00AFB8",
+      "rgb": {
+        "r": 0,
+        "g": 175,
+        "b": 184
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-meridius-blue",
+      "name": "Meridius Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#1F9095",
+      "rgb": {
+        "r": 31,
+        "g": 144,
+        "b": 149
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-midlund-flesh",
+      "name": "Midlund Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#EEA883",
+      "rgb": {
+        "r": 238,
+        "g": 168,
+        "b": 131
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-moldy-ochre",
+      "name": "Moldy Ochre",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#DCB43D",
+      "rgb": {
+        "r": 220,
+        "g": 180,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-molten-bronze",
+      "name": "Molten Bronze",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#CB8C57",
+      "rgb": {
+        "r": 203,
+        "g": 140,
+        "b": 87
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-morrow-white",
+      "name": "Morrow White",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#FFFCFD",
+      "rgb": {
+        "r": 255,
+        "g": 252,
+        "b": 253
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-mouldy-ochre",
+      "name": "Mouldy Ochre",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B0830E",
+      "rgb": {
+        "r": 176,
+        "g": 131,
+        "b": 14
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-mud-rut",
+      "name": "Mud Rut",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#674D2D",
+      "rgb": {
+        "r": 103,
+        "g": 77,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-muddy-wash",
+      "name": "Muddy Wash",
+      "code": null,
+      "set": "Privateer Press Formula P3 Wash",
+      "hex": "#8A7F6E",
+      "rgb": {
+        "r": 138,
+        "g": 127,
+        "b": 110
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-murderous-magenta",
+      "name": "Murderous Magenta",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#A91F5E",
+      "rgb": {
+        "r": 169,
+        "g": 31,
+        "b": 94
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-necrotite-green",
+      "name": "Necrotite Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#7FC246",
+      "rgb": {
+        "r": 127,
+        "g": 194,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-ordic-olive",
+      "name": "Ordic Olive",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#6E7E36",
+      "rgb": {
+        "r": 110,
+        "g": 126,
+        "b": 54
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-orgoth-bronze",
+      "name": "Orgoth Bronze",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#6D6346",
+      "rgb": {
+        "r": 109,
+        "g": 99,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-pig-iron",
+      "name": "Pig Iron",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#797979",
+      "rgb": {
+        "r": 121,
+        "g": 121,
+        "b": 121
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-piggy-purple-ink",
+      "name": "Piggy Purple Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#6E5D7E",
+      "rgb": {
+        "r": 110,
+        "g": 93,
+        "b": 126
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-pyg-grey",
+      "name": "Pyg Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#5F6156",
+      "rgb": {
+        "r": 95,
+        "g": 97,
+        "b": 86
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-quick-silver",
+      "name": "Quick Silver",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#D7D9E0",
+      "rgb": {
+        "r": 215,
+        "g": 217,
+        "b": 224
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-radiant-platinum",
+      "name": "Radiant Platinum",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C0C0AE",
+      "rgb": {
+        "r": 192,
+        "g": 192,
+        "b": 174
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-red-ink",
+      "name": "Red Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#E9543A",
+      "rgb": {
+        "r": 233,
+        "g": 84,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-rhok-hide",
+      "name": "Rhok Hide",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#35211C",
+      "rgb": {
+        "r": 53,
+        "g": 33,
+        "b": 28
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-rhulic-gold",
+      "name": "Rhulic Gold",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F7D259",
+      "rgb": {
+        "r": 247,
+        "g": 210,
+        "b": 89
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-riven-green",
+      "name": "Riven Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#99AB90",
+      "rgb": {
+        "r": 153,
+        "g": 171,
+        "b": 144
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-royal-violet",
+      "name": "Royal Violet",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#553D55",
+      "rgb": {
+        "r": 85,
+        "g": 61,
+        "b": 85
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-rucksack-tan",
+      "name": "Rucksack Tan",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B2953D",
+      "rgb": {
+        "r": 178,
+        "g": 149,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-ruddy-blush",
+      "name": "Ruddy Blush",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#AB3737",
+      "rgb": {
+        "r": 171,
+        "g": 55,
+        "b": 55
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-runeshot",
+      "name": "Runeshot",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#2E728B",
+      "rgb": {
+        "r": 46,
+        "g": 114,
+        "b": 139
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-ryn-flesh",
+      "name": "Ryn Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F8E2D1",
+      "rgb": {
+        "r": 248,
+        "g": 226,
+        "b": 209
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-sanguine-base",
+      "name": "Sanguine Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#6B160F",
+      "rgb": {
+        "r": 107,
+        "g": 22,
+        "b": 15
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-sanguine-highlight",
+      "name": "Sanguine Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C64958",
+      "rgb": {
+        "r": 198,
+        "g": 73,
+        "b": 88
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-sanguine-shadow",
+      "name": "Sanguine Shadow",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#541A0E",
+      "rgb": {
+        "r": 84,
+        "g": 26,
+        "b": 14
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-sickly-skin",
+      "name": "Sickly Skin",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#E8E6BD",
+      "rgb": {
+        "r": 232,
+        "g": 230,
+        "b": 189
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-sinari-skin",
+      "name": "Sinari Skin",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#4B2B1F",
+      "rgb": {
+        "r": 75,
+        "g": 43,
+        "b": 31
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-skorne-flesh",
+      "name": "Skorne Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#9D6327",
+      "rgb": {
+        "r": 157,
+        "g": 99,
+        "b": 39
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-skorne-red",
+      "name": "Skorne Red",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B12024",
+      "rgb": {
+        "r": 177,
+        "g": 32,
+        "b": 36
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-solid-gold",
+      "name": "Solid Gold",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F8F39F",
+      "rgb": {
+        "r": 248,
+        "g": 243,
+        "b": 159
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-stormguard-blue",
+      "name": "Stormguard Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#285C8A",
+      "rgb": {
+        "r": 40,
+        "g": 92,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-sul-red",
+      "name": "Sul Red",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#4A2518",
+      "rgb": {
+        "r": 74,
+        "g": 37,
+        "b": 24
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-sulfuric-yellow",
+      "name": "Sulfuric Yellow",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F0D133",
+      "rgb": {
+        "r": 240,
+        "g": 209,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-thamar-black",
+      "name": "Thamar Black",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-tharn-flesh",
+      "name": "Tharn Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#7A5131",
+      "rgb": {
+        "r": 122,
+        "g": 81,
+        "b": 49
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-thornwood-green",
+      "name": "Thornwood Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#65644B",
+      "rgb": {
+        "r": 101,
+        "g": 100,
+        "b": 75
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-thrall-flesh",
+      "name": "Thrall Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#CFD7AC",
+      "rgb": {
+        "r": 207,
+        "g": 215,
+        "b": 172
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-traitor-green",
+      "name": "Traitor Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#808F65",
+      "rgb": {
+        "r": 128,
+        "g": 143,
+        "b": 101
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-troll-tongue",
+      "name": "Troll Tongue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B65E77",
+      "rgb": {
+        "r": 182,
+        "g": 94,
+        "b": 119
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-trollblod-highlight",
+      "name": "Trollblod Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#BBB4A2",
+      "rgb": {
+        "r": 187,
+        "g": 180,
+        "b": 162
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-trollblood-base",
+      "name": "Trollblood Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#178799",
+      "rgb": {
+        "r": 23,
+        "g": 135,
+        "b": 153
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-trollblood-blue",
+      "name": "Trollblood Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#1F6A77",
+      "rgb": {
+        "r": 31,
+        "g": 106,
+        "b": 119
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-turquoise-ink",
+      "name": "Turquoise Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#006669",
+      "rgb": {
+        "r": 0,
+        "g": 102,
+        "b": 105
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-umbral-umber",
+      "name": "Umbral Umber",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#240600",
+      "rgb": {
+        "r": 36,
+        "g": 6,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-underbelly-blue",
+      "name": "Underbelly Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C0D4D9",
+      "rgb": {
+        "r": 192,
+        "g": 212,
+        "b": 217
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-voltaic-blue",
+      "name": "Voltaic Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#7AA0AB",
+      "rgb": {
+        "r": 122,
+        "g": 160,
+        "b": 171
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-wurm-green",
+      "name": "Wurm Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#8FBE40",
+      "rgb": {
+        "r": 143,
+        "g": 190,
+        "b": 64
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "p3-yellow-ink",
+      "name": "Yellow Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#FBE734",
+      "rgb": {
+        "r": 251,
+        "g": 231,
+        "b": 52
+      },
+      "potSize": null,
+      "description": null
+    }
+  ]
+}

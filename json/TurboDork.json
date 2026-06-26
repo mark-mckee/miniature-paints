@@ -1,0 +1,578 @@
+{
+  "displayName": "Turbo Dork",
+  "company": "Turbo Dork",
+  "address": {
+    "street": "",
+    "city": "Austin",
+    "postcode": "",
+    "country": "United States"
+  },
+  "contactEmail": "Turbo@TurboDork.com",
+  "contactForm": "",
+  "website": "https://turbodork.com",
+  "phone": "",
+  "updatedCatalogueRequested": "25/06/2026",
+  "paintCount": 40,
+  "paints": [
+    {
+      "id": "turbodork-absinthe",
+      "name": "Absinthe",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#40C385",
+      "rgb": {
+        "r": 64,
+        "g": 195,
+        "b": 133
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-all-that-glitters",
+      "name": "All That Glitters",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#D6B34F",
+      "rgb": {
+        "r": 214,
+        "g": 179,
+        "b": 79
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-appleseed",
+      "name": "Appleseed",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#44CC6C",
+      "rgb": {
+        "r": 68,
+        "g": 204,
+        "b": 108
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-bees-knees",
+      "name": "Bees Knees",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFE145",
+      "rgb": {
+        "r": 255,
+        "g": 225,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-black-ice",
+      "name": "Black Ice",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#5D6164",
+      "rgb": {
+        "r": 93,
+        "g": 97,
+        "b": 100
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-blue-steel",
+      "name": "Blue Steel",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#6993AA",
+      "rgb": {
+        "r": 105,
+        "g": 147,
+        "b": 170
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-box-wine",
+      "name": "Box Wine",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#B55B57",
+      "rgb": {
+        "r": 181,
+        "g": 91,
+        "b": 87
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-bullion",
+      "name": "Bullion",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFC362",
+      "rgb": {
+        "r": 255,
+        "g": 195,
+        "b": 98
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-cartridge-family",
+      "name": "Cartridge Family",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#F79A47",
+      "rgb": {
+        "r": 247,
+        "g": 154,
+        "b": 71
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-cool-ranch",
+      "name": "Cool Ranch",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#495EA8",
+      "rgb": {
+        "r": 73,
+        "g": 94,
+        "b": 168
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-curacao",
+      "name": "Curacao",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#4CCCD5",
+      "rgb": {
+        "r": 76,
+        "g": 204,
+        "b": 213
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-da-ba-dee",
+      "name": "Da Ba Dee",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#4B94CB",
+      "rgb": {
+        "r": 75,
+        "g": 148,
+        "b": 203
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-death-by",
+      "name": "Death By",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#805D49",
+      "rgb": {
+        "r": 128,
+        "g": 93,
+        "b": 73
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-dork",
+      "name": "Dork",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#48D6FF",
+      "rgb": {
+        "r": 72,
+        "g": 214,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-fahrenheit",
+      "name": "Fahrenheit",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FD6C4F",
+      "rgb": {
+        "r": 253,
+        "g": 108,
+        "b": 79
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-gold-rush",
+      "name": "Gold Rush",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#F4BC64",
+      "rgb": {
+        "r": 244,
+        "g": 188,
+        "b": 100
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-gordian-knot",
+      "name": "Gordian Knot",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#7BAA78",
+      "rgb": {
+        "r": 123,
+        "g": 170,
+        "b": 120
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-hotline",
+      "name": "Hotline",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FF6ABA",
+      "rgb": {
+        "r": 255,
+        "g": 106,
+        "b": 186
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-life-on-mars",
+      "name": "Life On Mars",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#9E4C3F",
+      "rgb": {
+        "r": 158,
+        "g": 76,
+        "b": 63
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-maguro",
+      "name": "Maguro",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#90DDFE",
+      "rgb": {
+        "r": 144,
+        "g": 221,
+        "b": 254
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-malum-malus",
+      "name": "Malum Malus",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#54C85F",
+      "rgb": {
+        "r": 84,
+        "g": 200,
+        "b": 95
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-multipass",
+      "name": "Multipass",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FF8251",
+      "rgb": {
+        "r": 255,
+        "g": 130,
+        "b": 81
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-orange-you-glad",
+      "name": "Orange You Glad",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFD246",
+      "rgb": {
+        "r": 255,
+        "g": 210,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-pearly-gates",
+      "name": "Pearly Gates",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-people-eater",
+      "name": "People Eater",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#935AAF",
+      "rgb": {
+        "r": 147,
+        "g": 90,
+        "b": 175
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-pucker",
+      "name": "Pucker",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FDE852",
+      "rgb": {
+        "r": 253,
+        "g": 232,
+        "b": 82
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-purl-grey",
+      "name": "Purl Grey",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#9E97D9",
+      "rgb": {
+        "r": 158,
+        "g": 151,
+        "b": 217
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-red-queen",
+      "name": "Red Queen",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#B44C4D",
+      "rgb": {
+        "r": 180,
+        "g": 76,
+        "b": 77
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-redrum",
+      "name": "Redrum",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#D94E50",
+      "rgb": {
+        "r": 217,
+        "g": 78,
+        "b": 80
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-sakura",
+      "name": "Sakura",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFB0CB",
+      "rgb": {
+        "r": 255,
+        "g": 176,
+        "b": 203
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-silver-fox",
+      "name": "Silver Fox",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#B5B9BC",
+      "rgb": {
+        "r": 181,
+        "g": 185,
+        "b": 188
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-six-shooter",
+      "name": "Six Shooter",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#757E82",
+      "rgb": {
+        "r": 117,
+        "g": 126,
+        "b": 130
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-sparkle-motion",
+      "name": "Sparkle Motion",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#CFC9C2",
+      "rgb": {
+        "r": 207,
+        "g": 201,
+        "b": 194
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-spicy-meatball",
+      "name": "Spicy Meatball",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#D44F58",
+      "rgb": {
+        "r": 212,
+        "g": 79,
+        "b": 88
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-summoning-sickness",
+      "name": "Summoning Sickness",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#B2B954",
+      "rgb": {
+        "r": 178,
+        "g": 185,
+        "b": 84
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-syringa",
+      "name": "Syringa",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#CE8BAF",
+      "rgb": {
+        "r": 206,
+        "g": 139,
+        "b": 175
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-taro",
+      "name": "Taro",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#DCB9E5",
+      "rgb": {
+        "r": 220,
+        "g": 185,
+        "b": 229
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-tin-star",
+      "name": "Tin Star",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#BFCACF",
+      "rgb": {
+        "r": 191,
+        "g": 202,
+        "b": 207
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-turbo",
+      "name": "Turbo",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFADCC",
+      "rgb": {
+        "r": 255,
+        "g": 173,
+        "b": 204
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "turbodork-two-cents",
+      "name": "Two Cents",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#E48558",
+      "rgb": {
+        "r": 228,
+        "g": 133,
+        "b": 88
+      },
+      "potSize": null,
+      "description": null
+    }
+  ]
+}

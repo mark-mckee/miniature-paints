@@ -1,0 +1,1362 @@
+{
+  "displayName": "Arteza",
+  "company": "Plaid Enterprises, Inc.",
+  "address": {
+    "street": "3225 Westech Drive",
+    "city": "Norcross",
+    "postcode": "30092",
+    "country": "USA"
+  },
+  "contactEmail": "help@arteza.com (bounced)",
+  "contactForm": "",
+  "website": "https://arteza.com",
+  "phone": "",
+  "updatedCatalogueRequested": "24/06/2026 (email bounced)",
+  "paintCount": 96,
+  "paints": [
+    {
+      "id": "arteza-a201",
+      "name": "Aztec Gold",
+      "code": "A201",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#CD8B45",
+      "rgb": {
+        "r": 205,
+        "g": 139,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a403",
+      "name": "Bordeaux Red",
+      "code": "A403",
+      "set": "Acrylic Premium Paints",
+      "hex": "#7B2D33",
+      "rgb": {
+        "r": 123,
+        "g": 45,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a201-2",
+      "name": "Brilliant Red",
+      "code": "A201",
+      "set": "Acrylic Premium Paints",
+      "hex": "#C80F15",
+      "rgb": {
+        "r": 200,
+        "g": 15,
+        "b": 21
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a202",
+      "name": "Bronze",
+      "code": "A202",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#A8724E",
+      "rgb": {
+        "r": 168,
+        "g": 114,
+        "b": 78
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a303",
+      "name": "Burnt Sienna",
+      "code": "A303",
+      "set": "Acrylic Premium Paints",
+      "hex": "#863625",
+      "rgb": {
+        "r": 134,
+        "g": 54,
+        "b": 37
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a305",
+      "name": "Burnt Umber",
+      "code": "A305",
+      "set": "Acrylic Premium Paints",
+      "hex": "#663D34",
+      "rgb": {
+        "r": 102,
+        "g": 61,
+        "b": 52
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a205",
+      "name": "Carmine Red",
+      "code": "A205",
+      "set": "Acrylic Premium Paints",
+      "hex": "#C31723",
+      "rgb": {
+        "r": 195,
+        "g": 23,
+        "b": 35
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a502",
+      "name": "Cerulean Blue",
+      "code": "A502",
+      "set": "Acrylic Premium Paints",
+      "hex": "#0388D4",
+      "rgb": {
+        "r": 3,
+        "g": 136,
+        "b": 212
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a607",
+      "name": "Chromium Oxide Green",
+      "code": "A607",
+      "set": "Acrylic Premium Paints",
+      "hex": "#1C4E40",
+      "rgb": {
+        "r": 28,
+        "g": 78,
+        "b": 64
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a501",
+      "name": "Cobalt Blue",
+      "code": "A501",
+      "set": "Acrylic Premium Paints",
+      "hex": "#4C98F0",
+      "rgb": {
+        "r": 76,
+        "g": 152,
+        "b": 240
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a203",
+      "name": "Cochineal Red",
+      "code": "A203",
+      "set": "Acrylic Premium Paints",
+      "hex": "#AE0207",
+      "rgb": {
+        "r": 174,
+        "g": 2,
+        "b": 7
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a002",
+      "name": "Cold Gray",
+      "code": "A002",
+      "set": "Acrylic Premium Paints",
+      "hex": "#B2C1D3",
+      "rgb": {
+        "r": 178,
+        "g": 193,
+        "b": 211
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a206",
+      "name": "Crimson Red",
+      "code": "A206",
+      "set": "Acrylic Premium Paints",
+      "hex": "#B11823",
+      "rgb": {
+        "r": 177,
+        "g": 24,
+        "b": 35
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a610",
+      "name": "Deep Green",
+      "code": "A610",
+      "set": "Acrylic Premium Paints",
+      "hex": "#375B5F",
+      "rgb": {
+        "r": 55,
+        "g": 91,
+        "b": 95
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a103",
+      "name": "Deep Yellow",
+      "code": "A103",
+      "set": "Acrylic Premium Paints",
+      "hex": "#E27B02",
+      "rgb": {
+        "r": 226,
+        "g": 123,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a602",
+      "name": "Emerald Green",
+      "code": "A602",
+      "set": "Acrylic Premium Paints",
+      "hex": "#25C0A4",
+      "rgb": {
+        "r": 37,
+        "g": 192,
+        "b": 164
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a127",
+      "name": "Gold",
+      "code": "A127",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#E4B463",
+      "rgb": {
+        "r": 228,
+        "g": 180,
+        "b": 99
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a703",
+      "name": "Gold",
+      "code": "A703",
+      "set": "Acrylic Premium Paints",
+      "hex": "#CC883A",
+      "rgb": {
+        "r": 204,
+        "g": 136,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a003",
+      "name": "Gray",
+      "code": "A003",
+      "set": "Acrylic Premium Paints",
+      "hex": "#928E95",
+      "rgb": {
+        "r": 146,
+        "g": 142,
+        "b": 149
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a107",
+      "name": "Indian Yellow",
+      "code": "A107",
+      "set": "Acrylic Premium Paints",
+      "hex": "#EE7A1F",
+      "rgb": {
+        "r": 238,
+        "g": 122,
+        "b": 31
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a100",
+      "name": "Lemon Yellow",
+      "code": "A100",
+      "set": "Acrylic Premium Paints",
+      "hex": "#EEDF63",
+      "rgb": {
+        "r": 238,
+        "g": 223,
+        "b": 99
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a108",
+      "name": "Light Apricot",
+      "code": "A108",
+      "set": "Acrylic Premium Paints",
+      "hex": "#FEE6C2",
+      "rgb": {
+        "r": 254,
+        "g": 230,
+        "b": 194
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a603",
+      "name": "Light Sap Green",
+      "code": "A603",
+      "set": "Acrylic Premium Paints",
+      "hex": "#1A5924",
+      "rgb": {
+        "r": 26,
+        "g": 89,
+        "b": 36
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a401",
+      "name": "Magenta Light",
+      "code": "A401",
+      "set": "Acrylic Premium Paints",
+      "hex": "#C11174",
+      "rgb": {
+        "r": 193,
+        "g": 17,
+        "b": 116
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a005",
+      "name": "Mars Black",
+      "code": "A005",
+      "set": "Acrylic Premium Paints",
+      "hex": "#131318",
+      "rgb": {
+        "r": 19,
+        "g": 19,
+        "b": 24
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a306",
+      "name": "Mars Brown",
+      "code": "A306",
+      "set": "Acrylic Premium Paints",
+      "hex": "#200604",
+      "rgb": {
+        "r": 32,
+        "g": 6,
+        "b": 4
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a302",
+      "name": "Mars Orange",
+      "code": "A302",
+      "set": "Acrylic Premium Paints",
+      "hex": "#BC5035",
+      "rgb": {
+        "r": 188,
+        "g": 80,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a404",
+      "name": "Mauve Pole",
+      "code": "A404",
+      "set": "Acrylic Premium Paints",
+      "hex": "#6F59A1",
+      "rgb": {
+        "r": 111,
+        "g": 89,
+        "b": 161
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a604",
+      "name": "Mid Green",
+      "code": "A604",
+      "set": "Acrylic Premium Paints",
+      "hex": "#04633A",
+      "rgb": {
+        "r": 4,
+        "g": 99,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a102",
+      "name": "Mid Yellow",
+      "code": "A102",
+      "set": "Acrylic Premium Paints",
+      "hex": "#F5CC0D",
+      "rgb": {
+        "r": 245,
+        "g": 204,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a105",
+      "name": "Naples Yellow",
+      "code": "A105",
+      "set": "Acrylic Premium Paints",
+      "hex": "#FACE9A",
+      "rgb": {
+        "r": 250,
+        "g": 206,
+        "b": 154
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a800",
+      "name": "Neon Pink",
+      "code": "A800",
+      "set": "Acrylic Premium Paints",
+      "hex": "#FD5A97",
+      "rgb": {
+        "r": 253,
+        "g": 90,
+        "b": 151
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a608",
+      "name": "Olive Green",
+      "code": "A608",
+      "set": "Acrylic Premium Paints",
+      "hex": "#455032",
+      "rgb": {
+        "r": 69,
+        "g": 80,
+        "b": 50
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a109",
+      "name": "Orange Red",
+      "code": "A109",
+      "set": "Acrylic Premium Paints",
+      "hex": "#EE3A18",
+      "rgb": {
+        "r": 238,
+        "g": 58,
+        "b": 24
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a108-2",
+      "name": "Orange Yellow",
+      "code": "A108",
+      "set": "Acrylic Premium Paints",
+      "hex": "#F1652D",
+      "rgb": {
+        "r": 241,
+        "g": 101,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a301",
+      "name": "Oxide Yellow",
+      "code": "A301",
+      "set": "Acrylic Premium Paints",
+      "hex": "#BA7335",
+      "rgb": {
+        "r": 186,
+        "g": 115,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a601",
+      "name": "Pale Green",
+      "code": "A601",
+      "set": "Acrylic Premium Paints",
+      "hex": "#03A45E",
+      "rgb": {
+        "r": 3,
+        "g": 164,
+        "b": 94
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a004",
+      "name": "Payne's Gray",
+      "code": "A004",
+      "set": "Acrylic Premium Paints",
+      "hex": "#3B3A40",
+      "rgb": {
+        "r": 59,
+        "g": 58,
+        "b": 64
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a215",
+      "name": "Pearl Amaranth Red",
+      "code": "A215",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#EA6355",
+      "rgb": {
+        "r": 234,
+        "g": 99,
+        "b": 85
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a230",
+      "name": "Pearl Cactus Green",
+      "code": "A230",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#619F8A",
+      "rgb": {
+        "r": 97,
+        "g": 159,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a206-2",
+      "name": "Pearl Canary Yellow",
+      "code": "A206",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#BBA533",
+      "rgb": {
+        "r": 187,
+        "g": 165,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a233",
+      "name": "Pearl Chartreuse",
+      "code": "A233",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#A9A54D",
+      "rgb": {
+        "r": 169,
+        "g": 165,
+        "b": 77
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a129",
+      "name": "Pearl Copper Gold",
+      "code": "A129",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#A66643",
+      "rgb": {
+        "r": 166,
+        "g": 102,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a729",
+      "name": "Pearl Copper Gold",
+      "code": "A729",
+      "set": "Acrylic Premium Paints",
+      "hex": "#BB7446",
+      "rgb": {
+        "r": 187,
+        "g": 116,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a130",
+      "name": "Pearl Deep Brown",
+      "code": "A130",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#664632",
+      "rgb": {
+        "r": 102,
+        "g": 70,
+        "b": 50
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a733",
+      "name": "Pearl Deep Brown",
+      "code": "A733",
+      "set": "Acrylic Premium Paints",
+      "hex": "#865F43",
+      "rgb": {
+        "r": 134,
+        "g": 95,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a210",
+      "name": "Pearl Electrlc Blue",
+      "code": "A210",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#0594DA",
+      "rgb": {
+        "r": 5,
+        "g": 148,
+        "b": 218
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a225",
+      "name": "Pearl Glacier Blue",
+      "code": "A225",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#92B8C3",
+      "rgb": {
+        "r": 146,
+        "g": 184,
+        "b": 195
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a213",
+      "name": "Pearl Golden Hour",
+      "code": "A213",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#C39736",
+      "rgb": {
+        "r": 195,
+        "g": 151,
+        "b": 54
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a218",
+      "name": "Pearl Hot Pink",
+      "code": "A218",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#E0448E",
+      "rgb": {
+        "r": 224,
+        "g": 68,
+        "b": 142
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a223",
+      "name": "Pearl Lilac",
+      "code": "A223",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#B4ABC1",
+      "rgb": {
+        "r": 180,
+        "g": 171,
+        "b": 193
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a211",
+      "name": "Pearl Lime Green",
+      "code": "A211",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#86A96D",
+      "rgb": {
+        "r": 134,
+        "g": 169,
+        "b": 109
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a221",
+      "name": "Pearl Magenta",
+      "code": "A221",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#9F1E63",
+      "rgb": {
+        "r": 159,
+        "g": 30,
+        "b": 99
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a203-2",
+      "name": "Pearl Marmalade",
+      "code": "A203",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#A4462D",
+      "rgb": {
+        "r": 164,
+        "g": 70,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a232",
+      "name": "Pearl Olive Green",
+      "code": "A232",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#758351",
+      "rgb": {
+        "r": 117,
+        "g": 131,
+        "b": 81
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a207",
+      "name": "Pearl Papya Orange",
+      "code": "A207",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#F28340",
+      "rgb": {
+        "r": 242,
+        "g": 131,
+        "b": 64
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a228",
+      "name": "Pearl Pastel Green",
+      "code": "A228",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#88A38E",
+      "rgb": {
+        "r": 136,
+        "g": 163,
+        "b": 142
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a216",
+      "name": "Pearl Pink",
+      "code": "A216",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#BC869D",
+      "rgb": {
+        "r": 188,
+        "g": 134,
+        "b": 157
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a208",
+      "name": "Pearl Pink Tulip",
+      "code": "A208",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#CC3943",
+      "rgb": {
+        "r": 204,
+        "g": 57,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a234",
+      "name": "Pearl Pistachio Green",
+      "code": "A234",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#97B28A",
+      "rgb": {
+        "r": 151,
+        "g": 178,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a220",
+      "name": "Pearl Raspberry Red",
+      "code": "A220",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#CC374C",
+      "rgb": {
+        "r": 204,
+        "g": 55,
+        "b": 76
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a218-2",
+      "name": "Pearl Rose",
+      "code": "A218",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#B83650",
+      "rgb": {
+        "r": 184,
+        "g": 54,
+        "b": 80
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a217",
+      "name": "Pearl Rose Quartz",
+      "code": "A217",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#AF5C7D",
+      "rgb": {
+        "r": 175,
+        "g": 92,
+        "b": 125
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a209",
+      "name": "Pearl Royal Purple",
+      "code": "A209",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#4E3880",
+      "rgb": {
+        "r": 78,
+        "g": 56,
+        "b": 128
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a229",
+      "name": "Pearl Sage Green",
+      "code": "A229",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#A5BAB7",
+      "rgb": {
+        "r": 165,
+        "g": 186,
+        "b": 183
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a736",
+      "name": "Pearl Sapphire Blue",
+      "code": "A736",
+      "set": "Acrylic Premium Paints",
+      "hex": "#064A96",
+      "rgb": {
+        "r": 6,
+        "g": 74,
+        "b": 150
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a227",
+      "name": "Pearl Sea Green",
+      "code": "A227",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#377C74",
+      "rgb": {
+        "r": 55,
+        "g": 124,
+        "b": 116
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a224",
+      "name": "Pearl Sky Blue",
+      "code": "A224",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#8FBCD8",
+      "rgb": {
+        "r": 143,
+        "g": 188,
+        "b": 216
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a204",
+      "name": "Pearl Space Grey",
+      "code": "A204",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#464C51",
+      "rgb": {
+        "r": 70,
+        "g": 76,
+        "b": 81
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a222",
+      "name": "Pearl Strawberry Red",
+      "code": "A222",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#99322D",
+      "rgb": {
+        "r": 153,
+        "g": 50,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a214",
+      "name": "Pearl Tangerine Orange",
+      "code": "A214",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#D7682C",
+      "rgb": {
+        "r": 215,
+        "g": 104,
+        "b": 44
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a226",
+      "name": "Pearl Turquoise",
+      "code": "A226",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#027095",
+      "rgb": {
+        "r": 2,
+        "g": 112,
+        "b": 149
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a205-2",
+      "name": "Pearl White",
+      "code": "A205",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#E6E3DE",
+      "rgb": {
+        "r": 230,
+        "g": 227,
+        "b": 222
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a504",
+      "name": "Phthalo Blue",
+      "code": "A504",
+      "set": "Acrylic Premium Paints",
+      "hex": "#252E6B",
+      "rgb": {
+        "r": 37,
+        "g": 46,
+        "b": 107
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a609",
+      "name": "Phthalo Green",
+      "code": "A609",
+      "set": "Acrylic Premium Paints",
+      "hex": "#214445",
+      "rgb": {
+        "r": 33,
+        "g": 68,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a400",
+      "name": "Pink",
+      "code": "A400",
+      "set": "Acrylic Premium Paints",
+      "hex": "#FEB6DB",
+      "rgb": {
+        "r": 254,
+        "g": 182,
+        "b": 219
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a505",
+      "name": "Prussian Blue",
+      "code": "A505",
+      "set": "Acrylic Premium Paints",
+      "hex": "#343A5C",
+      "rgb": {
+        "r": 52,
+        "g": 58,
+        "b": 92
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a605",
+      "name": "Prussian Green",
+      "code": "A605",
+      "set": "Acrylic Premium Paints",
+      "hex": "#0A451F",
+      "rgb": {
+        "r": 10,
+        "g": 69,
+        "b": 31
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a300",
+      "name": "Raw Sienna",
+      "code": "A300",
+      "set": "Acrylic Premium Paints",
+      "hex": "#B88247",
+      "rgb": {
+        "r": 184,
+        "g": 130,
+        "b": 71
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a307",
+      "name": "Raw Umber",
+      "code": "A307",
+      "set": "Acrylic Premium Paints",
+      "hex": "#3E2E29",
+      "rgb": {
+        "r": 62,
+        "g": 46,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a402",
+      "name": "Rose",
+      "code": "A402",
+      "set": "Acrylic Premium Paints",
+      "hex": "#D21F60",
+      "rgb": {
+        "r": 210,
+        "g": 31,
+        "b": 96
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a204-2",
+      "name": "Rose Madder",
+      "code": "A204",
+      "set": "Acrylic Premium Paints",
+      "hex": "#930708",
+      "rgb": {
+        "r": 147,
+        "g": 7,
+        "b": 8
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a304",
+      "name": "Sangria Red",
+      "code": "A304",
+      "set": "Acrylic Premium Paints",
+      "hex": "#590C0B",
+      "rgb": {
+        "r": 89,
+        "g": 12,
+        "b": 11
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a202-2",
+      "name": "Scarlet Red",
+      "code": "A202",
+      "set": "Acrylic Premium Paints",
+      "hex": "#E32421",
+      "rgb": {
+        "r": 227,
+        "g": 36,
+        "b": 33
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a734",
+      "name": "Silver",
+      "code": "A734",
+      "set": "Acrylic Premium Paints",
+      "hex": "#ACABB1",
+      "rgb": {
+        "r": 172,
+        "g": 171,
+        "b": 177
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a128",
+      "name": "Silver",
+      "code": "A128",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#E7E9E8",
+      "rgb": {
+        "r": 231,
+        "g": 233,
+        "b": 232
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a500",
+      "name": "Sky Blue",
+      "code": "A500",
+      "set": "Acrylic Premium Paints",
+      "hex": "#56B1E7",
+      "rgb": {
+        "r": 86,
+        "g": 177,
+        "b": 231
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a001",
+      "name": "Titanium White",
+      "code": "A001",
+      "set": "Acrylic Premium Paints",
+      "hex": "#F8F8F8",
+      "rgb": {
+        "r": 248,
+        "g": 248,
+        "b": 248
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a503",
+      "name": "Ultramarine Blue",
+      "code": "A503",
+      "set": "Acrylic Premium Paints",
+      "hex": "#12309D",
+      "rgb": {
+        "r": 18,
+        "g": 48,
+        "b": 157
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a308",
+      "name": "Vandyke Brown",
+      "code": "A308",
+      "set": "Acrylic Premium Paints",
+      "hex": "#2E201B",
+      "rgb": {
+        "r": 46,
+        "g": 32,
+        "b": 27
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a200",
+      "name": "Vermillion Red",
+      "code": "A200",
+      "set": "Acrylic Premium Paints",
+      "hex": "#F2372B",
+      "rgb": {
+        "r": 242,
+        "g": 55,
+        "b": 43
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a405",
+      "name": "Violet",
+      "code": "A405",
+      "set": "Acrylic Premium Paints",
+      "hex": "#5A5075",
+      "rgb": {
+        "r": 90,
+        "g": 80,
+        "b": 117
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a606",
+      "name": "Viridian Green",
+      "code": "A606",
+      "set": "Acrylic Premium Paints",
+      "hex": "#056065",
+      "rgb": {
+        "r": 5,
+        "g": 96,
+        "b": 101
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a600",
+      "name": "Yellow Green",
+      "code": "A600",
+      "set": "Acrylic Premium Paints",
+      "hex": "#368B30",
+      "rgb": {
+        "r": 54,
+        "g": 139,
+        "b": 48
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a104",
+      "name": "Yellow Ochre",
+      "code": "A104",
+      "set": "Acrylic Premium Paints",
+      "hex": "#CE8E2A",
+      "rgb": {
+        "r": 206,
+        "g": 142,
+        "b": 42
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "arteza-a101",
+      "name": "Yellow Pale",
+      "code": "A101",
+      "set": "Acrylic Premium Paints",
+      "hex": "#D2A702",
+      "rgb": {
+        "r": 210,
+        "g": 167,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    }
+  ]
+}

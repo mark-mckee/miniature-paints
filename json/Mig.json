@@ -1,0 +1,6640 @@
+{
+  "displayName": "Mig",
+  "company": "AMMO of Mig Jimenez S.L.",
+  "address": {
+    "street": "Calle Zarapuz 3",
+    "city": "Estella",
+    "postcode": "31200",
+    "country": "Spain"
+  },
+  "contactEmail": "info@ammo.es",
+  "contactForm": "",
+  "website": "https://www.migjimenez.com",
+  "phone": "+34 948 552 882",
+  "updatedCatalogueRequested": "24/06/2026",
+  "paintCount": 473,
+  "paints": [
+    {
+      "id": "mig-amig0030",
+      "name": "Sand Yellow",
+      "code": "AMIG0030",
+      "set": "Acrylics",
+      "hex": "#D8A64F",
+      "rgb": {
+        "r": 216,
+        "g": 166,
+        "b": 79
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0022",
+      "name": "3b Au Basic Protector Alkidno-uretanovaya",
+      "code": "AMIG0022",
+      "set": "Acrylics",
+      "hex": "#3D331A",
+      "rgb": {
+        "r": 61,
+        "g": 51,
+        "b": 26
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0019",
+      "name": "4bo Russian Green",
+      "code": "AMIG0019",
+      "set": "Acrylics",
+      "hex": "#4F5129",
+      "rgb": {
+        "r": 79,
+        "g": 81,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0020",
+      "name": "6k Russian Brown",
+      "code": "AMIG0020",
+      "set": "Acrylics",
+      "hex": "#3B3128",
+      "rgb": {
+        "r": 59,
+        "g": 49,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0021",
+      "name": "7k Russian Tan",
+      "code": "AMIG0021",
+      "set": "Acrylics",
+      "hex": "#70603E",
+      "rgb": {
+        "r": 112,
+        "g": 96,
+        "b": 62
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1001",
+      "name": "Afrika Korps Wash",
+      "code": "AMIG1001",
+      "set": "Washes",
+      "hex": "#322A1D",
+      "rgb": {
+        "r": 50,
+        "g": 42,
+        "b": 29
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20121",
+      "name": "Air Superiority Blue",
+      "code": "ATOM-20121",
+      "set": "ATOM",
+      "hex": "#9ECDDB",
+      "rgb": {
+        "r": 158,
+        "g": 205,
+        "b": 219
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0008",
+      "name": "Aluminium",
+      "code": "AMMO.R-0008",
+      "set": "Rail Center",
+      "hex": "#BDBCBD",
+      "rgb": {
+        "r": 189,
+        "g": 188,
+        "b": 189
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20165",
+      "name": "Aluminum",
+      "code": "ATOM-20165",
+      "set": "ATOM",
+      "hex": "#E1DFDF",
+      "rgb": {
+        "r": 225,
+        "g": 223,
+        "b": 223
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20152",
+      "name": "Amethyst",
+      "code": "ATOM-20152",
+      "set": "ATOM",
+      "hex": "#AA599F",
+      "rgb": {
+        "r": 170,
+        "g": 89,
+        "b": 159
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20176",
+      "name": "Aotake Blue",
+      "code": "ATOM-20176",
+      "set": "ATOM",
+      "hex": "#5386C4",
+      "rgb": {
+        "r": 83,
+        "g": 134,
+        "b": 196
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20175",
+      "name": "Aotake Green",
+      "code": "ATOM-20175",
+      "set": "ATOM",
+      "hex": "#5EA175",
+      "rgb": {
+        "r": 94,
+        "g": 161,
+        "b": 117
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0082",
+      "name": "Apc Interior Light Green",
+      "code": "AMIG0082",
+      "set": "Acrylics",
+      "hex": "#8DA186",
+      "rgb": {
+        "r": 141,
+        "g": 161,
+        "b": 134
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20116",
+      "name": "Aquamarine",
+      "code": "ATOM-20116",
+      "set": "ATOM",
+      "hex": "#00D0C9",
+      "rgb": {
+        "r": 0,
+        "g": 208,
+        "b": 201
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20097",
+      "name": "Atlantic Green",
+      "code": "ATOM-20097",
+      "set": "ATOM",
+      "hex": "#667768",
+      "rgb": {
+        "r": 102,
+        "g": 119,
+        "b": 104
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20119",
+      "name": "Azure Blue",
+      "code": "ATOM-20119",
+      "set": "ATOM",
+      "hex": "#6C8FBA",
+      "rgb": {
+        "r": 108,
+        "g": 143,
+        "b": 186
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20120",
+      "name": "Baby Blue",
+      "code": "ATOM-20120",
+      "set": "ATOM",
+      "hex": "#009BAF",
+      "rgb": {
+        "r": 0,
+        "g": 155,
+        "b": 175
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20041",
+      "name": "Basic Skin",
+      "code": "ATOM-20041",
+      "set": "ATOM",
+      "hex": "#FEC8BA",
+      "rgb": {
+        "r": 254,
+        "g": 200,
+        "b": 186
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0116",
+      "name": "Basic Skin Tone",
+      "code": "AMIG0116",
+      "set": "Acrylics",
+      "hex": "#E3B4A4",
+      "rgb": {
+        "r": 227,
+        "g": 180,
+        "b": 164
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20044",
+      "name": "Beige Pink",
+      "code": "ATOM-20044",
+      "set": "ATOM",
+      "hex": "#FFB57E",
+      "rgb": {
+        "r": 255,
+        "g": 181,
+        "b": 126
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20087",
+      "name": "Bile Green",
+      "code": "ATOM-20087",
+      "set": "ATOM",
+      "hex": "#DAD56A",
+      "rgb": {
+        "r": 218,
+        "g": 213,
+        "b": 106
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20063",
+      "name": "Black Brown",
+      "code": "ATOM-20063",
+      "set": "ATOM",
+      "hex": "#3A1E14",
+      "rgb": {
+        "r": 58,
+        "g": 30,
+        "b": 20
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1011",
+      "name": "Black Wash",
+      "code": "AMIG1011",
+      "set": "Washes",
+      "hex": "#0E0E0E",
+      "rgb": {
+        "r": 14,
+        "g": 14,
+        "b": 14
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0121",
+      "name": "Blood Red",
+      "code": "AMIG0121",
+      "set": "Acrylics",
+      "hex": "#AC2B25",
+      "rgb": {
+        "r": 172,
+        "g": 43,
+        "b": 37
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20031",
+      "name": "Blood Red",
+      "code": "ATOM-20031",
+      "set": "ATOM",
+      "hex": "#D22B24",
+      "rgb": {
+        "r": 210,
+        "g": 43,
+        "b": 36
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20110",
+      "name": "Blue",
+      "code": "ATOM-20110",
+      "set": "ATOM",
+      "hex": "#0087E3",
+      "rgb": {
+        "r": 0,
+        "g": 135,
+        "b": 227
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0086",
+      "name": "Blue (RAL 5019)",
+      "code": "AMIG0086",
+      "set": "Acrylics",
+      "hex": "#1B4F88",
+      "rgb": {
+        "r": 27,
+        "g": 79,
+        "b": 136
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20134",
+      "name": "Blue Gray",
+      "code": "ATOM-20134",
+      "set": "ATOM",
+      "hex": "#6C8B98",
+      "rgb": {
+        "r": 108,
+        "g": 139,
+        "b": 152
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0069",
+      "name": "Blue Green",
+      "code": "AMIG0069",
+      "set": "Acrylics",
+      "hex": "#283C23",
+      "rgb": {
+        "r": 40,
+        "g": 60,
+        "b": 35
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1006",
+      "name": "Blue Wash For Panzer Grey",
+      "code": "AMIG1006",
+      "set": "Washes",
+      "hex": "#1F242A",
+      "rgb": {
+        "r": 31,
+        "g": 36,
+        "b": 42
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20104",
+      "name": "Bluish Grey",
+      "code": "ATOM-20104",
+      "set": "ATOM",
+      "hex": "#48516B",
+      "rgb": {
+        "r": 72,
+        "g": 81,
+        "b": 107
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0193",
+      "name": "Bluish Titanium",
+      "code": "AMIG0193",
+      "set": "Acrylics",
+      "hex": "#619185",
+      "rgb": {
+        "r": 97,
+        "g": 145,
+        "b": 133
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0023",
+      "name": "Boiler Brown",
+      "code": "AMMO.R-0023",
+      "set": "Rail Center",
+      "hex": "#6E382B",
+      "rgb": {
+        "r": 110,
+        "g": 56,
+        "b": 43
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0122",
+      "name": "Bone",
+      "code": "AMIG0122",
+      "set": "Acrylics",
+      "hex": "#EDEEDC",
+      "rgb": {
+        "r": 237,
+        "g": 238,
+        "b": 220
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0031",
+      "name": "Boxcar Brown",
+      "code": "AMMO.R-0031",
+      "set": "Rail Center",
+      "hex": "#A73020",
+      "rgb": {
+        "r": 167,
+        "g": 48,
+        "b": 32
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0197",
+      "name": "Brass",
+      "code": "AMIG0197",
+      "set": "Acrylics",
+      "hex": "#B7881C",
+      "rgb": {
+        "r": 183,
+        "g": 136,
+        "b": 28
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20173",
+      "name": "Brass",
+      "code": "ATOM-20173",
+      "set": "ATOM",
+      "hex": "#C2A57E",
+      "rgb": {
+        "r": 194,
+        "g": 165,
+        "b": 126
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20059",
+      "name": "Braunviolett RLM 81",
+      "code": "ATOM-20059",
+      "set": "ATOM",
+      "hex": "#894E4B",
+      "rgb": {
+        "r": 137,
+        "g": 78,
+        "b": 75
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20112",
+      "name": "Bright Blue",
+      "code": "ATOM-20112",
+      "set": "ATOM",
+      "hex": "#00BFF1",
+      "rgb": {
+        "r": 0,
+        "g": 191,
+        "b": 241
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20084",
+      "name": "Bright Green",
+      "code": "ATOM-20084",
+      "set": "ATOM",
+      "hex": "#578F39",
+      "rgb": {
+        "r": 87,
+        "g": 143,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0080",
+      "name": "Bright Green Amt-4",
+      "code": "AMIG0080",
+      "set": "Acrylics",
+      "hex": "#5E7D3A",
+      "rgb": {
+        "r": 94,
+        "g": 125,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20026",
+      "name": "Bright Orange",
+      "code": "ATOM-20026",
+      "set": "ATOM",
+      "hex": "#FFA030",
+      "rgb": {
+        "r": 255,
+        "g": 160,
+        "b": 48
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20049",
+      "name": "British Uniform",
+      "code": "ATOM-20049",
+      "set": "ATOM",
+      "hex": "#A48109",
+      "rgb": {
+        "r": 164,
+        "g": 129,
+        "b": 9
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20057",
+      "name": "Brown",
+      "code": "ATOM-20057",
+      "set": "ATOM",
+      "hex": "#673B29",
+      "rgb": {
+        "r": 103,
+        "g": 59,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0076",
+      "name": "Brown Soil",
+      "code": "AMIG0076",
+      "set": "Acrylics",
+      "hex": "#6E4939",
+      "rgb": {
+        "r": 110,
+        "g": 73,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1000",
+      "name": "Brown Wash For German Dark Yellow",
+      "code": "AMIG1000",
+      "set": "Washes",
+      "hex": "#423222",
+      "rgb": {
+        "r": 66,
+        "g": 50,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0028",
+      "name": "Buff",
+      "code": "AMMO.R-0028",
+      "set": "Rail Center",
+      "hex": "#BEBB94",
+      "rgb": {
+        "r": 190,
+        "g": 187,
+        "b": 148
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20056",
+      "name": "Burnt Brown",
+      "code": "ATOM-20056",
+      "set": "ATOM",
+      "hex": "#492A00",
+      "rgb": {
+        "r": 73,
+        "g": 42,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0134",
+      "name": "Burnt Brown Red",
+      "code": "AMIG0134",
+      "set": "Acrylics",
+      "hex": "#352005",
+      "rgb": {
+        "r": 53,
+        "g": 32,
+        "b": 5
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20169",
+      "name": "Burnt Iron",
+      "code": "ATOM-20169",
+      "set": "ATOM",
+      "hex": "#553E30",
+      "rgb": {
+        "r": 85,
+        "g": 62,
+        "b": 48
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0118",
+      "name": "Burnt Sand",
+      "code": "AMIG0118",
+      "set": "Acrylics",
+      "hex": "#7E5A3A",
+      "rgb": {
+        "r": 126,
+        "g": 90,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0007",
+      "name": "Caboose Red",
+      "code": "AMMO.R-0007",
+      "set": "Rail Center",
+      "hex": "#DD4147",
+      "rgb": {
+        "r": 221,
+        "g": 65,
+        "b": 71
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20032",
+      "name": "Carmine",
+      "code": "ATOM-20032",
+      "set": "ATOM",
+      "hex": "#C02718",
+      "rgb": {
+        "r": 192,
+        "g": 39,
+        "b": 24
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0044",
+      "name": "Chipping",
+      "code": "AMIG0044",
+      "set": "Acrylics",
+      "hex": "#260E0E",
+      "rgb": {
+        "r": 38,
+        "g": 14,
+        "b": 14
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20064",
+      "name": "Chipping",
+      "code": "ATOM-20064",
+      "set": "ATOM",
+      "hex": "#2F0707",
+      "rgb": {
+        "r": 47,
+        "g": 7,
+        "b": 7
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0135",
+      "name": "Cinnamon",
+      "code": "AMIG0135",
+      "set": "Acrylics",
+      "hex": "#937D6F",
+      "rgb": {
+        "r": 147,
+        "g": 125,
+        "b": 111
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0079",
+      "name": "Clay Brown",
+      "code": "AMIG0079",
+      "set": "Acrylics",
+      "hex": "#683F23",
+      "rgb": {
+        "r": 104,
+        "g": 63,
+        "b": 35
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20048",
+      "name": "Clay Brown",
+      "code": "ATOM-20048",
+      "set": "ATOM",
+      "hex": "#7E3D12",
+      "rgb": {
+        "r": 126,
+        "g": 61,
+        "b": 18
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20060",
+      "name": "Coffee Brown",
+      "code": "ATOM-20060",
+      "set": "ATOM",
+      "hex": "#69423C",
+      "rgb": {
+        "r": 105,
+        "g": 66,
+        "b": 60
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0119",
+      "name": "Cold Gray",
+      "code": "AMIG0119",
+      "set": "Acrylics",
+      "hex": "#D3D3D3",
+      "rgb": {
+        "r": 211,
+        "g": 211,
+        "b": 211
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20123",
+      "name": "Cold Gray",
+      "code": "ATOM-20123",
+      "set": "ATOM",
+      "hex": "#DFDEDD",
+      "rgb": {
+        "r": 223,
+        "g": 222,
+        "b": 221
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0026",
+      "name": "Concrete",
+      "code": "AMMO.R-0026",
+      "set": "Rail Center",
+      "hex": "#959798",
+      "rgb": {
+        "r": 149,
+        "g": 151,
+        "b": 152
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0199",
+      "name": "Copper",
+      "code": "AMIG0199",
+      "set": "Acrylics",
+      "hex": "#C94A5D",
+      "rgb": {
+        "r": 201,
+        "g": 74,
+        "b": 93
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20170",
+      "name": "Copper",
+      "code": "ATOM-20170",
+      "set": "ATOM",
+      "hex": "#D75E1F",
+      "rgb": {
+        "r": 215,
+        "g": 94,
+        "b": 31
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20035",
+      "name": "Coral Pink",
+      "code": "ATOM-20035",
+      "set": "ATOM",
+      "hex": "#CA1519",
+      "rgb": {
+        "r": 202,
+        "g": 21,
+        "b": 25
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0040",
+      "name": "Cream",
+      "code": "AMMO.R-0040",
+      "set": "Rail Center",
+      "hex": "#F2ECC6",
+      "rgb": {
+        "r": 242,
+        "g": 236,
+        "b": 198
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20002",
+      "name": "Cremeweiss RAL 9001",
+      "code": "ATOM-20002",
+      "set": "ATOM",
+      "hex": "#F5F1C8",
+      "rgb": {
+        "r": 245,
+        "g": 241,
+        "b": 200
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0099",
+      "name": "Crystal Black Blue",
+      "code": "AMIG0099",
+      "set": "Acrylics",
+      "hex": "#022334",
+      "rgb": {
+        "r": 2,
+        "g": 35,
+        "b": 52
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0094",
+      "name": "Crystal Glass",
+      "code": "AMIG0094",
+      "set": "Acrylics",
+      "hex": "#A7A7A7",
+      "rgb": {
+        "r": 167,
+        "g": 167,
+        "b": 167
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0092",
+      "name": "Crystal Green",
+      "code": "AMIG0092",
+      "set": "Acrylics",
+      "hex": "#2D4410",
+      "rgb": {
+        "r": 45,
+        "g": 68,
+        "b": 16
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0098",
+      "name": "Crystal Light Blue",
+      "code": "AMIG0098",
+      "set": "Acrylics",
+      "hex": "#0784BE",
+      "rgb": {
+        "r": 7,
+        "g": 132,
+        "b": 190
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0097",
+      "name": "Crystal Orange",
+      "code": "AMIG0097",
+      "set": "Acrylics",
+      "hex": "#FE8F00",
+      "rgb": {
+        "r": 254,
+        "g": 143,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0096",
+      "name": "Crystal Periscope Green",
+      "code": "AMIG0096",
+      "set": "Acrylics",
+      "hex": "#40770F",
+      "rgb": {
+        "r": 64,
+        "g": 119,
+        "b": 15
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0093",
+      "name": "Crystal Red",
+      "code": "AMIG0093",
+      "set": "Acrylics",
+      "hex": "#591610",
+      "rgb": {
+        "r": 89,
+        "g": 22,
+        "b": 16
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0095",
+      "name": "Crystal Smoke",
+      "code": "AMIG0095",
+      "set": "Acrylics",
+      "hex": "#131E18",
+      "rgb": {
+        "r": 19,
+        "g": 30,
+        "b": 24
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0128",
+      "name": "Cyan",
+      "code": "AMIG0128",
+      "set": "Acrylics",
+      "hex": "#2495FB",
+      "rgb": {
+        "r": 36,
+        "g": 149,
+        "b": 251
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20111",
+      "name": "Cyan",
+      "code": "ATOM-20111",
+      "set": "ATOM",
+      "hex": "#72C7E4",
+      "rgb": {
+        "r": 114,
+        "g": 199,
+        "b": 228
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0020",
+      "name": "Dark Blues",
+      "code": "AMMO.R-0020",
+      "set": "Rail Center",
+      "hex": "#353E61",
+      "rgb": {
+        "r": 53,
+        "g": 62,
+        "b": 97
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1005",
+      "name": "Dark Brown Wash For Green Vehicles",
+      "code": "AMIG1005",
+      "set": "Washes",
+      "hex": "#1D0E0B",
+      "rgb": {
+        "r": 29,
+        "g": 14,
+        "b": 11
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20133",
+      "name": "Dark Ghost Gray",
+      "code": "ATOM-20133",
+      "set": "ATOM",
+      "hex": "#868786",
+      "rgb": {
+        "r": 134,
+        "g": 135,
+        "b": 134
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20092",
+      "name": "Dark Green",
+      "code": "ATOM-20092",
+      "set": "ATOM",
+      "hex": "#00492E",
+      "rgb": {
+        "r": 0,
+        "g": 73,
+        "b": 46
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0915",
+      "name": "Dark Green (bs 241)",
+      "code": "AMIG0915",
+      "set": "Acrylics",
+      "hex": "#455330",
+      "rgb": {
+        "r": 69,
+        "g": 83,
+        "b": 48
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20146",
+      "name": "Dark Grey",
+      "code": "ATOM-20146",
+      "set": "ATOM",
+      "hex": "#6B6E77",
+      "rgb": {
+        "r": 107,
+        "g": 110,
+        "b": 119
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0005",
+      "name": "Dark Grey",
+      "code": "AMMO.R-0005",
+      "set": "Rail Center",
+      "hex": "#33303E",
+      "rgb": {
+        "r": 51,
+        "g": 48,
+        "b": 62
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20037",
+      "name": "Dark Nude Pink",
+      "code": "ATOM-20037",
+      "set": "ATOM",
+      "hex": "#CB9092",
+      "rgb": {
+        "r": 203,
+        "g": 144,
+        "b": 146
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20065",
+      "name": "Dark Olive Drab",
+      "code": "ATOM-20065",
+      "set": "ATOM",
+      "hex": "#4A421C",
+      "rgb": {
+        "r": 74,
+        "g": 66,
+        "b": 28
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20072",
+      "name": "Dark Olive Green",
+      "code": "ATOM-20072",
+      "set": "ATOM",
+      "hex": "#6C6909",
+      "rgb": {
+        "r": 108,
+        "g": 105,
+        "b": 9
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0041",
+      "name": "Dark Rust",
+      "code": "AMIG0041",
+      "set": "Acrylics",
+      "hex": "#893B24",
+      "rgb": {
+        "r": 137,
+        "g": 59,
+        "b": 36
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20047",
+      "name": "Dark Rust",
+      "code": "ATOM-20047",
+      "set": "ATOM",
+      "hex": "#992908",
+      "rgb": {
+        "r": 153,
+        "g": 41,
+        "b": 8
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0033",
+      "name": "Dark Rust",
+      "code": "AMMO.R-0033",
+      "set": "Rail Center",
+      "hex": "#A33E34",
+      "rgb": {
+        "r": 163,
+        "g": 62,
+        "b": 52
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0035",
+      "name": "Dark Tracks",
+      "code": "AMIG0035",
+      "set": "Acrylics",
+      "hex": "#130707",
+      "rgb": {
+        "r": 19,
+        "g": 7,
+        "b": 7
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1008",
+      "name": "Dark Wash",
+      "code": "AMIG1008",
+      "set": "Washes",
+      "hex": "#171310",
+      "rgb": {
+        "r": 23,
+        "g": 19,
+        "b": 16
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20050",
+      "name": "Dark Wood",
+      "code": "ATOM-20050",
+      "set": "ATOM",
+      "hex": "#7C5F3D",
+      "rgb": {
+        "r": 124,
+        "g": 95,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0038",
+      "name": "Deep Blue Livery",
+      "code": "AMMO.R-0038",
+      "set": "Rail Center",
+      "hex": "#085C96",
+      "rgb": {
+        "r": 8,
+        "g": 92,
+        "b": 150
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20109",
+      "name": "Deep Cyan",
+      "code": "ATOM-20109",
+      "set": "ATOM",
+      "hex": "#00A3E4",
+      "rgb": {
+        "r": 0,
+        "g": 163,
+        "b": 228
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0052",
+      "name": "Deep Green",
+      "code": "AMIG0052",
+      "set": "Acrylics",
+      "hex": "#0B562D",
+      "rgb": {
+        "r": 11,
+        "g": 86,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20098",
+      "name": "Deep Green",
+      "code": "ATOM-20098",
+      "set": "ATOM",
+      "hex": "#0F322B",
+      "rgb": {
+        "r": 15,
+        "g": 50,
+        "b": 43
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0014",
+      "name": "Deep Green",
+      "code": "AMMO.R-0014",
+      "set": "Rail Center",
+      "hex": "#386C51",
+      "rgb": {
+        "r": 56,
+        "g": 108,
+        "b": 81
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20007",
+      "name": "Desert Sand",
+      "code": "ATOM-20007",
+      "set": "ATOM",
+      "hex": "#D7BA82",
+      "rgb": {
+        "r": 215,
+        "g": 186,
+        "b": 130
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0138",
+      "name": "Desert Yellow",
+      "code": "AMIG0138",
+      "set": "Acrylics",
+      "hex": "#B8996D",
+      "rgb": {
+        "r": 184,
+        "g": 153,
+        "b": 109
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20117",
+      "name": "Duck Blue",
+      "code": "ATOM-20117",
+      "set": "ATOM",
+      "hex": "#007C9B",
+      "rgb": {
+        "r": 0,
+        "g": 124,
+        "b": 155
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20086",
+      "name": "Duck Egg Green",
+      "code": "ATOM-20086",
+      "set": "ATOM",
+      "hex": "#B8C495",
+      "rgb": {
+        "r": 184,
+        "g": 196,
+        "b": 149
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0244",
+      "name": "Duck Egg Green (bs 216)",
+      "code": "AMIG0244",
+      "set": "Acrylics",
+      "hex": "#AFB985",
+      "rgb": {
+        "r": 175,
+        "g": 185,
+        "b": 133
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0077",
+      "name": "Dull Green",
+      "code": "AMIG0077",
+      "set": "Acrylics",
+      "hex": "#3D595A",
+      "rgb": {
+        "r": 61,
+        "g": 89,
+        "b": 90
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20012",
+      "name": "Dunkelgelb",
+      "code": "ATOM-20012",
+      "set": "ATOM",
+      "hex": "#AC9873",
+      "rgb": {
+        "r": 172,
+        "g": 152,
+        "b": 115
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0902",
+      "name": "Dunkelgelb Base",
+      "code": "AMIG0902",
+      "set": "Acrylics",
+      "hex": "#8E814A",
+      "rgb": {
+        "r": 142,
+        "g": 129,
+        "b": 74
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0901",
+      "name": "Dunkelgelb Dark Base",
+      "code": "AMIG0901",
+      "set": "Acrylics",
+      "hex": "#7B6B37",
+      "rgb": {
+        "r": 123,
+        "g": 107,
+        "b": 55
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20010",
+      "name": "Dunkelgelb DG I",
+      "code": "ATOM-20010",
+      "set": "ATOM",
+      "hex": "#D5C792",
+      "rgb": {
+        "r": 213,
+        "g": 199,
+        "b": 146
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20005",
+      "name": "Dunkelgelb DG III",
+      "code": "ATOM-20005",
+      "set": "ATOM",
+      "hex": "#E0D5AF",
+      "rgb": {
+        "r": 224,
+        "g": 213,
+        "b": 175
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0904",
+      "name": "Dunkelgelb High Light",
+      "code": "AMIG0904",
+      "set": "Acrylics",
+      "hex": "#D0CE93",
+      "rgb": {
+        "r": 208,
+        "g": 206,
+        "b": 147
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0903",
+      "name": "Dunkelgelb Light Base",
+      "code": "AMIG0903",
+      "set": "Acrylics",
+      "hex": "#B7AB79",
+      "rgb": {
+        "r": 183,
+        "g": 171,
+        "b": 121
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0900",
+      "name": "Dunkelgelb Shadow",
+      "code": "AMIG0900",
+      "set": "Acrylics",
+      "hex": "#381B20",
+      "rgb": {
+        "r": 56,
+        "g": 27,
+        "b": 32
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0905",
+      "name": "Dunkelgelb Shine",
+      "code": "AMIG0905",
+      "set": "Acrylics",
+      "hex": "#E2E1C5",
+      "rgb": {
+        "r": 226,
+        "g": 225,
+        "b": 197
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0908",
+      "name": "Dunkelgrau Base",
+      "code": "AMIG0908",
+      "set": "Acrylics",
+      "hex": "#333542",
+      "rgb": {
+        "r": 51,
+        "g": 53,
+        "b": 66
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0907",
+      "name": "Dunkelgrau Dark Base",
+      "code": "AMIG0907",
+      "set": "Acrylics",
+      "hex": "#474956",
+      "rgb": {
+        "r": 71,
+        "g": 73,
+        "b": 86
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0909",
+      "name": "Dunkelgrau Light Base",
+      "code": "AMIG0909",
+      "set": "Acrylics",
+      "hex": "#696D76",
+      "rgb": {
+        "r": 105,
+        "g": 109,
+        "b": 118
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20160",
+      "name": "Dunkelgrau RAL 7021",
+      "code": "ATOM-20160",
+      "set": "ATOM",
+      "hex": "#3A3340",
+      "rgb": {
+        "r": 58,
+        "g": 51,
+        "b": 64
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0906",
+      "name": "Dunkelgrau Shadow",
+      "code": "AMIG0906",
+      "set": "Acrylics",
+      "hex": "#323335",
+      "rgb": {
+        "r": 50,
+        "g": 51,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20077",
+      "name": "Dunkelgrün RLM 81",
+      "code": "ATOM-20077",
+      "set": "ATOM",
+      "hex": "#4A5B2B",
+      "rgb": {
+        "r": 74,
+        "g": 91,
+        "b": 43
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0072",
+      "name": "Dust",
+      "code": "AMIG0072",
+      "set": "Acrylics",
+      "hex": "#968C71",
+      "rgb": {
+        "r": 150,
+        "g": 140,
+        "b": 113
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20143",
+      "name": "Dust",
+      "code": "ATOM-20143",
+      "set": "ATOM",
+      "hex": "#A99B7B",
+      "rgb": {
+        "r": 169,
+        "g": 155,
+        "b": 123
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0073",
+      "name": "Earth",
+      "code": "AMIG0073",
+      "set": "Acrylics",
+      "hex": "#745739",
+      "rgb": {
+        "r": 116,
+        "g": 87,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20051",
+      "name": "Earth",
+      "code": "ATOM-20051",
+      "set": "ATOM",
+      "hex": "#90633D",
+      "rgb": {
+        "r": 144,
+        "g": 99,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0064",
+      "name": "Earth Brown",
+      "code": "AMIG0064",
+      "set": "Acrylics",
+      "hex": "#814428",
+      "rgb": {
+        "r": 129,
+        "g": 68,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20052",
+      "name": "Earth Brown",
+      "code": "ATOM-20052",
+      "set": "ATOM",
+      "hex": "#A64D28",
+      "rgb": {
+        "r": 166,
+        "g": 77,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0002",
+      "name": "Engine Black",
+      "code": "AMMO.R-0002",
+      "set": "Rail Center",
+      "hex": "#1C1717",
+      "rgb": {
+        "r": 28,
+        "g": 23,
+        "b": 23
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20085",
+      "name": "Faded Green",
+      "code": "ATOM-20085",
+      "set": "ATOM",
+      "hex": "#B0CD86",
+      "rgb": {
+        "r": 176,
+        "g": 205,
+        "b": 134
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0066",
+      "name": "Faded Sinai Grey",
+      "code": "AMIG0066",
+      "set": "Acrylics",
+      "hex": "#736C5A",
+      "rgb": {
+        "r": 115,
+        "g": 108,
+        "b": 90
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0130",
+      "name": "Faded Yellow",
+      "code": "AMIG0130",
+      "set": "Acrylics",
+      "hex": "#D8CD73",
+      "rgb": {
+        "r": 216,
+        "g": 205,
+        "b": 115
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20016",
+      "name": "Faded Yellow",
+      "code": "ATOM-20016",
+      "set": "ATOM",
+      "hex": "#E2D47D",
+      "rgb": {
+        "r": 226,
+        "g": 212,
+        "b": 125
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20091",
+      "name": "Fern Green",
+      "code": "ATOM-20091",
+      "set": "ATOM",
+      "hex": "#006123",
+      "rgb": {
+        "r": 0,
+        "g": 97,
+        "b": 35
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20080",
+      "name": "Field Grey",
+      "code": "ATOM-20080",
+      "set": "ATOM",
+      "hex": "#637A65",
+      "rgb": {
+        "r": 99,
+        "g": 122,
+        "b": 101
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0065",
+      "name": "Forest Green",
+      "code": "AMIG0065",
+      "set": "Acrylics",
+      "hex": "#384527",
+      "rgb": {
+        "r": 56,
+        "g": 69,
+        "b": 39
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20093",
+      "name": "Forest Green",
+      "code": "ATOM-20093",
+      "set": "ATOM",
+      "hex": "#005B36",
+      "rgb": {
+        "r": 0,
+        "g": 91,
+        "b": 54
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0025",
+      "name": "Freight Red",
+      "code": "AMMO.R-0025",
+      "set": "Rail Center",
+      "hex": "#A43A20",
+      "rgb": {
+        "r": 164,
+        "g": 58,
+        "b": 32
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0062",
+      "name": "French Blue",
+      "code": "AMIG0062",
+      "set": "Acrylics",
+      "hex": "#445366",
+      "rgb": {
+        "r": 68,
+        "g": 83,
+        "b": 102
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20105",
+      "name": "French Blue",
+      "code": "ATOM-20105",
+      "set": "ATOM",
+      "hex": "#006C7B",
+      "rgb": {
+        "r": 0,
+        "g": 108,
+        "b": 123
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0229",
+      "name": "Fs 15102 Dark Gray Blue",
+      "code": "AMIG0229",
+      "set": "Acrylics",
+      "hex": "#2489BD",
+      "rgb": {
+        "r": 36,
+        "g": 137,
+        "b": 189
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0237",
+      "name": "Fs 23070 Dark Olive Drab",
+      "code": "AMIG0237",
+      "set": "Acrylics",
+      "hex": "#6C6845",
+      "rgb": {
+        "r": 108,
+        "g": 104,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0213",
+      "name": "Fs 24277 Green",
+      "code": "AMIG0213",
+      "set": "Acrylics",
+      "hex": "#6B8778",
+      "rgb": {
+        "r": 107,
+        "g": 135,
+        "b": 120
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0227",
+      "name": "Fs 25042 Sea Blue (ana 606)",
+      "code": "AMIG0227",
+      "set": "Acrylics",
+      "hex": "#21262C",
+      "rgb": {
+        "r": 33,
+        "g": 38,
+        "b": 44
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0205",
+      "name": "Fs 26231 (bs 638)",
+      "code": "AMIG0205",
+      "set": "Acrylics",
+      "hex": "#71737F",
+      "rgb": {
+        "r": 113,
+        "g": 115,
+        "b": 127
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0212",
+      "name": "Fs 26373 Silver Grey",
+      "code": "AMIG0212",
+      "set": "Acrylics",
+      "hex": "#92A2A2",
+      "rgb": {
+        "r": 146,
+        "g": 162,
+        "b": 162
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0202",
+      "name": "Fs 30219 Tan",
+      "code": "AMIG0202",
+      "set": "Acrylics",
+      "hex": "#81603D",
+      "rgb": {
+        "r": 129,
+        "g": 96,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0025",
+      "name": "Fs 33446 US Modern Vehicles",
+      "code": "AMIG0025",
+      "set": "Acrylics",
+      "hex": "#C7A780",
+      "rgb": {
+        "r": 199,
+        "g": 167,
+        "b": 128
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0221",
+      "name": "Fs 33481 Zinc Chromate Yellow",
+      "code": "AMIG0221",
+      "set": "Acrylics",
+      "hex": "#B19846",
+      "rgb": {
+        "r": 177,
+        "g": 152,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0200",
+      "name": "Fs 33531 Middlestone",
+      "code": "AMIG0200",
+      "set": "Acrylics",
+      "hex": "#D6C7B4",
+      "rgb": {
+        "r": 214,
+        "g": 199,
+        "b": 180
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0240",
+      "name": "Fs 34086 (ana 613)",
+      "code": "AMIG0240",
+      "set": "Acrylics",
+      "hex": "#3F402E",
+      "rgb": {
+        "r": 63,
+        "g": 64,
+        "b": 46
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0238",
+      "name": "Fs 34092 Medium Green",
+      "code": "AMIG0238",
+      "set": "Acrylics",
+      "hex": "#3A523A",
+      "rgb": {
+        "r": 58,
+        "g": 82,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0220",
+      "name": "Fs 34151 Zinc Chromate Green (interior Green)",
+      "code": "AMIG0220",
+      "set": "Acrylics",
+      "hex": "#666E45",
+      "rgb": {
+        "r": 102,
+        "g": 110,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0219",
+      "name": "Fs 34226 (bs283) Interior Green",
+      "code": "AMIG0219",
+      "set": "Acrylics",
+      "hex": "#729182",
+      "rgb": {
+        "r": 114,
+        "g": 145,
+        "b": 130
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0201",
+      "name": "Fs 34424 Light Gray Green",
+      "code": "AMIG0201",
+      "set": "Acrylics",
+      "hex": "#B1CAAA",
+      "rgb": {
+        "r": 177,
+        "g": 202,
+        "b": 170
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0228",
+      "name": "Fs 35164 Intermediate Blue (ana 608)",
+      "code": "AMIG0228",
+      "set": "Acrylics",
+      "hex": "#707980",
+      "rgb": {
+        "r": 112,
+        "g": 121,
+        "b": 128
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0204",
+      "name": "Fs 36118 Medium Gunship Gray",
+      "code": "AMIG0204",
+      "set": "Acrylics",
+      "hex": "#3F4551",
+      "rgb": {
+        "r": 63,
+        "g": 69,
+        "b": 81
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0239",
+      "name": "Fs 36122 NeutRAL Gray",
+      "code": "AMIG0239",
+      "set": "Acrylics",
+      "hex": "#67686C",
+      "rgb": {
+        "r": 103,
+        "g": 104,
+        "b": 108
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0211",
+      "name": "Fs 36270 Medium Gray",
+      "code": "AMIG0211",
+      "set": "Acrylics",
+      "hex": "#99999B",
+      "rgb": {
+        "r": 153,
+        "g": 153,
+        "b": 155
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0236",
+      "name": "Fs 36293",
+      "code": "AMIG0236",
+      "set": "Acrylics",
+      "hex": "#7F8487",
+      "rgb": {
+        "r": 127,
+        "g": 132,
+        "b": 135
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0207",
+      "name": "Fs 36314 (bs 626)",
+      "code": "AMIG0207",
+      "set": "Acrylics",
+      "hex": "#83978C",
+      "rgb": {
+        "r": 131,
+        "g": 151,
+        "b": 140
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0208",
+      "name": "Fs 36320 Dark Compass Ghost Gray",
+      "code": "AMIG0208",
+      "set": "Acrylics",
+      "hex": "#70878D",
+      "rgb": {
+        "r": 112,
+        "g": 135,
+        "b": 141
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0203",
+      "name": "Fs 36375 Light Compass Ghost Gray",
+      "code": "AMIG0203",
+      "set": "Acrylics",
+      "hex": "#8390A3",
+      "rgb": {
+        "r": 131,
+        "g": 144,
+        "b": 163
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0241",
+      "name": "Fs 36440 Light Gull Gray",
+      "code": "AMIG0241",
+      "set": "Acrylics",
+      "hex": "#959A94",
+      "rgb": {
+        "r": 149,
+        "g": 154,
+        "b": 148
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0209",
+      "name": "Fs 36495 Light Gray",
+      "code": "AMIG0209",
+      "set": "Acrylics",
+      "hex": "#A6B7AD",
+      "rgb": {
+        "r": 166,
+        "g": 183,
+        "b": 173
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0226",
+      "name": "Fs 36622 Gray",
+      "code": "AMIG0226",
+      "set": "Acrylics",
+      "hex": "#D1D2C2",
+      "rgb": {
+        "r": 209,
+        "g": 210,
+        "b": 194
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0242",
+      "name": "Fs 37886",
+      "code": "AMIG0242",
+      "set": "Acrylics",
+      "hex": "#F0F0D8",
+      "rgb": {
+        "r": 240,
+        "g": 240,
+        "b": 216
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0210",
+      "name": "Fs35237 Blue Gray Amt-11",
+      "code": "AMIG0210",
+      "set": "Acrylics",
+      "hex": "#6D7D8A",
+      "rgb": {
+        "r": 109,
+        "g": 125,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0224",
+      "name": "Fs35260 Sky Line Blue A II",
+      "code": "AMIG0224",
+      "set": "Acrylics",
+      "hex": "#71C6E3",
+      "rgb": {
+        "r": 113,
+        "g": 198,
+        "b": 227
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0235",
+      "name": "Fs36152 Dark Grey AMT-12",
+      "code": "AMIG0235",
+      "set": "Acrylics",
+      "hex": "#5D6268",
+      "rgb": {
+        "r": 93,
+        "g": 98,
+        "b": 104
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20034",
+      "name": "Fucsia",
+      "code": "ATOM-20034",
+      "set": "ATOM",
+      "hex": "#EC2992",
+      "rgb": {
+        "r": 236,
+        "g": 41,
+        "b": 146
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20015",
+      "name": "Gelbbraun 8020",
+      "code": "ATOM-20015",
+      "set": "ATOM",
+      "hex": "#F3D184",
+      "rgb": {
+        "r": 243,
+        "g": 209,
+        "b": 132
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20006",
+      "name": "German Sand Beige RAL 8031",
+      "code": "ATOM-20006",
+      "set": "ATOM",
+      "hex": "#D6BA80",
+      "rgb": {
+        "r": 214,
+        "g": 186,
+        "b": 128
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20038",
+      "name": "Glaciar Pink",
+      "code": "ATOM-20038",
+      "set": "ATOM",
+      "hex": "#EBC9C4",
+      "rgb": {
+        "r": 235,
+        "g": 201,
+        "b": 196
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0198",
+      "name": "Gold",
+      "code": "AMIG0198",
+      "set": "Acrylics",
+      "hex": "#B8B021",
+      "rgb": {
+        "r": 184,
+        "g": 176,
+        "b": 33
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20172",
+      "name": "Gold",
+      "code": "ATOM-20172",
+      "set": "ATOM",
+      "hex": "#C5A758",
+      "rgb": {
+        "r": 197,
+        "g": 167,
+        "b": 88
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20171",
+      "name": "Gold Pink",
+      "code": "ATOM-20171",
+      "set": "ATOM",
+      "hex": "#FBD67A",
+      "rgb": {
+        "r": 251,
+        "g": 214,
+        "b": 122
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20020",
+      "name": "Gold Yellow",
+      "code": "ATOM-20020",
+      "set": "ATOM",
+      "hex": "#FFC600",
+      "rgb": {
+        "r": 255,
+        "g": 198,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0125",
+      "name": "Gold Yellow (RLM 04 Gelb)",
+      "code": "AMIG0125",
+      "set": "Acrylics",
+      "hex": "#D7C012",
+      "rgb": {
+        "r": 215,
+        "g": 192,
+        "b": 18
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20078",
+      "name": "Grau RLM 02",
+      "code": "ATOM-20078",
+      "set": "ATOM",
+      "hex": "#848076",
+      "rgb": {
+        "r": 132,
+        "g": 128,
+        "b": 118
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20157",
+      "name": "Graugrün RLM 74",
+      "code": "ATOM-20157",
+      "set": "ATOM",
+      "hex": "#4E5854",
+      "rgb": {
+        "r": 78,
+        "g": 88,
+        "b": 84
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20147",
+      "name": "Grauviolett RLM 75",
+      "code": "ATOM-20147",
+      "set": "ATOM",
+      "hex": "#99959A",
+      "rgb": {
+        "r": 153,
+        "g": 149,
+        "b": 154
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0916",
+      "name": "Green Base",
+      "code": "AMIG0916",
+      "set": "Acrylics",
+      "hex": "#4E6338",
+      "rgb": {
+        "r": 78,
+        "g": 99,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20083",
+      "name": "Green Base",
+      "code": "ATOM-20083",
+      "set": "ATOM",
+      "hex": "#4D733B",
+      "rgb": {
+        "r": 77,
+        "g": 115,
+        "b": 59
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20113",
+      "name": "Green Blue",
+      "code": "ATOM-20113",
+      "set": "ATOM",
+      "hex": "#009DAF",
+      "rgb": {
+        "r": 0,
+        "g": 157,
+        "b": 175
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20100",
+      "name": "Green Grey",
+      "code": "ATOM-20100",
+      "set": "ATOM",
+      "hex": "#486C66",
+      "rgb": {
+        "r": 72,
+        "g": 108,
+        "b": 102
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0056",
+      "name": "Green Khaki",
+      "code": "AMIG0056",
+      "set": "Acrylics",
+      "hex": "#545035",
+      "rgb": {
+        "r": 84,
+        "g": 80,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0074",
+      "name": "Green Moss",
+      "code": "AMIG0074",
+      "set": "Acrylics",
+      "hex": "#6A6837",
+      "rgb": {
+        "r": 106,
+        "g": 104,
+        "b": 55
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0217",
+      "name": "Green Slate (RLM 02)",
+      "code": "AMIG0217",
+      "set": "Acrylics",
+      "hex": "#2A381E",
+      "rgb": {
+        "r": 42,
+        "g": 56,
+        "b": 30
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0059",
+      "name": "Grey",
+      "code": "AMIG0059",
+      "set": "Acrylics",
+      "hex": "#81858E",
+      "rgb": {
+        "r": 129,
+        "g": 133,
+        "b": 142
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20135",
+      "name": "Grey",
+      "code": "ATOM-20135",
+      "set": "ATOM",
+      "hex": "#93959A",
+      "rgb": {
+        "r": 147,
+        "g": 149,
+        "b": 154
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20149",
+      "name": "Grey Brown",
+      "code": "ATOM-20149",
+      "set": "ATOM",
+      "hex": "#A99897",
+      "rgb": {
+        "r": 169,
+        "g": 152,
+        "b": 151
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0252",
+      "name": "Grey Brown Amt-1",
+      "code": "AMIG0252",
+      "set": "Acrylics",
+      "hex": "#827B71",
+      "rgb": {
+        "r": 130,
+        "g": 123,
+        "b": 113
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0910",
+      "name": "Grey High Light",
+      "code": "AMIG0910",
+      "set": "Acrylics",
+      "hex": "#7D8087",
+      "rgb": {
+        "r": 125,
+        "g": 128,
+        "b": 135
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0911",
+      "name": "Grey Shine",
+      "code": "AMIG0911",
+      "set": "Acrylics",
+      "hex": "#A2A5AC",
+      "rgb": {
+        "r": 162,
+        "g": 165,
+        "b": 172
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0041",
+      "name": "Grimy Brown",
+      "code": "AMMO.R-0041",
+      "set": "Rail Center",
+      "hex": "#48281F",
+      "rgb": {
+        "r": 72,
+        "g": 40,
+        "b": 31
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0045",
+      "name": "Gun Metal",
+      "code": "AMIG0045",
+      "set": "Acrylics",
+      "hex": "#525044",
+      "rgb": {
+        "r": 82,
+        "g": 80,
+        "b": 68
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20167",
+      "name": "Gun Metal",
+      "code": "ATOM-20167",
+      "set": "ATOM",
+      "hex": "#888787",
+      "rgb": {
+        "r": 136,
+        "g": 135,
+        "b": 135
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20127",
+      "name": "Hellblau RLM 65",
+      "code": "ATOM-20127",
+      "set": "ATOM",
+      "hex": "#CADFE5",
+      "rgb": {
+        "r": 202,
+        "g": 223,
+        "b": 229
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20126",
+      "name": "Hellblau RLM 78",
+      "code": "ATOM-20126",
+      "set": "ATOM",
+      "hex": "#88A9AB",
+      "rgb": {
+        "r": 136,
+        "g": 169,
+        "b": 171
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20075",
+      "name": "Hellgrün / Chromate Green",
+      "code": "ATOM-20075",
+      "set": "ATOM",
+      "hex": "#3E5F2D",
+      "rgb": {
+        "r": 62,
+        "g": 95,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0013",
+      "name": "Hopper Green",
+      "code": "AMMO.R-0013",
+      "set": "Rail Center",
+      "hex": "#5F695D",
+      "rgb": {
+        "r": 95,
+        "g": 105,
+        "b": 93
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0068",
+      "name": "Idf Green",
+      "code": "AMIG0068",
+      "set": "Acrylics",
+      "hex": "#56542E",
+      "rgb": {
+        "r": 86,
+        "g": 84,
+        "b": 46
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20008",
+      "name": "IDF Sand Grey ´73",
+      "code": "ATOM-20008",
+      "set": "ATOM",
+      "hex": "#C6B18D",
+      "rgb": {
+        "r": 198,
+        "g": 177,
+        "b": 141
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20142",
+      "name": "IJA Grey Green",
+      "code": "ATOM-20142",
+      "set": "ATOM",
+      "hex": "#ACABA5",
+      "rgb": {
+        "r": 172,
+        "g": 171,
+        "b": 165
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20068",
+      "name": "IJA Kawasaki Green",
+      "code": "ATOM-20068",
+      "set": "ATOM",
+      "hex": "#3B4D2E",
+      "rgb": {
+        "r": 59,
+        "g": 77,
+        "b": 46
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20138",
+      "name": "IJA Light Grey Green",
+      "code": "ATOM-20138",
+      "set": "ATOM",
+      "hex": "#709C9C",
+      "rgb": {
+        "r": 112,
+        "g": 156,
+        "b": 156
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20076",
+      "name": "IJA Nakajima Green",
+      "code": "ATOM-20076",
+      "set": "ATOM",
+      "hex": "#51755F",
+      "rgb": {
+        "r": 81,
+        "g": 117,
+        "b": 95
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20141",
+      "name": "IJN Ash Grey",
+      "code": "ATOM-20141",
+      "set": "ATOM",
+      "hex": "#C4BD95",
+      "rgb": {
+        "r": 196,
+        "g": 189,
+        "b": 149
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20095",
+      "name": "IJN Mitsubishi Green",
+      "code": "ATOM-20095",
+      "set": "ATOM",
+      "hex": "#507D33",
+      "rgb": {
+        "r": 80,
+        "g": 125,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20096",
+      "name": "IJN Nakajima Dark Green",
+      "code": "ATOM-20096",
+      "set": "ATOM",
+      "hex": "#006244",
+      "rgb": {
+        "r": 0,
+        "g": 98,
+        "b": 68
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20030",
+      "name": "Imperial Red",
+      "code": "ATOM-20030",
+      "set": "ATOM",
+      "hex": "#ED5E55",
+      "rgb": {
+        "r": 237,
+        "g": 94,
+        "b": 85
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0004",
+      "name": "Industrial Grey",
+      "code": "AMMO.R-0004",
+      "set": "Rail Center",
+      "hex": "#73757B",
+      "rgb": {
+        "r": 115,
+        "g": 117,
+        "b": 123
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20128",
+      "name": "Interior Light Green",
+      "code": "ATOM-20128",
+      "set": "ATOM",
+      "hex": "#8FAA93",
+      "rgb": {
+        "r": 143,
+        "g": 170,
+        "b": 147
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0223",
+      "name": "Interior Turquoise Green",
+      "code": "AMIG0223",
+      "set": "Acrylics",
+      "hex": "#1C8368",
+      "rgb": {
+        "r": 28,
+        "g": 131,
+        "b": 104
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1003",
+      "name": "Interiors Wash",
+      "code": "AMIG1003",
+      "set": "Washes",
+      "hex": "#3C3229",
+      "rgb": {
+        "r": 60,
+        "g": 50,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20136",
+      "name": "Intermediate Blue",
+      "code": "ATOM-20136",
+      "set": "ATOM",
+      "hex": "#596077",
+      "rgb": {
+        "r": 89,
+        "g": 96,
+        "b": 119
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20115",
+      "name": "Jade Green",
+      "code": "ATOM-20115",
+      "set": "ATOM",
+      "hex": "#00BBAE",
+      "rgb": {
+        "r": 0,
+        "g": 187,
+        "b": 174
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0018",
+      "name": "Jade Green",
+      "code": "AMMO.R-0018",
+      "set": "Rail Center",
+      "hex": "#009E8F",
+      "rgb": {
+        "r": 0,
+        "g": 158,
+        "b": 143
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0187",
+      "name": "Jet Exhaust Burnt Iron",
+      "code": "AMIG0187",
+      "set": "Acrylics",
+      "hex": "#3E2417",
+      "rgb": {
+        "r": 62,
+        "g": 36,
+        "b": 23
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0071",
+      "name": "Khaki",
+      "code": "AMIG0071",
+      "set": "Acrylics",
+      "hex": "#735533",
+      "rgb": {
+        "r": 115,
+        "g": 85,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0088",
+      "name": "Khaki Brown",
+      "code": "AMIG0088",
+      "set": "Acrylics",
+      "hex": "#B39267",
+      "rgb": {
+        "r": 179,
+        "g": 146,
+        "b": 103
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0113",
+      "name": "Khaki Green Nº3 (british 1939-42)",
+      "code": "AMIG0113",
+      "set": "Acrylics",
+      "hex": "#685F38",
+      "rgb": {
+        "r": 104,
+        "g": 95,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20025",
+      "name": "Khaky Green",
+      "code": "ATOM-20025",
+      "set": "ATOM",
+      "hex": "#CBC77C",
+      "rgb": {
+        "r": 203,
+        "g": 199,
+        "b": 124
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20058",
+      "name": "Leather",
+      "code": "ATOM-20058",
+      "set": "ATOM",
+      "hex": "#562D22",
+      "rgb": {
+        "r": 86,
+        "g": 45,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20017",
+      "name": "Lemon Yellow",
+      "code": "ATOM-20017",
+      "set": "ATOM",
+      "hex": "#FCCA39",
+      "rgb": {
+        "r": 252,
+        "g": 202,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0249",
+      "name": "Light Blue",
+      "code": "AMIG0249",
+      "set": "Acrylics",
+      "hex": "#B4CEDB",
+      "rgb": {
+        "r": 180,
+        "g": 206,
+        "b": 219
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20122",
+      "name": "Light Blue",
+      "code": "ATOM-20122",
+      "set": "ATOM",
+      "hex": "#C8DFE9",
+      "rgb": {
+        "r": 200,
+        "g": 223,
+        "b": 233
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0120",
+      "name": "Light Brown-gray",
+      "code": "AMIG0120",
+      "set": "Acrylics",
+      "hex": "#D6D1CE",
+      "rgb": {
+        "r": 214,
+        "g": 209,
+        "b": 206
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20129",
+      "name": "Light Ghost Gray",
+      "code": "ATOM-20129",
+      "set": "ATOM",
+      "hex": "#ACC4C6",
+      "rgb": {
+        "r": 172,
+        "g": 196,
+        "b": 198
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20124",
+      "name": "Light Gray",
+      "code": "ATOM-20124",
+      "set": "ATOM",
+      "hex": "#D0CECD",
+      "rgb": {
+        "r": 208,
+        "g": 206,
+        "b": 205
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20125",
+      "name": "Light Gray Green",
+      "code": "ATOM-20125",
+      "set": "ATOM",
+      "hex": "#B2CCB0",
+      "rgb": {
+        "r": 178,
+        "g": 204,
+        "b": 176
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0917",
+      "name": "Light Green",
+      "code": "AMIG0917",
+      "set": "Acrylics",
+      "hex": "#93AF75",
+      "rgb": {
+        "r": 147,
+        "g": 175,
+        "b": 117
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0058",
+      "name": "Light Green Khaki",
+      "code": "AMIG0058",
+      "set": "Acrylics",
+      "hex": "#7C7B4D",
+      "rgb": {
+        "r": 124,
+        "g": 123,
+        "b": 77
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0051",
+      "name": "Light Green Khv-553m",
+      "code": "AMIG0051",
+      "set": "Acrylics",
+      "hex": "#A5BB8A",
+      "rgb": {
+        "r": 165,
+        "g": 187,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0015",
+      "name": "Light Green Livery",
+      "code": "AMMO.R-0015",
+      "set": "Rail Center",
+      "hex": "#48703D",
+      "rgb": {
+        "r": 72,
+        "g": 112,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0030",
+      "name": "Light Grey",
+      "code": "AMMO.R-0030",
+      "set": "Rail Center",
+      "hex": "#CDCCCB",
+      "rgb": {
+        "r": 205,
+        "g": 204,
+        "b": 203
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0016",
+      "name": "Light Olive",
+      "code": "AMMO.R-0016",
+      "set": "Rail Center",
+      "hex": "#65803D",
+      "rgb": {
+        "r": 101,
+        "g": 128,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20040",
+      "name": "Light Pink Flesh",
+      "code": "ATOM-20040",
+      "set": "ATOM",
+      "hex": "#FFE4DA",
+      "rgb": {
+        "r": 255,
+        "g": 228,
+        "b": 218
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20154",
+      "name": "Light Plum",
+      "code": "ATOM-20154",
+      "set": "ATOM",
+      "hex": "#CB88BA",
+      "rgb": {
+        "r": 203,
+        "g": 136,
+        "b": 186
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0039",
+      "name": "Light Rust",
+      "code": "AMIG0039",
+      "set": "Acrylics",
+      "hex": "#E5910B",
+      "rgb": {
+        "r": 229,
+        "g": 145,
+        "b": 11
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20023",
+      "name": "Light Rust",
+      "code": "ATOM-20023",
+      "set": "ATOM",
+      "hex": "#FFA900",
+      "rgb": {
+        "r": 255,
+        "g": 169,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1004",
+      "name": "Light Rust Wash",
+      "code": "AMIG1004",
+      "set": "Washes",
+      "hex": "#552E11",
+      "rgb": {
+        "r": 85,
+        "g": 46,
+        "b": 17
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0067",
+      "name": "Light Sand Grey",
+      "code": "AMIG0067",
+      "set": "Acrylics",
+      "hex": "#B8A680",
+      "rgb": {
+        "r": 184,
+        "g": 166,
+        "b": 128
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20042",
+      "name": "Light Skin",
+      "code": "ATOM-20042",
+      "set": "ATOM",
+      "hex": "#F4D4B7",
+      "rgb": {
+        "r": 244,
+        "g": 212,
+        "b": 183
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0115",
+      "name": "Light Skin Tone",
+      "code": "AMIG0115",
+      "set": "Acrylics",
+      "hex": "#EECAA8",
+      "rgb": {
+        "r": 238,
+        "g": 202,
+        "b": 168
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0038",
+      "name": "Light Wood",
+      "code": "AMIG0038",
+      "set": "Acrylics",
+      "hex": "#BBAA7F",
+      "rgb": {
+        "r": 187,
+        "g": 170,
+        "b": 127
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0124",
+      "name": "Lime Green",
+      "code": "AMIG0124",
+      "set": "Acrylics",
+      "hex": "#109F45",
+      "rgb": {
+        "r": 16,
+        "g": 159,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20089",
+      "name": "Lime Green",
+      "code": "ATOM-20089",
+      "set": "ATOM",
+      "hex": "#CEE41E",
+      "rgb": {
+        "r": 206,
+        "g": 228,
+        "b": 30
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20033",
+      "name": "Magenta",
+      "code": "ATOM-20033",
+      "set": "ATOM",
+      "hex": "#FF4FB5",
+      "rgb": {
+        "r": 255,
+        "g": 79,
+        "b": 181
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0123",
+      "name": "Marine Blue",
+      "code": "AMIG0123",
+      "set": "Acrylics",
+      "hex": "#18568F",
+      "rgb": {
+        "r": 24,
+        "g": 86,
+        "b": 143
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20103",
+      "name": "Marine Blue",
+      "code": "ATOM-20103",
+      "set": "ATOM",
+      "hex": "#00385D",
+      "rgb": {
+        "r": 0,
+        "g": 56,
+        "b": 93
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0194",
+      "name": "Matt Aluminum",
+      "code": "AMIG0194",
+      "set": "Acrylics",
+      "hex": "#AABCB0",
+      "rgb": {
+        "r": 170,
+        "g": 188,
+        "b": 176
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0046",
+      "name": "Matt Black",
+      "code": "AMIG0046",
+      "set": "Acrylics",
+      "hex": "#131313",
+      "rgb": {
+        "r": 19,
+        "g": 19,
+        "b": 19
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20163",
+      "name": "Matt Black",
+      "code": "ATOM-20163",
+      "set": "ATOM",
+      "hex": "#141413",
+      "rgb": {
+        "r": 20,
+        "g": 20,
+        "b": 19
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0089",
+      "name": "Matt Varnish",
+      "code": "AMIG0089",
+      "set": "Acrylics",
+      "hex": "#FEFEFE",
+      "rgb": {
+        "r": 254,
+        "g": 254,
+        "b": 254
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0050",
+      "name": "Matt White",
+      "code": "AMIG0050",
+      "set": "Acrylics",
+      "hex": "#FCFEFB",
+      "rgb": {
+        "r": 252,
+        "g": 254,
+        "b": 251
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20000",
+      "name": "Matt White",
+      "code": "ATOM-20000",
+      "set": "ATOM",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20155",
+      "name": "Mauve",
+      "code": "ATOM-20155",
+      "set": "ATOM",
+      "hex": "#998CB4",
+      "rgb": {
+        "r": 153,
+        "g": 140,
+        "b": 180
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0032",
+      "name": "Medium Ash Grey",
+      "code": "AMMO.R-0032",
+      "set": "Rail Center",
+      "hex": "#58575D",
+      "rgb": {
+        "r": 88,
+        "g": 87,
+        "b": 93
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0103",
+      "name": "Medium Blue",
+      "code": "AMIG0103",
+      "set": "Acrylics",
+      "hex": "#294888",
+      "rgb": {
+        "r": 41,
+        "g": 72,
+        "b": 136
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0021",
+      "name": "Medium Blue",
+      "code": "AMMO.R-0021",
+      "set": "Rail Center",
+      "hex": "#0A639C",
+      "rgb": {
+        "r": 10,
+        "g": 99,
+        "b": 156
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0070",
+      "name": "Medium Brown Dark Earth (bs 450)",
+      "code": "AMIG0070",
+      "set": "Acrylics",
+      "hex": "#523628",
+      "rgb": {
+        "r": 82,
+        "g": 54,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0035",
+      "name": "Medium Green",
+      "code": "AMMO.R-0035",
+      "set": "Rail Center",
+      "hex": "#026035",
+      "rgb": {
+        "r": 2,
+        "g": 96,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0040",
+      "name": "Medium Rust",
+      "code": "AMIG0040",
+      "set": "Acrylics",
+      "hex": "#B85430",
+      "rgb": {
+        "r": 184,
+        "g": 84,
+        "b": 48
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0246",
+      "name": "Medium Sea Grey (bs 637)",
+      "code": "AMIG0246",
+      "set": "Acrylics",
+      "hex": "#858F91",
+      "rgb": {
+        "r": 133,
+        "g": 143,
+        "b": 145
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20168",
+      "name": "Metallic Black",
+      "code": "ATOM-20168",
+      "set": "ATOM",
+      "hex": "#0F0F0E",
+      "rgb": {
+        "r": 15,
+        "g": 15,
+        "b": 14
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0189",
+      "name": "Metallic Orange",
+      "code": "AMIG0189",
+      "set": "Acrylics",
+      "hex": "#CD6702",
+      "rgb": {
+        "r": 205,
+        "g": 103,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0188",
+      "name": "Metallic Red",
+      "code": "AMIG0188",
+      "set": "Acrylics",
+      "hex": "#C13828",
+      "rgb": {
+        "r": 193,
+        "g": 56,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20174",
+      "name": "Metallic Red",
+      "code": "ATOM-20174",
+      "set": "ATOM",
+      "hex": "#E63C25",
+      "rgb": {
+        "r": 230,
+        "g": 60,
+        "b": 37
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20003",
+      "name": "Midgrey",
+      "code": "ATOM-20003",
+      "set": "ATOM",
+      "hex": "#B3ADA8",
+      "rgb": {
+        "r": 179,
+        "g": 173,
+        "b": 168
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20022",
+      "name": "Mustard",
+      "code": "ATOM-20022",
+      "set": "ATOM",
+      "hex": "#ECB150",
+      "rgb": {
+        "r": 236,
+        "g": 177,
+        "b": 80
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20139",
+      "name": "Nakajima Interior Green",
+      "code": "ATOM-20139",
+      "set": "ATOM",
+      "hex": "#B0A893",
+      "rgb": {
+        "r": 176,
+        "g": 168,
+        "b": 147
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20161",
+      "name": "NATO Black",
+      "code": "ATOM-20161",
+      "set": "ATOM",
+      "hex": "#332F2F",
+      "rgb": {
+        "r": 51,
+        "g": 47,
+        "b": 47
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0085",
+      "name": "Nato Brown",
+      "code": "AMIG0085",
+      "set": "Acrylics",
+      "hex": "#412C27",
+      "rgb": {
+        "r": 65,
+        "g": 44,
+        "b": 39
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20061",
+      "name": "NATO Brown",
+      "code": "ATOM-20061",
+      "set": "ATOM",
+      "hex": "#503029",
+      "rgb": {
+        "r": 80,
+        "g": 48,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0084",
+      "name": "Nato Green",
+      "code": "AMIG0084",
+      "set": "Acrylics",
+      "hex": "#424733",
+      "rgb": {
+        "r": 66,
+        "g": 71,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20066",
+      "name": "NATO Green",
+      "code": "ATOM-20066",
+      "set": "ATOM",
+      "hex": "#485037",
+      "rgb": {
+        "r": 72,
+        "g": 80,
+        "b": 55
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20106",
+      "name": "Navy Blue",
+      "code": "ATOM-20106",
+      "set": "ATOM",
+      "hex": "#587DA3",
+      "rgb": {
+        "r": 88,
+        "g": 125,
+        "b": 163
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20145",
+      "name": "Neutral Gray",
+      "code": "ATOM-20145",
+      "set": "ATOM",
+      "hex": "#848382",
+      "rgb": {
+        "r": 132,
+        "g": 131,
+        "b": 130
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1010",
+      "name": "Neutral Wash",
+      "code": "AMIG1010",
+      "set": "Washes",
+      "hex": "#505050",
+      "rgb": {
+        "r": 80,
+        "g": 80,
+        "b": 80
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0037",
+      "name": "New  Wood",
+      "code": "AMIG0037",
+      "set": "Acrylics",
+      "hex": "#C1AB72",
+      "rgb": {
+        "r": 193,
+        "g": 171,
+        "b": 114
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0029",
+      "name": "New Iraqui Army Sand",
+      "code": "AMIG0029",
+      "set": "Acrylics",
+      "hex": "#C8AF76",
+      "rgb": {
+        "r": 200,
+        "g": 175,
+        "b": 118
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0250",
+      "name": "Night Blue Grey",
+      "code": "AMIG0250",
+      "set": "Acrylics",
+      "hex": "#525662",
+      "rgb": {
+        "r": 82,
+        "g": 86,
+        "b": 98
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20102",
+      "name": "Ocean Blue",
+      "code": "ATOM-20102",
+      "set": "ATOM",
+      "hex": "#212441",
+      "rgb": {
+        "r": 33,
+        "g": 36,
+        "b": 65
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20137",
+      "name": "Ocean Grey",
+      "code": "ATOM-20137",
+      "set": "ATOM",
+      "hex": "#73818A",
+      "rgb": {
+        "r": 115,
+        "g": 129,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0245",
+      "name": "Ocean Grey (bs 629)",
+      "code": "AMIG0245",
+      "set": "Acrylics",
+      "hex": "#626B72",
+      "rgb": {
+        "r": 98,
+        "g": 107,
+        "b": 114
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0027",
+      "name": "Ocher Sand",
+      "code": "AMMO.R-0027",
+      "set": "Rail Center",
+      "hex": "#AE8351",
+      "rgb": {
+        "r": 174,
+        "g": 131,
+        "b": 81
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20014",
+      "name": "Ochre",
+      "code": "ATOM-20014",
+      "set": "ATOM",
+      "hex": "#C6BC99",
+      "rgb": {
+        "r": 198,
+        "g": 188,
+        "b": 153
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0102",
+      "name": "Ochre Brown",
+      "code": "AMIG0102",
+      "set": "Acrylics",
+      "hex": "#9E8356",
+      "rgb": {
+        "r": 158,
+        "g": 131,
+        "b": 86
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0078",
+      "name": "Ochre Earth",
+      "code": "AMIG0078",
+      "set": "Acrylics",
+      "hex": "#C28E5C",
+      "rgb": {
+        "r": 194,
+        "g": 142,
+        "b": 92
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0055",
+      "name": "Oil Ochre",
+      "code": "AMIG0055",
+      "set": "Acrylics",
+      "hex": "#CEAD50",
+      "rgb": {
+        "r": 206,
+        "g": 173,
+        "b": 80
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0190",
+      "name": "Old Brass",
+      "code": "AMIG0190",
+      "set": "Acrylics",
+      "hex": "#816116",
+      "rgb": {
+        "r": 129,
+        "g": 97,
+        "b": 22
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0042",
+      "name": "Old Rust",
+      "code": "AMIG0042",
+      "set": "Acrylics",
+      "hex": "#452621",
+      "rgb": {
+        "r": 69,
+        "g": 38,
+        "b": 33
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20054",
+      "name": "Old Rust",
+      "code": "ATOM-20054",
+      "set": "ATOM",
+      "hex": "#8E5337",
+      "rgb": {
+        "r": 142,
+        "g": 83,
+        "b": 55
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0036",
+      "name": "Old Wood",
+      "code": "AMIG0036",
+      "set": "Acrylics",
+      "hex": "#BFAB8A",
+      "rgb": {
+        "r": 191,
+        "g": 171,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20069",
+      "name": "Olive Drab",
+      "code": "ATOM-20069",
+      "set": "ATOM",
+      "hex": "#5E592E",
+      "rgb": {
+        "r": 94,
+        "g": 89,
+        "b": 46
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0926",
+      "name": "Olive Drab  Base",
+      "code": "AMIG0926",
+      "set": "Acrylics",
+      "hex": "#524F2E",
+      "rgb": {
+        "r": 82,
+        "g": 79,
+        "b": 46
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0928",
+      "name": "Olive Drab  High Lights",
+      "code": "AMIG0928",
+      "set": "Acrylics",
+      "hex": "#797653",
+      "rgb": {
+        "r": 121,
+        "g": 118,
+        "b": 83
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0927",
+      "name": "Olive Drab  Light Base",
+      "code": "AMIG0927",
+      "set": "Acrylics",
+      "hex": "#686542",
+      "rgb": {
+        "r": 104,
+        "g": 101,
+        "b": 66
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0924",
+      "name": "Olive Drab Shadow",
+      "code": "AMIG0924",
+      "set": "Acrylics",
+      "hex": "#323017",
+      "rgb": {
+        "r": 50,
+        "g": 48,
+        "b": 23
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0929",
+      "name": "Olive Drab Shine",
+      "code": "AMIG0929",
+      "set": "Acrylics",
+      "hex": "#898761",
+      "rgb": {
+        "r": 137,
+        "g": 135,
+        "b": 97
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20079",
+      "name": "Olivgrün",
+      "code": "ATOM-20079",
+      "set": "ATOM",
+      "hex": "#556039",
+      "rgb": {
+        "r": 85,
+        "g": 96,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20067",
+      "name": "Olivgrün Dark",
+      "code": "ATOM-20067",
+      "set": "ATOM",
+      "hex": "#374327",
+      "rgb": {
+        "r": 55,
+        "g": 67,
+        "b": 39
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig2023",
+      "name": "One Shot Primer - Black",
+      "code": "AMIG2023",
+      "set": "Primers",
+      "hex": "#181818",
+      "rgb": {
+        "r": 24,
+        "g": 24,
+        "b": 24
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig2026",
+      "name": "One Shot Primer - Brown Oxide",
+      "code": "AMIG2026",
+      "set": "Primers",
+      "hex": "#412017",
+      "rgb": {
+        "r": 65,
+        "g": 32,
+        "b": 23
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig2028",
+      "name": "One Shot Primer - Green",
+      "code": "AMIG2028",
+      "set": "Primers",
+      "hex": "#263427",
+      "rgb": {
+        "r": 38,
+        "g": 52,
+        "b": 39
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig2024",
+      "name": "One Shot Primer - Grey",
+      "code": "AMIG2024",
+      "set": "Primers",
+      "hex": "#6B6B6B",
+      "rgb": {
+        "r": 107,
+        "g": 107,
+        "b": 107
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig2027",
+      "name": "One Shot Primer - Sand Flesh",
+      "code": "AMIG2027",
+      "set": "Primers",
+      "hex": "#B7A371",
+      "rgb": {
+        "r": 183,
+        "g": 163,
+        "b": 113
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig2022",
+      "name": "One Shot Primer - White",
+      "code": "AMIG2022",
+      "set": "Primers",
+      "hex": "#E4E4E4",
+      "rgb": {
+        "r": 228,
+        "g": 228,
+        "b": 228
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0129",
+      "name": "Orange",
+      "code": "AMIG0129",
+      "set": "Acrylics",
+      "hex": "#E7731E",
+      "rgb": {
+        "r": 231,
+        "g": 115,
+        "b": 30
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20027",
+      "name": "Orange",
+      "code": "ATOM-20027",
+      "set": "ATOM",
+      "hex": "#FF810A",
+      "rgb": {
+        "r": 255,
+        "g": 129,
+        "b": 10
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20153",
+      "name": "Orchid",
+      "code": "ATOM-20153",
+      "set": "ATOM",
+      "hex": "#BC5F9A",
+      "rgb": {
+        "r": 188,
+        "g": 95,
+        "b": 154
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20082",
+      "name": "Pacific Green",
+      "code": "ATOM-20082",
+      "set": "ATOM",
+      "hex": "#99BA65",
+      "rgb": {
+        "r": 153,
+        "g": 186,
+        "b": 101
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0060",
+      "name": "Pale Green",
+      "code": "AMIG0060",
+      "set": "Acrylics",
+      "hex": "#3A6327",
+      "rgb": {
+        "r": 58,
+        "g": 99,
+        "b": 39
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0034",
+      "name": "Pale Greenish Grey",
+      "code": "AMMO.R-0034",
+      "set": "Rail Center",
+      "hex": "#BEB999",
+      "rgb": {
+        "r": 190,
+        "g": 185,
+        "b": 153
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20130",
+      "name": "Pale Grey",
+      "code": "ATOM-20130",
+      "set": "ATOM",
+      "hex": "#B2CBC5",
+      "rgb": {
+        "r": 178,
+        "g": 203,
+        "b": 197
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0019",
+      "name": "Passenger Wagon Green",
+      "code": "AMMO.R-0019",
+      "set": "Rail Center",
+      "hex": "#648F70",
+      "rgb": {
+        "r": 100,
+        "g": 143,
+        "b": 112
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20094",
+      "name": "Phtalo Green",
+      "code": "ATOM-20094",
+      "set": "ATOM",
+      "hex": "#315B45",
+      "rgb": {
+        "r": 49,
+        "g": 91,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20039",
+      "name": "Pink Flesh",
+      "code": "ATOM-20039",
+      "set": "ATOM",
+      "hex": "#FFCCCC",
+      "rgb": {
+        "r": 255,
+        "g": 204,
+        "b": 204
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20088",
+      "name": "Pistachio",
+      "code": "ATOM-20088",
+      "set": "ATOM",
+      "hex": "#CBC900",
+      "rgb": {
+        "r": 203,
+        "g": 201,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0192",
+      "name": "Polished Metal",
+      "code": "AMIG0192",
+      "set": "Acrylics",
+      "hex": "#5B6C5C",
+      "rgb": {
+        "r": 91,
+        "g": 108,
+        "b": 92
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0023",
+      "name": "Protective Green",
+      "code": "AMIG0023",
+      "set": "Acrylics",
+      "hex": "#5E733B",
+      "rgb": {
+        "r": 94,
+        "g": 115,
+        "b": 59
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0053",
+      "name": "Protective Mc 1200",
+      "code": "AMIG0053",
+      "set": "Acrylics",
+      "hex": "#18341B",
+      "rgb": {
+        "r": 24,
+        "g": 52,
+        "b": 27
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20108",
+      "name": "Prussian Blue",
+      "code": "ATOM-20108",
+      "set": "ATOM",
+      "hex": "#314675",
+      "rgb": {
+        "r": 49,
+        "g": 70,
+        "b": 117
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0017",
+      "name": "Pullman Green",
+      "code": "AMMO.R-0017",
+      "set": "Rail Center",
+      "hex": "#3C452D",
+      "rgb": {
+        "r": 60,
+        "g": 69,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0127",
+      "name": "Purple",
+      "code": "AMIG0127",
+      "set": "Acrylics",
+      "hex": "#9154A4",
+      "rgb": {
+        "r": 145,
+        "g": 84,
+        "b": 164
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20151",
+      "name": "Purple",
+      "code": "ATOM-20151",
+      "set": "ATOM",
+      "hex": "#AD60A2",
+      "rgb": {
+        "r": 173,
+        "g": 96,
+        "b": 162
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20156",
+      "name": "Putrid Flesh",
+      "code": "ATOM-20156",
+      "set": "ATOM",
+      "hex": "#A49397",
+      "rgb": {
+        "r": 164,
+        "g": 147,
+        "b": 151
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0001",
+      "name": "Rail Brown",
+      "code": "AMMO.R-0001",
+      "set": "Rail Center",
+      "hex": "#C45742",
+      "rgb": {
+        "r": 196,
+        "g": 87,
+        "b": 66
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0001",
+      "name": "RAL 6003 Olivgrün Opt.1",
+      "code": "AMIG0001",
+      "set": "Acrylics",
+      "hex": "#353D26",
+      "rgb": {
+        "r": 53,
+        "g": 61,
+        "b": 38
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0002",
+      "name": "RAL 6003 Olivgrün Opt.2",
+      "code": "AMIG0002",
+      "set": "Acrylics",
+      "hex": "#4E5536",
+      "rgb": {
+        "r": 78,
+        "g": 85,
+        "b": 54
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0004",
+      "name": "RAL 6011 B Resedagrün",
+      "code": "AMIG0004",
+      "set": "Acrylics",
+      "hex": "#525D33",
+      "rgb": {
+        "r": 82,
+        "g": 93,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0003",
+      "name": "RAL 6011 Resedagrün",
+      "code": "AMIG0003",
+      "set": "Acrylics",
+      "hex": "#677D4C",
+      "rgb": {
+        "r": 103,
+        "g": 125,
+        "b": 76
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0087",
+      "name": "RAL 6014 Gelboliv",
+      "code": "AMIG0087",
+      "set": "Acrylics",
+      "hex": "#454732",
+      "rgb": {
+        "r": 69,
+        "g": 71,
+        "b": 50
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0005",
+      "name": "RAL 7008 Graugrün",
+      "code": "AMIG0005",
+      "set": "Acrylics",
+      "hex": "#62593C",
+      "rgb": {
+        "r": 98,
+        "g": 89,
+        "b": 60
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0006",
+      "name": "RAL 7008 Graugrün Opt.2",
+      "code": "AMIG0006",
+      "set": "Acrylics",
+      "hex": "#8A854D",
+      "rgb": {
+        "r": 138,
+        "g": 133,
+        "b": 77
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0007",
+      "name": "RAL 7017 Dunkelbraun",
+      "code": "AMIG0007",
+      "set": "Acrylics",
+      "hex": "#524232",
+      "rgb": {
+        "r": 82,
+        "g": 66,
+        "b": 50
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0008",
+      "name": "RAL 7021 Dunkelgrau",
+      "code": "AMIG0008",
+      "set": "Acrylics",
+      "hex": "#272B34",
+      "rgb": {
+        "r": 39,
+        "g": 43,
+        "b": 52
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0009",
+      "name": "RAL 7027 Sandgrau",
+      "code": "AMIG0009",
+      "set": "Acrylics",
+      "hex": "#C0AF93",
+      "rgb": {
+        "r": 192,
+        "g": 175,
+        "b": 147
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0010",
+      "name": "RAL 7028 Dunkelgelb (mid War)",
+      "code": "AMIG0010",
+      "set": "Acrylics",
+      "hex": "#A4943F",
+      "rgb": {
+        "r": 164,
+        "g": 148,
+        "b": 63
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0011",
+      "name": "RAL 7028 Dunkelgelb AUS ’44 Dg I",
+      "code": "AMIG0011",
+      "set": "Acrylics",
+      "hex": "#C9BE86",
+      "rgb": {
+        "r": 201,
+        "g": 190,
+        "b": 134
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0012",
+      "name": "RAL 7028 Dunkelgelb AUS ’44 Dg IIi",
+      "code": "AMIG0012",
+      "set": "Acrylics",
+      "hex": "#D7CEA5",
+      "rgb": {
+        "r": 215,
+        "g": 206,
+        "b": 165
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0013",
+      "name": "RAL 8000 Gelbbraun",
+      "code": "AMIG0013",
+      "set": "Acrylics",
+      "hex": "#AE9576",
+      "rgb": {
+        "r": 174,
+        "g": 149,
+        "b": 118
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0014",
+      "name": "RAL 8012 Rotbraun",
+      "code": "AMIG0014",
+      "set": "Acrylics",
+      "hex": "#85320A",
+      "rgb": {
+        "r": 133,
+        "g": 50,
+        "b": 10
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0015",
+      "name": "RAL 8017 Schokobraun",
+      "code": "AMIG0015",
+      "set": "Acrylics",
+      "hex": "#50312C",
+      "rgb": {
+        "r": 80,
+        "g": 49,
+        "b": 44
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0016",
+      "name": "RAL 8020 Gelbbraun",
+      "code": "AMIG0016",
+      "set": "Acrylics",
+      "hex": "#E7CA7A",
+      "rgb": {
+        "r": 231,
+        "g": 202,
+        "b": 122
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0026",
+      "name": "RAL 8031 F9 Sand Brown",
+      "code": "AMIG0026",
+      "set": "Acrylics",
+      "hex": "#CDA38B",
+      "rgb": {
+        "r": 205,
+        "g": 163,
+        "b": 139
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0017",
+      "name": "RAL 9001 Cremeweiss",
+      "code": "AMIG0017",
+      "set": "Acrylics",
+      "hex": "#F2EFC2",
+      "rgb": {
+        "r": 242,
+        "g": 239,
+        "b": 194
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0027",
+      "name": "RAL1039 F9 German Sand Beige",
+      "code": "AMIG0027",
+      "set": "Acrylics",
+      "hex": "#C6B074",
+      "rgb": {
+        "r": 198,
+        "g": 176,
+        "b": 116
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0028",
+      "name": "RAL7050 F7 German Grey Beige",
+      "code": "AMIG0028",
+      "set": "Acrylics",
+      "hex": "#807863",
+      "rgb": {
+        "r": 128,
+        "g": 120,
+        "b": 99
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0132",
+      "name": "Real Idf Sand Grey 73",
+      "code": "AMIG0132",
+      "set": "Acrylics",
+      "hex": "#84794B",
+      "rgb": {
+        "r": 132,
+        "g": 121,
+        "b": 75
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0131",
+      "name": "Real Idf Sinai Grey 82",
+      "code": "AMIG0131",
+      "set": "Acrylics",
+      "hex": "#534F2A",
+      "rgb": {
+        "r": 83,
+        "g": 79,
+        "b": 42
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0049",
+      "name": "Red",
+      "code": "AMIG0049",
+      "set": "Acrylics",
+      "hex": "#BD2615",
+      "rgb": {
+        "r": 189,
+        "g": 38,
+        "b": 21
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20029",
+      "name": "Red",
+      "code": "ATOM-20029",
+      "set": "ATOM",
+      "hex": "#FC1F02",
+      "rgb": {
+        "r": 252,
+        "g": 31,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0022",
+      "name": "Red",
+      "code": "AMMO.R-0022",
+      "set": "Rail Center",
+      "hex": "#D61B22",
+      "rgb": {
+        "r": 214,
+        "g": 27,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20053",
+      "name": "Red Brick",
+      "code": "ATOM-20053",
+      "set": "ATOM",
+      "hex": "#A44314",
+      "rgb": {
+        "r": 164,
+        "g": 67,
+        "b": 20
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0029",
+      "name": "Red Brown",
+      "code": "AMMO.R-0029",
+      "set": "Rail Center",
+      "hex": "#84281C",
+      "rgb": {
+        "r": 132,
+        "g": 40,
+        "b": 28
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0913",
+      "name": "Red Brown Base",
+      "code": "AMIG0913",
+      "set": "Acrylics",
+      "hex": "#6B321E",
+      "rgb": {
+        "r": 107,
+        "g": 50,
+        "b": 30
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0914",
+      "name": "Red Brown Light",
+      "code": "AMIG0914",
+      "set": "Acrylics",
+      "hex": "#9E5340",
+      "rgb": {
+        "r": 158,
+        "g": 83,
+        "b": 64
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0912",
+      "name": "Red Brown Shadow",
+      "code": "AMIG0912",
+      "set": "Acrylics",
+      "hex": "#421D14",
+      "rgb": {
+        "r": 66,
+        "g": 29,
+        "b": 20
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0133",
+      "name": "Red Leather",
+      "code": "AMIG0133",
+      "set": "Acrylics",
+      "hex": "#643B29",
+      "rgb": {
+        "r": 100,
+        "g": 59,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0922",
+      "name": "Red Primer  High Lights",
+      "code": "AMIG0922",
+      "set": "Primers",
+      "hex": "#7F3D1A",
+      "rgb": {
+        "r": 127,
+        "g": 61,
+        "b": 26
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0923",
+      "name": "Red Primer  Shine",
+      "code": "AMIG0923",
+      "set": "Primers",
+      "hex": "#9E5922",
+      "rgb": {
+        "r": 158,
+        "g": 89,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0920",
+      "name": "Red Primer Base",
+      "code": "AMIG0920",
+      "set": "Primers",
+      "hex": "#491404",
+      "rgb": {
+        "r": 73,
+        "g": 20,
+        "b": 4
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0919",
+      "name": "Red Primer Dark Base",
+      "code": "AMIG0919",
+      "set": "Primers",
+      "hex": "#593B23",
+      "rgb": {
+        "r": 89,
+        "g": 59,
+        "b": 35
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0921",
+      "name": "Red Primer Light Base",
+      "code": "AMIG0921",
+      "set": "Primers",
+      "hex": "#63250C",
+      "rgb": {
+        "r": 99,
+        "g": 37,
+        "b": 12
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0918",
+      "name": "Red Primer Shadow",
+      "code": "AMIG0918",
+      "set": "Primers",
+      "hex": "#321819",
+      "rgb": {
+        "r": 50,
+        "g": 24,
+        "b": 25
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0139",
+      "name": "Reddish Earth",
+      "code": "AMIG0139",
+      "set": "Acrylics",
+      "hex": "#705446",
+      "rgb": {
+        "r": 112,
+        "g": 84,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0010",
+      "name": "Reefer Orange",
+      "code": "AMMO.R-0010",
+      "set": "Rail Center",
+      "hex": "#F08233",
+      "rgb": {
+        "r": 240,
+        "g": 130,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0011",
+      "name": "Reefer Yellow",
+      "code": "AMMO.R-0011",
+      "set": "Rail Center",
+      "hex": "#EBCE7B",
+      "rgb": {
+        "r": 235,
+        "g": 206,
+        "b": 123
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20081",
+      "name": "Resedagrün (RAL 6011)",
+      "code": "ATOM-20081",
+      "set": "ATOM",
+      "hex": "#5E843B",
+      "rgb": {
+        "r": 94,
+        "g": 132,
+        "b": 59
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0231",
+      "name": "RLM 65 Hellblau",
+      "code": "AMIG0231",
+      "set": "Acrylics",
+      "hex": "#C7DBE2",
+      "rgb": {
+        "r": 199,
+        "g": 219,
+        "b": 226
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0218",
+      "name": "RLM 66 Schwartzgrau",
+      "code": "AMIG0218",
+      "set": "Acrylics",
+      "hex": "#282B34",
+      "rgb": {
+        "r": 40,
+        "g": 43,
+        "b": 52
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0232",
+      "name": "RLM 70 Schwartzgrün",
+      "code": "AMIG0232",
+      "set": "Acrylics",
+      "hex": "#333C2B",
+      "rgb": {
+        "r": 51,
+        "g": 60,
+        "b": 43
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0233",
+      "name": "RLM 71 Dunkelgrün",
+      "code": "AMIG0233",
+      "set": "Acrylics",
+      "hex": "#51563F",
+      "rgb": {
+        "r": 81,
+        "g": 86,
+        "b": 63
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0253",
+      "name": "RLM 74 Graugrün",
+      "code": "AMIG0253",
+      "set": "Acrylics",
+      "hex": "#434E48",
+      "rgb": {
+        "r": 67,
+        "g": 78,
+        "b": 72
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0254",
+      "name": "RLM 75 Grauviolett",
+      "code": "AMIG0254",
+      "set": "Acrylics",
+      "hex": "#7C7E7B",
+      "rgb": {
+        "r": 124,
+        "g": 126,
+        "b": 123
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0063",
+      "name": "RLM 76 Pale Grey",
+      "code": "AMIG0063",
+      "set": "Acrylics",
+      "hex": "#9AC4B6",
+      "rgb": {
+        "r": 154,
+        "g": 196,
+        "b": 182
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0247",
+      "name": "RLM 78 Hellblau",
+      "code": "AMIG0247",
+      "set": "Acrylics",
+      "hex": "#819B9C",
+      "rgb": {
+        "r": 129,
+        "g": 155,
+        "b": 156
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0222",
+      "name": "RLM 79 Sandgelb",
+      "code": "AMIG0222",
+      "set": "Acrylics",
+      "hex": "#C59942",
+      "rgb": {
+        "r": 197,
+        "g": 153,
+        "b": 66
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0248",
+      "name": "RLM 80 Olivgrün",
+      "code": "AMIG0248",
+      "set": "Acrylics",
+      "hex": "#3B4930",
+      "rgb": {
+        "r": 59,
+        "g": 73,
+        "b": 48
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0206",
+      "name": "RLM 81",
+      "code": "AMIG0206",
+      "set": "Acrylics",
+      "hex": "#47512C",
+      "rgb": {
+        "r": 71,
+        "g": 81,
+        "b": 44
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0255",
+      "name": "RLM 81 Braunviolett",
+      "code": "AMIG0255",
+      "set": "Acrylics",
+      "hex": "#553C37",
+      "rgb": {
+        "r": 85,
+        "g": 60,
+        "b": 55
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0925",
+      "name": "RLM 81 Olive Drab Dark",
+      "code": "AMIG0925",
+      "set": "Acrylics",
+      "hex": "#413D20",
+      "rgb": {
+        "r": 65,
+        "g": 61,
+        "b": 32
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0230",
+      "name": "RLM 82 Camo Green",
+      "code": "AMIG0230",
+      "set": "Acrylics",
+      "hex": "#3E3E00",
+      "rgb": {
+        "r": 62,
+        "g": 62,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0256",
+      "name": "RLM 84 Graublau",
+      "code": "AMIG0256",
+      "set": "Acrylics",
+      "hex": "#B9B97B",
+      "rgb": {
+        "r": 185,
+        "g": 185,
+        "b": 123
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20046",
+      "name": "Rotbraun RAL 8012",
+      "code": "ATOM-20046",
+      "set": "ATOM",
+      "hex": "#AB3400",
+      "rgb": {
+        "r": 171,
+        "g": 52,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20159",
+      "name": "Rubber & Tires",
+      "code": "ATOM-20159",
+      "set": "ATOM",
+      "hex": "#513F47",
+      "rgb": {
+        "r": 81,
+        "g": 63,
+        "b": 71
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0033",
+      "name": "Rubber &amp; Tires",
+      "code": "AMIG0033",
+      "set": "Acrylics",
+      "hex": "#3D383C",
+      "rgb": {
+        "r": 61,
+        "g": 56,
+        "b": 60
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0251",
+      "name": "Russian Blue Amt-7",
+      "code": "AMIG0251",
+      "set": "Acrylics",
+      "hex": "#2F737E",
+      "rgb": {
+        "r": 47,
+        "g": 115,
+        "b": 126
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0931",
+      "name": "Russian Dark Base",
+      "code": "AMIG0931",
+      "set": "Acrylics",
+      "hex": "#4A4F27",
+      "rgb": {
+        "r": 74,
+        "g": 79,
+        "b": 39
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20071",
+      "name": "Russian Green 4BO",
+      "code": "ATOM-20071",
+      "set": "ATOM",
+      "hex": "#595C28",
+      "rgb": {
+        "r": 89,
+        "g": 92,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0932",
+      "name": "Russian Green Base",
+      "code": "AMIG0932",
+      "set": "Acrylics",
+      "hex": "#5D5C19",
+      "rgb": {
+        "r": 93,
+        "g": 92,
+        "b": 25
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20099",
+      "name": "Russian Green Uniform",
+      "code": "ATOM-20099",
+      "set": "ATOM",
+      "hex": "#1D5346",
+      "rgb": {
+        "r": 29,
+        "g": 83,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0934",
+      "name": "Russian High Light",
+      "code": "AMIG0934",
+      "set": "Acrylics",
+      "hex": "#8C8557",
+      "rgb": {
+        "r": 140,
+        "g": 133,
+        "b": 87
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0933",
+      "name": "Russian Light Base",
+      "code": "AMIG0933",
+      "set": "Acrylics",
+      "hex": "#797244",
+      "rgb": {
+        "r": 121,
+        "g": 114,
+        "b": 68
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0930",
+      "name": "Russian Shadow",
+      "code": "AMIG0930",
+      "set": "Acrylics",
+      "hex": "#30300E",
+      "rgb": {
+        "r": 48,
+        "g": 48,
+        "b": 14
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0935",
+      "name": "Russian Shine",
+      "code": "AMIG0935",
+      "set": "Acrylics",
+      "hex": "#9E976D",
+      "rgb": {
+        "r": 158,
+        "g": 151,
+        "b": 109
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20045",
+      "name": "Rust",
+      "code": "ATOM-20045",
+      "set": "ATOM",
+      "hex": "#DC6030",
+      "rgb": {
+        "r": 220,
+        "g": 96,
+        "b": 48
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0024",
+      "name": "Rust",
+      "code": "AMMO.R-0024",
+      "set": "Rail Center",
+      "hex": "#CC6239",
+      "rgb": {
+        "r": 204,
+        "g": 98,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0034",
+      "name": "Rust Tracks",
+      "code": "AMIG0034",
+      "set": "Acrylics",
+      "hex": "#38261C",
+      "rgb": {
+        "r": 56,
+        "g": 38,
+        "b": 28
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20011",
+      "name": "Sand Grey",
+      "code": "ATOM-20011",
+      "set": "ATOM",
+      "hex": "#97864F",
+      "rgb": {
+        "r": 151,
+        "g": 134,
+        "b": 79
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20021",
+      "name": "Sand Yellow",
+      "code": "ATOM-20021",
+      "set": "ATOM",
+      "hex": "#EBB150",
+      "rgb": {
+        "r": 235,
+        "g": 177,
+        "b": 80
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20024",
+      "name": "Sandgelb RLM 79",
+      "code": "ATOM-20024",
+      "set": "ATOM",
+      "hex": "#DBA63A",
+      "rgb": {
+        "r": 219,
+        "g": 166,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20118",
+      "name": "Sapphire Blue",
+      "code": "ATOM-20118",
+      "set": "ATOM",
+      "hex": "#BACDE9",
+      "rgb": {
+        "r": 186,
+        "g": 205,
+        "b": 233
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0032",
+      "name": "Satin Black",
+      "code": "AMIG0032",
+      "set": "Acrylics",
+      "hex": "#1C1C1C",
+      "rgb": {
+        "r": 28,
+        "g": 28,
+        "b": 28
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20162",
+      "name": "Satin Black",
+      "code": "ATOM-20162",
+      "set": "ATOM",
+      "hex": "#171615",
+      "rgb": {
+        "r": 23,
+        "g": 22,
+        "b": 21
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0047",
+      "name": "Satin White",
+      "code": "AMIG0047",
+      "set": "Acrylics",
+      "hex": "#E8E8E8",
+      "rgb": {
+        "r": 232,
+        "g": 232,
+        "b": 232
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20001",
+      "name": "Satin White",
+      "code": "ATOM-20001",
+      "set": "ATOM",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20028",
+      "name": "Scarlet Red",
+      "code": "ATOM-20028",
+      "set": "ATOM",
+      "hex": "#E5250E",
+      "rgb": {
+        "r": 229,
+        "g": 37,
+        "b": 14
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0112",
+      "name": "Scc 15 (british 1944-45 Olive Drab)",
+      "code": "AMIG0112",
+      "set": "Acrylics",
+      "hex": "#353B19",
+      "rgb": {
+        "r": 53,
+        "g": 59,
+        "b": 25
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0110",
+      "name": "Scc 1a  (british Brown 1941-42)",
+      "code": "AMIG0110",
+      "set": "Acrylics",
+      "hex": "#352118",
+      "rgb": {
+        "r": 53,
+        "g": 33,
+        "b": 24
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0111",
+      "name": "Scc 2 (british 1941-44 Service Drab)",
+      "code": "AMIG0111",
+      "set": "Acrylics",
+      "hex": "#544933",
+      "rgb": {
+        "r": 84,
+        "g": 73,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20062",
+      "name": "Schokobraun RAL 8017",
+      "code": "ATOM-20062",
+      "set": "ATOM",
+      "hex": "#64342E",
+      "rgb": {
+        "r": 100,
+        "g": 52,
+        "b": 46
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20158",
+      "name": "Schwartzgrau RLM 66",
+      "code": "ATOM-20158",
+      "set": "ATOM",
+      "hex": "#3C3239",
+      "rgb": {
+        "r": 60,
+        "g": 50,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20101",
+      "name": "Schwartzgrün RLM 70",
+      "code": "ATOM-20101",
+      "set": "ATOM",
+      "hex": "#636441",
+      "rgb": {
+        "r": 99,
+        "g": 100,
+        "b": 65
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20131",
+      "name": "Seal Grey",
+      "code": "ATOM-20131",
+      "set": "ATOM",
+      "hex": "#A3A6A5",
+      "rgb": {
+        "r": 163,
+        "g": 166,
+        "b": 165
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20148",
+      "name": "Shadow Grey",
+      "code": "ATOM-20148",
+      "set": "ATOM",
+      "hex": "#4E4B5C",
+      "rgb": {
+        "r": 78,
+        "g": 75,
+        "b": 92
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0043",
+      "name": "Shadow Rust",
+      "code": "AMIG0043",
+      "set": "Acrylics",
+      "hex": "#331716",
+      "rgb": {
+        "r": 51,
+        "g": 23,
+        "b": 22
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0054",
+      "name": "Signal Green",
+      "code": "AMIG0054",
+      "set": "Acrylics",
+      "hex": "#28812D",
+      "rgb": {
+        "r": 40,
+        "g": 129,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0036",
+      "name": "Signal Green",
+      "code": "AMMO.R-0036",
+      "set": "Rail Center",
+      "hex": "#008D3D",
+      "rgb": {
+        "r": 0,
+        "g": 141,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0037",
+      "name": "Signal Red",
+      "code": "AMMO.R-0037",
+      "set": "Rail Center",
+      "hex": "#D9201C",
+      "rgb": {
+        "r": 217,
+        "g": 32,
+        "b": 28
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0012",
+      "name": "Signal Yellow",
+      "code": "AMMO.R-0012",
+      "set": "Rail Center",
+      "hex": "#FBBE0E",
+      "rgb": {
+        "r": 251,
+        "g": 190,
+        "b": 14
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0195",
+      "name": "Silver",
+      "code": "AMIG0195",
+      "set": "Acrylics",
+      "hex": "#C6D1C1",
+      "rgb": {
+        "r": 198,
+        "g": 209,
+        "b": 193
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20164",
+      "name": "Silver",
+      "code": "ATOM-20164",
+      "set": "ATOM",
+      "hex": "#CDCDCE",
+      "rgb": {
+        "r": 205,
+        "g": 205,
+        "b": 206
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20070",
+      "name": "Sinai Grey",
+      "code": "ATOM-20070",
+      "set": "ATOM",
+      "hex": "#766D34",
+      "rgb": {
+        "r": 118,
+        "g": 109,
+        "b": 52
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20140",
+      "name": "Sky Green",
+      "code": "ATOM-20140",
+      "set": "ATOM",
+      "hex": "#ACC0A8",
+      "rgb": {
+        "r": 172,
+        "g": 192,
+        "b": 168
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0243",
+      "name": "Sky Type S (bs 210)",
+      "code": "AMIG0243",
+      "set": "Acrylics",
+      "hex": "#B4B299",
+      "rgb": {
+        "r": 180,
+        "g": 178,
+        "b": 153
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0006",
+      "name": "Sleeper Brown",
+      "code": "AMMO.R-0006",
+      "set": "Rail Center",
+      "hex": "#684635",
+      "rgb": {
+        "r": 104,
+        "g": 70,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0031",
+      "name": "Spanish Green-khaki",
+      "code": "AMIG0031",
+      "set": "Acrylics",
+      "hex": "#504728",
+      "rgb": {
+        "r": 80,
+        "g": 71,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1009",
+      "name": "Starship Wash",
+      "code": "AMIG1009",
+      "set": "Washes",
+      "hex": "#0F0B0A",
+      "rgb": {
+        "r": 15,
+        "g": 11,
+        "b": 10
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0191",
+      "name": "Steel",
+      "code": "AMIG0191",
+      "set": "Acrylics",
+      "hex": "#B7C2B1",
+      "rgb": {
+        "r": 183,
+        "g": 194,
+        "b": 177
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20166",
+      "name": "Steel",
+      "code": "ATOM-20166",
+      "set": "ATOM",
+      "hex": "#C5C2C2",
+      "rgb": {
+        "r": 197,
+        "g": 194,
+        "b": 194
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0075",
+      "name": "Stone Grey",
+      "code": "AMIG0075",
+      "set": "Acrylics",
+      "hex": "#B2B2B2",
+      "rgb": {
+        "r": 178,
+        "g": 178,
+        "b": 178
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20132",
+      "name": "Stone Grey",
+      "code": "ATOM-20132",
+      "set": "ATOM",
+      "hex": "#BDBBBC",
+      "rgb": {
+        "r": 189,
+        "g": 187,
+        "b": 188
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20019",
+      "name": "Sunny Yellow",
+      "code": "ATOM-20019",
+      "set": "ATOM",
+      "hex": "#FFDF00",
+      "rgb": {
+        "r": 255,
+        "g": 223,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1002",
+      "name": "Tracks Wash",
+      "code": "AMIG1002",
+      "set": "Washes",
+      "hex": "#1A120F",
+      "rgb": {
+        "r": 26,
+        "g": 18,
+        "b": 15
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20090",
+      "name": "Troll Green",
+      "code": "ATOM-20090",
+      "set": "ATOM",
+      "hex": "#009240",
+      "rgb": {
+        "r": 0,
+        "g": 146,
+        "b": 64
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20114",
+      "name": "Turquoise Green",
+      "code": "ATOM-20114",
+      "set": "ATOM",
+      "hex": "#009F88",
+      "rgb": {
+        "r": 0,
+        "g": 159,
+        "b": 136
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0009",
+      "name": "Tuscan",
+      "code": "AMMO.R-0009",
+      "set": "Rail Center",
+      "hex": "#7B3E40",
+      "rgb": {
+        "r": 123,
+        "g": 62,
+        "b": 64
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20055",
+      "name": "Umber Brown",
+      "code": "ATOM-20055",
+      "set": "ATOM",
+      "hex": "#8A4F45",
+      "rgb": {
+        "r": 138,
+        "g": 79,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20107",
+      "name": "Uniform Blue",
+      "code": "ATOM-20107",
+      "set": "ATOM",
+      "hex": "#2770A0",
+      "rgb": {
+        "r": 39,
+        "g": 112,
+        "b": 160
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20009",
+      "name": "US Desert Tan",
+      "code": "ATOM-20009",
+      "set": "ATOM",
+      "hex": "#D9B38F",
+      "rgb": {
+        "r": 217,
+        "g": 179,
+        "b": 143
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig1007",
+      "name": "US Modern Vehicles Wash",
+      "code": "AMIG1007",
+      "set": "Washes",
+      "hex": "#5A4A3D",
+      "rgb": {
+        "r": 90,
+        "g": 74,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0081",
+      "name": "US Olive Drab Vietnam Era (fs 24087)",
+      "code": "AMIG0081",
+      "set": "Acrylics",
+      "hex": "#424A35",
+      "rgb": {
+        "r": 66,
+        "g": 74,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20036",
+      "name": "Vintage Pink",
+      "code": "ATOM-20036",
+      "set": "ATOM",
+      "hex": "#CD606A",
+      "rgb": {
+        "r": 205,
+        "g": 96,
+        "b": 106
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0126",
+      "name": "Violet",
+      "code": "AMIG0126",
+      "set": "Acrylics",
+      "hex": "#56439C",
+      "rgb": {
+        "r": 86,
+        "g": 67,
+        "b": 156
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20150",
+      "name": "Violet",
+      "code": "ATOM-20150",
+      "set": "ATOM",
+      "hex": "#5C3C90",
+      "rgb": {
+        "r": 92,
+        "g": 60,
+        "b": 144
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0018",
+      "name": "Waffen Ss",
+      "code": "AMIG0018",
+      "set": "Acrylics",
+      "hex": "#42685B",
+      "rgb": {
+        "r": 66,
+        "g": 104,
+        "b": 91
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0039",
+      "name": "Wagon Grey",
+      "code": "AMMO.R-0039",
+      "set": "Rail Center",
+      "hex": "#A2A9A3",
+      "rgb": {
+        "r": 162,
+        "g": 169,
+        "b": 163
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0196",
+      "name": "Warhead Metallic Blue",
+      "code": "AMIG0196",
+      "set": "Acrylics",
+      "hex": "#237EE9",
+      "rgb": {
+        "r": 35,
+        "g": 126,
+        "b": 233
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0061",
+      "name": "Warm Sand-yellow",
+      "code": "AMIG0061",
+      "set": "Acrylics",
+      "hex": "#D7B657",
+      "rgb": {
+        "r": 215,
+        "g": 182,
+        "b": 87
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20043",
+      "name": "Warm Skin",
+      "code": "ATOM-20043",
+      "set": "ATOM",
+      "hex": "#CD9B7F",
+      "rgb": {
+        "r": 205,
+        "g": 155,
+        "b": 127
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0117",
+      "name": "Warm Skin Tone",
+      "code": "AMIG0117",
+      "set": "Acrylics",
+      "hex": "#B5876F",
+      "rgb": {
+        "r": 181,
+        "g": 135,
+        "b": 111
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0104",
+      "name": "Washable Black",
+      "code": "AMIG0104",
+      "set": "Acrylics",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20178",
+      "name": "Washable Dust",
+      "code": "ATOM-20178",
+      "set": "ATOM",
+      "hex": "#B5945A",
+      "rgb": {
+        "r": 181,
+        "g": 148,
+        "b": 90
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0105",
+      "name": "Washable Dust (RAL 8000)",
+      "code": "AMIG0105",
+      "set": "Acrylics",
+      "hex": "#9D8152",
+      "rgb": {
+        "r": 157,
+        "g": 129,
+        "b": 82
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0107",
+      "name": "Washable Earth",
+      "code": "AMIG0107",
+      "set": "Acrylics",
+      "hex": "#714D35",
+      "rgb": {
+        "r": 113,
+        "g": 77,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0108",
+      "name": "Washable Mud",
+      "code": "AMIG0108",
+      "set": "Acrylics",
+      "hex": "#533229",
+      "rgb": {
+        "r": 83,
+        "g": 50,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0109",
+      "name": "Washable Rust",
+      "code": "AMIG0109",
+      "set": "Acrylics",
+      "hex": "#A0402A",
+      "rgb": {
+        "r": 160,
+        "g": 64,
+        "b": 42
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20179",
+      "name": "Washable Sand",
+      "code": "ATOM-20179",
+      "set": "ATOM",
+      "hex": "#E9BC7C",
+      "rgb": {
+        "r": 233,
+        "g": 188,
+        "b": 124
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0106",
+      "name": "Washable Sand (RAL 8020)",
+      "code": "AMIG0106",
+      "set": "Acrylics",
+      "hex": "#C09853",
+      "rgb": {
+        "r": 192,
+        "g": 152,
+        "b": 83
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20177",
+      "name": "Washable White",
+      "code": "ATOM-20177",
+      "set": "ATOM",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0024",
+      "name": "Washable White Camo",
+      "code": "AMIG0024",
+      "set": "Acrylics",
+      "hex": "#FAFBF6",
+      "rgb": {
+        "r": 250,
+        "g": 251,
+        "b": 246
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-ammo-r-0003",
+      "name": "White",
+      "code": "AMMO.R-0003",
+      "set": "Rail Center",
+      "hex": "#EEEDED",
+      "rgb": {
+        "r": 238,
+        "g": 237,
+        "b": 237
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20004",
+      "name": "Wood",
+      "code": "ATOM-20004",
+      "set": "ATOM",
+      "hex": "#CDB495",
+      "rgb": {
+        "r": 205,
+        "g": 180,
+        "b": 149
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0083",
+      "name": "Xb-518 Zashchitniy Zeleno (russian Postwar Green)",
+      "code": "AMIG0083",
+      "set": "Acrylics",
+      "hex": "#4E4F30",
+      "rgb": {
+        "r": 78,
+        "g": 79,
+        "b": 48
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0048",
+      "name": "Yellow",
+      "code": "AMIG0048",
+      "set": "Acrylics",
+      "hex": "#EBC30B",
+      "rgb": {
+        "r": 235,
+        "g": 195,
+        "b": 11
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20018",
+      "name": "Yellow",
+      "code": "ATOM-20018",
+      "set": "ATOM",
+      "hex": "#FFDA00",
+      "rgb": {
+        "r": 255,
+        "g": 218,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20073",
+      "name": "Yellow Green",
+      "code": "ATOM-20073",
+      "set": "ATOM",
+      "hex": "#8F9426",
+      "rgb": {
+        "r": 143,
+        "g": 148,
+        "b": 38
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0057",
+      "name": "Yellow Grey",
+      "code": "AMIG0057",
+      "set": "Acrylics",
+      "hex": "#C9B68E",
+      "rgb": {
+        "r": 201,
+        "g": 182,
+        "b": 142
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20144",
+      "name": "Zimmerit",
+      "code": "ATOM-20144",
+      "set": "ATOM",
+      "hex": "#AD9A82",
+      "rgb": {
+        "r": 173,
+        "g": 154,
+        "b": 130
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-amig0114",
+      "name": "Zimmerit Ochre Color",
+      "code": "AMIG0114",
+      "set": "Acrylics",
+      "hex": "#9A8B76",
+      "rgb": {
+        "r": 154,
+        "g": 139,
+        "b": 118
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20074",
+      "name": "Zinc Chromate Green",
+      "code": "ATOM-20074",
+      "set": "ATOM",
+      "hex": "#3E5F2D",
+      "rgb": {
+        "r": 62,
+        "g": 95,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "mig-atom-20013",
+      "name": "Zinc Chromate Yellow",
+      "code": "ATOM-20013",
+      "set": "ATOM",
+      "hex": "#C2A446",
+      "rgb": {
+        "r": 194,
+        "g": 164,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    }
+  ]
+}

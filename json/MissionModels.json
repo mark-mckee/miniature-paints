@@ -1,0 +1,2846 @@
+{
+  "displayName": "Mission Models",
+  "company": "Mission Models",
+  "address": {
+    "street": "215 W Palm Ave, Ste 104",
+    "city": "Burbank",
+    "postcode": "91502",
+    "country": "United States"
+  },
+  "contactEmail": "info@missionmodelsus.com",
+  "contactForm": "",
+  "website": "https://missionmodelsus.com",
+  "phone": "",
+  "updatedCatalogueRequested": "",
+  "paintCount": 202,
+  "paints": [
+    {
+      "id": "missionmodels-mmp-102",
+      "name": "Aircraft Grey Gloss FS 16473",
+      "code": "MMP-102",
+      "set": "Mission Models",
+      "hex": "#AFB0B5",
+      "rgb": {
+        "r": 175,
+        "g": 176,
+        "b": 181
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmm-003",
+      "name": "Aluminum",
+      "code": "MMM-003",
+      "set": "Mission Models",
+      "hex": "#BBBBBB",
+      "rgb": {
+        "r": 187,
+        "g": 187,
+        "b": 187
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-140",
+      "name": "Anthrazitgrau RAL 7016 (Anthracite Grey)",
+      "code": "MMP-140",
+      "set": "Mission Models",
+      "hex": "#303433",
+      "rgb": {
+        "r": 48,
+        "g": 52,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-113",
+      "name": "Aotaki Blue Green",
+      "code": "MMP-113",
+      "set": "Mission Models",
+      "hex": "#2D8287",
+      "rgb": {
+        "r": 45,
+        "g": 130,
+        "b": 135
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-136",
+      "name": "Arcadian Blue (F 1965)",
+      "code": "MMP-136",
+      "set": "Mission Models",
+      "hex": "#B7C8D2",
+      "rgb": {
+        "r": 183,
+        "g": 200,
+        "b": 210
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-092",
+      "name": "Azure Blue RAF / FS 35231",
+      "code": "MMP-092",
+      "set": "Mission Models",
+      "hex": "#7F85C3",
+      "rgb": {
+        "r": 127,
+        "g": 133,
+        "b": 195
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-047",
+      "name": "Black",
+      "code": "MMP-047",
+      "set": "Mission Models",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mms-001",
+      "name": "Black Primer",
+      "code": "MMS-001",
+      "set": "Mission Models Primer",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-048",
+      "name": "Blue",
+      "code": "MMP-048",
+      "set": "Mission Models",
+      "hex": "#002059",
+      "rgb": {
+        "r": 0,
+        "g": 32,
+        "b": 89
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmc-002",
+      "name": "Brass",
+      "code": "MMC-002",
+      "set": "Mission Models",
+      "hex": "#AE8E5B",
+      "rgb": {
+        "r": 174,
+        "g": 142,
+        "b": 91
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-052",
+      "name": "Braunviolet RLM 81",
+      "code": "MMP-052",
+      "set": "Mission Models",
+      "hex": "#383C25",
+      "rgb": {
+        "r": 56,
+        "g": 60,
+        "b": 37
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-122",
+      "name": "Bright Blue (Mecha etc)",
+      "code": "MMP-122",
+      "set": "Mission Models",
+      "hex": "#0F74BA",
+      "rgb": {
+        "r": 15,
+        "g": 116,
+        "b": 186
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-042",
+      "name": "British Light Silver Grey RAL 7001",
+      "code": "MMP-042",
+      "set": "Mission Models",
+      "hex": "#798A91",
+      "rgb": {
+        "r": 121,
+        "g": 138,
+        "b": 145
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-044",
+      "name": "British Light Stone RAL 61",
+      "code": "MMP-044",
+      "set": "Mission Models",
+      "hex": "#D4BE8C",
+      "rgb": {
+        "r": 212,
+        "g": 190,
+        "b": 140
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-043",
+      "name": "British Portland Stone RAL 64",
+      "code": "MMP-043",
+      "set": "Mission Models",
+      "hex": "#F5EEDB",
+      "rgb": {
+        "r": 245,
+        "g": 238,
+        "b": 219
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-039",
+      "name": "British Sand Yellow Modern AFV",
+      "code": "MMP-039",
+      "set": "Mission Models",
+      "hex": "#DDC893",
+      "rgb": {
+        "r": 221,
+        "g": 200,
+        "b": 147
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-045",
+      "name": "British Slate Grey 34",
+      "code": "MMP-045",
+      "set": "Mission Models",
+      "hex": "#ABA0B0",
+      "rgb": {
+        "r": 171,
+        "g": 160,
+        "b": 176
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-106",
+      "name": "Bronze Green British AFV",
+      "code": "MMP-106",
+      "set": "Mission Models",
+      "hex": "#4D605C",
+      "rgb": {
+        "r": 77,
+        "g": 96,
+        "b": 92
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-002",
+      "name": "Brown",
+      "code": "MMP-002",
+      "set": "Mission Models",
+      "hex": "#3B220E",
+      "rgb": {
+        "r": 59,
+        "g": 34,
+        "b": 14
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmc-001",
+      "name": "Chrome",
+      "code": "MMC-001",
+      "set": "Mission Models",
+      "hex": "#B5B4B2",
+      "rgb": {
+        "r": 181,
+        "g": 180,
+        "b": 178
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mms-007",
+      "name": "Clear Primer (Transparent)",
+      "code": "MMS-007",
+      "set": "Mission Models Primer",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmm-002",
+      "name": "Cold Rolled Steel",
+      "code": "MMM-002",
+      "set": "Mission Models",
+      "hex": "#4F4F4F",
+      "rgb": {
+        "r": 79,
+        "g": 79,
+        "b": 79
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-127",
+      "name": "Concrete 1",
+      "code": "MMP-127",
+      "set": "Mission Models",
+      "hex": "#AEA67F",
+      "rgb": {
+        "r": 174,
+        "g": 166,
+        "b": 127
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmm-004",
+      "name": "Copper",
+      "code": "MMM-004",
+      "set": "Mission Models",
+      "hex": "#9D6743",
+      "rgb": {
+        "r": 157,
+        "g": 103,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-135",
+      "name": "Coral (CH 1955/626)",
+      "code": "MMP-135",
+      "set": "Mission Models",
+      "hex": "#DD786E",
+      "rgb": {
+        "r": 221,
+        "g": 120,
+        "b": 110
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-179",
+      "name": "Crocus Yellow",
+      "code": "MMP-179",
+      "set": "Mission Models",
+      "hex": "#EEE5BA",
+      "rgb": {
+        "r": 238,
+        "g": 229,
+        "b": 186
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmm-007",
+      "name": "Dark Aluminum",
+      "code": "MMM-007",
+      "set": "Mission Models",
+      "hex": "#8B8B8D",
+      "rgb": {
+        "r": 139,
+        "g": 139,
+        "b": 141
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-074",
+      "name": "Dark Ghost Grey  FS 36320",
+      "code": "MMP-074",
+      "set": "Mission Models",
+      "hex": "#6D717A",
+      "rgb": {
+        "r": 109,
+        "g": 113,
+        "b": 122
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-089",
+      "name": "Dark Grey RLM 66 German WWII Late War Cockpits, etc",
+      "code": "MMP-089",
+      "set": "Mission Models",
+      "hex": "#595B50",
+      "rgb": {
+        "r": 89,
+        "g": 91,
+        "b": 80
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-064",
+      "name": "Dark Gull Grey FS 36231",
+      "code": "MMP-064",
+      "set": "Mission Models",
+      "hex": "#7D8790",
+      "rgb": {
+        "r": 125,
+        "g": 135,
+        "b": 144
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmw-001",
+      "name": "Dark Rust 1",
+      "code": "MMW-001",
+      "set": "Mission Models",
+      "hex": "#A24536",
+      "rgb": {
+        "r": 162,
+        "g": 69,
+        "b": 54
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-060",
+      "name": "Dark Tan FS 30219",
+      "code": "MMP-060",
+      "set": "Mission Models",
+      "hex": "#674539",
+      "rgb": {
+        "r": 103,
+        "g": 69,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-139",
+      "name": "Dunkelbraun RAL 7017",
+      "code": "MMP-139",
+      "set": "Mission Models",
+      "hex": "#5C5334",
+      "rgb": {
+        "r": 92,
+        "g": 83,
+        "b": 52
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-011",
+      "name": "Dunkelgelb  RAL 7028",
+      "code": "MMP-011",
+      "set": "Mission Models",
+      "hex": "#BBA059",
+      "rgb": {
+        "r": 187,
+        "g": 160,
+        "b": 89
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-019",
+      "name": "Dunkelgelb Late  1944 RAL 7028",
+      "code": "MMP-019",
+      "set": "Mission Models",
+      "hex": "#D4BE8C",
+      "rgb": {
+        "r": 212,
+        "g": 190,
+        "b": 140
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-087",
+      "name": "Dunkelgrün RLM 71",
+      "code": "MMP-087",
+      "set": "Mission Models",
+      "hex": "#384C27",
+      "rgb": {
+        "r": 56,
+        "g": 76,
+        "b": 39
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-054",
+      "name": "Dunkelgrün RLM 83",
+      "code": "MMP-054",
+      "set": "Mission Models",
+      "hex": "#64723D",
+      "rgb": {
+        "r": 100,
+        "g": 114,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmm-005",
+      "name": "Duraluminum",
+      "code": "MMM-005",
+      "set": "Mission Models",
+      "hex": "#6F7075",
+      "rgb": {
+        "r": 111,
+        "g": 112,
+        "b": 117
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-130",
+      "name": "Earth Red Brown Merdec FS 30117",
+      "code": "MMP-130",
+      "set": "Mission Models",
+      "hex": "#763B01",
+      "rgb": {
+        "r": 118,
+        "g": 59,
+        "b": 1
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-129",
+      "name": "Earth Yellow Tan Merdec FS 30257",
+      "code": "MMP-129",
+      "set": "Mission Models",
+      "hex": "#F3BB44",
+      "rgb": {
+        "r": 243,
+        "g": 187,
+        "b": 68
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-138",
+      "name": "Extra Dark Sea Grey BS381 RAF",
+      "code": "MMP-138",
+      "set": "Mission Models",
+      "hex": "#505E67",
+      "rgb": {
+        "r": 80,
+        "g": 94,
+        "b": 103
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-124",
+      "name": "Farm Tractor Green (Bright Green)",
+      "code": "MMP-124",
+      "set": "Mission Models",
+      "hex": "#20730D",
+      "rgb": {
+        "r": 32,
+        "g": 115,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-126",
+      "name": "Farm Tractor Yellow",
+      "code": "MMP-126",
+      "set": "Mission Models",
+      "hex": "#F7DC13",
+      "rgb": {
+        "r": 247,
+        "g": 220,
+        "b": 19
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-178",
+      "name": "French Blue (Cobalt Blue)",
+      "code": "MMP-178",
+      "set": "Mission Models",
+      "hex": "#02538B",
+      "rgb": {
+        "r": 2,
+        "g": 83,
+        "b": 139
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-090",
+      "name": "Gelb (Yellow) RLM 04 German WWII",
+      "code": "MMP-090",
+      "set": "Mission Models",
+      "hex": "#FDBE1A",
+      "rgb": {
+        "r": 253,
+        "g": 190,
+        "b": 26
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-010",
+      "name": "Gelbbraun  RAL 8020",
+      "code": "MMP-010",
+      "set": "Mission Models",
+      "hex": "#CFAF80",
+      "rgb": {
+        "r": 207,
+        "g": 175,
+        "b": 128
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-177",
+      "name": "Gelbolive RAL 6014",
+      "code": "MMP-177",
+      "set": "Mission Models",
+      "hex": "#55481E",
+      "rgb": {
+        "r": 85,
+        "g": 72,
+        "b": 30
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-046",
+      "name": "German Field Grey 6006",
+      "code": "MMP-046",
+      "set": "Mission Models",
+      "hex": "#4F6C56",
+      "rgb": {
+        "r": 79,
+        "g": 108,
+        "b": 86
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-082",
+      "name": "German WWII Elfenbein Interior White",
+      "code": "MMP-082",
+      "set": "Mission Models",
+      "hex": "#EFE3BB",
+      "rgb": {
+        "r": 239,
+        "g": 227,
+        "b": 187
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmgbb-001",
+      "name": "Gloss Black Base for Chrome",
+      "code": "MMGBB-001",
+      "set": "Mission Models",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-099",
+      "name": "Gloss Grey USN FS 16081",
+      "code": "MMP-099",
+      "set": "Mission Models",
+      "hex": "#1A4752",
+      "rgb": {
+        "r": 26,
+        "g": 71,
+        "b": 82
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-065",
+      "name": "Gloss Sea Blue FS 15042",
+      "code": "MMP-065",
+      "set": "Mission Models",
+      "hex": "#154B63",
+      "rgb": {
+        "r": 21,
+        "g": 75,
+        "b": 99
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmgwb-002",
+      "name": "Gloss White Base for Chrome",
+      "code": "MMGWB-002",
+      "set": "Mission Models",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmc-003",
+      "name": "Gold",
+      "code": "MMC-003",
+      "set": "Mission Models",
+      "hex": "#DFB231",
+      "rgb": {
+        "r": 223,
+        "g": 178,
+        "b": 49
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-056",
+      "name": "Grau RLM 02",
+      "code": "MMP-056",
+      "set": "Mission Models",
+      "hex": "#9A9581",
+      "rgb": {
+        "r": 154,
+        "g": 149,
+        "b": 129
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-008",
+      "name": "Graugrun Khakibrun RAL 7008",
+      "code": "MMP-008",
+      "set": "Mission Models",
+      "hex": "#786749",
+      "rgb": {
+        "r": 120,
+        "g": 103,
+        "b": 73
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-049",
+      "name": "Graugrun RLM 74",
+      "code": "MMP-049",
+      "set": "Mission Models",
+      "hex": "#344756",
+      "rgb": {
+        "r": 52,
+        "g": 71,
+        "b": 86
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-050",
+      "name": "Grauviolet RLM 75",
+      "code": "MMP-050",
+      "set": "Mission Models",
+      "hex": "#4A4D52",
+      "rgb": {
+        "r": 74,
+        "g": 77,
+        "b": 82
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-004",
+      "name": "Green",
+      "code": "MMP-004",
+      "set": "Mission Models",
+      "hex": "#235937",
+      "rgb": {
+        "r": 35,
+        "g": 89,
+        "b": 55
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-068",
+      "name": "Green Zinc Chromate",
+      "code": "MMP-068",
+      "set": "Mission Models",
+      "hex": "#6A9735",
+      "rgb": {
+        "r": 106,
+        "g": 151,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-096",
+      "name": "Grey Blue Cockpit  / Camo Modern Russian Jets",
+      "code": "MMP-096",
+      "set": "Mission Models",
+      "hex": "#6299C4",
+      "rgb": {
+        "r": 98,
+        "g": 153,
+        "b": 196
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-096-2",
+      "name": "Grey Blue Cockpit / Camo Modern Russian Jets",
+      "code": "MMP-096",
+      "set": "Mission Models",
+      "hex": "#6198C2",
+      "rgb": {
+        "r": 97,
+        "g": 152,
+        "b": 194
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mms-003",
+      "name": "Grey Primer",
+      "code": "MMS-003",
+      "set": "Mission Models Primer",
+      "hex": "#D9D9D9",
+      "rgb": {
+        "r": 217,
+        "g": 217,
+        "b": 217
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-017",
+      "name": "Grunbraun RAL 8000",
+      "code": "MMP-017",
+      "set": "Mission Models",
+      "hex": "#826C33",
+      "rgb": {
+        "r": 130,
+        "g": 108,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmm-010",
+      "name": "Gun Metal",
+      "code": "MMM-010",
+      "set": "Mission Models",
+      "hex": "#373735",
+      "rgb": {
+        "r": 55,
+        "g": 55,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-084",
+      "name": "Gunship Grey FS 36118",
+      "code": "MMP-084",
+      "set": "Mission Models",
+      "hex": "#4B5561",
+      "rgb": {
+        "r": 75,
+        "g": 85,
+        "b": 97
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-083",
+      "name": "Have Glass Grey FS36170",
+      "code": "MMP-083",
+      "set": "Mission Models",
+      "hex": "#696866",
+      "rgb": {
+        "r": 105,
+        "g": 104,
+        "b": 102
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-103",
+      "name": "Haze Grey US Navy 5H",
+      "code": "MMP-103",
+      "set": "Mission Models",
+      "hex": "#B9BAB2",
+      "rgb": {
+        "r": 185,
+        "g": 186,
+        "b": 178
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-057",
+      "name": "Hellblau RLM 65",
+      "code": "MMP-057",
+      "set": "Mission Models",
+      "hex": "#93B1AF",
+      "rgb": {
+        "r": 147,
+        "g": 177,
+        "b": 175
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-055",
+      "name": "Hellblau RLM 78",
+      "code": "MMP-055",
+      "set": "Mission Models",
+      "hex": "#A4ADBC",
+      "rgb": {
+        "r": 164,
+        "g": 173,
+        "b": 188
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-053",
+      "name": "Hellgrun RLM 82",
+      "code": "MMP-053",
+      "set": "Mission Models",
+      "hex": "#687C4B",
+      "rgb": {
+        "r": 104,
+        "g": 124,
+        "b": 75
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-117",
+      "name": "High Low Visibility Grey FS (595)  FS 36373",
+      "code": "MMP-117",
+      "set": "Mission Models",
+      "hex": "#A2A9B3",
+      "rgb": {
+        "r": 162,
+        "g": 169,
+        "b": 179
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-041",
+      "name": "Hiway Yellow 1930 / 1990 Heavy Equipment",
+      "code": "MMP-041",
+      "set": "Mission Models",
+      "hex": "#FEC009",
+      "rgb": {
+        "r": 254,
+        "g": 192,
+        "b": 9
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-111",
+      "name": "Hull Red Anti Fouling Norfolk 65A",
+      "code": "MMP-111",
+      "set": "Mission Models",
+      "hex": "#791402",
+      "rgb": {
+        "r": 121,
+        "g": 20,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-128",
+      "name": "IDF Green",
+      "code": "MMP-128",
+      "set": "Mission Models",
+      "hex": "#39431E",
+      "rgb": {
+        "r": 57,
+        "g": 67,
+        "b": 30
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-037",
+      "name": "IDF Sand Grey Version 1",
+      "code": "MMP-037",
+      "set": "Mission Models",
+      "hex": "#836E41",
+      "rgb": {
+        "r": 131,
+        "g": 110,
+        "b": 65
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-036",
+      "name": "IDF Sand Grey Version 2",
+      "code": "MMP-036",
+      "set": "Mission Models",
+      "hex": "#A98E79",
+      "rgb": {
+        "r": 169,
+        "g": 142,
+        "b": 121
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-101",
+      "name": "Insignia Red FS 31136",
+      "code": "MMP-101",
+      "set": "Mission Models",
+      "hex": "#ED1B24",
+      "rgb": {
+        "r": 237,
+        "g": 27,
+        "b": 36
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-104",
+      "name": "Insignia White FS 17875",
+      "code": "MMP-104",
+      "set": "Mission Models",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-071",
+      "name": "Intermediate Blue FS 35164",
+      "code": "MMP-071",
+      "set": "Mission Models",
+      "hex": "#4B5C6C",
+      "rgb": {
+        "r": 75,
+        "g": 92,
+        "b": 108
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-156",
+      "name": "Iridescent Blue",
+      "code": "MMP-156",
+      "set": "Mission Models",
+      "hex": "#0149B8",
+      "rgb": {
+        "r": 1,
+        "g": 73,
+        "b": 184
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-158",
+      "name": "Iridescent Candy Red",
+      "code": "MMP-158",
+      "set": "Mission Models",
+      "hex": "#C0273B",
+      "rgb": {
+        "r": 192,
+        "g": 39,
+        "b": 59
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-155",
+      "name": "Iridescent Cherry",
+      "code": "MMP-155",
+      "set": "Mission Models",
+      "hex": "#A6041B",
+      "rgb": {
+        "r": 166,
+        "g": 4,
+        "b": 27
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-160",
+      "name": "Iridescent Duck Teal",
+      "code": "MMP-160",
+      "set": "Mission Models",
+      "hex": "#02ADA5",
+      "rgb": {
+        "r": 2,
+        "g": 173,
+        "b": 165
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-159",
+      "name": "Iridescent Lemon Yellow",
+      "code": "MMP-159",
+      "set": "Mission Models",
+      "hex": "#F3C901",
+      "rgb": {
+        "r": 243,
+        "g": 201,
+        "b": 1
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-157",
+      "name": "Iridescent Plum Purple",
+      "code": "MMP-157",
+      "set": "Mission Models",
+      "hex": "#231962",
+      "rgb": {
+        "r": 35,
+        "g": 25,
+        "b": 98
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-161",
+      "name": "Iridescent Turquoise",
+      "code": "MMP-161",
+      "set": "Mission Models",
+      "hex": "#146F8A",
+      "rgb": {
+        "r": 20,
+        "g": 111,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-110",
+      "name": "J3 SP Lt Grey Japanese Zero (Amber)",
+      "code": "MMP-110",
+      "set": "Mission Models",
+      "hex": "#9B9C8D",
+      "rgb": {
+        "r": 155,
+        "g": 156,
+        "b": 141
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-112",
+      "name": "Japanese D1 Deep Green WWII  (IJN)",
+      "code": "MMP-112",
+      "set": "Mission Models",
+      "hex": "#374E47",
+      "rgb": {
+        "r": 55,
+        "g": 78,
+        "b": 71
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-107",
+      "name": "Japanese J3 Hai-Iro Lt Grey (Zero)",
+      "code": "MMP-107",
+      "set": "Mission Models",
+      "hex": "#77856C",
+      "rgb": {
+        "r": 119,
+        "g": 133,
+        "b": 108
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-109",
+      "name": "Japanese M3 Mitsubishi Interior Green WWII",
+      "code": "MMP-109",
+      "set": "Mission Models",
+      "hex": "#77987D",
+      "rgb": {
+        "r": 119,
+        "g": 152,
+        "b": 125
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-115",
+      "name": "Japanese Propeller Brown",
+      "code": "MMP-115",
+      "set": "Mission Models",
+      "hex": "#82483A",
+      "rgb": {
+        "r": 130,
+        "g": 72,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-108",
+      "name": "Japanese Q1 Anti Glare Blue Black Cowl WWII",
+      "code": "MMP-108",
+      "set": "Mission Models",
+      "hex": "#2E2C2F",
+      "rgb": {
+        "r": 46,
+        "g": 44,
+        "b": 47
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-081",
+      "name": "LRDG Pink",
+      "code": "MMP-081",
+      "set": "Mission Models",
+      "hex": "#ECCAA4",
+      "rgb": {
+        "r": 236,
+        "g": 202,
+        "b": 164
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-174",
+      "name": "Lavender",
+      "code": "MMP-174",
+      "set": "Mission Models",
+      "hex": "#E7D1E6",
+      "rgb": {
+        "r": 231,
+        "g": 209,
+        "b": 230
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-051",
+      "name": "Lichtblau RLM 76",
+      "code": "MMP-051",
+      "set": "Mission Models",
+      "hex": "#A3BAB2",
+      "rgb": {
+        "r": 163,
+        "g": 186,
+        "b": 178
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-173",
+      "name": "Light Blue (Mecha)",
+      "code": "MMP-173",
+      "set": "Mission Models",
+      "hex": "#3779DA",
+      "rgb": {
+        "r": 55,
+        "g": 121,
+        "b": 218
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-073",
+      "name": "Light Ghost Grey FS 36375",
+      "code": "MMP-073",
+      "set": "Mission Models",
+      "hex": "#83878A",
+      "rgb": {
+        "r": 131,
+        "g": 135,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-116",
+      "name": "Light Grey FS 36495",
+      "code": "MMP-116",
+      "set": "Mission Models",
+      "hex": "#C1BEB7",
+      "rgb": {
+        "r": 193,
+        "g": 190,
+        "b": 183
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-069",
+      "name": "Light Gull Grey FS 16440",
+      "code": "MMP-069",
+      "set": "Mission Models",
+      "hex": "#DADADA",
+      "rgb": {
+        "r": 218,
+        "g": 218,
+        "b": 218
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-063",
+      "name": "Light Gull Grey FS 36440",
+      "code": "MMP-063",
+      "set": "Mission Models",
+      "hex": "#C1BEB7",
+      "rgb": {
+        "r": 193,
+        "g": 190,
+        "b": 183
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-006",
+      "name": "Light Neutral",
+      "code": "MMP-006",
+      "set": "Mission Models",
+      "hex": "#A59480",
+      "rgb": {
+        "r": 165,
+        "g": 148,
+        "b": 128
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmw-002",
+      "name": "Light Rust 1",
+      "code": "MMW-002",
+      "set": "Mission Models",
+      "hex": "#DD732B",
+      "rgb": {
+        "r": 221,
+        "g": 115,
+        "b": 43
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-075",
+      "name": "Light Sea Grey  FS 36307",
+      "code": "MMP-075",
+      "set": "Mission Models",
+      "hex": "#6C7C7C",
+      "rgb": {
+        "r": 108,
+        "g": 124,
+        "b": 124
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-137",
+      "name": "Lilac (Chrysler 1966)",
+      "code": "MMP-137",
+      "set": "Mission Models",
+      "hex": "#C79AB9",
+      "rgb": {
+        "r": 199,
+        "g": 154,
+        "b": 185
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-142",
+      "name": "Mahogany (Flight Decks, Tools)",
+      "code": "MMP-142",
+      "set": "Mission Models",
+      "hex": "#784C43",
+      "rgb": {
+        "r": 120,
+        "g": 76,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-072",
+      "name": "Medium Grey FS 35237",
+      "code": "MMP-072",
+      "set": "Mission Models",
+      "hex": "#6E8188",
+      "rgb": {
+        "r": 110,
+        "g": 129,
+        "b": 136
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-118",
+      "name": "Medium Grey FS 36270",
+      "code": "MMP-118",
+      "set": "Mission Models",
+      "hex": "#88929B",
+      "rgb": {
+        "r": 136,
+        "g": 146,
+        "b": 155
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmm-001",
+      "name": "Metallic Burnt Iron 1",
+      "code": "MMM-001",
+      "set": "Mission Models",
+      "hex": "#4D4845",
+      "rgb": {
+        "r": 77,
+        "g": 72,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-035",
+      "name": "NATO Black",
+      "code": "MMP-035",
+      "set": "Mission Models",
+      "hex": "#2E2D2D",
+      "rgb": {
+        "r": 46,
+        "g": 45,
+        "b": 45
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-033",
+      "name": "NATO Brown",
+      "code": "MMP-033",
+      "set": "Mission Models",
+      "hex": "#543425",
+      "rgb": {
+        "r": 84,
+        "g": 52,
+        "b": 37
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-034",
+      "name": "NATO Green",
+      "code": "MMP-034",
+      "set": "Mission Models",
+      "hex": "#557536",
+      "rgb": {
+        "r": 85,
+        "g": 117,
+        "b": 54
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-114",
+      "name": "Neutral Haze Grey US Navy (WWII/Post)",
+      "code": "MMP-114",
+      "set": "Mission Models",
+      "hex": "#818779",
+      "rgb": {
+        "r": 129,
+        "g": 135,
+        "b": 121
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-125",
+      "name": "New Construction Yellow (1990 to present)",
+      "code": "MMP-125",
+      "set": "Mission Models",
+      "hex": "#E4AE44",
+      "rgb": {
+        "r": 228,
+        "g": 174,
+        "b": 68
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-093",
+      "name": "Ocean Grey RAF WWII Mid/Late  FS 36173",
+      "code": "MMP-093",
+      "set": "Mission Models",
+      "hex": "#6B7775",
+      "rgb": {
+        "r": 107,
+        "g": 119,
+        "b": 117
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-172",
+      "name": "Olive Drab / Dark Green 1968-74 FS 24087",
+      "code": "MMP-172",
+      "set": "Mission Models",
+      "hex": "#504D3A",
+      "rgb": {
+        "r": 80,
+        "g": 77,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-009",
+      "name": "Olivegrun RAL 6003",
+      "code": "MMP-009",
+      "set": "Mission Models",
+      "hex": "#586629",
+      "rgb": {
+        "r": 88,
+        "g": 102,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-120",
+      "name": "Olivegrun RLM 80 (Trop)",
+      "code": "MMP-120",
+      "set": "Mission Models",
+      "hex": "#62693D",
+      "rgb": {
+        "r": 98,
+        "g": 105,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-005",
+      "name": "Orange",
+      "code": "MMP-005",
+      "set": "Mission Models",
+      "hex": "#E15402",
+      "rgb": {
+        "r": 225,
+        "g": 84,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-014",
+      "name": "Panzer Grey  RAL 7021",
+      "code": "MMP-014",
+      "set": "Mission Models",
+      "hex": "#4B5459",
+      "rgb": {
+        "r": 75,
+        "g": 84,
+        "b": 89
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-149",
+      "name": "Pearl Copper",
+      "code": "MMP-149",
+      "set": "Mission Models",
+      "hex": "#9E5739",
+      "rgb": {
+        "r": 158,
+        "g": 87,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-150",
+      "name": "Pearl Deep Black",
+      "code": "MMP-150",
+      "set": "Mission Models",
+      "hex": "#2A2B30",
+      "rgb": {
+        "r": 42,
+        "g": 43,
+        "b": 48
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-147",
+      "name": "Pearl Deep Blue",
+      "code": "MMP-147",
+      "set": "Mission Models",
+      "hex": "#064BCA",
+      "rgb": {
+        "r": 6,
+        "g": 75,
+        "b": 202
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-146",
+      "name": "Pearl Deep Charcoal",
+      "code": "MMP-146",
+      "set": "Mission Models",
+      "hex": "#35363A",
+      "rgb": {
+        "r": 53,
+        "g": 54,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-144",
+      "name": "Pearl Deep Green",
+      "code": "MMP-144",
+      "set": "Mission Models",
+      "hex": "#238F55",
+      "rgb": {
+        "r": 35,
+        "g": 143,
+        "b": 85
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-153",
+      "name": "Pearl Kiwi Lime",
+      "code": "MMP-153",
+      "set": "Mission Models",
+      "hex": "#84B905",
+      "rgb": {
+        "r": 132,
+        "g": 185,
+        "b": 5
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-148",
+      "name": "Pearl Red",
+      "code": "MMP-148",
+      "set": "Mission Models",
+      "hex": "#9F0016",
+      "rgb": {
+        "r": 159,
+        "g": 0,
+        "b": 22
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-154",
+      "name": "Pearl Root Beer Brown",
+      "code": "MMP-154",
+      "set": "Mission Models",
+      "hex": "#33211F",
+      "rgb": {
+        "r": 51,
+        "g": 33,
+        "b": 31
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-145",
+      "name": "Pearl Solid Gold",
+      "code": "MMP-145",
+      "set": "Mission Models",
+      "hex": "#B8A443",
+      "rgb": {
+        "r": 184,
+        "g": 164,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-143",
+      "name": "Pearl Starship White",
+      "code": "MMP-143",
+      "set": "Mission Models",
+      "hex": "#E3DEDA",
+      "rgb": {
+        "r": 227,
+        "g": 222,
+        "b": 218
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-151",
+      "name": "Pearl Tropical Orange",
+      "code": "MMP-151",
+      "set": "Mission Models",
+      "hex": "#D74514",
+      "rgb": {
+        "r": 215,
+        "g": 69,
+        "b": 20
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-152",
+      "name": "Pearl Wild Berry",
+      "code": "MMP-152",
+      "set": "Mission Models",
+      "hex": "#B7478F",
+      "rgb": {
+        "r": 183,
+        "g": 71,
+        "b": 143
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-175",
+      "name": "Pink",
+      "code": "MMP-175",
+      "set": "Mission Models",
+      "hex": "#E5B1B5",
+      "rgb": {
+        "r": 229,
+        "g": 177,
+        "b": 181
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mms-005",
+      "name": "Pink Primer",
+      "code": "MMS-005",
+      "set": "Mission Models Primer",
+      "hex": "#F68EB1",
+      "rgb": {
+        "r": 246,
+        "g": 142,
+        "b": 177
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-121",
+      "name": "Purple (Purple Violet)",
+      "code": "MMP-121",
+      "set": "Mission Models",
+      "hex": "#554F8F",
+      "rgb": {
+        "r": 85,
+        "g": 79,
+        "b": 143
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-078",
+      "name": "RAF Dark Earth",
+      "code": "MMP-078",
+      "set": "Mission Models",
+      "hex": "#80683A",
+      "rgb": {
+        "r": 128,
+        "g": 104,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-077",
+      "name": "RAF Dark Green",
+      "code": "MMP-077",
+      "set": "Mission Models",
+      "hex": "#435638",
+      "rgb": {
+        "r": 67,
+        "g": 86,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmm-009",
+      "name": "RAF High Speed Silver",
+      "code": "MMM-009",
+      "set": "Mission Models",
+      "hex": "#FAFAFC",
+      "rgb": {
+        "r": 250,
+        "g": 250,
+        "b": 252
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-079",
+      "name": "RAF Interior Green",
+      "code": "MMP-079",
+      "set": "Mission Models",
+      "hex": "#7A8F62",
+      "rgb": {
+        "r": 122,
+        "g": 143,
+        "b": 98
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-076",
+      "name": "RAF Middle Stone",
+      "code": "MMP-076",
+      "set": "Mission Models",
+      "hex": "#AB9353",
+      "rgb": {
+        "r": 171,
+        "g": 147,
+        "b": 83
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-080",
+      "name": "RAF underside Sky 610",
+      "code": "MMP-080",
+      "set": "Mission Models",
+      "hex": "#AAB08E",
+      "rgb": {
+        "r": 170,
+        "g": 176,
+        "b": 142
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-070",
+      "name": "Radome Tan FS 33613",
+      "code": "MMP-070",
+      "set": "Mission Models",
+      "hex": "#EEDFB4",
+      "rgb": {
+        "r": 238,
+        "g": 223,
+        "b": 180
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-123",
+      "name": "Rail Tie Brown",
+      "code": "MMP-123",
+      "set": "Mission Models",
+      "hex": "#5E4D33",
+      "rgb": {
+        "r": 94,
+        "g": 77,
+        "b": 51
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-003",
+      "name": "Red",
+      "code": "MMP-003",
+      "set": "Mission Models",
+      "hex": "#C3122F",
+      "rgb": {
+        "r": 195,
+        "g": 18,
+        "b": 47
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-013",
+      "name": "Red Oxide German WWII RAL 3009",
+      "code": "MMP-013",
+      "set": "Mission Models",
+      "hex": "#772420",
+      "rgb": {
+        "r": 119,
+        "g": 36,
+        "b": 32
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mms-004",
+      "name": "Red Oxide Primer",
+      "code": "MMS-004",
+      "set": "Mission Models Primer",
+      "hex": "#772420",
+      "rgb": {
+        "r": 119,
+        "g": 36,
+        "b": 32
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-018",
+      "name": "Resedagrun RAL 6011",
+      "code": "MMP-018",
+      "set": "Mission Models",
+      "hex": "#68825F",
+      "rgb": {
+        "r": 104,
+        "g": 130,
+        "b": 95
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-012",
+      "name": "Rotbraun  RAL 8017",
+      "code": "MMP-012",
+      "set": "Mission Models",
+      "hex": "#45302B",
+      "rgb": {
+        "r": 69,
+        "g": 48,
+        "b": 43
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-015",
+      "name": "Rotbraun RAL 8012",
+      "code": "MMP-015",
+      "set": "Mission Models",
+      "hex": "#592321",
+      "rgb": {
+        "r": 89,
+        "g": 35,
+        "b": 33
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-027",
+      "name": "Russian 6k FS 30117",
+      "code": "MMP-027",
+      "set": "Mission Models",
+      "hex": "#9D4F29",
+      "rgb": {
+        "r": 157,
+        "g": 79,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-100",
+      "name": "Russian Cockpit Emerald Green",
+      "code": "MMP-100",
+      "set": "Mission Models",
+      "hex": "#28845D",
+      "rgb": {
+        "r": 40,
+        "g": 132,
+        "b": 93
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-031",
+      "name": "Russian Dark Green 4BO FS 34079",
+      "code": "MMP-031",
+      "set": "Mission Models",
+      "hex": "#3D4335",
+      "rgb": {
+        "r": 61,
+        "g": 67,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-029",
+      "name": "Russian Dark Olive 2 FS 34096",
+      "code": "MMP-029",
+      "set": "Mission Models",
+      "hex": "#566743",
+      "rgb": {
+        "r": 86,
+        "g": 103,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-028",
+      "name": "Russian Dark Olive FS 34102",
+      "code": "MMP-028",
+      "set": "Mission Models",
+      "hex": "#4A523A",
+      "rgb": {
+        "r": 74,
+        "g": 82,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-030",
+      "name": "Russian Dark Olive Faded 1  FS 34096",
+      "code": "MMP-030",
+      "set": "Mission Models",
+      "hex": "#566743",
+      "rgb": {
+        "r": 86,
+        "g": 103,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-032",
+      "name": "Russian Green Modern AFV",
+      "code": "MMP-032",
+      "set": "Mission Models",
+      "hex": "#455D39",
+      "rgb": {
+        "r": 69,
+        "g": 93,
+        "b": 57
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-085",
+      "name": "Russian WWII 4B0 FS 34257",
+      "code": "MMP-085",
+      "set": "Mission Models",
+      "hex": "#8D9132",
+      "rgb": {
+        "r": 141,
+        "g": 145,
+        "b": 50
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-097",
+      "name": "SAC Bomber Tan FS 34201",
+      "code": "MMP-097",
+      "set": "Mission Models",
+      "hex": "#7B7962",
+      "rgb": {
+        "r": 123,
+        "g": 121,
+        "b": 98
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-098",
+      "name": "SAC bomber Green FS 34159",
+      "code": "MMP-098",
+      "set": "Mission Models",
+      "hex": "#5F7066",
+      "rgb": {
+        "r": 95,
+        "g": 112,
+        "b": 102
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-131",
+      "name": "Sand Merdec",
+      "code": "MMP-131",
+      "set": "Mission Models",
+      "hex": "#7E6219",
+      "rgb": {
+        "r": 126,
+        "g": 98,
+        "b": 25
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-119",
+      "name": "Sandgelb RLM 79",
+      "code": "MMP-119",
+      "set": "Mission Models",
+      "hex": "#B78240",
+      "rgb": {
+        "r": 183,
+        "g": 130,
+        "b": 64
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-016",
+      "name": "Sandgrau RAL 7027",
+      "code": "MMP-016",
+      "set": "Mission Models",
+      "hex": "#9A8B6A",
+      "rgb": {
+        "r": 154,
+        "g": 139,
+        "b": 106
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-088",
+      "name": "Schwarzgrun RLM 70 German WWII",
+      "code": "MMP-088",
+      "set": "Mission Models",
+      "hex": "#585B4F",
+      "rgb": {
+        "r": 88,
+        "g": 91,
+        "b": 79
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-094",
+      "name": "Sea Grey Medium RAF WWII BS 637",
+      "code": "MMP-094",
+      "set": "Mission Models",
+      "hex": "#809495",
+      "rgb": {
+        "r": 128,
+        "g": 148,
+        "b": 149
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-141",
+      "name": "Signalbraun RAL 8002",
+      "code": "MMP-141",
+      "set": "Mission Models",
+      "hex": "#733C28",
+      "rgb": {
+        "r": 115,
+        "g": 60,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmm-006",
+      "name": "Silver",
+      "code": "MMM-006",
+      "set": "Mission Models",
+      "hex": "#B4B8B7",
+      "rgb": {
+        "r": 180,
+        "g": 184,
+        "b": 183
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmw-005",
+      "name": "Standard Rust",
+      "code": "MMW-005",
+      "set": "Mission Models",
+      "hex": "#993128",
+      "rgb": {
+        "r": 153,
+        "g": 49,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-134",
+      "name": "Surf Green (CH 1957)",
+      "code": "MMP-134",
+      "set": "Mission Models",
+      "hex": "#B3F7E0",
+      "rgb": {
+        "r": 179,
+        "g": 247,
+        "b": 224
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mms-006",
+      "name": "Tan Primer",
+      "code": "MMS-006",
+      "set": "Mission Models Primer",
+      "hex": "#A59480",
+      "rgb": {
+        "r": 165,
+        "g": 148,
+        "b": 128
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-040",
+      "name": "Tire Black 1",
+      "code": "MMP-040",
+      "set": "Mission Models",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-168",
+      "name": "Transparent Blue",
+      "code": "MMP-168",
+      "set": "Mission Models",
+      "hex": "#040293",
+      "rgb": {
+        "r": 4,
+        "g": 2,
+        "b": 147
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmw-006",
+      "name": "Transparent Dust",
+      "code": "MMW-006",
+      "set": "Mission Models",
+      "hex": "#DDC9AB",
+      "rgb": {
+        "r": 221,
+        "g": 201,
+        "b": 171
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-169",
+      "name": "Transparent Green",
+      "code": "MMP-169",
+      "set": "Mission Models",
+      "hex": "#00783A",
+      "rgb": {
+        "r": 0,
+        "g": 120,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmw-003",
+      "name": "Transparent Light Rust 1",
+      "code": "MMW-003",
+      "set": "Mission Models",
+      "hex": "#993128",
+      "rgb": {
+        "r": 153,
+        "g": 49,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmw-004",
+      "name": "Transparent Medium",
+      "code": "MMW-004",
+      "set": "Mission Models",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-171",
+      "name": "Transparent Orange",
+      "code": "MMP-171",
+      "set": "Mission Models",
+      "hex": "#FB6C04",
+      "rgb": {
+        "r": 251,
+        "g": 108,
+        "b": 4
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-167",
+      "name": "Transparent Red",
+      "code": "MMP-167",
+      "set": "Mission Models",
+      "hex": "#AE0001",
+      "rgb": {
+        "r": 174,
+        "g": 0,
+        "b": 1
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-170",
+      "name": "Transparent Smoke",
+      "code": "MMP-170",
+      "set": "Mission Models",
+      "hex": "#8F908B",
+      "rgb": {
+        "r": 143,
+        "g": 144,
+        "b": 139
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-023",
+      "name": "US Army Khaki Drab FS 34088",
+      "code": "MMP-023",
+      "set": "Mission Models",
+      "hex": "#69634B",
+      "rgb": {
+        "r": 105,
+        "g": 99,
+        "b": 75
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-024",
+      "name": "US Army Olive Drab FS 319",
+      "code": "MMP-024",
+      "set": "Mission Models",
+      "hex": "#69634B",
+      "rgb": {
+        "r": 105,
+        "g": 99,
+        "b": 75
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-026",
+      "name": "US Army Olive Drab FS 33070",
+      "code": "MMP-026",
+      "set": "Mission Models",
+      "hex": "#505338",
+      "rgb": {
+        "r": 80,
+        "g": 83,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-025",
+      "name": "US Army Olive Drab FS 34088",
+      "code": "MMP-025",
+      "set": "Mission Models",
+      "hex": "#6A6931",
+      "rgb": {
+        "r": 106,
+        "g": 105,
+        "b": 49
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-020",
+      "name": "US Army Olive Drab Faded 1 FS 34088",
+      "code": "MMP-020",
+      "set": "Mission Models",
+      "hex": "#797B54",
+      "rgb": {
+        "r": 121,
+        "g": 123,
+        "b": 84
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-021",
+      "name": "US Army Olive Drab Faded 2",
+      "code": "MMP-021",
+      "set": "Mission Models",
+      "hex": "#94976A",
+      "rgb": {
+        "r": 148,
+        "g": 151,
+        "b": 106
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-022",
+      "name": "US Army Olive Drab Faded 3",
+      "code": "MMP-022",
+      "set": "Mission Models",
+      "hex": "#9A9052",
+      "rgb": {
+        "r": 154,
+        "g": 144,
+        "b": 82
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-086",
+      "name": "US Army Sand FS 30277",
+      "code": "MMP-086",
+      "set": "Mission Models",
+      "hex": "#A39179",
+      "rgb": {
+        "r": 163,
+        "g": 145,
+        "b": 121
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-061",
+      "name": "US Blue Grey FS35189",
+      "code": "MMP-061",
+      "set": "Mission Models",
+      "hex": "#759EA2",
+      "rgb": {
+        "r": 117,
+        "g": 158,
+        "b": 162
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-095",
+      "name": "US Camouflage Grey FS 36622",
+      "code": "MMP-095",
+      "set": "Mission Models",
+      "hex": "#D6CFC5",
+      "rgb": {
+        "r": 214,
+        "g": 207,
+        "b": 197
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-058",
+      "name": "US Dark Green FS 34079",
+      "code": "MMP-058",
+      "set": "Mission Models",
+      "hex": "#2B302A",
+      "rgb": {
+        "r": 43,
+        "g": 48,
+        "b": 42
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-038",
+      "name": "US Desert Tan Modern 2 FS 33446",
+      "code": "MMP-038",
+      "set": "Mission Models",
+      "hex": "#C19D79",
+      "rgb": {
+        "r": 193,
+        "g": 157,
+        "b": 121
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-059",
+      "name": "US Interior Green FS 34151",
+      "code": "MMP-059",
+      "set": "Mission Models",
+      "hex": "#677E50",
+      "rgb": {
+        "r": 103,
+        "g": 126,
+        "b": 80
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-066",
+      "name": "US Medium Green FS 34102",
+      "code": "MMP-066",
+      "set": "Mission Models",
+      "hex": "#4A523A",
+      "rgb": {
+        "r": 74,
+        "g": 82,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-091",
+      "name": "USAAF Olive Drab 41 WWII",
+      "code": "MMP-091",
+      "set": "Mission Models",
+      "hex": "#5F5935",
+      "rgb": {
+        "r": 95,
+        "g": 89,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-132",
+      "name": "USN Flight Deck Blue 21",
+      "code": "MMP-132",
+      "set": "Mission Models",
+      "hex": "#475C6D",
+      "rgb": {
+        "r": 71,
+        "g": 92,
+        "b": 109
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-133",
+      "name": "USN Pale Grey Blue 5P",
+      "code": "MMP-133",
+      "set": "Mission Models",
+      "hex": "#B4BCBF",
+      "rgb": {
+        "r": 180,
+        "g": 188,
+        "b": 191
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-062",
+      "name": "USN/USMC Sea Blue FS 35042",
+      "code": "MMP-062",
+      "set": "Mission Models",
+      "hex": "#122742",
+      "rgb": {
+        "r": 18,
+        "g": 39,
+        "b": 66
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-001",
+      "name": "White",
+      "code": "MMP-001",
+      "set": "Mission Models",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmm-008",
+      "name": "White Aluminum",
+      "code": "MMM-008",
+      "set": "Mission Models",
+      "hex": "#9B9EA5",
+      "rgb": {
+        "r": 155,
+        "g": 158,
+        "b": 165
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mms-002",
+      "name": "White Primer",
+      "code": "MMS-002",
+      "set": "Mission Models Primer",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-105",
+      "name": "Worn Black Grey Tires / Camo",
+      "code": "MMP-105",
+      "set": "Mission Models",
+      "hex": "#0E1116",
+      "rgb": {
+        "r": 14,
+        "g": 17,
+        "b": 22
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-007",
+      "name": "Yellow",
+      "code": "MMP-007",
+      "set": "Mission Models",
+      "hex": "#FCDE09",
+      "rgb": {
+        "r": 252,
+        "g": 222,
+        "b": 9
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "missionmodels-mmp-067",
+      "name": "Yellow Zinc Chromate",
+      "code": "MMP-067",
+      "set": "Mission Models",
+      "hex": "#E3D209",
+      "rgb": {
+        "r": 227,
+        "g": 210,
+        "b": 9
+      },
+      "potSize": null,
+      "description": null
+    }
+  ]
+}

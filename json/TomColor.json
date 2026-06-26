@@ -1,0 +1,3812 @@
+{
+  "displayName": "Tom Color",
+  "company": "Tom Colors Ltda",
+  "address": {
+    "street": "Avenida Etore Tiveron, 428",
+    "city": "Marília, SP",
+    "postcode": "17533-073",
+    "country": "Brazil"
+  },
+  "contactEmail": "tomcolors@tomcolors.com.br",
+  "contactForm": "",
+  "website": "https://www.tomcolors.com.br/",
+  "phone": "+55 14 98122-2459",
+  "updatedCatalogueRequested": "",
+  "paintCount": 271,
+  "paints": [
+    {
+      "id": "tomcolor-tc-0146",
+      "name": "4bo Green",
+      "code": "TC-0146",
+      "set": "Tom Colors",
+      "hex": "#43481F",
+      "rgb": {
+        "r": 67,
+        "g": 72,
+        "b": 31
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0129",
+      "name": "626 Camouflage Grey Raf",
+      "code": "TC-0129",
+      "set": "Tom Colors",
+      "hex": "#999EA1",
+      "rgb": {
+        "r": 153,
+        "g": 158,
+        "b": 161
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0097",
+      "name": "A-14 Steel Grey (russian WW2 Cockpit)",
+      "code": "TC-0097",
+      "set": "Tom Colors",
+      "hex": "#697173",
+      "rgb": {
+        "r": 105,
+        "g": 113,
+        "b": 115
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0219",
+      "name": "A-24m",
+      "code": "TC-0219",
+      "set": "Tom Colors",
+      "hex": "#2C2B19",
+      "rgb": {
+        "r": 44,
+        "g": 43,
+        "b": 25
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0075",
+      "name": "Afrika Mustard",
+      "code": "TC-0075",
+      "set": "Tom Colors",
+      "hex": "#A28253",
+      "rgb": {
+        "r": 162,
+        "g": 130,
+        "b": 83
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0158",
+      "name": "Amarelo",
+      "code": "TC-0158",
+      "set": "Tom Colors",
+      "hex": "#FFFC01",
+      "rgb": {
+        "r": 255,
+        "g": 252,
+        "b": 1
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-01",
+      "name": "Amarelo Girassol",
+      "code": "TCUP-01",
+      "set": "Tom Colors - UP",
+      "hex": "#F8E52F",
+      "rgb": {
+        "r": 248,
+        "g": 229,
+        "b": 47
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-02",
+      "name": "Amarelo Helena",
+      "code": "TCUP-02",
+      "set": "Tom Colors - UP",
+      "hex": "#FFBC03",
+      "rgb": {
+        "r": 255,
+        "g": 188,
+        "b": 3
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0209",
+      "name": "Amarelo Mostarda",
+      "code": "TC-0209",
+      "set": "Tom Colors",
+      "hex": "#D5C800",
+      "rgb": {
+        "r": 213,
+        "g": 200,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-03",
+      "name": "Amarelo Piquenique",
+      "code": "TCUP-03",
+      "set": "Tom Colors - UP",
+      "hex": "#DDB204",
+      "rgb": {
+        "r": 221,
+        "g": 178,
+        "b": 4
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0186",
+      "name": "Amt-11 Light Grey",
+      "code": "TC-0186",
+      "set": "Tom Colors",
+      "hex": "#6D7D8C",
+      "rgb": {
+        "r": 109,
+        "g": 125,
+        "b": 140
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0177",
+      "name": "Amt-12 Dark Grey",
+      "code": "TC-0177",
+      "set": "Tom Colors",
+      "hex": "#60606A",
+      "rgb": {
+        "r": 96,
+        "g": 96,
+        "b": 106
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0210",
+      "name": "Amt-4 Old",
+      "code": "TC-0210",
+      "set": "Tom Colors",
+      "hex": "#4B481D",
+      "rgb": {
+        "r": 75,
+        "g": 72,
+        "b": 29
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0178",
+      "name": "Amt-6",
+      "code": "TC-0178",
+      "set": "Tom Colors",
+      "hex": "#1B2121",
+      "rgb": {
+        "r": 27,
+        "g": 33,
+        "b": 33
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0160",
+      "name": "Ana 601 Insignia White",
+      "code": "TC-0160",
+      "set": "Tom Colors",
+      "hex": "#E9E9E1",
+      "rgb": {
+        "r": 233,
+        "g": 233,
+        "b": 225
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0161",
+      "name": "Ana 603 Sea Grey",
+      "code": "TC-0161",
+      "set": "Tom Colors",
+      "hex": "#596068",
+      "rgb": {
+        "r": 89,
+        "g": 96,
+        "b": 104
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0159",
+      "name": "Ana 607 Sea Blue",
+      "code": "TC-0159",
+      "set": "Tom Colors",
+      "hex": "#3A434C",
+      "rgb": {
+        "r": 58,
+        "g": 67,
+        "b": 76
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0162",
+      "name": "Ana 608 Intermed. Blue",
+      "code": "TC-0162",
+      "set": "Tom Colors",
+      "hex": "#62737D",
+      "rgb": {
+        "r": 98,
+        "g": 115,
+        "b": 125
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0174",
+      "name": "Ana 611 Interior Green",
+      "code": "TC-0174",
+      "set": "Tom Colors",
+      "hex": "#67623A",
+      "rgb": {
+        "r": 103,
+        "g": 98,
+        "b": 58
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0163",
+      "name": "Ana 613 Olive Drab",
+      "code": "TC-0163",
+      "set": "Tom Colors",
+      "hex": "#51503C",
+      "rgb": {
+        "r": 81,
+        "g": 80,
+        "b": 60
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0170",
+      "name": "Ana 616 Sand",
+      "code": "TC-0170",
+      "set": "Tom Colors",
+      "hex": "#AF9282",
+      "rgb": {
+        "r": 175,
+        "g": 146,
+        "b": 130
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0173",
+      "name": "Ana 620 Light Gull Grey",
+      "code": "TC-0173",
+      "set": "Tom Colors",
+      "hex": "#B1AEA7",
+      "rgb": {
+        "r": 177,
+        "g": 174,
+        "b": 167
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0169",
+      "name": "Ana 621 Dark Dull Grey",
+      "code": "TC-0169",
+      "set": "Tom Colors",
+      "hex": "#757A74",
+      "rgb": {
+        "r": 117,
+        "g": 122,
+        "b": 116
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0144",
+      "name": "Antifoliage Green",
+      "code": "TC-0144",
+      "set": "Tom Colors",
+      "hex": "#567959",
+      "rgb": {
+        "r": 86,
+        "g": 121,
+        "b": 89
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-15",
+      "name": "Arara Azul",
+      "code": "TCUP-15",
+      "set": "Tom Colors - UP",
+      "hex": "#0034BB",
+      "rgb": {
+        "r": 0,
+        "g": 52,
+        "b": 187
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0007",
+      "name": "Azul",
+      "code": "TC-0007",
+      "set": "Tom Colors",
+      "hex": "#020C65",
+      "rgb": {
+        "r": 2,
+        "g": 12,
+        "b": 101
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-20",
+      "name": "Azul Do Charlie",
+      "code": "TCUP-20",
+      "set": "Tom Colors - UP",
+      "hex": "#293EA9",
+      "rgb": {
+        "r": 41,
+        "g": 62,
+        "b": 169
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0159-2",
+      "name": "Azul Luminoso",
+      "code": "TC-0159",
+      "set": "Tom Colors",
+      "hex": "#224062",
+      "rgb": {
+        "r": 34,
+        "g": 64,
+        "b": 98
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-25",
+      "name": "Azul Marshmallow",
+      "code": "TCUP-25",
+      "set": "Tom Colors - UP",
+      "hex": "#35A9DA",
+      "rgb": {
+        "r": 53,
+        "g": 169,
+        "b": 218
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-19",
+      "name": "Azul Oceano",
+      "code": "TCUP-19",
+      "set": "Tom Colors - UP",
+      "hex": "#041738",
+      "rgb": {
+        "r": 4,
+        "g": 23,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0123",
+      "name": "Azure Blue",
+      "code": "TC-0123",
+      "set": "Tom Colors",
+      "hex": "#7EA0C5",
+      "rgb": {
+        "r": 126,
+        "g": 160,
+        "b": 197
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0213",
+      "name": "Baby Room Blue",
+      "code": "TC-0213",
+      "set": "Tom Colors",
+      "hex": "#879BCE",
+      "rgb": {
+        "r": 135,
+        "g": 155,
+        "b": 206
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0181",
+      "name": "Barley Grey",
+      "code": "TC-0181",
+      "set": "Tom Colors",
+      "hex": "#97A6A9",
+      "rgb": {
+        "r": 151,
+        "g": 166,
+        "b": 169
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0306",
+      "name": "Base Skin Tone",
+      "code": "TC-0306",
+      "set": "Tom Colors",
+      "hex": "#F2E0BC",
+      "rgb": {
+        "r": 242,
+        "g": 224,
+        "b": 188
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0111",
+      "name": "Bianco Neve 6",
+      "code": "TC-0111",
+      "set": "Tom Colors",
+      "hex": "#E0E1DC",
+      "rgb": {
+        "r": 224,
+        "g": 225,
+        "b": 220
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0255",
+      "name": "Black Uniform Base",
+      "code": "TC-0255",
+      "set": "Tom Colors",
+      "hex": "#25221D",
+      "rgb": {
+        "r": 37,
+        "g": 34,
+        "b": 29
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0235",
+      "name": "Black Uniform Light",
+      "code": "TC-0235",
+      "set": "Tom Colors",
+      "hex": "#5B5E63",
+      "rgb": {
+        "r": 91,
+        "g": 94,
+        "b": 99
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0234",
+      "name": "Black Uniform Shadow",
+      "code": "TC-0234",
+      "set": "Tom Colors",
+      "hex": "#262626",
+      "rgb": {
+        "r": 38,
+        "g": 38,
+        "b": 38
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0145",
+      "name": "Blue Grey 058m",
+      "code": "TC-0145",
+      "set": "Tom Colors",
+      "hex": "#74878D",
+      "rgb": {
+        "r": 116,
+        "g": 135,
+        "b": 141
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0001",
+      "name": "Branco",
+      "code": "TC-0001",
+      "set": "Tom Colors",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0135",
+      "name": "Branco Lavado",
+      "code": "TC-0135",
+      "set": "Tom Colors",
+      "hex": "#E9E4C6",
+      "rgb": {
+        "r": 233,
+        "g": 228,
+        "b": 198
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0188",
+      "name": "Bronze Green",
+      "code": "TC-0188",
+      "set": "Tom Colors",
+      "hex": "#2E4028",
+      "rgb": {
+        "r": 46,
+        "g": 64,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0232",
+      "name": "Bs263 Atlantic Grey",
+      "code": "TC-0232",
+      "set": "Tom Colors",
+      "hex": "#677373",
+      "rgb": {
+        "r": 103,
+        "g": 115,
+        "b": 115
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0143",
+      "name": "Bs381c:638 Grey",
+      "code": "TC-0143",
+      "set": "Tom Colors",
+      "hex": "#696C71",
+      "rgb": {
+        "r": 105,
+        "g": 108,
+        "b": 113
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0244",
+      "name": "Buff (drybrush)",
+      "code": "TC-0244",
+      "set": "Tom Colors",
+      "hex": "#E6D480",
+      "rgb": {
+        "r": 230,
+        "g": 212,
+        "b": 128
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0226",
+      "name": "Carc Middlestone",
+      "code": "TC-0226",
+      "set": "Tom Colors",
+      "hex": "#C6AB96",
+      "rgb": {
+        "r": 198,
+        "g": 171,
+        "b": 150
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0060",
+      "name": "Carc Tan",
+      "code": "TC-0060",
+      "set": "Tom Colors",
+      "hex": "#B79975",
+      "rgb": {
+        "r": 183,
+        "g": 153,
+        "b": 117
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-04",
+      "name": "Chama da Mula Sem Cabeça",
+      "code": "TCUP-04",
+      "set": "Tom Colors - UP",
+      "hex": "#FC9606",
+      "rgb": {
+        "r": 252,
+        "g": 150,
+        "b": 6
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0204",
+      "name": "Cinza Azulado Médio",
+      "code": "TC-0204",
+      "set": "Tom Colors",
+      "hex": "#4A5B6B",
+      "rgb": {
+        "r": 74,
+        "g": 91,
+        "b": 107
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0207",
+      "name": "Cinza Médio",
+      "code": "TC-0207",
+      "set": "Tom Colors",
+      "hex": "#7B8A91",
+      "rgb": {
+        "r": 123,
+        "g": 138,
+        "b": 145
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0127",
+      "name": "Cockpit Green Raf",
+      "code": "TC-0127",
+      "set": "Tom Colors",
+      "hex": "#909E91",
+      "rgb": {
+        "r": 144,
+        "g": 158,
+        "b": 145
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0240",
+      "name": "Couro Branco",
+      "code": "TC-0240",
+      "set": "Tom Colors",
+      "hex": "#D8D1BF",
+      "rgb": {
+        "r": 216,
+        "g": 209,
+        "b": 191
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-13",
+      "name": "Couro Da Cuca",
+      "code": "TCUP-13",
+      "set": "Tom Colors - UP",
+      "hex": "#0F2822",
+      "rgb": {
+        "r": 15,
+        "g": 40,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0098",
+      "name": "Dark Black Green Ijn",
+      "code": "TC-0098",
+      "set": "Tom Colors",
+      "hex": "#444643",
+      "rgb": {
+        "r": 68,
+        "g": 70,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0311",
+      "name": "Dark Blue 438m",
+      "code": "TC-0311",
+      "set": "Tom Colors",
+      "hex": "#153238",
+      "rgb": {
+        "r": 21,
+        "g": 50,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0067",
+      "name": "Dark Cammo Grey Bs629",
+      "code": "TC-0067",
+      "set": "Tom Colors",
+      "hex": "#68798D",
+      "rgb": {
+        "r": 104,
+        "g": 121,
+        "b": 141
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0118",
+      "name": "Dark Earth Raf",
+      "code": "TC-0118",
+      "set": "Tom Colors",
+      "hex": "#5D4A29",
+      "rgb": {
+        "r": 93,
+        "g": 74,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0119",
+      "name": "Dark Green Raf",
+      "code": "TC-0119",
+      "set": "Tom Colors",
+      "hex": "#4F5143",
+      "rgb": {
+        "r": 79,
+        "g": 81,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0134",
+      "name": "Dark Mediterranean Blue",
+      "code": "TC-0134",
+      "set": "Tom Colors",
+      "hex": "#223754",
+      "rgb": {
+        "r": 34,
+        "g": 55,
+        "b": 84
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0125",
+      "name": "Dark Sea Grey",
+      "code": "TC-0125",
+      "set": "Tom Colors",
+      "hex": "#4D5760",
+      "rgb": {
+        "r": 77,
+        "g": 87,
+        "b": 96
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0310",
+      "name": "Deck Tan",
+      "code": "TC-0310",
+      "set": "Tom Colors",
+      "hex": "#CDB593",
+      "rgb": {
+        "r": 205,
+        "g": 181,
+        "b": 147
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0109",
+      "name": "Deep Dark Green Ijn",
+      "code": "TC-0109",
+      "set": "Tom Colors",
+      "hex": "#36504D",
+      "rgb": {
+        "r": 54,
+        "g": 80,
+        "b": 77
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0320",
+      "name": "Deep Skin Tone",
+      "code": "TC-0320",
+      "set": "Tom Colors",
+      "hex": "#634F36",
+      "rgb": {
+        "r": 99,
+        "g": 79,
+        "b": 54
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0216",
+      "name": "Dk Olive Green 328m",
+      "code": "TC-0216",
+      "set": "Tom Colors",
+      "hex": "#2B3928",
+      "rgb": {
+        "r": 43,
+        "g": 57,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0101",
+      "name": "Dunkelgrau Dkm51",
+      "code": "TC-0101",
+      "set": "Tom Colors",
+      "hex": "#828D9F",
+      "rgb": {
+        "r": 130,
+        "g": 141,
+        "b": 159
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-14",
+      "name": "Escama do Boitatá",
+      "code": "TCUP-14",
+      "set": "Tom Colors - UP",
+      "hex": "#295673",
+      "rgb": {
+        "r": 41,
+        "g": 86,
+        "b": 115
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0116",
+      "name": "Extra Dark Sea Green Raf",
+      "code": "TC-0116",
+      "set": "Tom Colors",
+      "hex": "#475643",
+      "rgb": {
+        "r": 71,
+        "g": 86,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0165",
+      "name": "Extra Dark Sea Grey",
+      "code": "TC-0165",
+      "set": "Tom Colors",
+      "hex": "#60606A",
+      "rgb": {
+        "r": 96,
+        "g": 96,
+        "b": 106
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0009",
+      "name": "FS 10266",
+      "code": "TC-0009",
+      "set": "Tom Colors",
+      "hex": "#C8924C",
+      "rgb": {
+        "r": 200,
+        "g": 146,
+        "b": 76
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0010",
+      "name": "FS 13655",
+      "code": "TC-0010",
+      "set": "Tom Colors",
+      "hex": "#F4B215",
+      "rgb": {
+        "r": 244,
+        "g": 178,
+        "b": 21
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0026",
+      "name": "FS 14151",
+      "code": "TC-0026",
+      "set": "Tom Colors",
+      "hex": "#6E6C2F",
+      "rgb": {
+        "r": 110,
+        "g": 108,
+        "b": 47
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0011",
+      "name": "FS 15045",
+      "code": "TC-0011",
+      "set": "Tom Colors",
+      "hex": "#142A38",
+      "rgb": {
+        "r": 20,
+        "g": 42,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0012",
+      "name": "FS 15050",
+      "code": "TC-0012",
+      "set": "Tom Colors",
+      "hex": "#183652",
+      "rgb": {
+        "r": 24,
+        "g": 54,
+        "b": 82
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0058",
+      "name": "FS 30051",
+      "code": "TC-0058",
+      "set": "Tom Colors",
+      "hex": "#512B14",
+      "rgb": {
+        "r": 81,
+        "g": 43,
+        "b": 20
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0027",
+      "name": "FS 30095",
+      "code": "TC-0027",
+      "set": "Tom Colors",
+      "hex": "#9D7C4F",
+      "rgb": {
+        "r": 157,
+        "g": 124,
+        "b": 79
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-fs-30117",
+      "name": "FS 30117 Earth Red",
+      "code": "FS-30117",
+      "set": "Tom Colors",
+      "hex": "#372415",
+      "rgb": {
+        "r": 55,
+        "g": 36,
+        "b": 21
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0045",
+      "name": "FS 30118",
+      "code": "TC-0045",
+      "set": "Tom Colors",
+      "hex": "#6E5326",
+      "rgb": {
+        "r": 110,
+        "g": 83,
+        "b": 38
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0131",
+      "name": "FS 30140 Air Force Brown",
+      "code": "TC-0131",
+      "set": "Tom Colors",
+      "hex": "#665043",
+      "rgb": {
+        "r": 102,
+        "g": 80,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0051",
+      "name": "FS 30219",
+      "code": "TC-0051",
+      "set": "Tom Colors",
+      "hex": "#825F3F",
+      "rgb": {
+        "r": 130,
+        "g": 95,
+        "b": 63
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0008",
+      "name": "FS 30260",
+      "code": "TC-0008",
+      "set": "Tom Colors",
+      "hex": "#BFA35A",
+      "rgb": {
+        "r": 191,
+        "g": 163,
+        "b": 90
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0020",
+      "name": "FS 30279",
+      "code": "TC-0020",
+      "set": "Tom Colors",
+      "hex": "#B9986D",
+      "rgb": {
+        "r": 185,
+        "g": 152,
+        "b": 109
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0044",
+      "name": "FS 33070",
+      "code": "TC-0044",
+      "set": "Tom Colors",
+      "hex": "#505338",
+      "rgb": {
+        "r": 80,
+        "g": 83,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0025",
+      "name": "FS 33481 Zinc Chromate Yellow",
+      "code": "TC-0025",
+      "set": "Tom Colors",
+      "hex": "#ACA300",
+      "rgb": {
+        "r": 172,
+        "g": 163,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0059",
+      "name": "FS 33531",
+      "code": "TC-0059",
+      "set": "Tom Colors",
+      "hex": "#C1AE9F",
+      "rgb": {
+        "r": 193,
+        "g": 174,
+        "b": 159
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0028",
+      "name": "FS 34079",
+      "code": "TC-0028",
+      "set": "Tom Colors",
+      "hex": "#42412C",
+      "rgb": {
+        "r": 66,
+        "g": 65,
+        "b": 44
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0043",
+      "name": "FS 34083",
+      "code": "TC-0043",
+      "set": "Tom Colors",
+      "hex": "#667147",
+      "rgb": {
+        "r": 102,
+        "g": 113,
+        "b": 71
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0016",
+      "name": "FS 34086",
+      "code": "TC-0016",
+      "set": "Tom Colors",
+      "hex": "#3F402E",
+      "rgb": {
+        "r": 63,
+        "g": 64,
+        "b": 46
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0017",
+      "name": "FS 34088",
+      "code": "TC-0017",
+      "set": "Tom Colors",
+      "hex": "#5C583F",
+      "rgb": {
+        "r": 92,
+        "g": 88,
+        "b": 63
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0018",
+      "name": "FS 34092",
+      "code": "TC-0018",
+      "set": "Tom Colors",
+      "hex": "#4A5952",
+      "rgb": {
+        "r": 74,
+        "g": 89,
+        "b": 82
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0054",
+      "name": "FS 34094",
+      "code": "TC-0054",
+      "set": "Tom Colors",
+      "hex": "#3B4B2E",
+      "rgb": {
+        "r": 59,
+        "g": 75,
+        "b": 46
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0041",
+      "name": "FS 34102",
+      "code": "TC-0041",
+      "set": "Tom Colors",
+      "hex": "#5C644C",
+      "rgb": {
+        "r": 92,
+        "g": 100,
+        "b": 76
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0256",
+      "name": "FS 34159",
+      "code": "TC-0256",
+      "set": "Tom Colors",
+      "hex": "#5F7066",
+      "rgb": {
+        "r": 95,
+        "g": 112,
+        "b": 102
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0037",
+      "name": "FS 34227",
+      "code": "TC-0037",
+      "set": "Tom Colors",
+      "hex": "#79896F",
+      "rgb": {
+        "r": 121,
+        "g": 137,
+        "b": 111
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0029",
+      "name": "FS 34424",
+      "code": "TC-0029",
+      "set": "Tom Colors",
+      "hex": "#B2BB8E",
+      "rgb": {
+        "r": 178,
+        "g": 187,
+        "b": 142
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0015",
+      "name": "FS 35164",
+      "code": "TC-0015",
+      "set": "Tom Colors",
+      "hex": "#627281",
+      "rgb": {
+        "r": 98,
+        "g": 114,
+        "b": 129
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0023",
+      "name": "FS 35189",
+      "code": "TC-0023",
+      "set": "Tom Colors",
+      "hex": "#789FA4",
+      "rgb": {
+        "r": 120,
+        "g": 159,
+        "b": 164
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0032",
+      "name": "FS 35231",
+      "code": "TC-0032",
+      "set": "Tom Colors",
+      "hex": "#7094B4",
+      "rgb": {
+        "r": 112,
+        "g": 148,
+        "b": 180
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0048",
+      "name": "FS 35237",
+      "code": "TC-0048",
+      "set": "Tom Colors",
+      "hex": "#6E7E8D",
+      "rgb": {
+        "r": 110,
+        "g": 126,
+        "b": 141
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0253",
+      "name": "FS 36081 Dark Gunship Grey",
+      "code": "TC-0253",
+      "set": "Tom Colors",
+      "hex": "#25221D",
+      "rgb": {
+        "r": 37,
+        "g": 34,
+        "b": 29
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0014",
+      "name": "FS 36118 Gunship Grey",
+      "code": "TC-0014",
+      "set": "Tom Colors",
+      "hex": "#414149",
+      "rgb": {
+        "r": 65,
+        "g": 65,
+        "b": 73
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0034",
+      "name": "FS 36152",
+      "code": "TC-0034",
+      "set": "Tom Colors",
+      "hex": "#5D6268",
+      "rgb": {
+        "r": 93,
+        "g": 98,
+        "b": 104
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0021",
+      "name": "FS 36176",
+      "code": "TC-0021",
+      "set": "Tom Colors",
+      "hex": "#6E7881",
+      "rgb": {
+        "r": 110,
+        "g": 120,
+        "b": 129
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0030",
+      "name": "FS 36187",
+      "code": "TC-0030",
+      "set": "Tom Colors",
+      "hex": "#5B7075",
+      "rgb": {
+        "r": 91,
+        "g": 112,
+        "b": 117
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0019",
+      "name": "FS 36231",
+      "code": "TC-0019",
+      "set": "Tom Colors",
+      "hex": "#7E8386",
+      "rgb": {
+        "r": 126,
+        "g": 131,
+        "b": 134
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0031",
+      "name": "FS 36270",
+      "code": "TC-0031",
+      "set": "Tom Colors",
+      "hex": "#848A8A",
+      "rgb": {
+        "r": 132,
+        "g": 138,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0039",
+      "name": "FS 36314",
+      "code": "TC-0039",
+      "set": "Tom Colors",
+      "hex": "#8B908C",
+      "rgb": {
+        "r": 139,
+        "g": 144,
+        "b": 140
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0050",
+      "name": "FS 36320",
+      "code": "TC-0050",
+      "set": "Tom Colors",
+      "hex": "#8B959E",
+      "rgb": {
+        "r": 139,
+        "g": 149,
+        "b": 158
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0042",
+      "name": "FS 36375",
+      "code": "TC-0042",
+      "set": "Tom Colors",
+      "hex": "#8491A4",
+      "rgb": {
+        "r": 132,
+        "g": 145,
+        "b": 164
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0024",
+      "name": "FS 36440",
+      "code": "TC-0024",
+      "set": "Tom Colors",
+      "hex": "#959A94",
+      "rgb": {
+        "r": 149,
+        "g": 154,
+        "b": 148
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0047",
+      "name": "FS 36622",
+      "code": "TC-0047",
+      "set": "Tom Colors",
+      "hex": "#D1D2C2",
+      "rgb": {
+        "r": 209,
+        "g": 210,
+        "b": 194
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0035",
+      "name": "FS 37030",
+      "code": "TC-0035",
+      "set": "Tom Colors",
+      "hex": "#0B0F10",
+      "rgb": {
+        "r": 11,
+        "g": 15,
+        "b": 16
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0013",
+      "name": "FS 37875 Insignia White",
+      "code": "TC-0013",
+      "set": "Tom Colors",
+      "hex": "#E9E9DF",
+      "rgb": {
+        "r": 233,
+        "g": 233,
+        "b": 223
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0157",
+      "name": "Faded Blue Jeans",
+      "code": "TC-0157",
+      "set": "Tom Colors",
+      "hex": "#70929B",
+      "rgb": {
+        "r": 112,
+        "g": 146,
+        "b": 155
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0252",
+      "name": "Field Grey Base 1 (verde)",
+      "code": "TC-0252",
+      "set": "Tom Colors",
+      "hex": "#5C6759",
+      "rgb": {
+        "r": 92,
+        "g": 103,
+        "b": 89
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0321",
+      "name": "Field Grey Base 2 (cinza)",
+      "code": "TC-0321",
+      "set": "Tom Colors",
+      "hex": "#434538",
+      "rgb": {
+        "r": 67,
+        "g": 69,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0153",
+      "name": "Field Grey Green Shadow",
+      "code": "TC-0153",
+      "set": "Tom Colors",
+      "hex": "#464C3E",
+      "rgb": {
+        "r": 70,
+        "g": 76,
+        "b": 62
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0055",
+      "name": "Field Uniform Brown",
+      "code": "TC-0055",
+      "set": "Tom Colors",
+      "hex": "#8C6848",
+      "rgb": {
+        "r": 140,
+        "g": 104,
+        "b": 72
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0229",
+      "name": "Flat Dark Earth",
+      "code": "TC-0229",
+      "set": "Tom Colors",
+      "hex": "#816F61",
+      "rgb": {
+        "r": 129,
+        "g": 111,
+        "b": 97
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0223",
+      "name": "Flight Deck Stain",
+      "code": "TC-0223",
+      "set": "Tom Colors",
+      "hex": "#26252A",
+      "rgb": {
+        "r": 38,
+        "g": 37,
+        "b": 42
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0138",
+      "name": "Foliage Green",
+      "code": "TC-0138",
+      "set": "Tom Colors",
+      "hex": "#3E534C",
+      "rgb": {
+        "r": 62,
+        "g": 83,
+        "b": 76
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0192",
+      "name": "Forerst Green 2",
+      "code": "TC-0192",
+      "set": "Tom Colors",
+      "hex": "#375322",
+      "rgb": {
+        "r": 55,
+        "g": 83,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0222",
+      "name": "Forest Green",
+      "code": "TC-0222",
+      "set": "Tom Colors",
+      "hex": "#43451E",
+      "rgb": {
+        "r": 67,
+        "g": 69,
+        "b": 30
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0192-2",
+      "name": "Forest Green V.2",
+      "code": "TC-0192",
+      "set": "Tom Colors",
+      "hex": "#3B4B30",
+      "rgb": {
+        "r": 59,
+        "g": 75,
+        "b": 48
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0231",
+      "name": "German Pale Brown",
+      "code": "TC-0231",
+      "set": "Tom Colors",
+      "hex": "#7D6857",
+      "rgb": {
+        "r": 125,
+        "g": 104,
+        "b": 87
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0155",
+      "name": "Giallo Mimetico 1",
+      "code": "TC-0155",
+      "set": "Tom Colors",
+      "hex": "#CFAE5F",
+      "rgb": {
+        "r": 207,
+        "g": 174,
+        "b": 95
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0141",
+      "name": "Giallo Mimetico 2",
+      "code": "TC-0141",
+      "set": "Tom Colors",
+      "hex": "#C2A945",
+      "rgb": {
+        "r": 194,
+        "g": 169,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0132",
+      "name": "Giallo Mimetico 4",
+      "code": "TC-0132",
+      "set": "Tom Colors",
+      "hex": "#A68248",
+      "rgb": {
+        "r": 166,
+        "g": 130,
+        "b": 72
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0136",
+      "name": "Grigio Azzurro Scuro 3",
+      "code": "TC-0136",
+      "set": "Tom Colors",
+      "hex": "#414850",
+      "rgb": {
+        "r": 65,
+        "g": 72,
+        "b": 80
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0139",
+      "name": "Grigio Mimetico",
+      "code": "TC-0139",
+      "set": "Tom Colors",
+      "hex": "#919690",
+      "rgb": {
+        "r": 145,
+        "g": 150,
+        "b": 144
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0269",
+      "name": "Grigio Verde",
+      "code": "TC-0269",
+      "set": "Tom Colors",
+      "hex": "#555D48",
+      "rgb": {
+        "r": 85,
+        "g": 93,
+        "b": 72
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0141-2",
+      "name": "Gris Bleu Chair",
+      "code": "TC-0141",
+      "set": "Tom Colors",
+      "hex": "#66899C",
+      "rgb": {
+        "r": 102,
+        "g": 137,
+        "b": 156
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0137",
+      "name": "Gris Bleu Fonce",
+      "code": "TC-0137",
+      "set": "Tom Colors",
+      "hex": "#577077",
+      "rgb": {
+        "r": 87,
+        "g": 112,
+        "b": 119
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0176",
+      "name": "Haze Grey Usn WW2",
+      "code": "TC-0176",
+      "set": "Tom Colors",
+      "hex": "#8A8E91",
+      "rgb": {
+        "r": 138,
+        "g": 142,
+        "b": 145
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0305",
+      "name": "Highlight Skin Tone",
+      "code": "TC-0305",
+      "set": "Tom Colors",
+      "hex": "#D2DAE5",
+      "rgb": {
+        "r": 210,
+        "g": 218,
+        "b": 229
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0243",
+      "name": "Hull Red",
+      "code": "TC-0243",
+      "set": "Tom Colors",
+      "hex": "#381A02",
+      "rgb": {
+        "r": 56,
+        "g": 26,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0218",
+      "name": "Idf Green",
+      "code": "TC-0218",
+      "set": "Tom Colors",
+      "hex": "#394320",
+      "rgb": {
+        "r": 57,
+        "g": 67,
+        "b": 32
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0107",
+      "name": "Ija Light Green Grey",
+      "code": "TC-0107",
+      "set": "Tom Colors",
+      "hex": "#89A08C",
+      "rgb": {
+        "r": 137,
+        "g": 160,
+        "b": 140
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0166",
+      "name": "Japan Flight Suit Base",
+      "code": "TC-0166",
+      "set": "Tom Colors",
+      "hex": "#745B25",
+      "rgb": {
+        "r": 116,
+        "g": 91,
+        "b": 37
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0230",
+      "name": "Japan Uniform Base",
+      "code": "TC-0230",
+      "set": "Tom Colors",
+      "hex": "#956F1A",
+      "rgb": {
+        "r": 149,
+        "g": 111,
+        "b": 26
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0103",
+      "name": "Khaki Brown Ija",
+      "code": "TC-0103",
+      "set": "Tom Colors",
+      "hex": "#655847",
+      "rgb": {
+        "r": 101,
+        "g": 88,
+        "b": 71
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0152",
+      "name": "Leather Brown",
+      "code": "TC-0152",
+      "set": "Tom Colors",
+      "hex": "#4C382F",
+      "rgb": {
+        "r": 76,
+        "g": 56,
+        "b": 47
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0227",
+      "name": "Leather Suit Base",
+      "code": "TC-0227",
+      "set": "Tom Colors",
+      "hex": "#201404",
+      "rgb": {
+        "r": 32,
+        "g": 20,
+        "b": 4
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0309",
+      "name": "Leather Suit Shadow",
+      "code": "TC-0309",
+      "set": "Tom Colors",
+      "hex": "#201404",
+      "rgb": {
+        "r": 32,
+        "g": 20,
+        "b": 4
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0228",
+      "name": "Light Green",
+      "code": "TC-0228",
+      "set": "Tom Colors",
+      "hex": "#788442",
+      "rgb": {
+        "r": 120,
+        "g": 132,
+        "b": 66
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0208",
+      "name": "Light Grey 627",
+      "code": "TC-0208",
+      "set": "Tom Colors",
+      "hex": "#B8B9B3",
+      "rgb": {
+        "r": 184,
+        "g": 185,
+        "b": 179
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0056",
+      "name": "Light Wood",
+      "code": "TC-0056",
+      "set": "Tom Colors",
+      "hex": "#D5BE78",
+      "rgb": {
+        "r": 213,
+        "g": 190,
+        "b": 120
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0247",
+      "name": "London Grey RAL 7026",
+      "code": "TC-0247",
+      "set": "Tom Colors",
+      "hex": "#364349",
+      "rgb": {
+        "r": 54,
+        "g": 67,
+        "b": 73
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0102",
+      "name": "Luftwaffe WW2 Uniform Base",
+      "code": "TC-0102",
+      "set": "Tom Colors",
+      "hex": "#3A4849",
+      "rgb": {
+        "r": 58,
+        "g": 72,
+        "b": 73
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0195",
+      "name": "Luftwaffe WW2 Uniform Light",
+      "code": "TC-0195",
+      "set": "Tom Colors",
+      "hex": "#565855",
+      "rgb": {
+        "r": 86,
+        "g": 88,
+        "b": 85
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0046",
+      "name": "Luftwaffe WW2 Uniform Shadow",
+      "code": "TC-0046",
+      "set": "Tom Colors",
+      "hex": "#07131F",
+      "rgb": {
+        "r": 7,
+        "g": 19,
+        "b": 31
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0172",
+      "name": "M-485 Blue Grey",
+      "code": "TC-0172",
+      "set": "Tom Colors",
+      "hex": "#70838A",
+      "rgb": {
+        "r": 112,
+        "g": 131,
+        "b": 138
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0185",
+      "name": "Marrone Mimetico 1",
+      "code": "TC-0185",
+      "set": "Tom Colors",
+      "hex": "#843731",
+      "rgb": {
+        "r": 132,
+        "g": 55,
+        "b": 49
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0201",
+      "name": "Marrone Mimetico 53193",
+      "code": "TC-0201",
+      "set": "Tom Colors",
+      "hex": "#785D48",
+      "rgb": {
+        "r": 120,
+        "g": 93,
+        "b": 72
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0168",
+      "name": "Medium Green 42",
+      "code": "TC-0168",
+      "set": "Tom Colors",
+      "hex": "#3B564F",
+      "rgb": {
+        "r": 59,
+        "g": 86,
+        "b": 79
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0122",
+      "name": "Medium Sea Grey",
+      "code": "TC-0122",
+      "set": "Tom Colors",
+      "hex": "#6B6B63",
+      "rgb": {
+        "r": 107,
+        "g": 107,
+        "b": 99
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0307",
+      "name": "Medium Skin Tone",
+      "code": "TC-0307",
+      "set": "Tom Colors",
+      "hex": "#C9AD86",
+      "rgb": {
+        "r": 201,
+        "g": 173,
+        "b": 134
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0187",
+      "name": "Medium Tan",
+      "code": "TC-0187",
+      "set": "Tom Colors",
+      "hex": "#A0846E",
+      "rgb": {
+        "r": 160,
+        "g": 132,
+        "b": 110
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0175",
+      "name": "Merdc Forest Green",
+      "code": "TC-0175",
+      "set": "Tom Colors",
+      "hex": "#454C19",
+      "rgb": {
+        "r": 69,
+        "g": 76,
+        "b": 25
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0113",
+      "name": "Middlestone Raf",
+      "code": "TC-0113",
+      "set": "Tom Colors",
+      "hex": "#A37D3E",
+      "rgb": {
+        "r": 163,
+        "g": 125,
+        "b": 62
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0184",
+      "name": "Mig 25/31 Grey",
+      "code": "TC-0184",
+      "set": "Tom Colors",
+      "hex": "#BFC0BB",
+      "rgb": {
+        "r": 191,
+        "g": 192,
+        "b": 187
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0200",
+      "name": "Nato Black",
+      "code": "TC-0200",
+      "set": "Tom Colors",
+      "hex": "#202423",
+      "rgb": {
+        "r": 32,
+        "g": 36,
+        "b": 35
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0198",
+      "name": "Nato Brown",
+      "code": "TC-0198",
+      "set": "Tom Colors",
+      "hex": "#493326",
+      "rgb": {
+        "r": 73,
+        "g": 51,
+        "b": 38
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0199",
+      "name": "Nato Green",
+      "code": "TC-0199",
+      "set": "Tom Colors",
+      "hex": "#2B3F26",
+      "rgb": {
+        "r": 43,
+        "g": 63,
+        "b": 38
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0189",
+      "name": "Navy Blue Usn WW2",
+      "code": "TC-0189",
+      "set": "Tom Colors",
+      "hex": "#4B6C73",
+      "rgb": {
+        "r": 75,
+        "g": 108,
+        "b": 115
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0171",
+      "name": "NeutRAL Grey 43 Versão 1",
+      "code": "TC-0171",
+      "set": "Tom Colors",
+      "hex": "#6A6B66",
+      "rgb": {
+        "r": 106,
+        "g": 107,
+        "b": 102
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0149",
+      "name": "Nicciola Chiaro 4",
+      "code": "TC-0149",
+      "set": "Tom Colors",
+      "hex": "#8B705B",
+      "rgb": {
+        "r": 139,
+        "g": 112,
+        "b": 91
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0114",
+      "name": "Night Blue",
+      "code": "TC-0114",
+      "set": "Tom Colors",
+      "hex": "#022135",
+      "rgb": {
+        "r": 2,
+        "g": 33,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0217",
+      "name": "Night Grey",
+      "code": "TC-0217",
+      "set": "Tom Colors",
+      "hex": "#24201D",
+      "rgb": {
+        "r": 36,
+        "g": 32,
+        "b": 29
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-17",
+      "name": "Noz Moscada",
+      "code": "TCUP-17",
+      "set": "Tom Colors - UP",
+      "hex": "#351814",
+      "rgb": {
+        "r": 53,
+        "g": 24,
+        "b": 20
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0147",
+      "name": "Nº 9 Olive Drab Us Army WW2",
+      "code": "TC-0147",
+      "set": "Tom Colors",
+      "hex": "#423C1C",
+      "rgb": {
+        "r": 66,
+        "g": 60,
+        "b": 28
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0121",
+      "name": "Ocean Grey Raf",
+      "code": "TC-0121",
+      "set": "Tom Colors",
+      "hex": "#6B7775",
+      "rgb": {
+        "r": 107,
+        "g": 119,
+        "b": 117
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0202",
+      "name": "Ochre Brown",
+      "code": "TC-0202",
+      "set": "Tom Colors",
+      "hex": "#B58D4F",
+      "rgb": {
+        "r": 181,
+        "g": 141,
+        "b": 79
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0167",
+      "name": "Olive Drab 41",
+      "code": "TC-0167",
+      "set": "Tom Colors",
+      "hex": "#5F5935",
+      "rgb": {
+        "r": 95,
+        "g": 89,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0104",
+      "name": "Olive Green Ija",
+      "code": "TC-0104",
+      "set": "Tom Colors",
+      "hex": "#4C483D",
+      "rgb": {
+        "r": 76,
+        "g": 72,
+        "b": 61
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-raf",
+      "name": "Oxford Blue",
+      "code": "RAF",
+      "set": "Tom Colors",
+      "hex": "#002147",
+      "rgb": {
+        "r": 0,
+        "g": 33,
+        "b": 71
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0225",
+      "name": "Oxide Brown",
+      "code": "TC-0225",
+      "set": "Tom Colors",
+      "hex": "#673222",
+      "rgb": {
+        "r": 103,
+        "g": 50,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0069",
+      "name": "Pale Green Idf",
+      "code": "TC-0069",
+      "set": "Tom Colors",
+      "hex": "#75845B",
+      "rgb": {
+        "r": 117,
+        "g": 132,
+        "b": 91
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0203",
+      "name": "Pastel Green",
+      "code": "TC-0203",
+      "set": "Tom Colors",
+      "hex": "#9DA282",
+      "rgb": {
+        "r": 157,
+        "g": 162,
+        "b": 130
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-18",
+      "name": "Pelo de Lobisomem",
+      "code": "TCUP-18",
+      "set": "Tom Colors - UP",
+      "hex": "#3A1F16",
+      "rgb": {
+        "r": 58,
+        "g": 31,
+        "b": 22
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0004",
+      "name": "Preto",
+      "code": "TC-0004",
+      "set": "Tom Colors",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0214",
+      "name": "Preto Locomotiva",
+      "code": "TC-0214",
+      "set": "Tom Colors",
+      "hex": "#040404",
+      "rgb": {
+        "r": 4,
+        "g": 4,
+        "b": 4
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcp-003",
+      "name": "Primer Acrílico Branco",
+      "code": "TCP-003",
+      "set": "Tom Colors - Primer",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcp-001",
+      "name": "Primer Acrílico Cinza",
+      "code": "TCP-001",
+      "set": "Tom Colors - Primer",
+      "hex": "#A1ABAD",
+      "rgb": {
+        "r": 161,
+        "g": 171,
+        "b": 173
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcp-004",
+      "name": "Primer Acrílico Flesh Base",
+      "code": "TCP-004",
+      "set": "Tom Colors - Primer",
+      "hex": "#DFCB90",
+      "rgb": {
+        "r": 223,
+        "g": 203,
+        "b": 144
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcp-006",
+      "name": "Primer Acrílico Olive Drab",
+      "code": "TCP-006",
+      "set": "Tom Colors - Primer",
+      "hex": "#3A4032",
+      "rgb": {
+        "r": 58,
+        "g": 64,
+        "b": 50
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcp-002",
+      "name": "Primer Acrílico Preto",
+      "code": "TCP-002",
+      "set": "Tom Colors - Primer",
+      "hex": "#060608",
+      "rgb": {
+        "r": 6,
+        "g": 6,
+        "b": 8
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcp-005",
+      "name": "Primer Acrílico Zinc Chromate Yellow",
+      "code": "TCP-005",
+      "set": "Tom Colors - Primer",
+      "hex": "#EBD238",
+      "rgb": {
+        "r": 235,
+        "g": 210,
+        "b": 56
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0084",
+      "name": "RAL 5008 Graublau",
+      "code": "TC-0084",
+      "set": "Tom Colors",
+      "hex": "#303A46",
+      "rgb": {
+        "r": 48,
+        "g": 58,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0089",
+      "name": "RAL 6011",
+      "code": "TC-0089",
+      "set": "Tom Colors",
+      "hex": "#6D7B58",
+      "rgb": {
+        "r": 109,
+        "g": 123,
+        "b": 88
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0093",
+      "name": "RAL 7000 Squirrel Grey",
+      "code": "TC-0093",
+      "set": "Tom Colors",
+      "hex": "#7A878D",
+      "rgb": {
+        "r": 122,
+        "g": 135,
+        "b": 141
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0091",
+      "name": "RAL 7001 Silbergrau",
+      "code": "TC-0091",
+      "set": "Tom Colors",
+      "hex": "#959CA4",
+      "rgb": {
+        "r": 149,
+        "g": 156,
+        "b": 164
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0086",
+      "name": "RAL 7009",
+      "code": "TC-0086",
+      "set": "Tom Colors",
+      "hex": "#656661",
+      "rgb": {
+        "r": 101,
+        "g": 102,
+        "b": 97
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0085",
+      "name": "RAL 7011 Iron Grey",
+      "code": "TC-0085",
+      "set": "Tom Colors",
+      "hex": "#545C5F",
+      "rgb": {
+        "r": 84,
+        "g": 92,
+        "b": 95
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0088",
+      "name": "RAL 7012 Basaltgrau",
+      "code": "TC-0088",
+      "set": "Tom Colors",
+      "hex": "#565E61",
+      "rgb": {
+        "r": 86,
+        "g": 94,
+        "b": 97
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0092",
+      "name": "RAL 7035",
+      "code": "TC-0092",
+      "set": "Tom Colors",
+      "hex": "#C5C7C4",
+      "rgb": {
+        "r": 197,
+        "g": 199,
+        "b": 196
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0087",
+      "name": "RAL 7042 Trafic Grey",
+      "code": "TC-0087",
+      "set": "Tom Colors",
+      "hex": "#7B7F7E",
+      "rgb": {
+        "r": 123,
+        "g": 127,
+        "b": 126
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0065",
+      "name": "Radome Grey Modern Jets",
+      "code": "TC-0065",
+      "set": "Tom Colors",
+      "hex": "#828888",
+      "rgb": {
+        "r": 130,
+        "g": 136,
+        "b": 136
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0212",
+      "name": "Raf Dark Green 1975-now",
+      "code": "TC-0212",
+      "set": "Tom Colors",
+      "hex": "#434E52",
+      "rgb": {
+        "r": 67,
+        "g": 78,
+        "b": 82
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0115",
+      "name": "Raf Insignia Blue",
+      "code": "TC-0115",
+      "set": "Tom Colors",
+      "hex": "#02224B",
+      "rgb": {
+        "r": 2,
+        "g": 34,
+        "b": 75
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0117",
+      "name": "Raf Light Aircraft Grey",
+      "code": "TC-0117",
+      "set": "Tom Colors",
+      "hex": "#B0B1AB",
+      "rgb": {
+        "r": 176,
+        "g": 177,
+        "b": 171
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0096",
+      "name": "Raf Pru Blue Faded",
+      "code": "TC-0096",
+      "set": "Tom Colors",
+      "hex": "#648CA6",
+      "rgb": {
+        "r": 100,
+        "g": 140,
+        "b": 166
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0099",
+      "name": "Raf WW2 Uniform Base",
+      "code": "TC-0099",
+      "set": "Tom Colors",
+      "hex": "#384452",
+      "rgb": {
+        "r": 56,
+        "g": 68,
+        "b": 82
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0193",
+      "name": "Raf WW2 Uniform Shadow",
+      "code": "TC-0193",
+      "set": "Tom Colors",
+      "hex": "#0D1917",
+      "rgb": {
+        "r": 13,
+        "g": 25,
+        "b": 23
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0066",
+      "name": "Rlm 02 Grau",
+      "code": "TC-0066",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0300",
+      "name": "Rlm 04",
+      "code": "TC-0300",
+      "set": "Tom Colors",
+      "hex": "#0B0C07",
+      "rgb": {
+        "r": 11,
+        "g": 12,
+        "b": 7
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0082",
+      "name": "Rlm 21 Weiss",
+      "code": "TC-0082",
+      "set": "Tom Colors",
+      "hex": "#0C0C0C",
+      "rgb": {
+        "r": 12,
+        "g": 12,
+        "b": 12
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0312",
+      "name": "Rlm 22 Schwarz",
+      "code": "TC-0312",
+      "set": "Tom Colors",
+      "hex": "#0C0C0C",
+      "rgb": {
+        "r": 12,
+        "g": 12,
+        "b": 12
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0036",
+      "name": "Rlm 61",
+      "code": "TC-0036",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0296",
+      "name": "Rlm 62",
+      "code": "TC-0296",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0106",
+      "name": "Rlm 63",
+      "code": "TC-0106",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0068",
+      "name": "Rlm 65",
+      "code": "TC-0068",
+      "set": "Tom Colors",
+      "hex": "#0C0E0D",
+      "rgb": {
+        "r": 12,
+        "g": 14,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0301",
+      "name": "Rlm 66",
+      "code": "TC-0301",
+      "set": "Tom Colors",
+      "hex": "#0C0C0C",
+      "rgb": {
+        "r": 12,
+        "g": 12,
+        "b": 12
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0077",
+      "name": "Rlm 70",
+      "code": "TC-0077",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0070",
+      "name": "Rlm 71 Dunkelgrun",
+      "code": "TC-0070",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0254",
+      "name": "Rlm 73",
+      "code": "TC-0254",
+      "set": "Tom Colors",
+      "hex": "#23241C",
+      "rgb": {
+        "r": 35,
+        "g": 36,
+        "b": 28
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0071",
+      "name": "Rlm 74",
+      "code": "TC-0071",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0072",
+      "name": "Rlm 75",
+      "code": "TC-0072",
+      "set": "Tom Colors",
+      "hex": "#0C0C0C",
+      "rgb": {
+        "r": 12,
+        "g": 12,
+        "b": 12
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0073",
+      "name": "Rlm 76 (v.2)",
+      "code": "TC-0073",
+      "set": "Tom Colors",
+      "hex": "#0B0D0C",
+      "rgb": {
+        "r": 11,
+        "g": 13,
+        "b": 12
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0298",
+      "name": "Rlm 78",
+      "code": "TC-0298",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0299",
+      "name": "Rlm 79",
+      "code": "TC-0299",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0081",
+      "name": "Rlm 80",
+      "code": "TC-0081",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0074",
+      "name": "Rlm 81 (v.1)",
+      "code": "TC-0074",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0076",
+      "name": "Rlm 82",
+      "code": "TC-0076",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "rgb": {
+        "r": 13,
+        "g": 13,
+        "b": 13
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0249",
+      "name": "Rlm 83",
+      "code": "TC-0249",
+      "set": "Tom Colors",
+      "hex": "#0E0E0E",
+      "rgb": {
+        "r": 14,
+        "g": 14,
+        "b": 14
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-23",
+      "name": "Rosa Cessna",
+      "code": "TCUP-23",
+      "set": "Tom Colors - UP",
+      "hex": "#DF82AE",
+      "rgb": {
+        "r": 223,
+        "g": 130,
+        "b": 174
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-24",
+      "name": "Rosa Nina",
+      "code": "TCUP-24",
+      "set": "Tom Colors - UP",
+      "hex": "#F5305E",
+      "rgb": {
+        "r": 245,
+        "g": 48,
+        "b": 94
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-21",
+      "name": "Roxo Puro",
+      "code": "TCUP-21",
+      "set": "Tom Colors - UP",
+      "hex": "#43135D",
+      "rgb": {
+        "r": 67,
+        "g": 19,
+        "b": 93
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0064",
+      "name": "Russian 4bo Green",
+      "code": "TC-0064",
+      "set": "Tom Colors",
+      "hex": "#2C3719",
+      "rgb": {
+        "r": 44,
+        "g": 55,
+        "b": 25
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0250",
+      "name": "Russian Uniform Shadow",
+      "code": "TC-0250",
+      "set": "Tom Colors",
+      "hex": "#373A25",
+      "rgb": {
+        "r": 55,
+        "g": 58,
+        "b": 37
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0248",
+      "name": "Rusted Umber",
+      "code": "TC-0248",
+      "set": "Tom Colors",
+      "hex": "#513D36",
+      "rgb": {
+        "r": 81,
+        "g": 61,
+        "b": 54
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0097-2",
+      "name": "Schlickgrau 58",
+      "code": "TC-0097",
+      "set": "Tom Colors",
+      "hex": "#57605D",
+      "rgb": {
+        "r": 87,
+        "g": 96,
+        "b": 93
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0142",
+      "name": "Seafoam Green",
+      "code": "TC-0142",
+      "set": "Tom Colors",
+      "hex": "#ADB699",
+      "rgb": {
+        "r": 173,
+        "g": 182,
+        "b": 153
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0308",
+      "name": "Shadow Skin Tone",
+      "code": "TC-0308",
+      "set": "Tom Colors",
+      "hex": "#574632",
+      "rgb": {
+        "r": 87,
+        "g": 70,
+        "b": 50
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0233",
+      "name": "Ship Grey",
+      "code": "TC-0233",
+      "set": "Tom Colors",
+      "hex": "#A6ABAE",
+      "rgb": {
+        "r": 166,
+        "g": 171,
+        "b": 174
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0130",
+      "name": "Silbergrau Dkm50",
+      "code": "TC-0130",
+      "set": "Tom Colors",
+      "hex": "#ADB1BD",
+      "rgb": {
+        "r": 173,
+        "g": 177,
+        "b": 189
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0241",
+      "name": "Silver Grey",
+      "code": "TC-0241",
+      "set": "Tom Colors",
+      "hex": "#9BA0A4",
+      "rgb": {
+        "r": 155,
+        "g": 160,
+        "b": 164
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0120",
+      "name": "Sky Type S",
+      "code": "TC-0120",
+      "set": "Tom Colors",
+      "hex": "#A2A48C",
+      "rgb": {
+        "r": 162,
+        "g": 164,
+        "b": 140
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0100",
+      "name": "Stencil White",
+      "code": "TC-0100",
+      "set": "Tom Colors",
+      "hex": "#E0E0D8",
+      "rgb": {
+        "r": 224,
+        "g": 224,
+        "b": 216
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-05",
+      "name": "Suco De Laranja",
+      "code": "TCUP-05",
+      "set": "Tom Colors - UP",
+      "hex": "#EB3102",
+      "rgb": {
+        "r": 235,
+        "g": 49,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0211",
+      "name": "Terra",
+      "code": "TC-0211",
+      "set": "Tom Colors",
+      "hex": "#7D6A5B",
+      "rgb": {
+        "r": 125,
+        "g": 106,
+        "b": 91
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0148",
+      "name": "Terre Fonce",
+      "code": "TC-0148",
+      "set": "Tom Colors",
+      "hex": "#645045",
+      "rgb": {
+        "r": 100,
+        "g": 80,
+        "b": 69
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0088-2",
+      "name": "Tire Black",
+      "code": "TC-0088",
+      "set": "Tom Colors",
+      "hex": "#3D383C",
+      "rgb": {
+        "r": 61,
+        "g": 56,
+        "b": 60
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0268",
+      "name": "Tire Black Highlight",
+      "code": "TC-0268",
+      "set": "Tom Colors",
+      "hex": "#58595B",
+      "rgb": {
+        "r": 88,
+        "g": 89,
+        "b": 91
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0156",
+      "name": "U.s. Modern Vehicles Tan",
+      "code": "TC-0156",
+      "set": "Tom Colors",
+      "hex": "#CFB674",
+      "rgb": {
+        "r": 207,
+        "g": 182,
+        "b": 116
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0140",
+      "name": "US Desert Sand",
+      "code": "TC-0140",
+      "set": "Tom Colors",
+      "hex": "#C09E79",
+      "rgb": {
+        "r": 192,
+        "g": 158,
+        "b": 121
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0239",
+      "name": "US Merdc Field Drab",
+      "code": "TC-0239",
+      "set": "Tom Colors",
+      "hex": "#8E7C68",
+      "rgb": {
+        "r": 142,
+        "g": 124,
+        "b": 104
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0090",
+      "name": "USAF Modern Uniform Base",
+      "code": "TC-0090",
+      "set": "Tom Colors",
+      "hex": "#2A3C22",
+      "rgb": {
+        "r": 42,
+        "g": 60,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0061",
+      "name": "USAF Modern Uniform Light",
+      "code": "TC-0061",
+      "set": "Tom Colors",
+      "hex": "#586031",
+      "rgb": {
+        "r": 88,
+        "g": 96,
+        "b": 49
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0237",
+      "name": "USAF Modern Uniform Shadow",
+      "code": "TC-0237",
+      "set": "Tom Colors",
+      "hex": "#162017",
+      "rgb": {
+        "r": 22,
+        "g": 32,
+        "b": 23
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0105",
+      "name": "USAF Pilot Belts And Details",
+      "code": "TC-0105",
+      "set": "Tom Colors",
+      "hex": "#9B9251",
+      "rgb": {
+        "r": 155,
+        "g": 146,
+        "b": 81
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0238",
+      "name": "USAF WW2 Pilot Uniform Shadow",
+      "code": "TC-0238",
+      "set": "Tom Colors",
+      "hex": "#313423",
+      "rgb": {
+        "r": 49,
+        "g": 52,
+        "b": 35
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-16",
+      "name": "Ultra Branco",
+      "code": "TCUP-16",
+      "set": "Tom Colors - UP",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-22",
+      "name": "Ultra Preto",
+      "code": "TCUP-22",
+      "set": "Tom Colors - UP",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0242",
+      "name": "Usaaf WW2 Pilot Uniform Base",
+      "code": "TC-0242",
+      "set": "Tom Colors",
+      "hex": "#4D4629",
+      "rgb": {
+        "r": 77,
+        "g": 70,
+        "b": 41
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0006",
+      "name": "Verde",
+      "code": "TC-0006",
+      "set": "Tom Colors",
+      "hex": "#107902",
+      "rgb": {
+        "r": 16,
+        "g": 121,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-12",
+      "name": "Verde Brasil",
+      "code": "TCUP-12",
+      "set": "Tom Colors - UP",
+      "hex": "#043726",
+      "rgb": {
+        "r": 4,
+        "g": 55,
+        "b": 38
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0110",
+      "name": "Verde Khaki",
+      "code": "TC-0110",
+      "set": "Tom Colors",
+      "hex": "#5D573F",
+      "rgb": {
+        "r": 93,
+        "g": 87,
+        "b": 63
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0206",
+      "name": "Verde Mimetico 2",
+      "code": "TC-0206",
+      "set": "Tom Colors",
+      "hex": "#2E483F",
+      "rgb": {
+        "r": 46,
+        "g": 72,
+        "b": 63
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0224",
+      "name": "Verde Mimetico 3",
+      "code": "TC-0224",
+      "set": "Tom Colors",
+      "hex": "#555A43",
+      "rgb": {
+        "r": 85,
+        "g": 90,
+        "b": 67
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0179",
+      "name": "Verde Mimetico 53192",
+      "code": "TC-0179",
+      "set": "Tom Colors",
+      "hex": "#739D75",
+      "rgb": {
+        "r": 115,
+        "g": 157,
+        "b": 117
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0150",
+      "name": "Verde Oliva Scuro 2",
+      "code": "TC-0150",
+      "set": "Tom Colors",
+      "hex": "#313A35",
+      "rgb": {
+        "r": 49,
+        "g": 58,
+        "b": 53
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0205",
+      "name": "Verde Selva",
+      "code": "TC-0205",
+      "set": "Tom Colors",
+      "hex": "#3D3C28",
+      "rgb": {
+        "r": 61,
+        "g": 60,
+        "b": 40
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-11",
+      "name": "Verde do Duende",
+      "code": "TCUP-11",
+      "set": "Tom Colors - UP",
+      "hex": "#169522",
+      "rgb": {
+        "r": 22,
+        "g": 149,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-08",
+      "name": "Vermelho Beterraba",
+      "code": "TCUP-08",
+      "set": "Tom Colors - UP",
+      "hex": "#971A22",
+      "rgb": {
+        "r": 151,
+        "g": 26,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-10",
+      "name": "Vermelho Cabelo do Curupira",
+      "code": "TCUP-10",
+      "set": "Tom Colors - UP",
+      "hex": "#950602",
+      "rgb": {
+        "r": 149,
+        "g": 6,
+        "b": 2
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-06",
+      "name": "Vermelho Flame",
+      "code": "TCUP-06",
+      "set": "Tom Colors - UP",
+      "hex": "#E42417",
+      "rgb": {
+        "r": 228,
+        "g": 36,
+        "b": 23
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-09",
+      "name": "Vermelho Gorro de Saci",
+      "code": "TCUP-09",
+      "set": "Tom Colors - UP",
+      "hex": "#C70D22",
+      "rgb": {
+        "r": 199,
+        "g": 13,
+        "b": 34
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tcup-07",
+      "name": "Vermelho Melancia",
+      "code": "TCUP-07",
+      "set": "Tom Colors - UP",
+      "hex": "#DD2F46",
+      "rgb": {
+        "r": 221,
+        "g": 47,
+        "b": 70
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0005",
+      "name": "Vermelho Puro",
+      "code": "TC-0005",
+      "set": "Tom Colors",
+      "hex": "#CC0809",
+      "rgb": {
+        "r": 204,
+        "g": 8,
+        "b": 9
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0183",
+      "name": "Vvs Dark Green",
+      "code": "TC-0183",
+      "set": "Tom Colors",
+      "hex": "#224618",
+      "rgb": {
+        "r": 34,
+        "g": 70,
+        "b": 24
+      },
+      "potSize": null,
+      "description": null
+    },
+    {
+      "id": "tomcolor-tc-0220",
+      "name": "Woodbrown Médio",
+      "code": "TC-0220",
+      "set": "Tom Colors",
+      "hex": "#6F5B36",
+      "rgb": {
+        "r": 111,
+        "g": 91,
+        "b": 54
+      },
+      "potSize": null,
+      "description": null
+    }
+  ]
+}
