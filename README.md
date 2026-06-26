@@ -1,18 +1,66 @@
 # Name, Set, RGB, and Hex values of Miniature Paints
 
-List of miniature paints forked from Arcturus5404/miniature-paints. Original paint list scraped by Arcturus5404 from [Miniature Painter Pro](https://miniaturepainterpro.app/) team. This fork is updated and maintained by me. 
+This repo is a collection of hobby/miniature painting paints from some of the most popular brands around the world.
+
+I forked the original repo from Arcturus5404/miniature-paints, who had made a significant amount of progress, but has not updated the repo in several years. I needed a clean and up to date dataset for a project I wanted to work on.
+
+The original paint list was scraped by Arcturus5404 from the [Miniature Painter Pro](https://miniaturepainterpro.app/) team.
 
 Feel free to use or improve any of these paints in your own personal projects. Also feel free to submit PR's
 
-**NOTE: I am not affiliated in any way with the [Miniature Painter Pro](https://miniaturepainterpro.app/) team or app, nor am I affiliated with any of the brands shared here. So far, all knowledge of paints has been gathered from publicly available websites or product catalogues. I have reached out to several brands to ask for any spreadhseets they can share to make life a bit easier. I'll update here if I get a response from them**
+> [!IMPORTANT] Paint RGB/Hex/Swatch Values
+> Whilst I have reviewed the original list of paint colours, and take as much care as I can determining the hex and RGB values for any of the paints are as accurate as possible, without official information from the brands themselves they are approximations. This is especially true for colour-shifting paints, which have no single colour — their swatches are generated from the manufacturer's colour descriptions and are only an approximation of how the paint actually shifts. Please refer to the brand's website or videos for a closer look at the colours and how they behave.
 
-## To Do
+> [!NOTE] Affiliation
+> I am not affiliated in any way with the [Miniature Painter Pro](https://miniaturepainterpro.app/) team or app, nor am I affiliated with any of the brands shared here. So far, all knowledge of paints has been gathered from publicly available websites or product catalogues. I have contacted several brands for an up to date catalogue/spreadsheet. See the [Thanks](#thanks) section below to see who responded!
 
-[To Do file is here](TODO.md)
+> [!NOTE] User of AI
+> There's a lot of paints! Tens of thousands of them! I have been feeding the latest product catalogues into Claude and asking it to pull out all the paints and the sets they belong to. After I process and verify the output, Claude then updates the tables in the markdown files. AI can make mistakes, and so can I, so there may be errors. I verify as much as possible, but if a mistake slips through feel free to open a PR and I'll correct it. 
+>
+>There's still an awful lot of legwork involved. Claude is basically my unpaid intern.
+
+## Taks
+
+[The expanded Tasks file is here](TODO.md)
+
+- [X] Add contact information for each brand where possible
+- [ ] Update all paint sets to match the current product catalogues
+  - [X] AK
+  - [ ] Acrilex
+  - [ ] Apple Barrel
+  - [ ] Army Painter
+  - [ ] Arteza
+  - [ ] Coat D'Armes
+  - [ ] Creature Caster
+  - [ ] Duncan Rhodes
+  - [ ] Golden
+  - [ ] Green Stuff World
+  - [ ] Humbrol
+  - [ ] Italeri
+  - [ ] Kimera Kolors
+  - [X] Liquitex
+  - [ ] Mig
+  - [ ] Mission Models
+  - [ ] Monument Hobbies
+  - [ ] Mr Hobby
+  - [ ] Mr Paint
+  - [ ] P3
+  - [ ] Pantone
+  - [ ] RAL
+  - [ ] Reaper
+  - [X] Revell
+  - [ ] Scale75
+  - [ ] Tamiya
+  - [ ] Tom Color
+  - [X] Turbo Dork
+  - [ ] Vallejo
+  - [ ] Warcolours
+  - [ ] Warhammer Colour
+
 
 ## JSON
 
-I have added a single JSON file that contains all brands and paints. This file will be built every time I update the paints in the MD files. 
+At the root of this repo I have added a single JSON file that contains all brands and paints, and I have also included a JSON file for each brand individually for ease of use. These files are built every time I update the paints in the MD files and push to the repo through a worker action. 
 
 ## Paints by brand
 
@@ -32,10 +80,7 @@ I have added a single JSON file that contains all brands and paints. This file w
 |  <a href="paints/Warcolours.md"> <img src="logos/Warcolours.png" height="70" /> <br/> Warcolours</a>| <a href="paints/Warhammer_Colour.md"> <img src="logos/Warhammer_Colour.png" height="70" /> <br/> Warhammer Colour</a>||
 <!-- END -->
 
-## Use of AI
-There's a lot of paints! Tens of thousands of them! I have been feeding the latest product catalogues into Claude and asking it to pull out all the paints and the sets they belong to. After I process and verify the output, Claude then updates the tables in the markdown files. AI can make mistakes, and so can I, so there may be errors. I verify as much as possible, but if a mistake slips through feel free to open a PR and I'll correct it. 
+## Thanks
 
-There's still an awful lot of legwork involved, and Claude takes the mundane tasks off of me.
-
-## A note on colour accuracy
-The hex and RGB values for any of the paints are as accurate as possible, but without official information from the brands themselves they are approximations. This is especially true for colour-shifting paints, which have no single colour — their swatches are generated from the manufacturer's colour descriptions and are only an approximation of how the paint actually shifts.
+### Turbo Dork
+❤️ A huge thank you to Greg over at Turbo Dork for supplying an up to date list of their products in an easy to use spreadsheet! Your help is very much appreciated
