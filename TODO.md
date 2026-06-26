@@ -77,7 +77,10 @@
   - [ ] Scale75
   - [ ] Tamiya
   - [ ] Tom Color
-  - [ ] Turbo Dork
+  - [X] Turbo Dork
+    - [X] Metallic
+    - [X] ZeniShift
+    - [X] TurboShift
   - [ ] Vallejo
   - [ ] Warcolours
   - [ ] Warhammer Colour
