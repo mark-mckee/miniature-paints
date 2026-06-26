@@ -454,9 +454,3 @@
 |Yellow Ochre|917|Acrylic Colors|176|145|81|![#B09151](https://placehold.co/15x15/B09151/B09151.png) `#B09151`|||
 |Yellow Ochre|6389|Pure™ Artist Pigment|139|106|53|![#8B6A35](https://placehold.co/15x15/8B6A35/8B6A35.png) `#8B6A35`|||
 |Yellow Ochre|2910|Multi-Surface Satin Acrylics|198|129|42|![#C6812A](https://placehold.co/15x15/C6812A/C6812A.png) `#C6812A`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

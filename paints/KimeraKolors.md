@@ -57,9 +57,3 @@
 |Violet|PV23|Kimera Kolors Pure Pigments|62|15|127|![#3E0F7F](https://placehold.co/15x15/3E0F7F/3E0F7F.png) `#3E0F7F`|||
 |Warm Yellow|PY83|Kimera Kolors Pure Pigments|230|169|29|![#E6A91D](https://placehold.co/15x15/E6A91D/E6A91D.png) `#E6A91D`|||
 |Yellow Oxide|PY42|Kimera Kolors Pure Pigments|198|152|37|![#C69825](https://placehold.co/15x15/C69825/C69825.png) `#C69825`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

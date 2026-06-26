@@ -71,9 +71,3 @@
 |White Gold|MPA-029|Monument Pro Acryl|172|156|131|![#AC9C83](https://placehold.co/15x15/AC9C83/AC9C83.png) `#AC9C83`|||
 |Yellow|MPA-049|Monument Pro Acryl Transparent|226|171|6|![#E2AB06](https://placehold.co/15x15/E2AB06/E2AB06.png) `#E2AB06`|||
 |Yellow Ochre|MPA-038|Monument Pro Acryl|187|132|31|![#BB841F](https://placehold.co/15x15/BB841F/BB841F.png) `#BB841F`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

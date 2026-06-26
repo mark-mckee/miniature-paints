@@ -133,9 +133,3 @@
 |White Matt|S34|Humbrol Aerosol Sprays|50|50|50|![#323232](https://placehold.co/15x15/323232/323232.png) `#323232`|||
 |Yellow|69|Humbrol Acrylics - Gloss|252|219|0|![#FCDB00](https://placehold.co/15x15/FCDB00/FCDB00.png) `#FCDB00`|||
 |Yellow|S69|Humbrol Aerosol Sprays|252|218|6|![#FCDA06](https://placehold.co/15x15/FCDA06/FCDA06.png) `#FCDA06`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

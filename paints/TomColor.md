@@ -289,9 +289,3 @@
 |Vermelho Puro|TC-0005|Tom Colors|204|8|9|![#CC0809](https://placehold.co/15x15/CC0809/CC0809.png) `#CC0809`|||
 |Vvs Dark Green|TC-0183|Tom Colors|34|70|24|![#224618](https://placehold.co/15x15/224618/224618.png) `#224618`|||
 |Woodbrown Médio|TC-0220|Tom Colors|111|91|54|![#6F5B36](https://placehold.co/15x15/6F5B36/6F5B36.png) `#6F5B36`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

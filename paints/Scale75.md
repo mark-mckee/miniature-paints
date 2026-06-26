@@ -376,9 +376,3 @@
 |Yellow Oxide|Artist Range|75|53|39|![#4B3527](https://placehold.co/15x15/4B3527/4B3527.png) `#4B3527`|||
 |Zombie Skin|Instant Colors Range|166|168|105|![#A6A869](https://placehold.co/15x15/A6A869/A6A869.png) `#A6A869`|||
 |Zucchini Green|Instant Colors Range|64|91|50|![#405B32](https://placehold.co/15x15/405B32/405B32.png) `#405B32`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

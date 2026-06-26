@@ -586,9 +586,3 @@
 |Yellow-green Clear|MRP-263|Mr Paint|212|195|63|![#D4C33F](https://placehold.co/15x15/D4C33F/D4C33F.png) `#D4C33F`|||
 |Zinc-chromate Primer|MRP-129|Mr Paint|201|161|65|![#C9A141](https://placehold.co/15x15/C9A141/C9A141.png) `#C9A141`|||
 |Zinc-chromate Primer|MRP-A081|Mr Paint - Aqua Colors|196|164|81|![#C4A451](https://placehold.co/15x15/C4A451/C4A451.png) `#C4A451`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

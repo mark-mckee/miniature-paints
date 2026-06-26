@@ -722,9 +722,3 @@
 |Zephyr Pink|null|Warpaints Air|107|48|77|![#6B304D](https://placehold.co/15x15/6B304D/6B304D.png) `#6B304D`|||
 |Zombie Flesh|null|D&D Nolzur's Marvelous Pigments|176|193|148|![#B0C194](https://placehold.co/15x15/B0C194/B0C194.png) `#B0C194`|||
 |Zombie Flesh|null|Warpaints Air|175|179|149|![#AFB395](https://placehold.co/15x15/AFB395/AFB395.png) `#AFB395`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

@@ -687,9 +687,3 @@
 |Zeon's MS Gray|UG10|Mr Color Gundam Color|221|107|105|![#DD6B69](https://placehold.co/15x15/DD6B69/DD6B69.png) `#DD6B69`|||
 |Zeon's MS Gray|SG10|Gundam Color Spray|221|107|105|![#DD6B69](https://placehold.co/15x15/DD6B69/DD6B69.png) `#DD6B69`|||
 |Zinc-chromate Type I Fs34151|351|Mr Color|120|120|69|![#787845](https://placehold.co/15x15/787845/787845.png) `#787845`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

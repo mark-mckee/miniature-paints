@@ -211,9 +211,3 @@
 |Yellow olive|6014|RAL Color System|51|48|38|![#333026](https://placehold.co/15x15/333026/333026.png) `#333026`|||
 |Yellow orange|2000|RAL Color System|224|94|31|![#E05E1F](https://placehold.co/15x15/E05E1F/E05E1F.png) `#E05E1F`|||
 |Zinc yellow|1018|RAL Color System|255|214|77|![#FFD64D](https://placehold.co/15x15/FFD64D/FFD64D.png) `#FFD64D`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

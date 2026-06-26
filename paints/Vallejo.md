@@ -1286,9 +1286,3 @@
 |Yellow Wash|73.208|Game Color|233|232|92|![#E9E85C](https://placehold.co/15x15/E9E85C/E9E85C.png) `#E9E85C`|||
 |Yellowish Rust|70.303|Panzer Aces|190|139|94|![#BE8B5E](https://placehold.co/15x15/BE8B5E/BE8B5E.png) `#BE8B5E`|||
 |Zombie Flesh|72.470|Xpress Color|133|107|90|![#856B5A](https://placehold.co/15x15/856B5A/856B5A.png) `#856B5A`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

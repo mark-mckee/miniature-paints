@@ -175,9 +175,3 @@
 |White|101|Military Range|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|||
 |Wizard Blue|114|Fantasy Range|57|98|152|![#396298](https://placehold.co/15x15/396298/396298.png) `#396298`|||
 |Wood Brown|218|Military Range|89|55|28|![#59371C](https://placehold.co/15x15/59371C/59371C.png) `#59371C`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

@@ -198,9 +198,3 @@
 |Yellow Flame|Wave 1|248|175|43|![#F8AF2B](https://placehold.co/15x15/F8AF2B/F8AF2B.png) `#F8AF2B`|||
 |Yellow Glaze|Wave 2|242|240|117|![#F2F075](https://placehold.co/15x15/F2F075/F2F075.png) `#F2F075`|||
 |Zombie Rot|Wave 3|177|182|121|![#B1B679](https://placehold.co/15x15/B1B679/B1B679.png) `#B1B679`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

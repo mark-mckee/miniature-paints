@@ -364,9 +364,3 @@
 |Zinc White|1415|Heavy Body|202|211|226|![#CAD3E2](https://placehold.co/15x15/CAD3E2/CAD3E2.png) `#CAD3E2`|||
 |Zinc White|2415|Fluid|254|254|254|![#FEFEFE](https://placehold.co/15x15/FEFEFE/FEFEFE.png) `#FEFEFE`|||
 |Zinc White|7415|OPEN Acrylics|159|172|189|![#9FACBD](https://placehold.co/15x15/9FACBD/9FACBD.png) `#9FACBD`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

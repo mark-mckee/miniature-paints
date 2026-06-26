@@ -338,9 +338,3 @@
 |Yellow|TS-16|Tamiya Spray|255|230|0|![#FFE600](https://placehold.co/15x15/FFE600/FFE600.png) `#FFE600`|||
 |Yellow green|XF-4|Acrylics Mini Flat|179|198|15|![#B3C60F](https://placehold.co/15x15/B3C60F/B3C60F.png) `#B3C60F`|||
 |Yellow-brown (DAK 1941)|LP-76|Lacquer Paint|177|129|80|![#B18150](https://placehold.co/15x15/B18150/B18150.png) `#B18150`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

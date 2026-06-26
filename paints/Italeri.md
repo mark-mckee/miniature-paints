@@ -118,9 +118,3 @@
 |White|4769AP|Italeri Acrylic Paint|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|||
 |Wood|4673AP|Italeri Acrylic Paint|180|143|65|![#B48F41](https://placehold.co/15x15/B48F41/B48F41.png) `#B48F41`|||
 |Yellow|4642AP|Italeri Acrylic Paint|243|154|31|![#F39A1F](https://placehold.co/15x15/F39A1F/F39A1F.png) `#F39A1F`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

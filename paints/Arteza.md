@@ -114,9 +114,3 @@
 |Yellow Green|A600|Acrylic Premium Paints|54|139|48|![#368B30](https://placehold.co/15x15/368B30/368B30.png) `#368B30`|||
 |Yellow Ochre|A104|Acrylic Premium Paints|206|142|42|![#CE8E2A](https://placehold.co/15x15/CE8E2A/CE8E2A.png) `#CE8E2A`|||
 |Yellow Pale|A101|Acrylic Premium Paints|210|167|2|![#D2A702](https://placehold.co/15x15/D2A702/D2A702.png) `#D2A702`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

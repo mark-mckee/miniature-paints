@@ -597,9 +597,3 @@
 |Fluorescent Blue|984|Acrylic Paint Markers|0|141|211|![#008DD3](https://placehold.co/15x15/008DD3/008DD3.png) `#008DD3`|||
 |Fluorescent Green|985|Acrylic Paint Markers|100|178|46|![#64B22E](https://placehold.co/15x15/64B22E/64B22E.png) `#64B22E`|||
 |Fluorescent Pink|987|Acrylic Paint Markers|223|29|115|![#DF1D73](https://placehold.co/15x15/DF1D73/DF1D73.png) `#DF1D73`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

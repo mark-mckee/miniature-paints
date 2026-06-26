@@ -238,9 +238,3 @@
 |Zima Blue|Acrylic Colors|72|163|192|![#48A3C0](https://placehold.co/15x15/48A3C0/48A3C0.png) `#48A3C0`|||
 |Zombie Dip|Dipping Inks|55|59|34|![#373B22](https://placehold.co/15x15/373B22/373B22.png) `#373B22`|||
 |Zombie Flesh|Acrylic Colors|201|172|106|![#C9AC6A](https://placehold.co/15x15/C9AC6A/C9AC6A.png) `#C9AC6A`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

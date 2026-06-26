@@ -226,9 +226,3 @@
 |Fiery red RAL 3000|34330|Revell Spray Color|185|24|30|![#B9181E](https://placehold.co/15x15/B9181E/B9181E.png) `#B9181E`|||
 |Light grey RAL 7035|34371|Revell Spray Color|208|213|207|![#D0D5CF](https://placehold.co/15x15/D0D5CF/D0D5CF.png) `#D0D5CF`|||
 |Grey RAL 7001|34374|Revell Spray Color|136|160|171|![#88A0AB](https://placehold.co/15x15/88A0AB/88A0AB.png) `#88A0AB`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

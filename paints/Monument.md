@@ -149,9 +149,3 @@
 |White Gold|029|Monument Pro Acrylic Paints|158|155|138|![#9E9B8A](https://placehold.co/15x15/9E9B8A/9E9B8A.png) `#9E9B8A`|||
 |Yellow Green|065|Monument Pro Acrylic Paints|135|146|69|![#879245](https://placehold.co/15x15/879245/879245.png) `#879245`|||
 |Yellow Ochre|038|Monument Pro Acrylic Paints|174|127|49|![#AE7F31](https://placehold.co/15x15/AE7F31/AE7F31.png) `#AE7F31`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

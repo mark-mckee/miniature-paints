@@ -231,9 +231,3 @@
 |Wisteria|21977E|Multi-Surface Satin Acrylic Paints|172|152|189|![#AC98BD](https://placehold.co/15x15/AC98BD/AC98BD.png) `#AC98BD`|||
 |Yellow|20502|Colors|210|148|11|![#D2940B](https://placehold.co/15x15/D2940B/D2940B.png) `#D2940B`|||
 |Yellow Flame|21474|Colors|204|182|62|![#CCB63E](https://placehold.co/15x15/CCB63E/CCB63E.png) `#CCB63E`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

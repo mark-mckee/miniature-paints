@@ -378,9 +378,3 @@
 |Yellow|2B|Foundry Paint System|255|214|11|![#FFD60B](https://placehold.co/15x15/FFD60B/FFD60B.png) `#FFD60B`|||
 |Yellow Light|2C|Foundry Paint System|254|233|88|![#FEE958](https://placehold.co/15x15/FEE958/FEE958.png) `#FEE958`|||
 |Yellow Shade|2A|Foundry Paint System|248|180|9|![#F8B409](https://placehold.co/15x15/F8B409/F8B409.png) `#F8B409`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

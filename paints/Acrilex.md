@@ -113,9 +113,3 @@
 |Violeta Cobalto|540|Acrilex Paints|59|46|103|![#3B2E67](https://placehold.co/15x15/3B2E67/3B2E67.png) `#3B2E67`|||
 |Violeta Escuro|917|Acrilex Paints|101|49|108|![#65316C](https://placehold.co/15x15/65316C/65316C.png) `#65316C`|||
 |Violeta Gris|916|Acrilex Paints|151|143|172|![#978FAC](https://placehold.co/15x15/978FAC/978FAC.png) `#978FAC`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

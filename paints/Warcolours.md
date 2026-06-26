@@ -196,9 +196,3 @@
 |Yellow 4|Layer paints|252|194|24|![#FCC218](https://placehold.co/15x15/FCC218/FCC218.png) `#FCC218`|||
 |Yellow 5|Layer paints|249|166|38|![#F9A626](https://placehold.co/15x15/F9A626/F9A626.png) `#F9A626`|||
 |Yellow Glaze|Glazing paints|254|246|93|![#FEF65D](https://placehold.co/15x15/FEF65D/FEF65D.png) `#FEF65D`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

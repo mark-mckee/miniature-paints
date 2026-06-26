@@ -491,9 +491,3 @@
 |Zimmerit Ochre Color|AMIG0114|Acrylics|154|139|118|![#9A8B76](https://placehold.co/15x15/9A8B76/9A8B76.png) `#9A8B76`|||
 |Zinc Chromate Green|ATOM-20074|ATOM|62|95|45|![#3E5F2D](https://placehold.co/15x15/3E5F2D/3E5F2D.png) `#3E5F2D`|||
 |Zinc Chromate Yellow|ATOM-20013|ATOM|194|164|70|![#C2A446](https://placehold.co/15x15/C2A446/C2A446.png) `#C2A446`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

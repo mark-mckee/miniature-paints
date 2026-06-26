@@ -456,9 +456,3 @@
 |Yellow Mold|9487|Master Series Paints Bones|252|248|200|![#FCF8C8](https://placehold.co/15x15/FCF8C8/FCF8C8.png) `#FCF8C8`|||
 |Yellowed Ivory|9143|Master Series Paints Core Colors|211|189|132|![#D3BD84](https://placehold.co/15x15/D3BD84/D3BD84.png) `#D3BD84`|||
 |Youthful Flesh|9445|Master Series Paints Bones|252|189|136|![#FCBD88](https://placehold.co/15x15/FCBD88/FCBD88.png) `#FCBD88`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

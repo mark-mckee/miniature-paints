@@ -98,9 +98,3 @@
 |Sugar Rush|TDK015762|Turboshift||||<img src="../swatches/turbodork/sugar-rush.png" height="15" /> `#B79AD6` `#D14A8C` `#FFCB7A`|22ml|light violet through deep purplish pink to light orange yellow shifting metallic|
 |Twin Sons|TDK015823|Zenishift||||<img src="../swatches/turbodork/twin-sons.png" height="15" /> `#1FB89B` `#27B463`|22ml|brilliant bluish green to brilliant green shifting metallic|
 |Wavelength|TDK015847|Turboshift||||<img src="../swatches/turbodork/wavelength.png" height="15" /> `#103C9E` `#3E1A66`|22ml|deep blue to deep purple shifting metallic|
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

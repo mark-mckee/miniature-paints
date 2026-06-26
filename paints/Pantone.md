@@ -1359,9 +1359,3 @@
 |Yellow 012 C|Pantone Coated|255|215|0|![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) `#FFD700`|||
 |Yellow 0131 C|Pantone Coated|242|240|161|![#F2F0A1](https://placehold.co/15x15/F2F0A1/F2F0A1.png) `#F2F0A1`|||
 |Yellow C|Pantone Coated|254|221|0|![#FEDD00](https://placehold.co/15x15/FEDD00/FEDD00.png) `#FEDD00`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

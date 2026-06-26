@@ -998,9 +998,3 @@
 |Bronze|AKM032|Playmarkers|226|203|148|![#E2CB94](https://placehold.co/15x15/E2CB94/E2CB94.png) `#E2CB94`|||
 |Copper|AKM033|Playmarkers|228|123|53|![#E47B35](https://placehold.co/15x15/E47B35/E47B35.png) `#E47B35`|||
 |Brass|AKM034|Playmarkers|229|177|75|![#E5B14B](https://placehold.co/15x15/E5B14B/E5B14B.png) `#E5B14B`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

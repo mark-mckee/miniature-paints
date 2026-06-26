@@ -220,9 +220,3 @@
 |Worn Black Grey Tires / Camo|MMP-105|Mission Models|14|17|22|![#0E1116](https://placehold.co/15x15/0E1116/0E1116.png) `#0E1116`|||
 |Yellow|MMP-007|Mission Models|252|222|9|![#FCDE09](https://placehold.co/15x15/FCDE09/FCDE09.png) `#FCDE09`|||
 |Yellow Zinc Chromate|MMP-067|Mission Models|227|210|9|![#E3D209](https://placehold.co/15x15/E3D209/E3D209.png) `#E3D209`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>

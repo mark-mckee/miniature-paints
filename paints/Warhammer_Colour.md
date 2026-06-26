@@ -475,9 +475,3 @@
 |Zandri Dust|Spray|152|142|86|![#988E56](https://placehold.co/15x15/988E56/988E56.png) `#988E56`|||
 |Zandri Dust|Base|152|142|86|![#988E56](https://placehold.co/15x15/988E56/988E56.png) `#988E56`|||
 |Zandri Dust|Air|152|142|86|![#988E56](https://placehold.co/15x15/988E56/988E56.png) `#988E56`|||
-<p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
-<p align="center">Made available by <a href="https://miniaturepainterpro.app/">Miniature Painter Pro</a></p>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.rfsp.paintmaster"> <img src="../logos/Android.png" height="30" /></a>
-<a href="https://apps.apple.com/us/app/miniature-painter-pro/id1495938928"> <img src="../logos/iOS.png" height="30" /></a>
-</p>
