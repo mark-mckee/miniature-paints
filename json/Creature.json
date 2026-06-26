@@ -25,6 +25,7 @@
         "g": 7,
         "b": 11
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -39,6 +40,7 @@
         "g": 40,
         "b": 42
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -53,6 +55,7 @@
         "g": 17,
         "b": 68
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -67,6 +70,7 @@
         "g": 90,
         "b": 196
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -81,6 +85,7 @@
         "g": 9,
         "b": 3
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -95,6 +100,7 @@
         "g": 227,
         "b": 226
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -109,6 +115,7 @@
         "g": 152,
         "b": 85
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -123,6 +130,7 @@
         "g": 230,
         "b": 208
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -137,6 +145,7 @@
         "g": 188,
         "b": 181
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -151,6 +160,7 @@
         "g": 200,
         "b": 178
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -165,6 +175,7 @@
         "g": 183,
         "b": 4
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -179,6 +190,7 @@
         "g": 75,
         "b": 45
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -193,6 +205,7 @@
         "g": 11,
         "b": 10
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -207,6 +220,7 @@
         "g": 30,
         "b": 5
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -221,6 +235,7 @@
         "g": 28,
         "b": 21
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -235,6 +250,7 @@
         "g": 77,
         "b": 34
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -249,6 +265,7 @@
         "g": 11,
         "b": 11
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -263,6 +280,7 @@
         "g": 84,
         "b": 35
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -277,6 +295,7 @@
         "g": 29,
         "b": 38
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -291,6 +310,7 @@
         "g": 49,
         "b": 36
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -305,6 +325,7 @@
         "g": 51,
         "b": 102
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -319,6 +340,7 @@
         "g": 45,
         "b": 47
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -333,6 +355,7 @@
         "g": 12,
         "b": 55
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -347,6 +370,7 @@
         "g": 18,
         "b": 21
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -361,6 +385,7 @@
         "g": 28,
         "b": 16
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -375,6 +400,7 @@
         "g": 77,
         "b": 81
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -389,6 +415,7 @@
         "g": 162,
         "b": 221
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -403,6 +430,7 @@
         "g": 172,
         "b": 68
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -417,6 +445,7 @@
         "g": 226,
         "b": 31
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -431,6 +460,7 @@
         "g": 155,
         "b": 65
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -445,6 +475,7 @@
         "g": 51,
         "b": 51
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -459,6 +490,7 @@
         "g": 211,
         "b": 186
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -473,6 +505,7 @@
         "g": 84,
         "b": 90
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -487,6 +520,7 @@
         "g": 126,
         "b": 81
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -501,6 +535,7 @@
         "g": 56,
         "b": 32
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -515,6 +550,7 @@
         "g": 60,
         "b": 108
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -529,6 +565,7 @@
         "g": 13,
         "b": 9
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -543,6 +580,7 @@
         "g": 219,
         "b": 213
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -557,6 +595,7 @@
         "g": 193,
         "b": 143
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -571,6 +610,7 @@
         "g": 123,
         "b": 0
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -585,6 +625,7 @@
         "g": 23,
         "b": 0
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -599,6 +640,7 @@
         "g": 190,
         "b": 179
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -613,6 +655,7 @@
         "g": 27,
         "b": 41
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -627,6 +670,7 @@
         "g": 51,
         "b": 140
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -641,6 +685,7 @@
         "g": 2,
         "b": 0
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -655,6 +700,7 @@
         "g": 139,
         "b": 42
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -669,6 +715,7 @@
         "g": 70,
         "b": 52
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -683,6 +730,7 @@
         "g": 184,
         "b": 188
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -697,6 +745,7 @@
         "g": 174,
         "b": 232
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -711,6 +760,7 @@
         "g": 174,
         "b": 136
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -725,6 +775,7 @@
         "g": 156,
         "b": 131
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -739,6 +790,7 @@
         "g": 171,
         "b": 6
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     },
@@ -753,6 +805,7 @@
         "g": 132,
         "b": 31
       },
+      "shiftColors": null,
       "potSize": null,
       "description": null
     }

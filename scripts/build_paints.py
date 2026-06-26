@@ -114,8 +114,19 @@ def parse_paints(lines, brand_slug):
             return int(v) if v.isdigit() else None
         R, G, B = to_int(row.get('R')), to_int(row.get('G')), to_int(row.get('B'))
 
-        m = HEX_RE.search(row.get('Hex', ''))
-        hexv = '#' + m.group(1).upper() if m else None
+        # A normal paint's Hex cell repeats one colour (alt text, placehold URL,
+        # backtick code); a colour-shift paint lists several distinct stops. Dedupe
+        # preserving order: one unique colour -> hex/rgb; several -> shiftColors.
+        seen, hexes = set(), []
+        for h in HEX_RE.findall(row.get('Hex', '')):
+            h = '#' + h.upper()
+            if h not in seen:
+                seen.add(h)
+                hexes.append(h)
+        if len(hexes) >= 2:
+            hexv, shift_colors = None, hexes
+        else:
+            hexv, shift_colors = (hexes[0] if hexes else None), None
 
         base = f"{brand_slug}-{slug(code) if code else slug(name)}"
         pid, n = base, 2
@@ -131,6 +142,7 @@ def parse_paints(lines, brand_slug):
             "set": setv,
             "hex": hexv,
             "rgb": {"r": R, "g": G, "b": B} if None not in (R, G, B) else None,
+            "shiftColors": shift_colors,
             "potSize": pot,
             "description": desc,
         })
