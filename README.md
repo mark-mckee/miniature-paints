@@ -19,7 +19,7 @@ Feel free to use or improve any of these paints in your own personal projects. A
 >
 >There's still an awful lot of legwork involved. Claude is basically my unpaid intern.
 
-## Taks
+## Tasks
 
 [The expanded Tasks file is here](TODO.md)
 
