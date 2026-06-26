@@ -36,3 +36,6 @@ I have added a single JSON file that contains all brands and paints. This file w
 There's a lot of paints! Tens of thousands of them! I have been feeding the latest product catalogues into Claude and asking it to pull out all the paints and the sets they belong to. After I process and verify the output, Claude then updates the tables in the markdown files. AI can make mistakes, and so can I, so there may be errors. I verify as much as possible, but if a mistake slips through feel free to open a PR and I'll correct it. 
 
 There's still an awful lot of legwork involved, and Claude takes the mundane tasks off of me.
+
+## A note on colour accuracy
+The hex and RGB values for any of the paints are as accurate as possible, but without official information from the brands themselves they are approximations. This is especially true for colour-shifting paints, which have no single colour — their swatches are generated from the manufacturer's colour descriptions and are only an approximation of how the paint actually shifts.
