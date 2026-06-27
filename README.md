@@ -44,7 +44,7 @@ Feel free to use or improve any of these paints in your own personal projects. A
   - [ ] Monument Hobbies
   - [ ] Mr Hobby
   - [ ] Mr Paint
-  - [ ] P3
+  - [X] P3
   - [ ] Pantone
   - [ ] RAL
   - [ ] Reaper

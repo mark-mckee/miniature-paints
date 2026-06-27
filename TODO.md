@@ -66,7 +66,9 @@
   - [ ] Monument Hobbies
   - [ ] Mr Hobby
   - [ ] Mr Paint
-  - [ ] P3
+  - [X] P3
+    - [X] Acrylics
+    - [X] Metallics
   - [ ] Pantone
   - [ ] RAL
   - [ ] Reaper
