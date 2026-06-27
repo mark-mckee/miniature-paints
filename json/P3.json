@@ -284,7 +284,7 @@
       "id": "p3-blighted-gold",
       "name": "Blighted Gold",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#6D612C",
       "rgb": {
         "r": 109,
@@ -436,7 +436,7 @@
       "id": "p3-brass-balls",
       "name": "Brass Balls",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#C5B58A",
       "rgb": {
         "r": 197,
@@ -474,7 +474,7 @@
       "id": "p3-bronze-badge",
       "name": "Bronze Badge",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#904A21",
       "rgb": {
         "r": 144,
@@ -569,7 +569,7 @@
       "id": "p3-copper-penny",
       "name": "Copper Penny",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#9D5E31",
       "rgb": {
         "r": 157,
@@ -588,7 +588,7 @@
       "id": "p3-copper-pipe",
       "name": "Copper Pipe",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#684C36",
       "rgb": {
         "r": 104,
@@ -664,7 +664,7 @@
       "id": "p3-deathless-metal",
       "name": "Deathless Metal",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#492D21",
       "rgb": {
         "r": 73,
@@ -797,7 +797,7 @@
       "id": "p3-galvanised-steel",
       "name": "Galvanised Steel",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#85877A",
       "rgb": {
         "r": 133,
@@ -987,7 +987,7 @@
       "id": "p3-illuminated-gold",
       "name": "Illuminated Gold",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#AA9C77",
       "rgb": {
         "r": 170,
@@ -1291,7 +1291,7 @@
       "id": "p3-molten-bronze",
       "name": "Molten Bronze",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#A25F37",
       "rgb": {
         "r": 162,
@@ -1424,7 +1424,7 @@
       "id": "p3-orgoth-bronze",
       "name": "Orgoth Bronze",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#3C3324",
       "rgb": {
         "r": 60,
@@ -1443,7 +1443,7 @@
       "id": "p3-pig-iron",
       "name": "Pig Iron",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#53524C",
       "rgb": {
         "r": 83,
@@ -1481,7 +1481,7 @@
       "id": "p3-quick-silver",
       "name": "Quick Silver",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#A3ACAB",
       "rgb": {
         "r": 163,
@@ -1500,7 +1500,7 @@
       "id": "p3-radiant-platinum",
       "name": "Radiant Platinum",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#AC9A86",
       "rgb": {
         "r": 172,
@@ -1557,7 +1557,7 @@
       "id": "p3-rhulic-gold",
       "name": "Rhulic Gold",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#BA7A25",
       "rgb": {
         "r": 186,
@@ -1785,7 +1785,7 @@
       "id": "p3-solid-gold",
       "name": "Solid Gold",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#BFA051",
       "rgb": {
         "r": 191,
@@ -1804,7 +1804,7 @@
       "id": "p3-spectral-steel",
       "name": "Spectral Steel",
       "code": null,
-      "set": "Acrylics",
+      "set": "Metallics",
       "hex": "#ABA18F",
       "rgb": {
         "r": 171,
