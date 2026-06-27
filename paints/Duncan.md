@@ -18,183 +18,183 @@
 
 |Name|Set|R|G|B|Hex|Pot Size|Description|
 |---|---|---|---|---|---|---|---|
-|Abyss Blue|Wave 2|51|74|102|![#334A66](https://placehold.co/15x15/334A66/334A66.png) `#334A66`|||
-|Ambush Yellow|Wave 3|227|204|115|![#E3CC73](https://placehold.co/15x15/E3CC73/E3CC73.png) `#E3CC73`|||
-|Amethyst Rayne|Wave 1|82|65|105|![#524169](https://placehold.co/15x15/524169/524169.png) `#524169`|||
-|Amphora Red|Wave 3|72|33|36|![#482124](https://placehold.co/15x15/482124/482124.png) `#482124`|||
-|Amulet Purple|Wave 2|190|172|210|![#BEACD2](https://placehold.co/15x15/BEACD2/BEACD2.png) `#BEACD2`|||
-|Ancient Forest|Wave 1|113|91|82|![#715B52](https://placehold.co/15x15/715B52/715B52.png) `#715B52`|||
-|Ancient Gold|Wave 3|119|103|66|![#776742](https://placehold.co/15x15/776742/776742.png) `#776742`|||
-|Antiquity Green|Wave 3|54|125|122|![#367D7A](https://placehold.co/15x15/367D7A/367D7A.png) `#367D7A`|||
-|Apocalypse Sky|Wave 3|227|78|63|![#E34E3F](https://placehold.co/15x15/E34E3F/E34E3F.png) `#E34E3F`|||
-|Archaic Sepia Wash|Wave 1|164|135|115|![#A48773](https://placehold.co/15x15/A48773/A48773.png) `#A48773`|||
-|Ares Flesh|Wave 2|222|194|135|![#DEC287](https://placehold.co/15x15/DEC287/DEC287.png) `#DEC287`|||
-|Argonaut Skin|Wave 2|167|142|108|![#A78E6C](https://placehold.co/15x15/A78E6C/A78E6C.png) `#A78E6C`|||
-|Ashen Grey|Wave 2|78|82|72|![#4E5248](https://placehold.co/15x15/4E5248/4E5248.png) `#4E5248`|||
-|Asmodeus Red|Wave 2|142|72|71|![#8E4847](https://placehold.co/15x15/8E4847/8E4847.png) `#8E4847`|||
-|Aztec Turquoise Wash|Wave 3|147|158|160|![#939EA0](https://placehold.co/15x15/939EA0/939EA0.png) `#939EA0`|||
-|Barbarian Brawn|Wave 1|143|94|84|![#8F5E54](https://placehold.co/15x15/8F5E54/8F5E54.png) `#8F5E54`|||
-|Bard Skin|Wave 2|149|111|97|![#956F61](https://placehold.co/15x15/956F61/956F61.png) `#956F61`|||
-|Batle Axe Brass|Wave 2|212|169|125|![#D4A97D](https://placehold.co/15x15/D4A97D/D4A97D.png) `#D4A97D`|||
-|Battle Mud Wash|Wave 1|121|106|93|![#796A5D](https://placehold.co/15x15/796A5D/796A5D.png) `#796A5D`|||
-|Berserker Red|Wave 1|77|26|21|![#4D1A15](https://placehold.co/15x15/4D1A15/4D1A15.png) `#4D1A15`|||
-|Blue Glaze|Wave 2|90|121|188|![#5A79BC](https://placehold.co/15x15/5A79BC/5A79BC.png) `#5A79BC`|||
-|Blue Steel|Wave 3|127|140|139|![#7F8C8B](https://placehold.co/15x15/7F8C8B/7F8C8B.png) `#7F8C8B`|||
-|Boar Hide|Wave 1|114|68|56|![#724438](https://placehold.co/15x15/724438/724438.png) `#724438`|||
-|Bone Wash|Wave 3|182|168|169|![#B6A8A9](https://placehold.co/15x15/B6A8A9/B6A8A9.png) `#B6A8A9`|||
-|Boot Strap Brown|Wave 3|142|103|75|![#8E674B](https://placehold.co/15x15/8E674B/8E674B.png) `#8E674B`|||
-|Carapace Green|Wave 3|79|149|90|![#4F955A](https://placehold.co/15x15/4F955A/4F955A.png) `#4F955A`|||
-|Carcharodon Grey|Wave 1|149|148|150|![#959496](https://placehold.co/15x15/959496/959496.png) `#959496`|||
-|Celestial Blue|Wave 1|105|145|192|![#6991C0](https://placehold.co/15x15/6991C0/6991C0.png) `#6991C0`|||
-|Centurion Red|Wave 3|230|49|50|![#E63132](https://placehold.co/15x15/E63132/E63132.png) `#E63132`|||
-|Cerberus Brown|Wave 2|223|173|88|![#DFAD58](https://placehold.co/15x15/DFAD58/DFAD58.png) `#DFAD58`|||
-|Chaos Bronze|Wave 3|166|139|109|![#A68B6D](https://placehold.co/15x15/A68B6D/A68B6D.png) `#A68B6D`|||
-|Cold Corpse Blue|Wave 1|80|85|92|![#50555C](https://placehold.co/15x15/50555C/50555C.png) `#50555C`|||
-|Contagion Green|Wave 3|139|158|123|![#8B9E7B](https://placehold.co/15x15/8B9E7B/8B9E7B.png) `#8B9E7B`|||
-|Craven Yellow|Wave 2|236|235|105|![#ECEB69](https://placehold.co/15x15/ECEB69/ECEB69.png) `#ECEB69`|||
-|Cuirass Leather|Wave 1|81|66|57|![#514239](https://placehold.co/15x15/514239/514239.png) `#514239`|||
-|Cursed Blue|Wave 2|65|153|179|![#4199B3](https://placehold.co/15x15/4199B3/4199B3.png) `#4199B3`|||
-|Cyber Pink|Wave 3|198|75|138|![#C64B8A](https://placehold.co/15x15/C64B8A/C64B8A.png) `#C64B8A`|||
-|Dark Sun Yellow|Wave 1|195|134|57|![#C38639](https://placehold.co/15x15/C38639/C38639.png) `#C38639`|||
-|Death Metal|Wave 3|105|101|93|![#69655D](https://placehold.co/15x15/69655D/69655D.png) `#69655D`|||
-|Death Reaper|Wave 1|67|65|66|![#434142](https://placehold.co/15x15/434142/434142.png) `#434142`|||
-|Decadent Purple|Wave 3|193|190|211|![#C1BED3](https://placehold.co/15x15/C1BED3/C1BED3.png) `#C1BED3`|||
-|Demon Red|Wave 1|210|17|22|![#D21116](https://placehold.co/15x15/D21116/D21116.png) `#D21116`|||
-|Doom Death Black|Wave 1|60|57|54|![#3C3936](https://placehold.co/15x15/3C3936/3C3936.png) `#3C3936`|||
-|Dragon Fang|Wave 1|158|132|97|![#9E8461](https://placehold.co/15x15/9E8461/9E8461.png) `#9E8461`|||
-|Dragon's Gold|Wave 1|205|162|78|![#CDA24E](https://placehold.co/15x15/CDA24E/CDA24E.png) `#CDA24E`|||
-|Dread Red|Wave 2|110|62|62|![#6E3E3E](https://placehold.co/15x15/6E3E3E/6E3E3E.png) `#6E3E3E`|||
-|Druid Flesh|Wave 2|83|61|51|![#533D33](https://placehold.co/15x15/533D33/533D33.png) `#533D33`|||
-|Dry Rust Brown|Wave 2|186|119|63|![#BA773F](https://placehold.co/15x15/BA773F/BA773F.png) `#BA773F`|||
-|Dungeon Stone Grey|Wave 1|92|94|95|![#5C5E5F](https://placehold.co/15x15/5C5E5F/5C5E5F.png) `#5C5E5F`|||
-|Dust Bowl|Wave 1|125|99|73|![#7D6349](https://placehold.co/15x15/7D6349/7D6349.png) `#7D6349`|||
-|Dwarven Iron|Wave 2|137|136|132|![#898884](https://placehold.co/15x15/898884/898884.png) `#898884`|||
-|Dwarven Skin|Wave 1|176|124|98|![#B07C62](https://placehold.co/15x15/B07C62/B07C62.png) `#B07C62`|||
-|Eidolon Grey|Wave 2|83|85|72|![#535548](https://placehold.co/15x15/535548/535548.png) `#535548`|||
-|Elder Robe|Wave 3|34|89|160|![#2259A0](https://placehold.co/15x15/2259A0/2259A0.png) `#2259A0`|||
-|Elixir Green|Wave 3|126|198|143|![#7EC68F](https://placehold.co/15x15/7EC68F/7EC68F.png) `#7EC68F`|||
-|Elven Skin|Wave 1|196|151|116|![#C49774](https://placehold.co/15x15/C49774/C49774.png) `#C49774`|||
-|Elysium Blue|Wave 1|81|121|171|![#5179AB](https://placehold.co/15x15/5179AB/5179AB.png) `#5179AB`|||
-|Emperor Red|Wave 3|160|49|64|![#A03140](https://placehold.co/15x15/A03140/A03140.png) `#A03140`|||
-|Emperor's Purple|Wave 3|122|96|137|![#7A6089](https://placehold.co/15x15/7A6089/7A6089.png) `#7A6089`|||
-|Enchantment Blue|Wave 3|52|125|170|![#347DAA](https://placehold.co/15x15/347DAA/347DAA.png) `#347DAA`|||
-|Enchantress Purple|Wave 3|89|54|98|![#593662](https://placehold.co/15x15/593662/593662.png) `#593662`|||
-|Enticing Purple|Wave 3|127|122|139|![#7F7A8B](https://placehold.co/15x15/7F7A8B/7F7A8B.png) `#7F7A8B`|||
-|Ethereal Green|Wave 1|86|127|45|![#567F2D](https://placehold.co/15x15/567F2D/567F2D.png) `#567F2D`|||
-|Evil Eye Red|Wave 2|193|93|79|![#C15D4F](https://placehold.co/15x15/C15D4F/C15D4F.png) `#C15D4F`|||
-|Fanatic Orange|Wave 1|217|74|46|![#D94A2E](https://placehold.co/15x15/D94A2E/D94A2E.png) `#D94A2E`|||
-|Faust Blue|Wave 3|69|81|91|![#45515B](https://placehold.co/15x15/45515B/45515B.png) `#45515B`|||
-|Field Grey|Wave 2|108|113|94|![#6C715E](https://placehold.co/15x15/6C715E/6C715E.png) `#6C715E`|||
-|Fire Opal|Wave 3|195|110|74|![#C36E4A](https://placehold.co/15x15/C36E4A/C36E4A.png) `#C36E4A`|||
-|Flak Gun Yellow|Wave 3|197|170|90|![#C5AA5A](https://placehold.co/15x15/C5AA5A/C5AA5A.png) `#C5AA5A`|||
-|Flaming Forge Orange|Wave 2|233|165|68|![#E9A544](https://placehold.co/15x15/E9A544/E9A544.png) `#E9A544`|||
-|Flesh Wash|Wave 1|196|166|120|![#C4A678](https://placehold.co/15x15/C4A678/C4A678.png) `#C4A678`|||
-|Frost Blue|Wave 3|120|150|157|![#78969D](https://placehold.co/15x15/78969D/78969D.png) `#78969D`|||
-|Fury Green|Wave 2|108|107|75|![#6C6B4B](https://placehold.co/15x15/6C6B4B/6C6B4B.png) `#6C6B4B`|||
-|Ghoul Green|Wave 2|82|189|151|![#52BD97](https://placehold.co/15x15/52BD97/52BD97.png) `#52BD97`|||
-|Gigawatt Blue|Wave 2|87|183|232|![#57B7E8](https://placehold.co/15x15/57B7E8/57B7E8.png) `#57B7E8`|||
-|Glistening Gold|Wave 1|155|134|100|![#9B8664](https://placehold.co/15x15/9B8664/9B8664.png) `#9B8664`|||
-|Glistening Gums|Wave 1|153|87|121|![#995779](https://placehold.co/15x15/995779/995779.png) `#995779`|||
-|Gloss Varnish|Wave 3|165|165|164|![#A5A5A4](https://placehold.co/15x15/A5A5A4/A5A5A4.png) `#A5A5A4`|||
-|Goblinoid Green|Wave 2|137|183|106|![#89B76A](https://placehold.co/15x15/89B76A/89B76A.png) `#89B76A`|||
-|Gravestone Blue|Wave 1|122|136|150|![#7A8896](https://placehold.co/15x15/7A8896/7A8896.png) `#7A8896`|||
-|Green Beret|Wave 2|171|171|135|![#ABAB87](https://placehold.co/15x15/ABAB87/ABAB87.png) `#ABAB87`|||
-|Green Glaze|Wave 2|149|203|116|![#95CB74](https://placehold.co/15x15/95CB74/95CB74.png) `#95CB74`|||
-|Griffon Claw|Wave 1|158|144|132|![#9E9084](https://placehold.co/15x15/9E9084/9E9084.png) `#9E9084`|||
-|Gung-ho Green|Wave 2|168|162|100|![#A8A264](https://placehold.co/15x15/A8A264/A8A264.png) `#A8A264`|||
-|Gyzmo Fur|Wave 2|210|137|80|![#D28950](https://placehold.co/15x15/D28950/D28950.png) `#D28950`|||
-|Hazard Yellow Wash|Wave 3|229|192|180|![#E5C0B4](https://placehold.co/15x15/E5C0B4/E5C0B4.png) `#E5C0B4`|||
-|Heirloom Gold|Wave 3|198|156|83|![#C69C53](https://placehold.co/15x15/C69C53/C69C53.png) `#C69C53`|||
-|Helion Red Wash|Wave 2|134|84|83|![#865453](https://placehold.co/15x15/865453/865453.png) `#865453`|||
-|Hellspawn Red|Wave 2|190|57|46|![#BE392E](https://placehold.co/15x15/BE392E/BE392E.png) `#BE392E`|||
-|Hot Pink|Wave 2|225|132|165|![#E184A5](https://placehold.co/15x15/E184A5/E184A5.png) `#E184A5`|||
-|Hydra Green|Wave 2|52|75|77|![#344B4D](https://placehold.co/15x15/344B4D/344B4D.png) `#344B4D`|||
-|Incubus Purple|Wave 3|106|105|108|![#6A696C](https://placehold.co/15x15/6A696C/6A696C.png) `#6A696C`|||
-|Inferno Orange|Wave 3|206|74|50|![#CE4A32](https://placehold.co/15x15/CE4A32/CE4A32.png) `#CE4A32`|||
-|Ion Blue|Wave 3|183|213|216|![#B7D5D8](https://placehold.co/15x15/B7D5D8/B7D5D8.png) `#B7D5D8`|||
-|Ivory Tusk|Wave 1|210|199|191|![#D2C7BF](https://placehold.co/15x15/D2C7BF/D2C7BF.png) `#D2C7BF`|||
-|Jade Green|Wave 2|46|121|104|![#2E7968](https://placehold.co/15x15/2E7968/2E7968.png) `#2E7968`|||
-|Keleton Legion|Wave 1|175|150|108|![#AF966C](https://placehold.co/15x15/AF966C/AF966C.png) `#AF966C`|||
-|Kobold Grey|Wave 2|133|139|117|![#858B75](https://placehold.co/15x15/858B75/858B75.png) `#858B75`|||
-|Kronos Flesh|Wave 2|191|154|111|![#BF9A6F](https://placehold.co/15x15/BF9A6F/BF9A6F.png) `#BF9A6F`|||
-|Legion Green|Wave 3|42|106|102|![#2A6A66](https://placehold.co/15x15/2A6A66/2A6A66.png) `#2A6A66`|||
-|Leviathan Blue|Wave 2|58|123|191|![#3A7BBF](https://placehold.co/15x15/3A7BBF/3A7BBF.png) `#3A7BBF`|||
-|Magi Purple Wash|Wave 2|79|51|80|![#4F3350](https://placehold.co/15x15/4F3350/4F3350.png) `#4F3350`|||
-|Manticore Ochre|Wave 2|214|151|68|![#D69744](https://placehold.co/15x15/D69744/D69744.png) `#D69744`|||
-|Marine Blue|Wave 1|67|73|111|![#43496F](https://placehold.co/15x15/43496F/43496F.png) `#43496F`|||
-|Matt Varnish|Wave 3|220|220|221|![#DCDCDD](https://placehold.co/15x15/DCDCDD/DCDCDD.png) `#DCDCDD`|||
-|Merald Green|Wave 1|60|92|67|![#3C5C43](https://placehold.co/15x15/3C5C43/3C5C43.png) `#3C5C43`|||
-|Mythic Turquoise|Wave 3|89|158|156|![#599E9C](https://placehold.co/15x15/599E9C/599E9C.png) `#599E9C`|||
-|Mythril Blade|Wave 1|125|127|127|![#7D7F7F](https://placehold.co/15x15/7D7F7F/7D7F7F.png) `#7D7F7F`|||
-|Necrosis Green Wash|Wave 1|123|138|105|![#7B8A69](https://placehold.co/15x15/7B8A69/7B8A69.png) `#7B8A69`|||
-|Neo Pink|Wave 2|243|188|215|![#F3BCD7](https://placehold.co/15x15/F3BCD7/F3BCD7.png) `#F3BCD7`|||
-|Noble Steed Brown|Wave 2|117|83|57|![#755339](https://placehold.co/15x15/755339/755339.png) `#755339`|||
-|Oblivion Black Wash|Wave 1|69|67|68|![#454344](https://placehold.co/15x15/454344/454344.png) `#454344`|||
-|Omega Blue|Wave 3|88|185|182|![#58B9B6](https://placehold.co/15x15/58B9B6/58B9B6.png) `#58B9B6`|||
-|Orange Flare|Wave 1|235|113|64|![#EB7140](https://placehold.co/15x15/EB7140/EB7140.png) `#EB7140`|||
-|Orange Glaze|Wave 2|248|159|91|![#F89F5B](https://placehold.co/15x15/F89F5B/F89F5B.png) `#F89F5B`|||
-|Orc Hide|Wave 2|123|155|104|![#7B9B68](https://placehold.co/15x15/7B9B68/7B9B68.png) `#7B9B68`|||
-|Overlord Brass|Wave 2|214|175|131|![#D6AF83](https://placehold.co/15x15/D6AF83/D6AF83.png) `#D6AF83`|||
-|Oxidation Green|Wave 3|52|68|76|![#34444C](https://placehold.co/15x15/34444C/34444C.png) `#34444C`|||
-|Paladin Flesh|Wave 2|118|86|75|![#76564B](https://placehold.co/15x15/76564B/76564B.png) `#76564B`|||
-|Pale Skin|Wave 3|202|170|122|![#CAAA7A](https://placehold.co/15x15/CAAA7A/CAAA7A.png) `#CAAA7A`|||
-|Panzer Yellow|Wave 3|165|142|66|![#A58E42](https://placehold.co/15x15/A58E42/A58E42.png) `#A58E42`|||
-|Perisher Pink|Wave 2|186|99|104|![#BA6368](https://placehold.co/15x15/BA6368/BA6368.png) `#BA6368`|||
-|Pestilence Green|Wave 3|211|223|149|![#D3DF95](https://placehold.co/15x15/D3DF95/D3DF95.png) `#D3DF95`|||
-|Plate Armour|Wave 1|120|121|121|![#787979](https://placehold.co/15x15/787979/787979.png) `#787979`|||
-|Platinum Crown|Wave 2|206|194|164|![#CEC2A4](https://placehold.co/15x15/CEC2A4/CEC2A4.png) `#CEC2A4`|||
-|Purple Glaze|Wave 2|182|121|170|![#B679AA](https://placehold.co/15x15/B679AA/B679AA.png) `#B679AA`|||
-|RC Flesh Wash|Wave 1|82|133|76|![#52854C](https://placehold.co/15x15/52854C/52854C.png) `#52854C`|||
-|Ranger Cloak|Wave 2|125|131|81|![#7D8351](https://placehold.co/15x15/7D8351/7D8351.png) `#7D8351`|||
-|Ray Gun Glow|Wave 2|71|176|194|![#47B0C2](https://placehold.co/15x15/47B0C2/47B0C2.png) `#47B0C2`|||
-|Red Glaze|Wave 2|243|131|102|![#F38366](https://placehold.co/15x15/F38366/F38366.png) `#F38366`|||
-|Red Rage|Wave 3|106|52|42|![#6A342A](https://placehold.co/15x15/6A342A/6A342A.png) `#6A342A`|||
-|Relic Blue|Wave 3|43|127|187|![#2B7FBB](https://placehold.co/15x15/2B7FBB/2B7FBB.png) `#2B7FBB`|||
-|Ritz O'Tin|Wave 3|150|130|115|![#968273](https://placehold.co/15x15/968273/968273.png) `#968273`|||
-|Rodent Grey|Wave 2|112|114|99|![#707263](https://placehold.co/15x15/707263/707263.png) `#707263`|||
-|Royal Cloak|Wave 1|91|66|73|![#5B4249](https://placehold.co/15x15/5B4249/5B4249.png) `#5B4249`|||
-|Runic Purple|Wave 1|155|141|180|![#9B8DB4](https://placehold.co/15x15/9B8DB4/9B8DB4.png) `#9B8DB4`|||
-|Rust Orange|Wave 1|185|77|55|![#B94D37](https://placehold.co/15x15/B94D37/B94D37.png) `#B94D37`|||
-|Sandstone|Wave 1|146|123|104|![#927B68](https://placehold.co/15x15/927B68/927B68.png) `#927B68`|||
-|Sanguine Scarlet|Wave 1|150|23|20|![#961714](https://placehold.co/15x15/961714/961714.png) `#961714`|||
-|Satyr Brown|Wave 2|213|150|87|![#D59657](https://placehold.co/15x15/D59657/D59657.png) `#D59657`|||
-|Scabbard Brown|Wave 3|123|94|70|![#7B5E46](https://placehold.co/15x15/7B5E46/7B5E46.png) `#7B5E46`|||
-|Scarab Red|Wave 3|176|64|69|![#B04045](https://placehold.co/15x15/B04045/B04045.png) `#B04045`|||
-|Scorched Earth|Wave 1|89|76|72|![#594C48](https://placehold.co/15x15/594C48/594C48.png) `#594C48`|||
-|Seafarer Blue|Wave 3|74|156|199|![#4A9CC7](https://placehold.co/15x15/4A9CC7/4A9CC7.png) `#4A9CC7`|||
-|Sentient Turquoise|Wave 2|58|131|160|![#3A83A0](https://placehold.co/15x15/3A83A0/3A83A0.png) `#3A83A0`|||
-|Septric Green|Wave 3|171|179|55|![#ABB337](https://placehold.co/15x15/ABB337/ABB337.png) `#ABB337`|||
-|Serpent Eye Yellow|Wave 3|245|209|13|![#F5D10D](https://placehold.co/15x15/F5D10D/F5D10D.png) `#F5D10D`|||
-|Shadow Blue|Wave 3|79|100|107|![#4F646B](https://placehold.co/15x15/4F646B/4F646B.png) `#4F646B`|||
-|Sir Coates Silver|Wave 1|77|79|79|![#4D4F4F](https://placehold.co/15x15/4D4F4F/4D4F4F.png) `#4D4F4F`|||
-|Skulker Yellow|Wave 1|244|158|0|![#F49E00](https://placehold.co/15x15/F49E00/F49E00.png) `#F49E00`|||
-|Smoke Grey Wash|Wave 3|251|252|251|![#FBFCFB](https://placehold.co/15x15/FBFCFB/FBFCFB.png) `#FBFCFB`|||
-|Solar Flare|Wave 3|238|127|33|![#EE7F21](https://placehold.co/15x15/EE7F21/EE7F21.png) `#EE7F21`|||
-|Sorceror's Cloak|Wave 1|120|88|141|![#78588D](https://placehold.co/15x15/78588D/78588D.png) `#78588D`|||
-|Spartan Bronze|Wave 1|100|69|52|![#644534](https://placehold.co/15x15/644534/644534.png) `#644534`|||
-|Spectral Purple|Wave 3|153|90|154|![#995A9A](https://placehold.co/15x15/995A9A/995A9A.png) `#995A9A`|||
-|Steampunk Copper|Wave 2|181|98|60|![#B5623C](https://placehold.co/15x15/B5623C/B5623C.png) `#B5623C`|||
-|Sun Bleach Yellow|Wave 3|245|227|80|![#F5E350](https://placehold.co/15x15/F5E350/F5E350.png) `#F5E350`|||
-|Sword Hilt Burgundy|Wave 1|119|61|74|![#773D4A](https://placehold.co/15x15/773D4A/773D4A.png) `#773D4A`|||
-|Talisman Green|Wave 2|121|192|66|![#79C042](https://placehold.co/15x15/79C042/79C042.png) `#79C042`|||
-|Tempest Blue Wash|Wave 2|62|81|101|![#3E5165](https://placehold.co/15x15/3E5165/3E5165.png) `#3E5165`|||
-|Temple Stone|Wave 1|163|145|121|![#A39179](https://placehold.co/15x15/A39179/A39179.png) `#A39179`|||
-|Top Brass|Wave 2|181|145|85|![#B59155](https://placehold.co/15x15/B59155/B59155.png) `#B59155`|||
-|Traitor Green|Wave 3|47|83|79|![#2F534F](https://placehold.co/15x15/2F534F/2F534F.png) `#2F534F`|||
-|Troll Snot Green|Wave 2|156|197|117|![#9CC575](https://placehold.co/15x15/9CC575/9CC575.png) `#9CC575`|||
-|Trooper White|Wave 1|236|234|223|![#ECEADF](https://placehold.co/15x15/ECEADF/ECEADF.png) `#ECEADF`|||
-|Twin Suns Yellow|Wave 3|229|230|172|![#E5E6AC](https://placehold.co/15x15/E5E6AC/E5E6AC.png) `#E5E6AC`|||
-|Ur Cloak|Wave 1|145|82|77|![#91524D](https://placehold.co/15x15/91524D/91524D.png) `#91524D`|||
-|Vambrace Brown|Wave 3|156|116|92|![#9C745C](https://placehold.co/15x15/9C745C/9C745C.png) `#9C745C`|||
-|Vampire Fang|Wave 1|203|184|155|![#CBB89B](https://placehold.co/15x15/CBB89B/CBB89B.png) `#CBB89B`|||
-|Von Evile Pimple|Wave 3|34|1|46|![#22012E](https://placehold.co/15x15/22012E/22012E.png) `#22012E`|||
-|War Master Green|Wave 3|58|65|64|![#3A4140](https://placehold.co/15x15/3A4140/3A4140.png) `#3A4140`|||
-|Wasteland Brown|Wave 1|133|108|92|![#856C5C](https://placehold.co/15x15/856C5C/856C5C.png) `#856C5C`|||
-|White Star|Wave 1|249|249|249|![#F9F9F9](https://placehold.co/15x15/F9F9F9/F9F9F9.png) `#F9F9F9`|||
-|Witching Hour Blue|Wave 2|50|106|179|![#326AB3](https://placehold.co/15x15/326AB3/326AB3.png) `#326AB3`|||
-|Wizard Grey|Wave 1|109|107|108|![#6D6B6C](https://placehold.co/15x15/6D6B6C/6D6B6C.png) `#6D6B6C`|||
-|Wolf Grey|Wave 1|98|117|135|![#627587](https://placehold.co/15x15/627587/627587.png) `#627587`|||
-|Wyvern Green|Wave 1|64|73|66|![#404942](https://placehold.co/15x15/404942/404942.png) `#404942`|||
-|Yellow Flame|Wave 1|248|175|43|![#F8AF2B](https://placehold.co/15x15/F8AF2B/F8AF2B.png) `#F8AF2B`|||
-|Yellow Glaze|Wave 2|242|240|117|![#F2F075](https://placehold.co/15x15/F2F075/F2F075.png) `#F2F075`|||
-|Zombie Rot|Wave 3|177|182|121|![#B1B679](https://placehold.co/15x15/B1B679/B1B679.png) `#B1B679`|||
+|Amethyst Rayne|Wave 1 — Shadow|82|65|105|![#524169](https://placehold.co/15x15/524169/524169.png) `#524169`|15ml||
+|Barbarian Brawn|Wave 1 — Shadow|143|95|85|![#8F5F55](https://placehold.co/15x15/8F5F55/8F5F55.png) `#8F5F55`|15ml||
+|Berserker Red|Wave 1 — Shadow|77|27|21|![#4D1B15](https://placehold.co/15x15/4D1B15/4D1B15.png) `#4D1B15`|15ml||
+|Cold Corpse Blue|Wave 1 — Shadow|81|85|92|![#51555C](https://placehold.co/15x15/51555C/51555C.png) `#51555C`|15ml||
+|Cuirass Leather|Wave 1 — Shadow|82|67|58|![#52433A](https://placehold.co/15x15/52433A/52433A.png) `#52433A`|15ml||
+|Dark Sun Yellow|Wave 1 — Shadow|196|134|57|![#C48639](https://placehold.co/15x15/C48639/C48639.png) `#C48639`|15ml||
+|Doom Death Black|Wave 1 — Shadow|61|57|55|![#3D3937](https://placehold.co/15x15/3D3937/3D3937.png) `#3D3937`|15ml||
+|Dragon Fang|Wave 1 — Shadow|158|132|96|![#9E8460](https://placehold.co/15x15/9E8460/9E8460.png) `#9E8460`|15ml||
+|Dust Bowl|Wave 1 — Shadow|126|99|75|![#7E634B](https://placehold.co/15x15/7E634B/7E634B.png) `#7E634B`|15ml||
+|Griffon Claw|Wave 1 — Shadow|159|144|133|![#9F9085](https://placehold.co/15x15/9F9085/9F9085.png) `#9F9085`|15ml||
+|Marine Blue|Wave 1 — Shadow|68|73|111|![#44496F](https://placehold.co/15x15/44496F/44496F.png) `#44496F`|15ml||
+|Royal Cloak|Wave 1 — Shadow|91|67|73|![#5B4349](https://placehold.co/15x15/5B4349/5B4349.png) `#5B4349`|15ml||
+|Rust Orange|Wave 1 — Shadow|186|77|55|![#BA4D37](https://placehold.co/15x15/BA4D37/BA4D37.png) `#BA4D37`|15ml||
+|Scorched Earth|Wave 1 — Shadow|90|77|73|![#5A4D49](https://placehold.co/15x15/5A4D49/5A4D49.png) `#5A4D49`|15ml||
+|Sir Coates Silver|Wave 1 — Shadow|74|75|75|![#4A4B4B](https://placehold.co/15x15/4A4B4B/4A4B4B.png) `#4A4B4B`|15ml||
+|Spartan Bronze|Wave 1 — Shadow|87|63|48|![#573F30](https://placehold.co/15x15/573F30/573F30.png) `#573F30`|15ml||
+|Wizard Grey|Wave 1 — Shadow|109|108|108|![#6D6C6C](https://placehold.co/15x15/6D6C6C/6D6C6C.png) `#6D6C6C`|15ml||
+|Wyvern Green|Wave 1 — Shadow|64|74|67|![#404A43](https://placehold.co/15x15/404A43/404A43.png) `#404A43`|15ml||
+|Ancient Forest|Wave 1 — Midtone|113|91|82|![#715B52](https://placehold.co/15x15/715B52/715B52.png) `#715B52`|15ml||
+|Boar Hide|Wave 1 — Midtone|115|69|57|![#734539](https://placehold.co/15x15/734539/734539.png) `#734539`|15ml||
+|Carcharodon Grey|Wave 1 — Midtone|149|149|150|![#959596](https://placehold.co/15x15/959596/959596.png) `#959596`|15ml||
+|Death Reaper|Wave 1 — Midtone|67|65|66|![#434142](https://placehold.co/15x15/434142/434142.png) `#434142`|15ml||
+|Dragon's Gold|Wave 1 — Midtone|147|119|62|![#93773E](https://placehold.co/15x15/93773E/93773E.png) `#93773E`|15ml||
+|Dwarven Skin|Wave 1 — Midtone|176|124|98|![#B07C62](https://placehold.co/15x15/B07C62/B07C62.png) `#B07C62`|15ml||
+|Elysium Blue|Wave 1 — Midtone|82|121|172|![#5279AC](https://placehold.co/15x15/5279AC/5279AC.png) `#5279AC`|15ml||
+|Emerald Green|Wave 1 — Midtone|60|92|67|![#3C5C43](https://placehold.co/15x15/3C5C43/3C5C43.png) `#3C5C43`|15ml||
+|Fanatic Orange|Wave 1 — Midtone|217|74|46|![#D94A2E](https://placehold.co/15x15/D94A2E/D94A2E.png) `#D94A2E`|15ml||
+|Ivory Tusk|Wave 1 — Midtone|210|200|192|![#D2C8C0](https://placehold.co/15x15/D2C8C0/D2C8C0.png) `#D2C8C0`|15ml||
+|Plate Armour|Wave 1 — Midtone|97|99|98|![#616362](https://placehold.co/15x15/616362/616362.png) `#616362`|15ml||
+|Sandstone|Wave 1 — Midtone|146|123|104|![#927B68](https://placehold.co/15x15/927B68/927B68.png) `#927B68`|15ml||
+|Sanguine Scarlet|Wave 1 — Midtone|151|24|20|![#971814](https://placehold.co/15x15/971814/971814.png) `#971814`|15ml||
+|Skeleton Legion|Wave 1 — Midtone|176|150|108|![#B0966C](https://placehold.co/15x15/B0966C/B0966C.png) `#B0966C`|15ml||
+|Skulker Yellow|Wave 1 — Midtone|245|158|0|![#F59E00](https://placehold.co/15x15/F59E00/F59E00.png) `#F59E00`|15ml||
+|Sorceror's Cloak|Wave 1 — Midtone|121|88|141|![#79588D](https://placehold.co/15x15/79588D/79588D.png) `#79588D`|15ml||
+|Sword Hilt Burgundy|Wave 1 — Midtone|119|61|75|![#773D4B](https://placehold.co/15x15/773D4B/773D4B.png) `#773D4B`|15ml||
+|Wolf Grey|Wave 1 — Midtone|98|118|136|![#627688](https://placehold.co/15x15/627688/627688.png) `#627688`|15ml||
+|Celestial Blue|Wave 1 — Highlight|105|146|192|![#6992C0](https://placehold.co/15x15/6992C0/6992C0.png) `#6992C0`|15ml||
+|Demon Red|Wave 1 — Highlight|210|18|22|![#D21216](https://placehold.co/15x15/D21216/D21216.png) `#D21216`|15ml||
+|Dungeon Stone Grey|Wave 1 — Highlight|92|94|96|![#5C5E60](https://placehold.co/15x15/5C5E60/5C5E60.png) `#5C5E60`|15ml||
+|Elven Skin|Wave 1 — Highlight|196|151|116|![#C49774](https://placehold.co/15x15/C49774/C49774.png) `#C49774`|15ml||
+|Ethereal Green|Wave 1 — Highlight|86|128|46|![#56802E](https://placehold.co/15x15/56802E/56802E.png) `#56802E`|15ml||
+|Fur Cloak|Wave 1 — Highlight|146|83|78|![#92534E](https://placehold.co/15x15/92534E/92534E.png) `#92534E`|15ml||
+|Glistening Gold|Wave 1 — Highlight|115|101|78|![#73654E](https://placehold.co/15x15/73654E/73654E.png) `#73654E`|15ml||
+|Glistening Gums|Wave 1 — Highlight|153|88|121|![#995879](https://placehold.co/15x15/995879/995879.png) `#995879`|15ml||
+|Gravestone Blue|Wave 1 — Highlight|123|137|151|![#7B8997](https://placehold.co/15x15/7B8997/7B8997.png) `#7B8997`|15ml||
+|Mythril Blade|Wave 1 — Highlight|103|105|104|![#676968](https://placehold.co/15x15/676968/676968.png) `#676968`|15ml||
+|Orange Flare|Wave 1 — Highlight|235|113|64|![#EB7140](https://placehold.co/15x15/EB7140/EB7140.png) `#EB7140`|15ml||
+|Runic Purple|Wave 1 — Highlight|156|141|179|![#9C8DB3](https://placehold.co/15x15/9C8DB3/9C8DB3.png) `#9C8DB3`|15ml||
+|Temple Stone|Wave 1 — Highlight|163|145|121|![#A39179](https://placehold.co/15x15/A39179/A39179.png) `#A39179`|15ml||
+|Trooper White|Wave 1 — Highlight|237|235|224|![#EDEBE0](https://placehold.co/15x15/EDEBE0/EDEBE0.png) `#EDEBE0`|15ml||
+|Vampire Fang|Wave 1 — Highlight|204|184|154|![#CCB89A](https://placehold.co/15x15/CCB89A/CCB89A.png) `#CCB89A`|15ml||
+|Wasteland Brown|Wave 1 — Highlight|133|108|92|![#856C5C](https://placehold.co/15x15/856C5C/856C5C.png) `#856C5C`|15ml||
+|White Star|Wave 1 — Highlight|248|249|248|![#F8F9F8](https://placehold.co/15x15/F8F9F8/F8F9F8.png) `#F8F9F8`|15ml||
+|Yellow Flame|Wave 1 — Highlight|248|176|44|![#F8B02C](https://placehold.co/15x15/F8B02C/F8B02C.png) `#F8B02C`|15ml||
+|Archaic Sepia Wash|Wave 1 — Wash|157|127|105|![#9D7F69](https://placehold.co/15x15/9D7F69/9D7F69.png) `#9D7F69`|15ml||
+|Battle Mud Wash|Wave 1 — Wash|111|95|82|![#6F5F52](https://placehold.co/15x15/6F5F52/6F5F52.png) `#6F5F52`|15ml||
+|Flesh Wash|Wave 1 — Wash|192|161|112|![#C0A170](https://placehold.co/15x15/C0A170/C0A170.png) `#C0A170`|15ml||
+|Necrosis Green Wash|Wave 1 — Wash|108|127|91|![#6C7F5B](https://placehold.co/15x15/6C7F5B/6C7F5B.png) `#6C7F5B`|15ml||
+|Oblivion Black Wash|Wave 1 — Wash|75|72|72|![#4B4848](https://placehold.co/15x15/4B4848/4B4848.png) `#4B4848`|15ml||
+|Orc Flesh Wash|Wave 1 — Wash|65|126|66|![#417E42](https://placehold.co/15x15/417E42/417E42.png) `#417E42`|15ml||
+|Abyss Blue|Wave 2 — Shadow|51|76|102|![#334C66](https://placehold.co/15x15/334C66/334C66.png) `#334C66`|15ml||
+|Argonaut Skin|Wave 2 — Shadow|166|144|109|![#A6906D](https://placehold.co/15x15/A6906D/A6906D.png) `#A6906D`|15ml||
+|Ashen Grey|Wave 2 — Shadow|80|83|73|![#505349](https://placehold.co/15x15/505349/505349.png) `#505349`|15ml||
+|Dread Red|Wave 2 — Shadow|110|64|64|![#6E4040](https://placehold.co/15x15/6E4040/6E4040.png) `#6E4040`|15ml||
+|Druid Flesh|Wave 2 — Shadow|83|63|53|![#533F35](https://placehold.co/15x15/533F35/533F35.png) `#533F35`|15ml||
+|Field Grey|Wave 2 — Shadow|109|115|94|![#6D735E](https://placehold.co/15x15/6D735E/6D735E.png) `#6D735E`|15ml||
+|Fury Green|Wave 2 — Shadow|108|107|77|![#6C6B4D](https://placehold.co/15x15/6C6B4D/6C6B4D.png) `#6C6B4D`|15ml||
+|Gyzmo Fur|Wave 2 — Shadow|210|137|80|![#D28950](https://placehold.co/15x15/D28950/D28950.png) `#D28950`|15ml||
+|Hydra Green|Wave 2 — Shadow|52|76|79|![#344C4F](https://placehold.co/15x15/344C4F/344C4F.png) `#344C4F`|15ml||
+|Noble Steed Brown|Wave 2 — Shadow|118|84|58|![#76543A](https://placehold.co/15x15/76543A/76543A.png) `#76543A`|15ml||
+|Orc Hide|Wave 2 — Shadow|123|155|106|![#7B9B6A](https://placehold.co/15x15/7B9B6A/7B9B6A.png) `#7B9B6A`|15ml||
+|Perisher Pink|Wave 2 — Shadow|186|99|106|![#BA636A](https://placehold.co/15x15/BA636A/BA636A.png) `#BA636A`|15ml||
+|Sentient Turquoise|Wave 2 — Shadow|60|131|163|![#3C83A3](https://placehold.co/15x15/3C83A3/3C83A3.png) `#3C83A3`|15ml||
+|Asmodeus Red|Wave 2 — Midtone|143|73|74|![#8F494A](https://placehold.co/15x15/8F494A/8F494A.png) `#8F494A`|15ml||
+|Cursed Blue|Wave 2 — Midtone|67|154|180|![#439AB4](https://placehold.co/15x15/439AB4/439AB4.png) `#439AB4`|15ml||
+|Dry Rust Brown|Wave 2 — Midtone|185|120|63|![#B9783F](https://placehold.co/15x15/B9783F/B9783F.png) `#B9783F`|15ml||
+|Eidolon Grey|Wave 2 — Midtone|84|86|73|![#545649](https://placehold.co/15x15/545649/545649.png) `#545649`|15ml||
+|Goblinoid Green|Wave 2 — Midtone|138|184|107|![#8AB86B](https://placehold.co/15x15/8AB86B/8AB86B.png) `#8AB86B`|15ml||
+|Gung-Ho Green|Wave 2 — Midtone|168|163|101|![#A8A365](https://placehold.co/15x15/A8A365/A8A365.png) `#A8A365`|15ml||
+|Hot Pink|Wave 2 — Midtone|226|133|166|![#E285A6](https://placehold.co/15x15/E285A6/E285A6.png) `#E285A6`|15ml||
+|Jade Green|Wave 2 — Midtone|50|123|103|![#327B67](https://placehold.co/15x15/327B67/327B67.png) `#327B67`|15ml||
+|Kronos Flesh|Wave 2 — Midtone|191|156|111|![#BF9C6F](https://placehold.co/15x15/BF9C6F/BF9C6F.png) `#BF9C6F`|15ml||
+|Manticore Ochre|Wave 2 — Midtone|214|153|69|![#D69945](https://placehold.co/15x15/D69945/D69945.png) `#D69945`|15ml||
+|Paladin Flesh|Wave 2 — Midtone|119|88|76|![#77584C](https://placehold.co/15x15/77584C/77584C.png) `#77584C`|15ml||
+|Ranger Cloak|Wave 2 — Midtone|127|132|82|![#7F8452](https://placehold.co/15x15/7F8452/7F8452.png) `#7F8452`|15ml||
+|Witching Hour Blue|Wave 2 — Midtone|50|107|179|![#326BB3](https://placehold.co/15x15/326BB3/326BB3.png) `#326BB3`|15ml||
+|Ares Flesh|Wave 2 — Highlight|222|195|136|![#DEC388](https://placehold.co/15x15/DEC388/DEC388.png) `#DEC388`|15ml||
+|Bard Skin|Wave 2 — Highlight|150|112|100|![#967064](https://placehold.co/15x15/967064/967064.png) `#967064`|15ml||
+|Cerberus Brown|Wave 2 — Highlight|224|175|90|![#E0AF5A](https://placehold.co/15x15/E0AF5A/E0AF5A.png) `#E0AF5A`|15ml||
+|Evil Eye Red|Wave 2 — Highlight|194|95|81|![#C25F51](https://placehold.co/15x15/C25F51/C25F51.png) `#C25F51`|15ml||
+|Ghoul Green|Wave 2 — Highlight|83|190|152|![#53BE98](https://placehold.co/15x15/53BE98/53BE98.png) `#53BE98`|15ml||
+|Green Beret|Wave 2 — Highlight|172|172|135|![#ACAC87](https://placehold.co/15x15/ACAC87/ACAC87.png) `#ACAC87`|15ml||
+|Kobold Grey|Wave 2 — Highlight|135|140|118|![#878C76](https://placehold.co/15x15/878C76/878C76.png) `#878C76`|15ml||
+|Leviathan Blue|Wave 2 — Highlight|60|124|192|![#3C7CC0](https://placehold.co/15x15/3C7CC0/3C7CC0.png) `#3C7CC0`|15ml||
+|Neo Pink|Wave 2 — Highlight|243|191|216|![#F3BFD8](https://placehold.co/15x15/F3BFD8/F3BFD8.png) `#F3BFD8`|15ml||
+|Ray Gun Glow|Wave 2 — Highlight|70|177|195|![#46B1C3](https://placehold.co/15x15/46B1C3/46B1C3.png) `#46B1C3`|15ml||
+|Rodent Grey|Wave 2 — Highlight|112|114|101|![#707265](https://placehold.co/15x15/707265/707265.png) `#707265`|15ml||
+|Satyr Brown|Wave 2 — Highlight|214|151|87|![#D69757](https://placehold.co/15x15/D69757/D69757.png) `#D69757`|15ml||
+|Troll Snot Green|Wave 2 — Highlight|158|197|118|![#9EC576](https://placehold.co/15x15/9EC576/9EC576.png) `#9EC576`|15ml||
+|Amulet Purple|Wave 2 — Brights|189|173|210|![#BDADD2](https://placehold.co/15x15/BDADD2/BDADD2.png) `#BDADD2`|15ml||
+|Craven Yellow|Wave 2 — Brights|236|237|106|![#ECED6A](https://placehold.co/15x15/ECED6A/ECED6A.png) `#ECED6A`|15ml||
+|Flaming Forge Orange|Wave 2 — Brights|235|166|69|![#EBA645](https://placehold.co/15x15/EBA645/EBA645.png) `#EBA645`|15ml||
+|Gigawatt Blue|Wave 2 — Brights|86|183|232|![#56B7E8](https://placehold.co/15x15/56B7E8/56B7E8.png) `#56B7E8`|15ml||
+|Hellspawn Red|Wave 2 — Brights|191|59|47|![#BF3B2F](https://placehold.co/15x15/BF3B2F/BF3B2F.png) `#BF3B2F`|15ml||
+|Talisman Green|Wave 2 — Brights|122|193|66|![#7AC142](https://placehold.co/15x15/7AC142/7AC142.png) `#7AC142`|15ml||
+|Battle Axe Brass|Wave 2 — Metallic|214|170|129|![#D6AA81](https://placehold.co/15x15/D6AA81/D6AA81.png) `#D6AA81`|15ml||
+|Dwarven Iron|Wave 2 — Metallic|119|120|115|![#777873](https://placehold.co/15x15/777873/777873.png) `#777873`|15ml||
+|Overlord Brass|Wave 2 — Metallic|192|158|119|![#C09E77](https://placehold.co/15x15/C09E77/C09E77.png) `#C09E77`|15ml||
+|Platinum Crown|Wave 2 — Metallic|222|209|184|![#DED1B8](https://placehold.co/15x15/DED1B8/DED1B8.png) `#DED1B8`|15ml||
+|Steampunk Copper|Wave 2 — Metallic|184|101|59|![#B8653B](https://placehold.co/15x15/B8653B/B8653B.png) `#B8653B`|15ml||
+|Top Brass|Wave 2 — Metallic|199|157|94|![#C79D5E](https://placehold.co/15x15/C79D5E/C79D5E.png) `#C79D5E`|15ml||
+|Blue Glaze|Wave 2 — Glaze|141|156|205|![#8D9CCD](https://placehold.co/15x15/8D9CCD/8D9CCD.png) `#8D9CCD`|15ml||
+|Green Glaze|Wave 2 — Glaze|175|214|148|![#AFD694](https://placehold.co/15x15/AFD694/AFD694.png) `#AFD694`|15ml||
+|Orange Glaze|Wave 2 — Glaze|243|146|69|![#F39245](https://placehold.co/15x15/F39245/F39245.png) `#F39245`|15ml||
+|Purple Glaze|Wave 2 — Glaze|203|163|193|![#CBA3C1](https://placehold.co/15x15/CBA3C1/CBA3C1.png) `#CBA3C1`|15ml||
+|Red Glaze|Wave 2 — Glaze|241|127|100|![#F17F64](https://placehold.co/15x15/F17F64/F17F64.png) `#F17F64`|15ml||
+|Yellow Glaze|Wave 2 — Glaze|242|239|110|![#F2EF6E](https://placehold.co/15x15/F2EF6E/F2EF6E.png) `#F2EF6E`|15ml||
+|Hellion Red Wash|Wave 2 — Wash|134|85|85|![#865555](https://placehold.co/15x15/865555/865555.png) `#865555`|15ml||
+|Magi Purple Wash|Wave 2 — Wash|85|59|86|![#553B56](https://placehold.co/15x15/553B56/553B56.png) `#553B56`|15ml||
+|Tempest Blue Wash|Wave 2 — Wash|62|81|99|![#3E5163](https://placehold.co/15x15/3E5163/3E5163.png) `#3E5163`|15ml||
+|Apocalypse Sky|Wave 3 — Brights|231|78|66|![#E74E42](https://placehold.co/15x15/E74E42/E74E42.png) `#E74E42`|15ml||
+|Carapace Green|Wave 3 — Brights|74|127|80|![#4A7F50](https://placehold.co/15x15/4A7F50/4A7F50.png) `#4A7F50`|15ml||
+|Emperor's Purple|Wave 3 — Brights|108|88|119|![#6C5877](https://placehold.co/15x15/6C5877/6C5877.png) `#6C5877`|15ml||
+|Enchantment Blue|Wave 3 — Brights|60|106|138|![#3C6A8A](https://placehold.co/15x15/3C6A8A/3C6A8A.png) `#3C6A8A`|15ml||
+|Fire Opal|Wave 3 — Brights|156|96|71|![#9C6047](https://placehold.co/15x15/9C6047/9C6047.png) `#9C6047`|15ml||
+|Inferno Orange|Wave 3 — Brights|209|74|51|![#D14A33](https://placehold.co/15x15/D14A33/D14A33.png) `#D14A33`|15ml||
+|Omega Blue|Wave 3 — Brights|84|151|149|![#549795](https://placehold.co/15x15/549795/549795.png) `#549795`|15ml||
+|Red Rage|Wave 3 — Brights|107|54|44|![#6B362C](https://placehold.co/15x15/6B362C/6B362C.png) `#6B362C`|15ml||
+|Scarab Red|Wave 3 — Brights|149|65|66|![#954142](https://placehold.co/15x15/954142/954142.png) `#954142`|15ml||
+|Septic Green|Wave 3 — Brights|175|179|59|![#AFB33B](https://placehold.co/15x15/AFB33B/AFB33B.png) `#AFB33B`|15ml||
+|Ancient Gold|Wave 3 — Metallic|103|90|63|![#675A3F](https://placehold.co/15x15/675A3F/675A3F.png) `#675A3F`|15ml||
+|Bits O'Tin|Wave 3 — Metallic|128|111|99|![#806F63](https://placehold.co/15x15/806F63/806F63.png) `#806F63`|15ml||
+|Blue Steel|Wave 3 — Metallic|109|120|117|![#6D7875](https://placehold.co/15x15/6D7875/6D7875.png) `#6D7875`|15ml||
+|Chaos Bronze|Wave 3 — Metallic|143|121|99|![#8F7963](https://placehold.co/15x15/8F7963/8F7963.png) `#8F7963`|15ml||
+|Doom Metal|Wave 3 — Metallic|92|88|80|![#5C5850](https://placehold.co/15x15/5C5850/5C5850.png) `#5C5850`|15ml||
+|Heirloom Gold|Wave 3 — Metallic|159|131|81|![#9F8351](https://placehold.co/15x15/9F8351/9F8351.png) `#9F8351`|15ml||
+|Aztec Turquoise Wash|Wave 3 — Wash|158|167|167|![#9EA7A7](https://placehold.co/15x15/9EA7A7/9EA7A7.png) `#9EA7A7`|15ml||
+|Bone Wash|Wave 3 — Wash|205|192|187|![#CDC0BB](https://placehold.co/15x15/CDC0BB/CDC0BB.png) `#CDC0BB`|15ml||
+|Hazard Yellow Wash|Wave 3 — Wash|237|210|196|![#EDD2C4](https://placehold.co/15x15/EDD2C4/EDD2C4.png) `#EDD2C4`|15ml||
+|Smoke Grey Wash|Wave 3 — Wash|236|234|230|![#ECEAE6](https://placehold.co/15x15/ECEAE6/ECEAE6.png) `#ECEAE6`|15ml||
+|Gloss Varnish|Wave 3 — Varnish|160|156|157|![#A09C9D](https://placehold.co/15x15/A09C9D/A09C9D.png) `#A09C9D`|15ml||
+|Satin Varnish|Wave 3 — Varnish|200|197|198|![#C8C5C6](https://placehold.co/15x15/C8C5C6/C8C5C6.png) `#C8C5C6`|15ml||
+|Ambush Yellow|Wave 3 — Highlight|229|204|117|![#E5CC75](https://placehold.co/15x15/E5CC75/E5CC75.png) `#E5CC75`|15ml||
+|Amphora Red|Wave 3 — Shadow|73|33|39|![#492127](https://placehold.co/15x15/492127/492127.png) `#492127`|15ml||
+|Antiquity Green|Wave 3 — Midtone|48|128|124|![#30807C](https://placehold.co/15x15/30807C/30807C.png) `#30807C`|15ml||
+|Boot Strap Brown|Wave 3 — Midtone|133|94|68|![#855E44](https://placehold.co/15x15/855E44/855E44.png) `#855E44`|15ml||
+|Centurion Red|Wave 3 — Highlight|234|50|50|![#EA3232](https://placehold.co/15x15/EA3232/EA3232.png) `#EA3232`|15ml||
+|Contagion Green|Wave 3 — Shadow|145|161|128|![#91A180](https://placehold.co/15x15/91A180/91A180.png) `#91A180`|15ml||
+|Cyber Pink|Wave 3 — Brights|198|77|138|![#C64D8A](https://placehold.co/15x15/C64D8A/C64D8A.png) `#C64D8A`|15ml||
+|Decadent Purple|Wave 3 — Highlight|196|192|214|![#C4C0D6](https://placehold.co/15x15/C4C0D6/C4C0D6.png) `#C4C0D6`|15ml||
+|Eldar Robe|Wave 3 — Shadow|30|91|164|![#1E5BA4](https://placehold.co/15x15/1E5BA4/1E5BA4.png) `#1E5BA4`|15ml||
+|Elixir Green|Wave 3 — Brights|124|199|144|![#7CC790](https://placehold.co/15x15/7CC790/7CC790.png) `#7CC790`|15ml||
+|Emperor Red|Wave 3 — Midtone|160|48|66|![#A03042](https://placehold.co/15x15/A03042/A03042.png) `#A03042`|15ml||
+|Enchantress Purple|Wave 3 — Midtone|91|53|100|![#5B3564](https://placehold.co/15x15/5B3564/5B3564.png) `#5B3564`|15ml||
+|Enticing Purple|Wave 3 — Midtone|131|124|142|![#837C8E](https://placehold.co/15x15/837C8E/837C8E.png) `#837C8E`|15ml||
+|Faust Blue|Wave 3 — Shadow|72|82|92|![#48525C](https://placehold.co/15x15/48525C/48525C.png) `#48525C`|15ml||
+|Flak Gun Yellow|Wave 3 — Midtone|200|172|92|![#C8AC5C](https://placehold.co/15x15/C8AC5C/C8AC5C.png) `#C8AC5C`|15ml||
+|Frost Blue|Wave 3 — Highlight|122|151|159|![#7A979F](https://placehold.co/15x15/7A979F/7A979F.png) `#7A979F`|15ml||
+|Incubus Purple|Wave 3 — Shadow|109|106|111|![#6D6A6F](https://placehold.co/15x15/6D6A6F/6D6A6F.png) `#6D6A6F`|15ml||
+|Ion Blue|Wave 3 — Brights|185|216|219|![#B9D8DB](https://placehold.co/15x15/B9D8DB/B9D8DB.png) `#B9D8DB`|15ml||
+|Legion Green|Wave 3 — Highlight|39|109|103|![#276D67](https://placehold.co/15x15/276D67/276D67.png) `#276D67`|15ml||
+|Mythic Turquoise|Wave 3 — Highlight|88|159|158|![#589F9E](https://placehold.co/15x15/589F9E/589F9E.png) `#589F9E`|15ml||
+|Oxidation Green|Wave 3 — Shadow|51|68|78|![#33444E](https://placehold.co/15x15/33444E/33444E.png) `#33444E`|15ml||
+|Pale Skin|Wave 3 — Brights|203|173|123|![#CBAD7B](https://placehold.co/15x15/CBAD7B/CBAD7B.png) `#CBAD7B`|15ml||
+|Panzer Yellow|Wave 3 — Shadow|166|143|66|![#A68F42](https://placehold.co/15x15/A68F42/A68F42.png) `#A68F42`|15ml||
+|Pestilence Green|Wave 3 — Highlight|214|226|152|![#D6E298](https://placehold.co/15x15/D6E298/D6E298.png) `#D6E298`|15ml||
+|Relic Blue|Wave 3 — Midtone|36|129|191|![#2481BF](https://placehold.co/15x15/2481BF/2481BF.png) `#2481BF`|15ml||
+|Scabbard Brown|Wave 3 — Shadow|125|95|73|![#7D5F49](https://placehold.co/15x15/7D5F49/7D5F49.png) `#7D5F49`|15ml||
+|Seafarer Blue|Wave 3 — Highlight|74|157|204|![#4A9DCC](https://placehold.co/15x15/4A9DCC/4A9DCC.png) `#4A9DCC`|15ml||
+|Serpent Eye Yellow|Wave 3 — Shadow|245|211|16|![#F5D310](https://placehold.co/15x15/F5D310/F5D310.png) `#F5D310`|15ml||
+|Shadow Blue|Wave 3 — Midtone|81|100|110|![#51646E](https://placehold.co/15x15/51646E/51646E.png) `#51646E`|15ml||
+|Solar Flare|Wave 3 — Brights|241|129|34|![#F18122](https://placehold.co/15x15/F18122/F18122.png) `#F18122`|15ml||
+|Spectral Purple|Wave 3 — Highlight|156|91|156|![#9C5B9C](https://placehold.co/15x15/9C5B9C/9C5B9C.png) `#9C5B9C`|15ml||
+|Sun Bleach Yellow|Wave 3 — Midtone|246|231|84|![#F6E754](https://placehold.co/15x15/F6E754/F6E754.png) `#F6E754`|15ml||
+|Traitor Green|Wave 3 — Midtone|46|82|79|![#2E524F](https://placehold.co/15x15/2E524F/2E524F.png) `#2E524F`|15ml||
+|Twin Suns Yellow|Wave 3 — Highlight|230|232|174|![#E6E8AE](https://placehold.co/15x15/E6E8AE/E6E8AE.png) `#E6E8AE`|15ml||
+|Vambrace Brown|Wave 3 — Highlight|158|116|93|![#9E745D](https://placehold.co/15x15/9E745D/9E745D.png) `#9E745D`|15ml||
+|Von Evile Purple|Wave 3 — Shadow|34|16|45|![#22102D](https://placehold.co/15x15/22102D/22102D.png) `#22102D`|15ml||
+|War Master Green|Wave 3 — Shadow|56|65|67|![#384143](https://placehold.co/15x15/384143/384143.png) `#384143`|15ml||
+|Zombie Rot|Wave 3 — Midtone|181|184|123|![#B5B87B](https://placehold.co/15x15/B5B87B/B5B87B.png) `#B5B87B`|15ml||
