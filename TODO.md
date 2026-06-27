@@ -28,7 +28,10 @@
   - [ ] Arteza
   - [ ] Coat D'Armes
   - [ ] Creature Caster
-  - [ ] Duncan Rhodes
+  - [X] Duncan Rhodes' Two Thin Coats
+    - [X] Wave 1
+    - [X] Wave 2
+    - [X] Wave 3
   - [ ] Golden
   - [ ] Green Stuff World
   - [ ] Humbrol

@@ -1,5 +1,5 @@
-# Duncan
-![Duncan](../logos/Duncan.png "Duncan")
+# Two Thin Coats
+![Two Thin Coats](../logos/Duncan.png "Two Thin Coats")
 
 ## Brand Details
 
