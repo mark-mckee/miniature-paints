@@ -1,4 +1,6 @@
 {
+  "$schema": "../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
   "displayName": "Two Thin Coats",
   "company": "Duncan Rhodes Painting Academy Limited",
   "address": {

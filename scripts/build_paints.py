@@ -17,6 +17,12 @@ PAINTS_DIR = os.path.join(ROOT, "paints")
 OUT_PATH = os.path.join(ROOT, "paints.json")
 JSON_DIR = os.path.join(ROOT, "json")
 
+# Dataset schema version, and the JSON Schema files each output document links to via
+# "$schema" (relative to the document's own location). See schema/ at the repo root.
+SCHEMA_VERSION = "miniature-paints/v3"
+AGG_SCHEMA_REF = "./schema/paints.schema.json"      # for paints.json (repo root)
+BRAND_SCHEMA_REF = "../schema/brand.schema.json"    # for json/<stem>.json
+
 HEX_RE = re.compile(r'#([0-9A-Fa-f]{6})')
 POT_RE = re.compile(r'([\d]+(?:\.[\d]+)?)\s*([a-zA-Z]+)')
 
@@ -194,7 +200,8 @@ def build():
         total += len(paints)
 
     doc = OrderedDict()
-    doc["schema"] = "miniature-paints/v3"
+    doc["$schema"] = AGG_SCHEMA_REF
+    doc["schema"] = SCHEMA_VERSION
     doc["brandCount"] = len(brands)
     doc["paintCount"] = total
     doc["brands"] = brands
@@ -207,11 +214,17 @@ def main():
         json.dump(doc, f, ensure_ascii=False, indent=2)
         f.write('\n')
     # Per-brand files, serialized from the same brand objects as the aggregate
-    # (so json/<stem>.json can never drift from brands.<stem> in paints.json).
+    # (so json/<stem>.json can never drift from brands.<stem> in paints.json). Each
+    # standalone file is prefixed with $schema/schema so it is self-identifying; the
+    # embedded copies inside paints.json stay clean (the aggregate carries those keys).
     os.makedirs(JSON_DIR, exist_ok=True)
     for stem, brand in doc["brands"].items():
+        out = OrderedDict()
+        out["$schema"] = BRAND_SCHEMA_REF
+        out["schema"] = SCHEMA_VERSION
+        out.update(brand)
         with open(os.path.join(JSON_DIR, f"{stem}.json"), 'w', encoding='utf-8') as f:
-            json.dump(brand, f, ensure_ascii=False, indent=2)
+            json.dump(out, f, ensure_ascii=False, indent=2)
             f.write('\n')
     print(f"Wrote {OUT_PATH} and {len(doc['brands'])} files in {JSON_DIR}: "
           f"{doc['brandCount']} brands, {doc['paintCount']} paints")

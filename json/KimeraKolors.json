@@ -1,4 +1,6 @@
 {
+  "$schema": "../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
   "displayName": "Kimera Kolors",
   "company": "Pegaso Models S.r.l.",
   "address": {

@@ -1,0 +1,135 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Brand",
+  "description": "A single paint brand and all of its paints. This is the shape of each json/<Brand>.json file, and of every value under \"brands\" in paints.json.",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Relative link to this schema (present only on the standalone json/<Brand>.json files)."
+    },
+    "schema": {
+      "type": "string",
+      "const": "miniature-paints/v3",
+      "description": "Dataset schema version (present only on the standalone files)."
+    },
+    "displayName": { "type": "string" },
+    "company": { "type": "string" },
+    "address": {
+      "type": "object",
+      "properties": {
+        "street": { "type": "string" },
+        "city": { "type": "string" },
+        "postcode": { "type": "string" },
+        "country": { "type": "string" }
+      },
+      "required": ["street", "city", "postcode", "country"],
+      "additionalProperties": false
+    },
+    "contactEmail": { "type": "string" },
+    "contactForm": { "type": "string" },
+    "website": { "type": "string" },
+    "phone": { "type": "string" },
+    "updatedCatalogueRequested": {
+      "type": "string",
+      "description": "Free-text date the brand was last asked for an updated catalogue; may be empty."
+    },
+    "paintCount": { "type": "integer", "minimum": 0 },
+    "paints": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/paint" }
+    }
+  },
+  "required": [
+    "displayName",
+    "company",
+    "address",
+    "contactEmail",
+    "contactForm",
+    "website",
+    "phone",
+    "updatedCatalogueRequested",
+    "paintCount",
+    "paints"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "paint": {
+      "type": "object",
+      "title": "Paint",
+      "description": "A single paint colour.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique within a brand: \"<brand-slug>-<code or name-slug>\"."
+        },
+        "name": { "type": "string" },
+        "code": {
+          "type": ["string", "null"],
+          "description": "Manufacturer code; null for brands whose table has no Code column."
+        },
+        "set": { "type": ["string", "null"] },
+        "hex": {
+          "type": ["string", "null"],
+          "pattern": "^#[0-9A-Fa-f]{6}$",
+          "description": "Single colour. Null for colour-shift paints (see shiftColors)."
+        },
+        "rgb": {
+          "type": ["object", "null"],
+          "description": "Null if any channel is missing or non-numeric in the source table.",
+          "properties": {
+            "r": { "type": "integer", "minimum": 0, "maximum": 255 },
+            "g": { "type": "integer", "minimum": 0, "maximum": 255 },
+            "b": { "type": "integer", "minimum": 0, "maximum": 255 }
+          },
+          "required": ["r", "g", "b"],
+          "additionalProperties": false
+        },
+        "shiftColors": {
+          "type": ["array", "null"],
+          "description": "Ordered hex stops for a colour-shift paint; null for normal paints. Mutually exclusive with a non-null hex.",
+          "items": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" }
+        },
+        "potSizes": {
+          "type": ["array", "null"],
+          "description": "Container sizes the colour is sold in; null when no size is recorded. Single-size brands are 1-element arrays.",
+          "items": { "$ref": "#/$defs/potSize" }
+        },
+        "description": { "type": ["string", "null"] }
+      },
+      "required": [
+        "id",
+        "name",
+        "code",
+        "set",
+        "hex",
+        "rgb",
+        "shiftColors",
+        "potSizes",
+        "description"
+      ],
+      "additionalProperties": false
+    },
+    "potSize": {
+      "type": "object",
+      "title": "PotSize",
+      "description": "One container-size option, e.g. \"37ml\".",
+      "properties": {
+        "raw": {
+          "type": "string",
+          "description": "The size string exactly as written in the source table."
+        },
+        "value": {
+          "type": ["number", "null"],
+          "description": "Numeric quantity parsed from raw; null if unparseable."
+        },
+        "unit": {
+          "type": ["string", "null"],
+          "description": "Lowercased unit parsed from raw (e.g. \"ml\"); null if unparseable."
+        }
+      },
+      "required": ["raw", "value", "unit"],
+      "additionalProperties": false
+    }
+  }
+}

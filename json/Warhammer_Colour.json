@@ -1,4 +1,6 @@
 {
+  "$schema": "../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
   "displayName": "Warhammer Colour",
   "company": "Games Workshop Limited",
   "address": {

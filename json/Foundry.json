@@ -1,4 +1,6 @@
 {
+  "$schema": "../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
   "displayName": "Foundry",
   "company": "Wargames Foundry Limited",
   "address": {

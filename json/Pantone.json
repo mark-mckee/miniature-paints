@@ -1,4 +1,6 @@
 {
+  "$schema": "../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
   "displayName": "Pantone",
   "company": "Pantone LLC",
   "address": {

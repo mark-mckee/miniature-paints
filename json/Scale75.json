@@ -1,4 +1,6 @@
 {
+  "$schema": "../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
   "displayName": "Scale75",
   "company": "SCALE75 HOBBIES AND GAMES, S.L.",
   "address": {

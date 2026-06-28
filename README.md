@@ -62,6 +62,76 @@ Feel free to use or improve any of these paints in your own personal projects. A
 
 At the root of this repo I have added a single JSON file that contains all brands and paints, and I have also included a JSON file for each brand individually for ease of use. These files are built every time I update the paints in the MD files and push to the repo through a worker action. 
 
+The `paints/*.md` tables are the single source of truth; everything below is generated from them by `scripts/build_paints.py`.
+
+Every output file is described by a formal [JSON Schema](https://json-schema.org/) (Draft 2020-12) under [`schema/`](schema/): [`schema/paints.schema.json`](schema/paints.schema.json) for the aggregate and [`schema/brand.schema.json`](schema/brand.schema.json) for the per-brand files. Each data file links to its schema via a relative `$schema` reference, so editors like VS Code validate it automatically.
+
+### Top level — `paints.json`
+
+```jsonc
+{
+  "$schema": "./schema/paints.schema.json",   // relative link to the schema
+  "schema": "miniature-paints/v3",            // version tag
+  "brandCount": 33,
+  "paintCount": 11938,
+  "brands": {
+    "AK": { /* brand object */ },     // keyed by file stem (paints/<stem>.md)
+    "Acrilex": { /* brand object */ },
+    // ...
+  }
+}
+```
+
+The per-brand files `json/<stem>.json` each contain a single **brand object** (without the `brandCount`/`brands` wrapper). Each one is prefixed with its own `$schema` and `schema` keys so the file is self-identifying; the brand objects embedded under `brands` in `paints.json` omit those two keys (the aggregate already carries them).
+
+### Brand object
+
+```jsonc
+{
+  "$schema": "../schema/brand.schema.json",   // standalone files only
+  "schema": "miniature-paints/v3",            // standalone files only
+  "displayName": "Acrilex",
+  "company": "Acrilex Tintas Especiais S.A.",
+  "address": { "street": "", "city": "", "postcode": "", "country": "" },
+  "contactEmail": "...",
+  "contactForm": "...",
+  "website": "...",
+  "phone": "...",
+  "updatedCatalogueRequested": "25/06/2026",   // string, may be ""
+  "paintCount": 95,
+  "paints": [ /* paint objects */ ]
+}
+```
+
+### Paint object
+
+```jsonc
+{
+  "id": "acrilex-831",          // string, unique within a brand: "<brand-slug>-<code|name-slug>"
+  "name": "Almond",             // string
+  "code": "831",                // string | null  (null for brands with no code column)
+  "set": "Acrilex Paints",      // string | null
+  "hex": "#D97037",             // string | null  — single colour (null for colour-shift paints)
+  "rgb": { "r": 217, "g": 112, "b": 55 },   // object | null  (r/g/b are integers)
+  "shiftColors": null,          // string[] | null — ordered hex stops for colour-shift paints
+  "potSizes": [                 // object[] | null
+    { "raw": "37ml",  "value": 37,  "unit": "ml" },
+    { "raw": "60ml",  "value": 60,  "unit": "ml" },
+    { "raw": "250ml", "value": 250, "unit": "ml" }
+  ],
+  "description": null           // string | null
+}
+```
+
+#### Field notes
+
+- `hex` and `shiftColors` are mutually exclusive: a normal paint has `hex` set and `shiftColors: null`; a colour-shift paint has `hex: null` and `shiftColors` as an array of hex stops.
+- `rgb` is `null` if any of R/G/B is missing or non-numeric in the source table.
+- `potSizes` is an array when one or more sizes are known, or `null` when no size is recorded. Each entry is `{ raw, value, unit }`; if a size string can't be parsed, `value`/`unit` are `null` but `raw` is preserved. Single-size brands are 1-element arrays.
+
+> [!NOTE]
+> The `schema` field is versioned. `v3` renamed the former singular `potSize` object to the `potSizes` array — consumers reading pot sizes should expect an array (or `null`).
+
 ## Paints by brand
 
 <!-- START -->

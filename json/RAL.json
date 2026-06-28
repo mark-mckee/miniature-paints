@@ -1,4 +1,6 @@
 {
+  "$schema": "../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
   "displayName": "RAL",
   "company": "RAL Deutsches Institut für Gütesicherung und Kennzeichnung e. V.",
   "address": {

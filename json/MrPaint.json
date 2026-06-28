@@ -1,4 +1,6 @@
 {
+  "$schema": "../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
   "displayName": "Mr Paint",
   "company": "GREEN s.r.o.",
   "address": {

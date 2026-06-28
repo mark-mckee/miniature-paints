@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Miniature Paints dataset",
+  "description": "The aggregate dataset of every brand and paint. This is the shape of the root paints.json file.",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Relative link to this schema."
+    },
+    "schema": {
+      "type": "string",
+      "const": "miniature-paints/v3",
+      "description": "Dataset schema version."
+    },
+    "brandCount": { "type": "integer", "minimum": 0 },
+    "paintCount": { "type": "integer", "minimum": 0 },
+    "brands": {
+      "type": "object",
+      "description": "Map of file stem (paints/<stem>.md) to its brand object.",
+      "additionalProperties": { "$ref": "brand.schema.json" }
+    }
+  },
+  "required": ["schema", "brandCount", "paintCount", "brands"],
+  "additionalProperties": false
+}
