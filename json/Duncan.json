@@ -26,11 +26,13 @@
         "b": 105
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -45,11 +47,13 @@
         "b": 85
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -64,11 +68,13 @@
         "b": 21
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -83,11 +89,13 @@
         "b": 92
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -102,11 +110,13 @@
         "b": 58
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -121,11 +131,13 @@
         "b": 57
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -140,11 +152,13 @@
         "b": 55
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -159,11 +173,13 @@
         "b": 96
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -178,11 +194,13 @@
         "b": 75
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -197,11 +215,13 @@
         "b": 133
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -216,11 +236,13 @@
         "b": 111
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -235,11 +257,13 @@
         "b": 73
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -254,11 +278,13 @@
         "b": 55
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -273,11 +299,13 @@
         "b": 73
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -292,11 +320,13 @@
         "b": 75
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -311,11 +341,13 @@
         "b": 48
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -330,11 +362,13 @@
         "b": 108
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -349,11 +383,13 @@
         "b": 67
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -368,11 +404,13 @@
         "b": 82
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -387,11 +425,13 @@
         "b": 57
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -406,11 +446,13 @@
         "b": 150
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -425,11 +467,13 @@
         "b": 66
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -444,11 +488,13 @@
         "b": 62
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -463,11 +509,13 @@
         "b": 98
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -482,11 +530,13 @@
         "b": 172
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -501,11 +551,13 @@
         "b": 67
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -520,11 +572,13 @@
         "b": 46
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -539,11 +593,13 @@
         "b": 192
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -558,11 +614,13 @@
         "b": 98
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -577,11 +635,13 @@
         "b": 104
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -596,11 +656,13 @@
         "b": 20
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -615,11 +677,13 @@
         "b": 108
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -634,11 +698,13 @@
         "b": 0
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -653,11 +719,13 @@
         "b": 141
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -672,11 +740,13 @@
         "b": 75
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -691,11 +761,13 @@
         "b": 136
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -710,11 +782,13 @@
         "b": 192
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -729,11 +803,13 @@
         "b": 22
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -748,11 +824,13 @@
         "b": 96
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -767,11 +845,13 @@
         "b": 116
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -786,11 +866,13 @@
         "b": 46
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -805,11 +887,13 @@
         "b": 78
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -824,11 +908,13 @@
         "b": 78
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -843,11 +929,13 @@
         "b": 121
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -862,11 +950,13 @@
         "b": 151
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -881,11 +971,13 @@
         "b": 104
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -900,11 +992,13 @@
         "b": 64
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -919,11 +1013,13 @@
         "b": 179
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -938,11 +1034,13 @@
         "b": 121
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -957,11 +1055,13 @@
         "b": 224
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -976,11 +1076,13 @@
         "b": 154
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -995,11 +1097,13 @@
         "b": 92
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1014,11 +1118,13 @@
         "b": 248
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1033,11 +1139,13 @@
         "b": 44
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1052,11 +1160,13 @@
         "b": 105
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1071,11 +1181,13 @@
         "b": 82
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1090,11 +1202,13 @@
         "b": 112
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1109,11 +1223,13 @@
         "b": 91
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1128,11 +1244,13 @@
         "b": 72
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1147,11 +1265,13 @@
         "b": 66
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1166,11 +1286,13 @@
         "b": 102
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1185,11 +1307,13 @@
         "b": 109
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1204,11 +1328,13 @@
         "b": 73
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1223,11 +1349,13 @@
         "b": 64
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1242,11 +1370,13 @@
         "b": 53
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1261,11 +1391,13 @@
         "b": 94
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1280,11 +1412,13 @@
         "b": 77
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1299,11 +1433,13 @@
         "b": 80
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1318,11 +1454,13 @@
         "b": 79
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1337,11 +1475,13 @@
         "b": 58
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1356,11 +1496,13 @@
         "b": 106
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1375,11 +1517,13 @@
         "b": 106
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1394,11 +1538,13 @@
         "b": 163
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1413,11 +1559,13 @@
         "b": 74
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1432,11 +1580,13 @@
         "b": 180
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1451,11 +1601,13 @@
         "b": 63
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1470,11 +1622,13 @@
         "b": 73
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1489,11 +1643,13 @@
         "b": 107
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1508,11 +1664,13 @@
         "b": 101
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1527,11 +1685,13 @@
         "b": 166
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1546,11 +1706,13 @@
         "b": 103
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1565,11 +1727,13 @@
         "b": 111
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1584,11 +1748,13 @@
         "b": 69
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1603,11 +1769,13 @@
         "b": 76
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1622,11 +1790,13 @@
         "b": 82
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1641,11 +1811,13 @@
         "b": 179
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1660,11 +1832,13 @@
         "b": 136
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1679,11 +1853,13 @@
         "b": 100
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1698,11 +1874,13 @@
         "b": 90
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1717,11 +1895,13 @@
         "b": 81
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1736,11 +1916,13 @@
         "b": 152
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1755,11 +1937,13 @@
         "b": 135
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1774,11 +1958,13 @@
         "b": 118
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1793,11 +1979,13 @@
         "b": 192
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1812,11 +2000,13 @@
         "b": 216
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1831,11 +2021,13 @@
         "b": 195
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1850,11 +2042,13 @@
         "b": 101
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1869,11 +2063,13 @@
         "b": 87
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1888,11 +2084,13 @@
         "b": 118
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1907,11 +2105,13 @@
         "b": 210
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1926,11 +2126,13 @@
         "b": 106
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1945,11 +2147,13 @@
         "b": 69
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1964,11 +2168,13 @@
         "b": 232
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -1983,11 +2189,13 @@
         "b": 47
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2002,11 +2210,13 @@
         "b": 66
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2021,11 +2231,13 @@
         "b": 129
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2040,11 +2252,13 @@
         "b": 115
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2059,11 +2273,13 @@
         "b": 119
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2078,11 +2294,13 @@
         "b": 184
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2097,11 +2315,13 @@
         "b": 59
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2116,11 +2336,13 @@
         "b": 94
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2135,11 +2357,13 @@
         "b": 205
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2154,11 +2378,13 @@
         "b": 148
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2173,11 +2399,13 @@
         "b": 69
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2192,11 +2420,13 @@
         "b": 193
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2211,11 +2441,13 @@
         "b": 100
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2230,11 +2462,13 @@
         "b": 110
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2249,11 +2483,13 @@
         "b": 85
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2268,11 +2504,13 @@
         "b": 86
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2287,11 +2525,13 @@
         "b": 99
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2306,11 +2546,13 @@
         "b": 66
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2325,11 +2567,13 @@
         "b": 80
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2344,11 +2588,13 @@
         "b": 119
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2363,11 +2609,13 @@
         "b": 138
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2382,11 +2630,13 @@
         "b": 71
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2401,11 +2651,13 @@
         "b": 51
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2420,11 +2672,13 @@
         "b": 149
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2439,11 +2693,13 @@
         "b": 44
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2458,11 +2714,13 @@
         "b": 66
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2477,11 +2735,13 @@
         "b": 59
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2496,11 +2756,13 @@
         "b": 63
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2515,11 +2777,13 @@
         "b": 99
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2534,11 +2798,13 @@
         "b": 117
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2553,11 +2819,13 @@
         "b": 99
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2572,11 +2840,13 @@
         "b": 80
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2591,11 +2861,13 @@
         "b": 81
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2610,11 +2882,13 @@
         "b": 167
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2629,11 +2903,13 @@
         "b": 187
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2648,11 +2924,13 @@
         "b": 196
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2667,11 +2945,13 @@
         "b": 230
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2686,11 +2966,13 @@
         "b": 157
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2705,11 +2987,13 @@
         "b": 198
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2724,11 +3008,13 @@
         "b": 117
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2743,11 +3029,13 @@
         "b": 39
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2762,11 +3050,13 @@
         "b": 124
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2781,11 +3071,13 @@
         "b": 68
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2800,11 +3092,13 @@
         "b": 50
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2819,11 +3113,13 @@
         "b": 128
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2838,11 +3134,13 @@
         "b": 138
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2857,11 +3155,13 @@
         "b": 214
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2876,11 +3176,13 @@
         "b": 164
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2895,11 +3197,13 @@
         "b": 144
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2914,11 +3218,13 @@
         "b": 66
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2933,11 +3239,13 @@
         "b": 100
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2952,11 +3260,13 @@
         "b": 142
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2971,11 +3281,13 @@
         "b": 92
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -2990,11 +3302,13 @@
         "b": 92
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3009,11 +3323,13 @@
         "b": 159
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3028,11 +3344,13 @@
         "b": 111
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3047,11 +3365,13 @@
         "b": 219
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3066,11 +3386,13 @@
         "b": 103
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3085,11 +3407,13 @@
         "b": 158
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3104,11 +3428,13 @@
         "b": 78
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3123,11 +3449,13 @@
         "b": 123
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3142,11 +3470,13 @@
         "b": 66
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3161,11 +3491,13 @@
         "b": 152
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3180,11 +3512,13 @@
         "b": 191
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3199,11 +3533,13 @@
         "b": 73
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3218,11 +3554,13 @@
         "b": 204
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3237,11 +3575,13 @@
         "b": 16
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3256,11 +3596,13 @@
         "b": 110
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3275,11 +3617,13 @@
         "b": 34
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3294,11 +3638,13 @@
         "b": 156
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3313,11 +3659,13 @@
         "b": 84
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3332,11 +3680,13 @@
         "b": 79
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3351,11 +3701,13 @@
         "b": 174
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3370,11 +3722,13 @@
         "b": 93
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3389,11 +3743,13 @@
         "b": 45
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3408,11 +3764,13 @@
         "b": 67
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     },
     {
@@ -3427,11 +3785,13 @@
         "b": 123
       },
       "shiftColors": null,
-      "potSize": {
-        "raw": "15ml",
-        "value": 15,
-        "unit": "ml"
-      },
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
       "description": null
     }
   ]

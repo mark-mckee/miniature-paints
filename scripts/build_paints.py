@@ -21,17 +21,27 @@ HEX_RE = re.compile(r'#([0-9A-Fa-f]{6})')
 POT_RE = re.compile(r'([\d]+(?:\.[\d]+)?)\s*([a-zA-Z]+)')
 
 
-def parse_pot_size(raw):
-    """'17ml' -> {'raw':'17ml','value':17,'unit':'ml'}; falsy -> None."""
+def parse_pot_sizes(raw):
+    """'37ml, 60ml, 250ml' -> [ {...}, {...}, {...} ]; '17ml' -> [ {...} ]; falsy -> None.
+
+    A paint may be sold in several sizes; the Pot Size cell lists them comma-separated.
+    Each size becomes one {'raw','value','unit'} object; unparseable parts keep raw only.
+    """
     if not raw:
         return None
-    m = POT_RE.search(raw)
-    if not m:
-        return {"raw": raw, "value": None, "unit": None}
-    value = float(m.group(1))
-    if value.is_integer():
-        value = int(value)
-    return {"raw": raw, "value": value, "unit": m.group(2).lower()}
+    out = []
+    for part in (p.strip() for p in raw.split(',')):
+        if not part:
+            continue
+        m = POT_RE.search(part)
+        if not m:
+            out.append({"raw": part, "value": None, "unit": None})
+            continue
+        value = float(m.group(1))
+        if value.is_integer():
+            value = int(value)
+        out.append({"raw": part, "value": value, "unit": m.group(2).lower()})
+    return out or None
 
 # Brand Details table field -> location in the brand object.
 # ("address", k) nests under address; (None, k) sits at brand top level.
@@ -106,7 +116,7 @@ def parse_paints(lines, brand_slug):
         code = fix(row.get('Code', '').strip()) if 'Code' in header else ''
         code = code or None
         setv = fix(row.get('Set', '').strip()) or None
-        pot = parse_pot_size(fix(row.get('Pot Size', '').strip()) or None)
+        pots = parse_pot_sizes(fix(row.get('Pot Size', '').strip()) or None)
         desc = fix(row.get('Description', '').strip()) or None
 
         def to_int(v):
@@ -143,7 +153,7 @@ def parse_paints(lines, brand_slug):
             "hex": hexv,
             "rgb": {"r": R, "g": G, "b": B} if None not in (R, G, B) else None,
             "shiftColors": shift_colors,
-            "potSize": pot,
+            "potSizes": pots,
             "description": desc,
         })
     return paints
@@ -184,7 +194,7 @@ def build():
         total += len(paints)
 
     doc = OrderedDict()
-    doc["schema"] = "miniature-paints/v2"
+    doc["schema"] = "miniature-paints/v3"
     doc["brandCount"] = len(brands)
     doc["paintCount"] = total
     doc["brands"] = brands
