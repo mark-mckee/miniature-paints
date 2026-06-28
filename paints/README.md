@@ -40,4 +40,4 @@ Paints that have been culled from a brand's current line (discontinued, but stil
 | <img src="../logos/TurboDork.png" height="40" alt="Turbo Dork" /> | [Turbo Dork](markdown/TurboDork.md) | 80 |  |
 | <img src="../logos/Vallejo.png" height="40" alt="Vallejo" /> | [Vallejo](markdown/Vallejo.md) | 1268 |  |
 | <img src="../logos/Warcolours.png" height="40" alt="Warcolours" /> | [Warcolours](markdown/Warcolours.md) | 178 |  |
-| <img src="../logos/Warhammer_Colour.png" height="40" alt="Warhammer Colour" /> | [Warhammer Colour](markdown/Warhammer_Colour.md) | 330 | [✓](discontinued/Warhammer_Colour.csv) |
+| <img src="../logos/Warhammer_Colour.png" height="40" alt="Warhammer Colour" /> | [Warhammer Colour](markdown/Warhammer_Colour.md) | 331 | [✓](discontinued/Warhammer_Colour.csv) |

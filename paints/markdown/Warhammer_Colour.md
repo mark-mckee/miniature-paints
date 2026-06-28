@@ -181,6 +181,7 @@
 |Kroxigor Scales|Contrast|37|138|150|![#258A96](https://placehold.co/15x15/258A96/258A96.png) `#258A96`|18ml||
 |Lahmian Medium|Technical|242|242|242|![#F2F2F2](https://placehold.co/15x15/F2F2F2/F2F2F2.png) `#F2F2F2`|24ml||
 |Leadbelcher|Air|97|102|105|![#616669](https://placehold.co/15x15/616669/616669.png) `#616669`|24ml||
+|Leadbelcher|Base|147|147|147|![#939393](https://placehold.co/15x15/939393/939393.png) `#939393`|12ml||
 |Leadbelcher|Spray|140|140|140|![#8C8C8C](https://placehold.co/15x15/8C8C8C/8C8C8C.png) `#8C8C8C`|400ml||
 |Leviadon Blue|Contrast|16|64|110|![#10406E](https://placehold.co/15x15/10406E/10406E.png) `#10406E`|18ml||
 |Leviathan Purple|Contrast|46|45|102|![#2E2D66](https://placehold.co/15x15/2E2D66/2E2D66.png) `#2E2D66`|18ml||

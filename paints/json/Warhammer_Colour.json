@@ -14,7 +14,7 @@
   "website": "https://www.warhammer.com",
   "phone": "+44 115 91 40000",
   "updatedCatalogueRequested": "24/06/2026",
-  "paintCount": 330,
+  "paintCount": 331,
   "paints": [
     {
       "id": "warhammer-colour-abaddon-black",
@@ -3441,6 +3441,27 @@
     },
     {
       "id": "warhammer-colour-leadbelcher-2",
+      "name": "Leadbelcher",
+      "code": null,
+      "set": "Base",
+      "hex": "#939393",
+      "rgb": {
+        "r": 147,
+        "g": 147,
+        "b": 147
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "12ml",
+          "value": 12,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "warhammer-colour-leadbelcher-3",
       "name": "Leadbelcher",
       "code": null,
       "set": "Spray",

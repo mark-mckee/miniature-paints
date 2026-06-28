@@ -1,6 +1,6 @@
 # Name, Set, RGB, and Hex values of Miniature Paints
 
-**33 brands · 11,811 paints**
+**33 brands · 11,812 paints**
 
 This repo is a collection of hobby/miniature painting paints from some of the most popular brands around the world.
 
