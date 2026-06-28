@@ -26,7 +26,7 @@ Feel free to use or improve any of these paints in your own personal projects. A
 - [X] Add contact information for each brand where possible
 - [ ] Update all paint sets to match the current product catalogues
   - [X] AK
-  - [ ] Acrilex
+  - [X] Acrilex
   - [ ] Apple Barrel
   - [ ] Army Painter
   - [ ] Arteza

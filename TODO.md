@@ -22,7 +22,7 @@
     - [X] Playmakers
     - [X] Quick Markers
     - [X] Primers
-  - [ ] Acrilex
+  - [X] Acrilex
   - [ ] Apple Barrel
   - [ ] Army Painter
   - [ ] Arteza
