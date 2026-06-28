@@ -5670,11 +5670,11 @@
       "name": "Straken Green",
       "code": null,
       "set": "Layer",
-      "hex": "#5D8026",
+      "hex": "#9BD144",
       "rgb": {
-        "r": 93,
-        "g": 128,
-        "b": 38
+        "r": 155,
+        "g": 209,
+        "b": 68
       },
       "shiftColors": null,
       "potSizes": [
@@ -5712,11 +5712,11 @@
       "name": "Sybarite Green",
       "code": null,
       "set": "Layer",
-      "hex": "#5D8026",
+      "hex": "#9BD244",
       "rgb": {
-        "r": 93,
-        "g": 128,
-        "b": 38
+        "r": 155,
+        "g": 210,
+        "b": 68
       },
       "shiftColors": null,
       "potSizes": [

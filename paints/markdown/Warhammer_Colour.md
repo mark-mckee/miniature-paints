@@ -287,9 +287,9 @@
 |Stormhost Silver|Layer|192|197|200|![#C0C5C8](https://placehold.co/15x15/C0C5C8/C0C5C8.png) `#C0C5C8`|12ml||
 |Stormshield|Technical|242|242|242|![#F2F2F2](https://placehold.co/15x15/F2F2F2/F2F2F2.png) `#F2F2F2`|24ml||
 |Stormvermin Fur|Layer|108|101|95|![#6C655F](https://placehold.co/15x15/6C655F/6C655F.png) `#6C655F`|12ml||
-|Straken Green|Layer|93|128|38|![#5D8026](https://placehold.co/15x15/5D8026/5D8026.png) `#5D8026`|12ml||
+|Straken Green|Layer|155|209|68|![#9BD144](https://placehold.co/15x15/9BD144/9BD144.png) `#9BD144`|12ml||
 |Striking Scorpion Green|Contrast|43|155|97|![#2B9B61](https://placehold.co/15x15/2B9B61/2B9B61.png) `#2B9B61`|18ml||
-|Sybarite Green|Layer|93|128|38|![#5D8026](https://placehold.co/15x15/5D8026/5D8026.png) `#5D8026`|12ml||
+|Sybarite Green|Layer|155|210|68|![#9BD244](https://placehold.co/15x15/9BD244/9BD244.png) `#9BD244`|12ml||
 |Sycorax Bronze|Layer|153|122|107|![#997A6B](https://placehold.co/15x15/997A6B/997A6B.png) `#997A6B`|12ml||
 |Sylvaneth Bark|Dry|78|72|58|![#4E483A](https://placehold.co/15x15/4E483A/4E483A.png) `#4E483A`|12ml||
 |Talassar Blue|Contrast|13|138|205|![#0D8ACD](https://placehold.co/15x15/0D8ACD/0D8ACD.png) `#0D8ACD`|18ml||
