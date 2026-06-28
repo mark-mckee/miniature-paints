@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Build paints.json from the per-brand markdown tables in paints/.
+"""Build paints.json from the per-brand markdown tables in paints/markdown/.
 
-Each paints/<Brand>.md file holds:
+Each paints/markdown/<Brand>.md file holds:
   * an H1 title  -> brand displayName
   * a "Brand Details" key/value table -> company / address / contact info
   * a paints table (Name, [Code], Set, R, G, B, Hex) -> the paint list
@@ -13,15 +13,15 @@ import os, re, json, glob
 from collections import OrderedDict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PAINTS_DIR = os.path.join(ROOT, "paints")
+PAINTS_DIR = os.path.join(ROOT, "paints", "markdown")
 OUT_PATH = os.path.join(ROOT, "paints.json")
-JSON_DIR = os.path.join(ROOT, "json")
+JSON_DIR = os.path.join(ROOT, "paints", "json")
 
 # Dataset schema version, and the JSON Schema files each output document links to via
 # "$schema" (relative to the document's own location). See schema/ at the repo root.
 SCHEMA_VERSION = "miniature-paints/v3"
-AGG_SCHEMA_REF = "./schema/paints.schema.json"      # for paints.json (repo root)
-BRAND_SCHEMA_REF = "../schema/brand.schema.json"    # for json/<stem>.json
+AGG_SCHEMA_REF = "./schema/paints.schema.json"         # for paints.json (repo root)
+BRAND_SCHEMA_REF = "../../schema/brand.schema.json"    # for paints/json/<stem>.json
 
 HEX_RE = re.compile(r'#([0-9A-Fa-f]{6})')
 POT_RE = re.compile(r'([\d]+(?:\.[\d]+)?)\s*([a-zA-Z]+)')

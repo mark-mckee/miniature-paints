@@ -1,0 +1,3320 @@
+{
+  "$schema": "../../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
+  "displayName": "Green Stuff World",
+  "company": "GREEN STUFF WORLD, S.L.",
+  "address": {
+    "street": "Calle Chelín, 24",
+    "city": "Alicante",
+    "postcode": "03114",
+    "country": "Spain"
+  },
+  "contactEmail": "support@greenstuffworld.com",
+  "contactForm": "",
+  "website": "https://www.greenstuffworld.com",
+  "phone": "+34 965 14 51 07",
+  "updatedCatalogueRequested": "",
+  "paintCount": 220,
+  "paints": [
+    {
+      "id": "greenstuffworld-abyss-blue",
+      "name": "Abyss Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#00134B",
+      "rgb": {
+        "r": 0,
+        "g": 19,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-acid-green-dip",
+      "name": "Acid Green Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#455C0E",
+      "rgb": {
+        "r": 69,
+        "g": 92,
+        "b": 14
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-aether-blue",
+      "name": "Aether Blue",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#666ED0",
+      "rgb": {
+        "r": 102,
+        "g": 110,
+        "b": 208
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-amber-orange",
+      "name": "Amber Orange",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#F4B11A",
+      "rgb": {
+        "r": 244,
+        "g": 177,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-amberglow-dip",
+      "name": "Amberglow Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#642D0F",
+      "rgb": {
+        "r": 100,
+        "g": 45,
+        "b": 15
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-amethyst-purple",
+      "name": "Amethyst Purple",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#D7A7F1",
+      "rgb": {
+        "r": 215,
+        "g": 167,
+        "b": 241
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-ancient-sepia",
+      "name": "Ancient Sepia",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#AAA168",
+      "rgb": {
+        "r": 170,
+        "g": 161,
+        "b": 104
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-andalusian-earth",
+      "name": "Andalusian Earth",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#766B59",
+      "rgb": {
+        "r": 118,
+        "g": 107,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-anthrax-metal",
+      "name": "Anthrax Metal",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#7B7E83",
+      "rgb": {
+        "r": 123,
+        "g": 126,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-antique-gold",
+      "name": "Antique Gold",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#957E38",
+      "rgb": {
+        "r": 149,
+        "g": 126,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-aqua-turquoise",
+      "name": "Aqua Turquoise",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#9BD1D1",
+      "rgb": {
+        "r": 155,
+        "g": 209,
+        "b": 209
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-arachnid-green",
+      "name": "Arachnid Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#124244",
+      "rgb": {
+        "r": 18,
+        "g": 66,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-arctic-blue",
+      "name": "Arctic Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#14ADCC",
+      "rgb": {
+        "r": 20,
+        "g": 173,
+        "b": 204
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-arrakis-brown",
+      "name": "Arrakis Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E39C28",
+      "rgb": {
+        "r": 227,
+        "g": 156,
+        "b": 40
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-atramentum-black",
+      "name": "Atramentum Black",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#515151",
+      "rgb": {
+        "r": 81,
+        "g": 81,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-azure-dip",
+      "name": "Azure Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#094448",
+      "rgb": {
+        "r": 9,
+        "g": 68,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-banana-split",
+      "name": "Banana Split",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F0E229",
+      "rgb": {
+        "r": 240,
+        "g": 226,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-barrel-grey",
+      "name": "Barrel Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#25221B",
+      "rgb": {
+        "r": 37,
+        "g": 34,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-bestial-brown",
+      "name": "Bestial Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#2D1E01",
+      "rgb": {
+        "r": 45,
+        "g": 30,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-black-green-stone-dip",
+      "name": "Black Green Stone Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#3E4639",
+      "rgb": {
+        "r": 62,
+        "g": 70,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-black-stallion",
+      "name": "Black Stallion",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-blackroot-grey",
+      "name": "Blackroot Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#343436",
+      "rgb": {
+        "r": 52,
+        "g": 52,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-blue",
+      "name": "Blue",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#5E88FF",
+      "rgb": {
+        "r": 94,
+        "g": 136,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-blue-glacier-dip",
+      "name": "Blue Glacier Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#53A7CB",
+      "rgb": {
+        "r": 83,
+        "g": 167,
+        "b": 203
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-bluebird-grey",
+      "name": "Bluebird Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#6F657D",
+      "rgb": {
+        "r": 111,
+        "g": 101,
+        "b": 125
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-bluegrey-dusk",
+      "name": "Bluegrey Dusk",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#2A2C41",
+      "rgb": {
+        "r": 42,
+        "g": 44,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-blush-red",
+      "name": "Blush Red",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#DB746D",
+      "rgb": {
+        "r": 219,
+        "g": 116,
+        "b": 109
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-blushing-flesh",
+      "name": "Blushing Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#DA523A",
+      "rgb": {
+        "r": 218,
+        "g": 82,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-borealis-green",
+      "name": "Borealis Green",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#7AC9D6",
+      "rgb": {
+        "r": 122,
+        "g": 201,
+        "b": 214
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-brown-skin",
+      "name": "Brown Skin",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#802709",
+      "rgb": {
+        "r": 128,
+        "g": 39,
+        "b": 9
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-burgundy-dip",
+      "name": "Burgundy Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#4F2330",
+      "rgb": {
+        "r": 79,
+        "g": 35,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-burning-gold",
+      "name": "Burning Gold",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#F2DE2F",
+      "rgb": {
+        "r": 242,
+        "g": 222,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-caesar-red",
+      "name": "Caesar Red",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#C8606B",
+      "rgb": {
+        "r": 200,
+        "g": 96,
+        "b": 107
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-camouflage-green",
+      "name": "Camouflage Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#63601B",
+      "rgb": {
+        "r": 99,
+        "g": 96,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-canary-green",
+      "name": "Canary Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D3DC65",
+      "rgb": {
+        "r": 211,
+        "g": 220,
+        "b": 101
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-carnage-red",
+      "name": "Carnage Red",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#C22B24",
+      "rgb": {
+        "r": 194,
+        "g": 43,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-celestial-azure",
+      "name": "Celestial Azure",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#7CC8D6",
+      "rgb": {
+        "r": 124,
+        "g": 200,
+        "b": 214
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-chancellor-blue",
+      "name": "Chancellor Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#323045",
+      "rgb": {
+        "r": 50,
+        "g": 48,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-choco-brown",
+      "name": "Choco Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#3F2001",
+      "rgb": {
+        "r": 63,
+        "g": 32,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-chrome-paint",
+      "name": "Chrome Paint",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#FCFDFF",
+      "rgb": {
+        "r": 252,
+        "g": 253,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-citrine-yellow",
+      "name": "Citrine Yellow",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#FFF64F",
+      "rgb": {
+        "r": 255,
+        "g": 246,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-cobalt-blue",
+      "name": "Cobalt Blue",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#4476D7",
+      "rgb": {
+        "r": 68,
+        "g": 118,
+        "b": 215
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-cool-blue-dip",
+      "name": "Cool Blue Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#387971",
+      "rgb": {
+        "r": 56,
+        "g": 121,
+        "b": 113
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-coyote-brown",
+      "name": "Coyote Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#806B3E",
+      "rgb": {
+        "r": 128,
+        "g": 107,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-crimson-magenta",
+      "name": "Crimson Magenta",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#FF5A94",
+      "rgb": {
+        "r": 255,
+        "g": 90,
+        "b": 148
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-cutthroat-red",
+      "name": "Cutthroat Red",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#8E1316",
+      "rgb": {
+        "r": 142,
+        "g": 19,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-cyber-yellow",
+      "name": "Cyber Yellow",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F2D12C",
+      "rgb": {
+        "r": 242,
+        "g": 209,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-dark-beige",
+      "name": "Dark Beige",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#715C41",
+      "rgb": {
+        "r": 113,
+        "g": 92,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-dark-elder-bronze",
+      "name": "Dark Elder Bronze",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#3E2C14",
+      "rgb": {
+        "r": 62,
+        "g": 44,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-dark-umber",
+      "name": "Dark Umber",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#3B302E",
+      "rgb": {
+        "r": 59,
+        "g": 48,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-darth-blue",
+      "name": "Darth Blue",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#4476D9",
+      "rgb": {
+        "r": 68,
+        "g": 118,
+        "b": 217
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-deck-grey",
+      "name": "Deck Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D1C2A3",
+      "rgb": {
+        "r": 209,
+        "g": 194,
+        "b": 163
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-deep-black-dip",
+      "name": "Deep Black Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#252525",
+      "rgb": {
+        "r": 37,
+        "g": 37,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-desert-camo",
+      "name": "Desert Camo",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#947B3B",
+      "rgb": {
+        "r": 148,
+        "g": 123,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-dusty-blue-dip",
+      "name": "Dusty Blue Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#2C4655",
+      "rgb": {
+        "r": 44,
+        "g": 70,
+        "b": 85
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-dusty-rose",
+      "name": "Dusty Rose",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F0636B",
+      "rgb": {
+        "r": 240,
+        "g": 99,
+        "b": 107
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-dwarven-flesh",
+      "name": "Dwarven Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FF7D4B",
+      "rgb": {
+        "r": 255,
+        "g": 125,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-el-dorado",
+      "name": "El Dorado",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#BA931C",
+      "rgb": {
+        "r": 186,
+        "g": 147,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-elfwood-brown-dip",
+      "name": "Elfwood Brown Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#4C361F",
+      "rgb": {
+        "r": 76,
+        "g": 54,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-elven-flesh",
+      "name": "Elven Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F2AA82",
+      "rgb": {
+        "r": 242,
+        "g": 170,
+        "b": 130
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-ember-orange",
+      "name": "Ember Orange",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D94A22",
+      "rgb": {
+        "r": 217,
+        "g": 74,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-emerald-getaway",
+      "name": "Emerald Getaway",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#33AE92",
+      "rgb": {
+        "r": 51,
+        "g": 174,
+        "b": 146
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-english-field-brown",
+      "name": "English Field Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#6C4615",
+      "rgb": {
+        "r": 108,
+        "g": 70,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-evil-forest",
+      "name": "Evil Forest",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#531516",
+      "rgb": {
+        "r": 83,
+        "g": 21,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-faded-orange",
+      "name": "Faded Orange",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F4793D",
+      "rgb": {
+        "r": 244,
+        "g": 121,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-fang-white",
+      "name": "Fang White",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FFFBDD",
+      "rgb": {
+        "r": 255,
+        "g": 251,
+        "b": 221
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-field-green-grey",
+      "name": "Field Green-grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#1B4724",
+      "rgb": {
+        "r": 27,
+        "g": 71,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-flaming-orange",
+      "name": "Flaming Orange",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#EA701B",
+      "rgb": {
+        "r": 234,
+        "g": 112,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-flesh-rose",
+      "name": "Flesh Rose",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D16855",
+      "rgb": {
+        "r": 209,
+        "g": 104,
+        "b": 85
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-flubber-green",
+      "name": "Flubber Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#88B719",
+      "rgb": {
+        "r": 136,
+        "g": 183,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-forest-green",
+      "name": "Forest Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#003910",
+      "rgb": {
+        "r": 0,
+        "g": 57,
+        "b": 16
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-foxhide-brown",
+      "name": "Foxhide Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#C16001",
+      "rgb": {
+        "r": 193,
+        "g": 96,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-gangrene",
+      "name": "Gangrene",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#3B4312",
+      "rgb": {
+        "r": 59,
+        "g": 67,
+        "b": 18
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-garnet-purple-dip",
+      "name": "Garnet Purple Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#712F53",
+      "rgb": {
+        "r": 113,
+        "g": 47,
+        "b": 83
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-gengis-khaki",
+      "name": "Gengis Khaki",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#665B3B",
+      "rgb": {
+        "r": 102,
+        "g": 91,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-gladius-bronze",
+      "name": "Gladius Bronze",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#E1A767",
+      "rgb": {
+        "r": 225,
+        "g": 167,
+        "b": 103
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-glorious-magenta-dip",
+      "name": "Glorious Magenta Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#7A2E4A",
+      "rgb": {
+        "r": 122,
+        "g": 46,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-go-mango",
+      "name": "Go Mango",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FFA032",
+      "rgb": {
+        "r": 255,
+        "g": 160,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-golden-cream",
+      "name": "Golden Cream",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FFCE53",
+      "rgb": {
+        "r": 255,
+        "g": 206,
+        "b": 83
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-gorgon-dark-green",
+      "name": "Gorgon Dark Green",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#6EA87F",
+      "rgb": {
+        "r": 110,
+        "g": 168,
+        "b": 127
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-goth-skin-dip",
+      "name": "Goth Skin Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#632D2B",
+      "rgb": {
+        "r": 99,
+        "g": 45,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-green-ghost-dip",
+      "name": "Green Ghost Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#1D5113",
+      "rgb": {
+        "r": 29,
+        "g": 81,
+        "b": 19
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-green-shark-skin-dip",
+      "name": "Green Shark Skin Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#004542",
+      "rgb": {
+        "r": 0,
+        "g": 69,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-grey-mist-dip",
+      "name": "Grey Mist Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#787878",
+      "rgb": {
+        "r": 120,
+        "g": 120,
+        "b": 120
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-grey-teal",
+      "name": "Grey Teal",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#64857E",
+      "rgb": {
+        "r": 100,
+        "g": 133,
+        "b": 126
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-gunmetal-grey",
+      "name": "Gunmetal Grey",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#ACB1B7",
+      "rgb": {
+        "r": 172,
+        "g": 177,
+        "b": 183
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-hellfire-red",
+      "name": "Hellfire Red",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#CB160F",
+      "rgb": {
+        "r": 203,
+        "g": 22,
+        "b": 15
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-hulky-green-dip",
+      "name": "Hulky Green Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#094625",
+      "rgb": {
+        "r": 9,
+        "g": 70,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-hunter-green",
+      "name": "Hunter Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#017601",
+      "rgb": {
+        "r": 1,
+        "g": 118,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-hydromiel-yellow",
+      "name": "Hydromiel Yellow",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#F5F092",
+      "rgb": {
+        "r": 245,
+        "g": 240,
+        "b": 146
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-imperium-blue",
+      "name": "Imperium Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#1A3085",
+      "rgb": {
+        "r": 26,
+        "g": 48,
+        "b": 133
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-indigo-blue-dip",
+      "name": "Indigo Blue Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#1C2F59",
+      "rgb": {
+        "r": 28,
+        "g": 47,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-ivory-tusk",
+      "name": "Ivory Tusk",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F3DFBE",
+      "rgb": {
+        "r": 243,
+        "g": 223,
+        "b": 190
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-jade-green",
+      "name": "Jade Green",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#9BFFD4",
+      "rgb": {
+        "r": 155,
+        "g": 255,
+        "b": 212
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-komodo-khaki",
+      "name": "Komodo Khaki",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#885A29",
+      "rgb": {
+        "r": 136,
+        "g": 90,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-kraken-green",
+      "name": "Kraken Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#034C39",
+      "rgb": {
+        "r": 3,
+        "g": 76,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-lapislazuli",
+      "name": "Lapislazuli",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#172C63",
+      "rgb": {
+        "r": 23,
+        "g": 44,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-leather-brown",
+      "name": "Leather Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#AF6816",
+      "rgb": {
+        "r": 175,
+        "g": 104,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-liche-purple",
+      "name": "Liche Purple",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#441C5A",
+      "rgb": {
+        "r": 68,
+        "g": 28,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-lilac-purple",
+      "name": "Lilac Purple",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#B076B3",
+      "rgb": {
+        "r": 176,
+        "g": 118,
+        "b": 179
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-lime",
+      "name": "Lime",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#4EFF71",
+      "rgb": {
+        "r": 78,
+        "g": 255,
+        "b": 113
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-limelight-dip",
+      "name": "Limelight Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#605A02",
+      "rgb": {
+        "r": 96,
+        "g": 90,
+        "b": 2
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-lollipop-magenta",
+      "name": "Lollipop Magenta",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#AB0061",
+      "rgb": {
+        "r": 171,
+        "g": 0,
+        "b": 97
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-majin-pink",
+      "name": "Majin Pink",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D5618E",
+      "rgb": {
+        "r": 213,
+        "g": 97,
+        "b": 142
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-malefic-purple",
+      "name": "Malefic Purple",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#110B49",
+      "rgb": {
+        "r": 17,
+        "g": 11,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-marine-blue",
+      "name": "Marine Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#12407E",
+      "rgb": {
+        "r": 18,
+        "g": 64,
+        "b": 126
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-martian-green",
+      "name": "Martian Green",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#869B62",
+      "rgb": {
+        "r": 134,
+        "g": 155,
+        "b": 98
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-military-green",
+      "name": "Military Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#22260F",
+      "rgb": {
+        "r": 34,
+        "g": 38,
+        "b": 15
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-mint-twister",
+      "name": "Mint Twister",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#00BAA3",
+      "rgb": {
+        "r": 0,
+        "g": 186,
+        "b": 163
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-mirage-blue",
+      "name": "Mirage Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#36455A",
+      "rgb": {
+        "r": 54,
+        "g": 69,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-misted-yellow-dip",
+      "name": "Misted Yellow Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#8D611A",
+      "rgb": {
+        "r": 141,
+        "g": 97,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-moon-mist-grey",
+      "name": "Moon Mist Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#DCCFC9",
+      "rgb": {
+        "r": 220,
+        "g": 207,
+        "b": 201
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-moonstone-grey",
+      "name": "Moonstone Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#8C8C8C",
+      "rgb": {
+        "r": 140,
+        "g": 140,
+        "b": 140
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-morrow-purple-dip",
+      "name": "Morrow Purple Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#786696",
+      "rgb": {
+        "r": 120,
+        "g": 102,
+        "b": 150
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-moss-green",
+      "name": "Moss Green",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#6EAC56",
+      "rgb": {
+        "r": 110,
+        "g": 172,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-mustard-yellow",
+      "name": "Mustard Yellow",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#936611",
+      "rgb": {
+        "r": 147,
+        "g": 102,
+        "b": 17
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-mystic-gold",
+      "name": "Mystic Gold",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#F2DE2F",
+      "rgb": {
+        "r": 242,
+        "g": 222,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-mystic-white",
+      "name": "Mystic White",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#EFF0F4",
+      "rgb": {
+        "r": 239,
+        "g": 240,
+        "b": 244
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-nebula-copper",
+      "name": "Nebula Copper",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#C94FA6",
+      "rgb": {
+        "r": 201,
+        "g": 79,
+        "b": 166
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-neptunus-blue",
+      "name": "Neptunus Blue",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#60BAF8",
+      "rgb": {
+        "r": 96,
+        "g": 186,
+        "b": 248
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-nightsahde-purple-dip",
+      "name": "Nightsahde Purple Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#472D5A",
+      "rgb": {
+        "r": 71,
+        "g": 45,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-nuclear-white",
+      "name": "Nuclear White",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-nude-skin-dip",
+      "name": "Nude Skin Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#DE9390",
+      "rgb": {
+        "r": 222,
+        "g": 147,
+        "b": 144
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-ochre-desert",
+      "name": "Ochre Desert",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E08500",
+      "rgb": {
+        "r": 224,
+        "g": 133,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-olive-brown-ops",
+      "name": "Olive-brown Ops",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#372D0A",
+      "rgb": {
+        "r": 55,
+        "g": 45,
+        "b": 10
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-olivegrove-green",
+      "name": "Olivegrove Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#1B290F",
+      "rgb": {
+        "r": 27,
+        "g": 41,
+        "b": 15
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-opulentus-black",
+      "name": "Opulentus Black",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#515151",
+      "rgb": {
+        "r": 81,
+        "g": 81,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-orange",
+      "name": "Orange",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#F96E33",
+      "rgb": {
+        "r": 249,
+        "g": 110,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-orchid-purple",
+      "name": "Orchid Purple",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#734472",
+      "rgb": {
+        "r": 115,
+        "g": 68,
+        "b": 114
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-ork-flesh-dip",
+      "name": "Ork Flesh Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#13331B",
+      "rgb": {
+        "r": 19,
+        "g": 51,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-overlord-olive",
+      "name": "Overlord Olive",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#37321F",
+      "rgb": {
+        "r": 55,
+        "g": 50,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-pale-flesh",
+      "name": "Pale Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E8B9A7",
+      "rgb": {
+        "r": 232,
+        "g": 185,
+        "b": 167
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-papyrus-dip",
+      "name": "Papyrus Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#6E4E1B",
+      "rgb": {
+        "r": 110,
+        "g": 78,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-parchment",
+      "name": "Parchment",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E1C095",
+      "rgb": {
+        "r": 225,
+        "g": 192,
+        "b": 149
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-peach-flesh",
+      "name": "Peach Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E47700",
+      "rgb": {
+        "r": 228,
+        "g": 119,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-pecatum-flesh",
+      "name": "Pecatum Flesh",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#F4929F",
+      "rgb": {
+        "r": 244,
+        "g": 146,
+        "b": 159
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-persian-violet",
+      "name": "Persian Violet",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#412480",
+      "rgb": {
+        "r": 65,
+        "g": 36,
+        "b": 128
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-phantom-violet",
+      "name": "Phantom Violet",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#7D367C",
+      "rgb": {
+        "r": 125,
+        "g": 54,
+        "b": 124
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-phoenix-orange",
+      "name": "Phoenix Orange",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#F1A760",
+      "rgb": {
+        "r": 241,
+        "g": 167,
+        "b": 96
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-pinky-blue",
+      "name": "Pinky Blue",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#78CDD2",
+      "rgb": {
+        "r": 120,
+        "g": 205,
+        "b": 210
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-primer-black",
+      "name": "Primer Black",
+      "code": null,
+      "set": "Gloss Surface",
+      "hex": "#202020",
+      "rgb": {
+        "r": 32,
+        "g": 32,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-primer-black-2",
+      "name": "Primer Black",
+      "code": null,
+      "set": "Matt Surface",
+      "hex": "#1A1A1A",
+      "rgb": {
+        "r": 26,
+        "g": 26,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-primer-green",
+      "name": "Primer Green",
+      "code": null,
+      "set": "Matt Surface",
+      "hex": "#485A04",
+      "rgb": {
+        "r": 72,
+        "g": 90,
+        "b": 4
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-primer-grey",
+      "name": "Primer Grey",
+      "code": null,
+      "set": "Matt Surface",
+      "hex": "#CCCCCC",
+      "rgb": {
+        "r": 204,
+        "g": 204,
+        "b": 204
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-primer-red",
+      "name": "Primer Red",
+      "code": null,
+      "set": "Matt Surface",
+      "hex": "#882A1E",
+      "rgb": {
+        "r": 136,
+        "g": 42,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-primer-white",
+      "name": "Primer White",
+      "code": null,
+      "set": "Matt Surface",
+      "hex": "#FDFDFD",
+      "rgb": {
+        "r": 253,
+        "g": 253,
+        "b": 253
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-prussian-blue",
+      "name": "Prussian Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#00416B",
+      "rgb": {
+        "r": 0,
+        "g": 65,
+        "b": 107
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-prussian-green",
+      "name": "Prussian Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#152E1B",
+      "rgb": {
+        "r": 21,
+        "g": 46,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-psychotic-illusions",
+      "name": "Psychotic Illusions",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#69ACB5",
+      "rgb": {
+        "r": 105,
+        "g": 172,
+        "b": 181
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-purple-vanity-dip",
+      "name": "Purple Vanity Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#392E56",
+      "rgb": {
+        "r": 57,
+        "g": 46,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-quartz-magenta",
+      "name": "Quartz Magenta",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#EA86AA",
+      "rgb": {
+        "r": 234,
+        "g": 134,
+        "b": 170
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-quicksand-brown",
+      "name": "Quicksand Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#7D4A1B",
+      "rgb": {
+        "r": 125,
+        "g": 74,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-quicksilver",
+      "name": "Quicksilver",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#E0E3E8",
+      "rgb": {
+        "r": 224,
+        "g": 227,
+        "b": 232
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-radiant-orange-dip",
+      "name": "Radiant Orange Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#844406",
+      "rgb": {
+        "r": 132,
+        "g": 68,
+        "b": 6
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-ranger-green",
+      "name": "Ranger Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#38352E",
+      "rgb": {
+        "r": 56,
+        "g": 53,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-red",
+      "name": "Red",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#F03C25",
+      "rgb": {
+        "r": 240,
+        "g": 60,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-red-cloak-dip",
+      "name": "Red Cloak Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#B2655D",
+      "rgb": {
+        "r": 178,
+        "g": 101,
+        "b": 93
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-red-goblin",
+      "name": "Red Goblin",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#A9BA73",
+      "rgb": {
+        "r": 169,
+        "g": 186,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-red-opulence-dip",
+      "name": "Red Opulence Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#BB2320",
+      "rgb": {
+        "r": 187,
+        "g": 35,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-red-truth",
+      "name": "Red Truth",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#EC2005",
+      "rgb": {
+        "r": 236,
+        "g": 32,
+        "b": 5
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-redwood-brown",
+      "name": "Redwood Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#3E0D00",
+      "rgb": {
+        "r": 62,
+        "g": 13,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-rocket-green",
+      "name": "Rocket Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#415E24",
+      "rgb": {
+        "r": 65,
+        "g": 94,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-rose",
+      "name": "Rose",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#F470A1",
+      "rgb": {
+        "r": 244,
+        "g": 112,
+        "b": 161
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-rotten-green",
+      "name": "Rotten Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#77932C",
+      "rgb": {
+        "r": 119,
+        "g": 147,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-royal-burgundy",
+      "name": "Royal Burgundy",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#90A375",
+      "rgb": {
+        "r": 144,
+        "g": 163,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-ruby-red",
+      "name": "Ruby Red",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#F5904C",
+      "rgb": {
+        "r": 245,
+        "g": 144,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-sacra-purple",
+      "name": "Sacra Purple",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#8869B9",
+      "rgb": {
+        "r": 136,
+        "g": 105,
+        "b": 185
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-sandstorm",
+      "name": "Sandstorm",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#BF9F66",
+      "rgb": {
+        "r": 191,
+        "g": 159,
+        "b": 102
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-sangria-red",
+      "name": "Sangria Red",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#5E0A0A",
+      "rgb": {
+        "r": 94,
+        "g": 10,
+        "b": 10
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-sanguinem-red",
+      "name": "Sanguinem Red",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#FF6050",
+      "rgb": {
+        "r": 255,
+        "g": 96,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-sapphire-blue",
+      "name": "Sapphire Blue",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#ACC9FF",
+      "rgb": {
+        "r": 172,
+        "g": 201,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-scorched-wood",
+      "name": "Scorched Wood",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#24110A",
+      "rgb": {
+        "r": 36,
+        "g": 17,
+        "b": 10
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-sepia-vetus",
+      "name": "Sepia Vetus",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#ABA269",
+      "rgb": {
+        "r": 171,
+        "g": 162,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-seraphim-flesh-dip",
+      "name": "Seraphim Flesh Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#BC6F51",
+      "rgb": {
+        "r": 188,
+        "g": 111,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-sharkfin-blue",
+      "name": "Sharkfin Blue",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#95CAF6",
+      "rgb": {
+        "r": 149,
+        "g": 202,
+        "b": 246
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-shiny-gold",
+      "name": "Shiny Gold",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#BFA22C",
+      "rgb": {
+        "r": 191,
+        "g": 162,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-sirenscale-green",
+      "name": "Sirenscale Green",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#05C18E",
+      "rgb": {
+        "r": 5,
+        "g": 193,
+        "b": 142
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-skeleton-brown-dip",
+      "name": "Skeleton Brown Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#4E3E25",
+      "rgb": {
+        "r": 78,
+        "g": 62,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-skull-linen-dip",
+      "name": "Skull Linen Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#A2A19D",
+      "rgb": {
+        "r": 162,
+        "g": 161,
+        "b": 157
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-slate-grey",
+      "name": "Slate Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#565656",
+      "rgb": {
+        "r": 86,
+        "g": 86,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-smoked-blue",
+      "name": "Smoked Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#55677F",
+      "rgb": {
+        "r": 85,
+        "g": 103,
+        "b": 127
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-solar-anomalie",
+      "name": "Solar Anomalie",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#D154A2",
+      "rgb": {
+        "r": 209,
+        "g": 84,
+        "b": 162
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-starship-grey",
+      "name": "Starship Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#7D6C72",
+      "rgb": {
+        "r": 125,
+        "g": 108,
+        "b": 114
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-steampunk-copper",
+      "name": "Steampunk Copper",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#DDA37E",
+      "rgb": {
+        "r": 221,
+        "g": 163,
+        "b": 126
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-steel-grey",
+      "name": "Steel Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#2A333C",
+      "rgb": {
+        "r": 42,
+        "g": 51,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-storm-surge-green",
+      "name": "Storm Surge Green",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#61A694",
+      "rgb": {
+        "r": 97,
+        "g": 166,
+        "b": 148
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-summersea-blue",
+      "name": "Summersea Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#0268B0",
+      "rgb": {
+        "r": 2,
+        "g": 104,
+        "b": 176
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-sun-bleached-bone",
+      "name": "Sun-bleached Bone",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D1904E",
+      "rgb": {
+        "r": 209,
+        "g": 144,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-swamp-brown",
+      "name": "Swamp Brown",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#A85D46",
+      "rgb": {
+        "r": 168,
+        "g": 93,
+        "b": 70
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-temple-ochre",
+      "name": "Temple Ochre",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#CA9F5B",
+      "rgb": {
+        "r": 202,
+        "g": 159,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-tenebris-blue",
+      "name": "Tenebris Blue",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#676FD1",
+      "rgb": {
+        "r": 103,
+        "g": 111,
+        "b": 209
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-tiger-brown",
+      "name": "Tiger Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F19200",
+      "rgb": {
+        "r": 241,
+        "g": 146,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-tiger-eye-brown",
+      "name": "Tiger Eye Brown",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#E8C196",
+      "rgb": {
+        "r": 232,
+        "g": 193,
+        "b": 150
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-tinmetal-grey",
+      "name": "Tinmetal Grey",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#B9ADAD",
+      "rgb": {
+        "r": 185,
+        "g": 173,
+        "b": 173
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-toxic-purple",
+      "name": "Toxic Purple",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#7A398D",
+      "rgb": {
+        "r": 122,
+        "g": 57,
+        "b": 141
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-tropical-green",
+      "name": "Tropical Green",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#B3D924",
+      "rgb": {
+        "r": 179,
+        "g": 217,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-tropical-turquoise",
+      "name": "Tropical Turquoise",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#33AFA5",
+      "rgb": {
+        "r": 51,
+        "g": 175,
+        "b": 165
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-turquoise-ghost-dip",
+      "name": "Turquoise Ghost Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#055145",
+      "rgb": {
+        "r": 5,
+        "g": 81,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-ultramar-blue",
+      "name": "Ultramar Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#343468",
+      "rgb": {
+        "r": 52,
+        "g": 52,
+        "b": 104
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-valkyrie-yellow",
+      "name": "Valkyrie Yellow",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E7D96C",
+      "rgb": {
+        "r": 231,
+        "g": 217,
+        "b": 108
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-vanilla-drop",
+      "name": "Vanilla Drop",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FEE591",
+      "rgb": {
+        "r": 254,
+        "g": 229,
+        "b": 145
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-vicious-purple",
+      "name": "Vicious Purple",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#8767BA",
+      "rgb": {
+        "r": 135,
+        "g": 103,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-violet",
+      "name": "Violet",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#BE68E3",
+      "rgb": {
+        "r": 190,
+        "g": 104,
+        "b": 227
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-violet-hint-dip",
+      "name": "Violet Hint Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#9A82BC",
+      "rgb": {
+        "r": 154,
+        "g": 130,
+        "b": 188
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-viridian-green",
+      "name": "Viridian Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#019A88",
+      "rgb": {
+        "r": 1,
+        "g": 154,
+        "b": 136
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-viridis-green",
+      "name": "Viridis Green",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#5AA38F",
+      "rgb": {
+        "r": 90,
+        "g": 163,
+        "b": 143
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-walnut-brown",
+      "name": "Walnut Brown",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#776C5A",
+      "rgb": {
+        "r": 119,
+        "g": 108,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-warcry-green",
+      "name": "Warcry Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#3E6121",
+      "rgb": {
+        "r": 62,
+        "g": 97,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-white",
+      "name": "White",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-whitecap-beige",
+      "name": "Whitecap Beige",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D6C4B0",
+      "rgb": {
+        "r": 214,
+        "g": 196,
+        "b": 176
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-wolven-grey",
+      "name": "Wolven Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#B0B6C6",
+      "rgb": {
+        "r": 176,
+        "g": 182,
+        "b": 198
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-wonka-violet",
+      "name": "Wonka Violet",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#771641",
+      "rgb": {
+        "r": 119,
+        "g": 22,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-yellow",
+      "name": "Yellow",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#F8FB48",
+      "rgb": {
+        "r": 248,
+        "g": 251,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-yellow-submarine-dip",
+      "name": "Yellow Submarine Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#BD9C0F",
+      "rgb": {
+        "r": 189,
+        "g": 156,
+        "b": 15
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-yellow-brown-ops",
+      "name": "Yellow-brown Ops",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#8A5E21",
+      "rgb": {
+        "r": 138,
+        "g": 94,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-yellow-orange",
+      "name": "Yellow-orange",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#F89D68",
+      "rgb": {
+        "r": 248,
+        "g": 157,
+        "b": 104
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-yoda-green",
+      "name": "Yoda Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#557C5D",
+      "rgb": {
+        "r": 85,
+        "g": 124,
+        "b": 93
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-zima-blue",
+      "name": "Zima Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#48A3C0",
+      "rgb": {
+        "r": 72,
+        "g": 163,
+        "b": 192
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-zombie-dip",
+      "name": "Zombie Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#373B22",
+      "rgb": {
+        "r": 55,
+        "g": 59,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "greenstuffworld-zombie-flesh",
+      "name": "Zombie Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#C9AC6A",
+      "rgb": {
+        "r": 201,
+        "g": 172,
+        "b": 106
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    }
+  ]
+}

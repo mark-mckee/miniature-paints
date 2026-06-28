@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """One-off migration: append empty 'Pot Size' and 'Description' columns to the
-paint table in every paints/<Brand>.md file.
+paint table in every paints/markdown/<Brand>.md file.
 
 Idempotent: a file whose paint header already contains 'Pot Size' is skipped, so
 re-running is safe. Only the paint table is touched; the Brand Details table above
@@ -11,7 +11,7 @@ it is never in range (the walk starts at the paint header). Run once:
 import os, glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PAINTS_DIR = os.path.join(ROOT, "paints")
+PAINTS_DIR = os.path.join(ROOT, "paints", "markdown")
 
 
 def is_table_row(line):

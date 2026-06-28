@@ -1,0 +1,1520 @@
+{
+  "$schema": "../../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
+  "displayName": "Italeri",
+  "company": "Italeri S.p.A.",
+  "address": {
+    "street": "Via Pradazzo 6/b",
+    "city": "Calderara di Reno",
+    "postcode": "40012",
+    "country": "Italy"
+  },
+  "contactEmail": "italeri@italeri.com",
+  "contactForm": "",
+  "website": "https://www.italeri.com",
+  "phone": "+39 051 3175211",
+  "updatedCatalogueRequested": "",
+  "paintCount": 100,
+  "paints": [
+    {
+      "id": "italeri-4677ap",
+      "name": "Aluminium",
+      "code": "4677AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#898C85",
+      "rgb": {
+        "r": 137,
+        "g": 140,
+        "b": 133
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4711ap",
+      "name": "Armor Sand",
+      "code": "4711AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#99925C",
+      "rgb": {
+        "r": 153,
+        "g": 146,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4308ap",
+      "name": "Azure Blue",
+      "code": "4308AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#4385C5",
+      "rgb": {
+        "r": 67,
+        "g": 133,
+        "b": 197
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4768ap",
+      "name": "Black",
+      "code": "4768AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4695ap",
+      "name": "Black",
+      "code": "4695AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4687ap",
+      "name": "Blue Angels Blue",
+      "code": "4687AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#1E2C4F",
+      "rgb": {
+        "r": 30,
+        "g": 44,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4672ap",
+      "name": "Brass",
+      "code": "4672AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#AA7D2C",
+      "rgb": {
+        "r": 170,
+        "g": 125,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4644ap",
+      "name": "Bruno Mimetico",
+      "code": "4644AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#836854",
+      "rgb": {
+        "r": 131,
+        "g": 104,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4636ap",
+      "name": "Clear Acryl",
+      "code": "4636AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#F9F9F9",
+      "rgb": {
+        "r": 249,
+        "g": 249,
+        "b": 249
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4637ap",
+      "name": "Clear Acryl",
+      "code": "4637AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#F9F9F9",
+      "rgb": {
+        "r": 249,
+        "g": 249,
+        "b": 249
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4638ap",
+      "name": "Clear Acryl",
+      "code": "4638AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#F9F9F9",
+      "rgb": {
+        "r": 249,
+        "g": 249,
+        "b": 249
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4303ap",
+      "name": "Dark Earth",
+      "code": "4303AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#7A5936",
+      "rgb": {
+        "r": 122,
+        "g": 89,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4846ap",
+      "name": "Dark Earth Ana 617",
+      "code": "4846AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#846954",
+      "rgb": {
+        "r": 132,
+        "g": 105,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4761ap",
+      "name": "Dark Ghost Gray",
+      "code": "4761AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#7E8E9A",
+      "rgb": {
+        "r": 126,
+        "g": 142,
+        "b": 154
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4754ap",
+      "name": "Dark Gray",
+      "code": "4754AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#657776",
+      "rgb": {
+        "r": 101,
+        "g": 119,
+        "b": 118
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4726ap",
+      "name": "Dark Green",
+      "code": "4726AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#5C6750",
+      "rgb": {
+        "r": 92,
+        "g": 103,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4755ap",
+      "name": "Dark Gull Gray",
+      "code": "4755AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#556B71",
+      "rgb": {
+        "r": 85,
+        "g": 107,
+        "b": 113
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4311ap",
+      "name": "Dark Slate Grey",
+      "code": "4311AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#2D3122",
+      "rgb": {
+        "r": 45,
+        "g": 49,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4709ap",
+      "name": "Dark Tan",
+      "code": "4709AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#9E765B",
+      "rgb": {
+        "r": 158,
+        "g": 118,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4781ap",
+      "name": "Dunkelgrün RLM 71",
+      "code": "4781AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#354531",
+      "rgb": {
+        "r": 53,
+        "g": 69,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4707ap",
+      "name": "Earth Red",
+      "code": "4707AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#855F30",
+      "rgb": {
+        "r": 133,
+        "g": 95,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4729ap",
+      "name": "Euro I Dark Green",
+      "code": "4729AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3B6657",
+      "rgb": {
+        "r": 59,
+        "g": 102,
+        "b": 87
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4312ap",
+      "name": "Extra Dark Sea Grey",
+      "code": "4312AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#353F3A",
+      "rgb": {
+        "r": 53,
+        "g": 63,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4708ap",
+      "name": "Field Drab",
+      "code": "4708AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#725B3C",
+      "rgb": {
+        "r": 114,
+        "g": 91,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4858ap",
+      "name": "Flat Brown 383",
+      "code": "4858AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#4F4239",
+      "rgb": {
+        "r": 79,
+        "g": 66,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4859ap",
+      "name": "Flat Desert Tan",
+      "code": "4859AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#B19F7B",
+      "rgb": {
+        "r": 177,
+        "g": 159,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4862ap",
+      "name": "Flat Green",
+      "code": "4862AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#636750",
+      "rgb": {
+        "r": 99,
+        "g": 103,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4857ap",
+      "name": "Flat Green 383",
+      "code": "4857AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3E4B39",
+      "rgb": {
+        "r": 62,
+        "g": 75,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4853ap",
+      "name": "Flat Grey Green RLM. 66",
+      "code": "4853AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#5B5E5F",
+      "rgb": {
+        "r": 91,
+        "g": 94,
+        "b": 95
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4855ap",
+      "name": "Flat Italian Interior Green",
+      "code": "4855AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A8BB9A",
+      "rgb": {
+        "r": 168,
+        "g": 187,
+        "b": 154
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4854ap",
+      "name": "Flat Ocean Grey",
+      "code": "4854AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#74797B",
+      "rgb": {
+        "r": 116,
+        "g": 121,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4861ap",
+      "name": "Flat Rubber",
+      "code": "4861AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#585B5B",
+      "rgb": {
+        "r": 88,
+        "g": 91,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4860ap",
+      "name": "Flat Sandgelb RAL.1002",
+      "code": "4860AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C6A664",
+      "rgb": {
+        "r": 198,
+        "g": 166,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4856ap",
+      "name": "Flat Sky Type's",
+      "code": "4856AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#B6C4AB",
+      "rgb": {
+        "r": 182,
+        "g": 196,
+        "b": 171
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4659ap",
+      "name": "French Blue",
+      "code": "4659AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#0068AD",
+      "rgb": {
+        "r": 0,
+        "g": 104,
+        "b": 173
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4645ap",
+      "name": "Giallo Mimetico 3",
+      "code": "4645AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C9973B",
+      "rgb": {
+        "r": 201,
+        "g": 151,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4646ap",
+      "name": "Giallo Mimetico 4",
+      "code": "4646AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A68249",
+      "rgb": {
+        "r": 166,
+        "g": 130,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4671ap",
+      "name": "Gold",
+      "code": "4671AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#EAB124",
+      "rgb": {
+        "r": 234,
+        "g": 177,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4770ap",
+      "name": "Grau RLM 02",
+      "code": "4770AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#645B42",
+      "rgb": {
+        "r": 100,
+        "g": 91,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4784ap",
+      "name": "Graugrün RLM 74",
+      "code": "4784AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#323B3B",
+      "rgb": {
+        "r": 50,
+        "g": 59,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4785ap",
+      "name": "Grauviolett RLM 75",
+      "code": "4785AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#6C6A65",
+      "rgb": {
+        "r": 108,
+        "g": 106,
+        "b": 101
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4669ap",
+      "name": "Green",
+      "code": "4669AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#006D44",
+      "rgb": {
+        "r": 0,
+        "g": 109,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4632ap",
+      "name": "Guards Red",
+      "code": "4632AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C42127",
+      "rgb": {
+        "r": 196,
+        "g": 33,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4763ap",
+      "name": "Gull Gray",
+      "code": "4763AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#E1E1D7",
+      "rgb": {
+        "r": 225,
+        "g": 225,
+        "b": 215
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4681ap",
+      "name": "Gun Metal",
+      "code": "4681AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#2F3739",
+      "rgb": {
+        "r": 47,
+        "g": 55,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4752ap",
+      "name": "Gunship Gray",
+      "code": "4752AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#1D343A",
+      "rgb": {
+        "r": 29,
+        "g": 52,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4778ap",
+      "name": "Hellblau RLM 65",
+      "code": "4778AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#8BB8B2",
+      "rgb": {
+        "r": 139,
+        "g": 184,
+        "b": 178
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4714ap",
+      "name": "Insigna Red",
+      "code": "4714AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A71E29",
+      "rgb": {
+        "r": 167,
+        "g": 30,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4721ap",
+      "name": "Insigna Yellow",
+      "code": "4721AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#FEE000",
+      "rgb": {
+        "r": 254,
+        "g": 224,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4736ap",
+      "name": "Interior Green",
+      "code": "4736AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#6D6129",
+      "rgb": {
+        "r": 109,
+        "g": 97,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4301ap",
+      "name": "Interior Grey Green",
+      "code": "4301AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#325E2F",
+      "rgb": {
+        "r": 50,
+        "g": 94,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4674ap",
+      "name": "Leather",
+      "code": "4674AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#933E31",
+      "rgb": {
+        "r": 147,
+        "g": 62,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4786ap",
+      "name": "Lichtblau RLM 76",
+      "code": "4786AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C8D5D2",
+      "rgb": {
+        "r": 200,
+        "g": 213,
+        "b": 210
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4650ap",
+      "name": "Light Blue",
+      "code": "4650AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3DC1C7",
+      "rgb": {
+        "r": 61,
+        "g": 193,
+        "b": 199
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4305ap",
+      "name": "Light Brown",
+      "code": "4305AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A27156",
+      "rgb": {
+        "r": 162,
+        "g": 113,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4390ap",
+      "name": "Light Flesh",
+      "code": "4390AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#E0C68F",
+      "rgb": {
+        "r": 224,
+        "g": 198,
+        "b": 143
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4762ap",
+      "name": "Light Ghost Gray",
+      "code": "4762AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#97A7B2",
+      "rgb": {
+        "r": 151,
+        "g": 167,
+        "b": 178
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4765ap",
+      "name": "Light Gray",
+      "code": "4765AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#EFEEEF",
+      "rgb": {
+        "r": 239,
+        "g": 238,
+        "b": 239
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4309ap",
+      "name": "Light Green",
+      "code": "4309AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#66702F",
+      "rgb": {
+        "r": 102,
+        "g": 112,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4640ap",
+      "name": "Marrone Mimetico",
+      "code": "4640AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#843630",
+      "rgb": {
+        "r": 132,
+        "g": 54,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4641ap",
+      "name": "Marrone Mimetico 2",
+      "code": "4641AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#725B3C",
+      "rgb": {
+        "r": 114,
+        "g": 91,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4307ap",
+      "name": "Medium Blue",
+      "code": "4307AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#0058A9",
+      "rgb": {
+        "r": 0,
+        "g": 88,
+        "b": 169
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4306ap",
+      "name": "Medium Brown",
+      "code": "4306AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#8F5141",
+      "rgb": {
+        "r": 143,
+        "g": 81,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4746ap",
+      "name": "Medium Gray",
+      "code": "4746AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#71787B",
+      "rgb": {
+        "r": 113,
+        "g": 120,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4314ap",
+      "name": "Medium Green I",
+      "code": "4314AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#4B6553",
+      "rgb": {
+        "r": 75,
+        "g": 101,
+        "b": 83
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4734ap",
+      "name": "Medium Green II",
+      "code": "4734AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#48633F",
+      "rgb": {
+        "r": 72,
+        "g": 99,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4313ap",
+      "name": "Medium Sea Grey",
+      "code": "4313AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#8E9493",
+      "rgb": {
+        "r": 142,
+        "g": 148,
+        "b": 147
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4304ap",
+      "name": "Middle Stone",
+      "code": "4304AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A87F48",
+      "rgb": {
+        "r": 168,
+        "g": 127,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4852ap",
+      "name": "Military Green",
+      "code": "4852AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#585138",
+      "rgb": {
+        "r": 88,
+        "g": 81,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4643ap",
+      "name": "Nocciola Chiaro",
+      "code": "4643AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#9E765B",
+      "rgb": {
+        "r": 158,
+        "g": 118,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4766ap",
+      "name": "Non Specular Blue Grey",
+      "code": "4766AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3E6066",
+      "rgb": {
+        "r": 62,
+        "g": 96,
+        "b": 102
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4639ap",
+      "name": "Non Specular Intermediate Blue",
+      "code": "4639AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#607C7F",
+      "rgb": {
+        "r": 96,
+        "g": 124,
+        "b": 127
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4604ap",
+      "name": "Non Specular Sea Blue",
+      "code": "4604AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#32393D",
+      "rgb": {
+        "r": 50,
+        "g": 57,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4315ap",
+      "name": "Olive Drab",
+      "code": "4315AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#575C44",
+      "rgb": {
+        "r": 87,
+        "g": 92,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4842ap",
+      "name": "Olive Drab Ana 613",
+      "code": "4842AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3E442F",
+      "rgb": {
+        "r": 62,
+        "g": 68,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4728ap",
+      "name": "Olive Drab US Army",
+      "code": "4728AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3F4742",
+      "rgb": {
+        "r": 63,
+        "g": 71,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4682ap",
+      "name": "Orange",
+      "code": "4682AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#E55C00",
+      "rgb": {
+        "r": 229,
+        "g": 92,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4302ap",
+      "name": "Orange",
+      "code": "4302AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#E84925",
+      "rgb": {
+        "r": 232,
+        "g": 73,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4739ap",
+      "name": "Pale Green",
+      "code": "4739AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#64A879",
+      "rgb": {
+        "r": 100,
+        "g": 168,
+        "b": 121
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4796ap",
+      "name": "Panzer Dunkelgelb 1943",
+      "code": "4796AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A2924C",
+      "rgb": {
+        "r": 162,
+        "g": 146,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4798ap",
+      "name": "Panzer Olivgrün 1943",
+      "code": "4798AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#00461F",
+      "rgb": {
+        "r": 0,
+        "g": 70,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4797ap",
+      "name": "Pz. Schokobraun RAL 8017",
+      "code": "4797AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3D2624",
+      "rgb": {
+        "r": 61,
+        "g": 38,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4795ap",
+      "name": "Pz. Schwarzgrau RAL 7021",
+      "code": "4795AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#24403B",
+      "rgb": {
+        "r": 36,
+        "g": 64,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4605ap",
+      "name": "Red",
+      "code": "4605AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C13027",
+      "rgb": {
+        "r": 193,
+        "g": 48,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4606ap",
+      "name": "Red",
+      "code": "4606AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#D52B27",
+      "rgb": {
+        "r": 213,
+        "g": 43,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4807ap",
+      "name": "Russian Armor Green",
+      "code": "4807AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3D5346",
+      "rgb": {
+        "r": 61,
+        "g": 83,
+        "b": 70
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4675ap",
+      "name": "Rust",
+      "code": "4675AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#823430",
+      "rgb": {
+        "r": 130,
+        "g": 52,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4720ap",
+      "name": "Sand",
+      "code": "4720AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#B99E6C",
+      "rgb": {
+        "r": 185,
+        "g": 158,
+        "b": 108
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4789ap",
+      "name": "Sandgelb RLM 79",
+      "code": "4789AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#AA7958",
+      "rgb": {
+        "r": 170,
+        "g": 121,
+        "b": 88
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4780ap",
+      "name": "Schwarzgrün RLM 70",
+      "code": "4780AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#173233",
+      "rgb": {
+        "r": 23,
+        "g": 50,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4678ap",
+      "name": "Silver",
+      "code": "4678AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C5CECB",
+      "rgb": {
+        "r": 197,
+        "g": 206,
+        "b": 203
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4601ap",
+      "name": "Skin Tone Tint Base - Light",
+      "code": "4601AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#F5BA86",
+      "rgb": {
+        "r": 245,
+        "g": 186,
+        "b": 134
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4603ap",
+      "name": "Skin Tone Warm Tint",
+      "code": "4603AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#DFAB6E",
+      "rgb": {
+        "r": 223,
+        "g": 171,
+        "b": 110
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4679ap",
+      "name": "Steel",
+      "code": "4679AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#7B7C74",
+      "rgb": {
+        "r": 123,
+        "g": 124,
+        "b": 116
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4812ap",
+      "name": "US Army / Mar.Gulf Arm Sand",
+      "code": "4812AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#BB7A47",
+      "rgb": {
+        "r": 187,
+        "g": 122,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4723ap",
+      "name": "Verde Mimetico 2",
+      "code": "4723AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#2F483F",
+      "rgb": {
+        "r": 47,
+        "g": 72,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4696ap",
+      "name": "White",
+      "code": "4696AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4769ap",
+      "name": "White",
+      "code": "4769AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4673ap",
+      "name": "Wood",
+      "code": "4673AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#B48F41",
+      "rgb": {
+        "r": 180,
+        "g": 143,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "italeri-4642ap",
+      "name": "Yellow",
+      "code": "4642AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#F39A1F",
+      "rgb": {
+        "r": 243,
+        "g": 154,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    }
+  ]
+}

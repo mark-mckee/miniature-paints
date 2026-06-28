@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'paints/**.md'
+      - 'paints/markdown/**.md'
       - 'scripts/build_paints.py'
       - '.github/workflows/build-paints-json.yml'
 

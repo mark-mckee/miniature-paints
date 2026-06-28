@@ -1,0 +1,2690 @@
+{
+  "$schema": "../../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
+  "displayName": "Warcolours",
+  "company": "Warcolours",
+  "address": {
+    "street": "",
+    "city": "Nicosia",
+    "postcode": "",
+    "country": "Cyprus"
+  },
+  "contactEmail": "",
+  "contactForm": "https://www.warcolours.com/index.php?route=information/contact",
+  "website": "https://www.warcolours.com",
+  "phone": "+357 99882999",
+  "updatedCatalogueRequested": "",
+  "paintCount": 178,
+  "paints": [
+    {
+      "id": "warcolours-black",
+      "name": "Black",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-black-2",
+      "name": "Black",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-black-3",
+      "name": "Black",
+      "code": null,
+      "set": "Paints for undercoating",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-1",
+      "name": "Blue 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#9EDBEE",
+      "rgb": {
+        "r": 158,
+        "g": 219,
+        "b": 238
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-2",
+      "name": "Blue 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#008DB5",
+      "rgb": {
+        "r": 0,
+        "g": 141,
+        "b": 181
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-3",
+      "name": "Blue 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#0464B1",
+      "rgb": {
+        "r": 4,
+        "g": 100,
+        "b": 177
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-4",
+      "name": "Blue 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#0043AC",
+      "rgb": {
+        "r": 0,
+        "g": 67,
+        "b": 172
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-5",
+      "name": "Blue 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#002053",
+      "rgb": {
+        "r": 0,
+        "g": 32,
+        "b": 83
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-glaze",
+      "name": "Blue Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#4E91C8",
+      "rgb": {
+        "r": 78,
+        "g": 145,
+        "b": 200
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-grey-1",
+      "name": "Blue Grey 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#D1E1FA",
+      "rgb": {
+        "r": 209,
+        "g": 225,
+        "b": 250
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-grey-2",
+      "name": "Blue Grey 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#99B3D8",
+      "rgb": {
+        "r": 153,
+        "g": 179,
+        "b": 216
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-grey-3",
+      "name": "Blue Grey 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#708BB6",
+      "rgb": {
+        "r": 112,
+        "g": 139,
+        "b": 182
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-grey-4",
+      "name": "Blue Grey 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#526989",
+      "rgb": {
+        "r": 82,
+        "g": 105,
+        "b": 137
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-blue-grey-5",
+      "name": "Blue Grey 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#293543",
+      "rgb": {
+        "r": 41,
+        "g": 53,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-brown-1",
+      "name": "Brown 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E17767",
+      "rgb": {
+        "r": 225,
+        "g": 119,
+        "b": 103
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-brown-2",
+      "name": "Brown 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#9E3724",
+      "rgb": {
+        "r": 158,
+        "g": 55,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-brown-3",
+      "name": "Brown 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#702619",
+      "rgb": {
+        "r": 112,
+        "g": 38,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-brown-4",
+      "name": "Brown 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#5D4239",
+      "rgb": {
+        "r": 93,
+        "g": 66,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-brown-5",
+      "name": "Brown 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#423B43",
+      "rgb": {
+        "r": 66,
+        "g": 59,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-brown-glaze",
+      "name": "Brown Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#C07E71",
+      "rgb": {
+        "r": 192,
+        "g": 126,
+        "b": 113
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-burnt-sienna",
+      "name": "Burnt Sienna",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#CE2B00",
+      "rgb": {
+        "r": 206,
+        "g": 43,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-cool-grey-1",
+      "name": "Cool Grey 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#C6C6C6",
+      "rgb": {
+        "r": 198,
+        "g": 198,
+        "b": 198
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-cool-grey-2",
+      "name": "Cool Grey 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#A5A5A5",
+      "rgb": {
+        "r": 165,
+        "g": 165,
+        "b": 165
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-cool-grey-3",
+      "name": "Cool Grey 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#828282",
+      "rgb": {
+        "r": 130,
+        "g": 130,
+        "b": 130
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-cool-grey-4",
+      "name": "Cool Grey 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#4C4C4C",
+      "rgb": {
+        "r": 76,
+        "g": 76,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-cool-grey-5",
+      "name": "Cool Grey 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#191919",
+      "rgb": {
+        "r": 25,
+        "g": 25,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-dark-green",
+      "name": "Dark Green",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#006215",
+      "rgb": {
+        "r": 0,
+        "g": 98,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-emerald-1",
+      "name": "Emerald 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#00E592",
+      "rgb": {
+        "r": 0,
+        "g": 229,
+        "b": 146
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-emerald-2",
+      "name": "Emerald 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#00C57D",
+      "rgb": {
+        "r": 0,
+        "g": 197,
+        "b": 125
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-emerald-3",
+      "name": "Emerald 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#009960",
+      "rgb": {
+        "r": 0,
+        "g": 153,
+        "b": 96
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-emerald-4",
+      "name": "Emerald 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#007247",
+      "rgb": {
+        "r": 0,
+        "g": 114,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-emerald-5",
+      "name": "Emerald 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#005532",
+      "rgb": {
+        "r": 0,
+        "g": 85,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-flesh-1",
+      "name": "Flesh 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FEF8BC",
+      "rgb": {
+        "r": 254,
+        "g": 248,
+        "b": 188
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-flesh-2",
+      "name": "Flesh 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFE9BA",
+      "rgb": {
+        "r": 255,
+        "g": 233,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-flesh-3",
+      "name": "Flesh 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFC69B",
+      "rgb": {
+        "r": 255,
+        "g": 198,
+        "b": 155
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-flesh-4",
+      "name": "Flesh 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#D77779",
+      "rgb": {
+        "r": 215,
+        "g": 119,
+        "b": 121
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-flesh-5",
+      "name": "Flesh 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#A07C62",
+      "rgb": {
+        "r": 160,
+        "g": 124,
+        "b": 98
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-fluorescent-green",
+      "name": "Fluorescent Green",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#8EFF00",
+      "rgb": {
+        "r": 142,
+        "g": 255,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-fluorescent-orange",
+      "name": "Fluorescent Orange",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFBE00",
+      "rgb": {
+        "r": 255,
+        "g": 190,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-fluorescent-pink",
+      "name": "Fluorescent Pink",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FE00A4",
+      "rgb": {
+        "r": 254,
+        "g": 0,
+        "b": 164
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-fluorescent-yellow",
+      "name": "Fluorescent Yellow",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E9FF00",
+      "rgb": {
+        "r": 233,
+        "g": 255,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-green-1",
+      "name": "Green 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E2FF11",
+      "rgb": {
+        "r": 226,
+        "g": 255,
+        "b": 17
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-green-2",
+      "name": "Green 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#6EFF00",
+      "rgb": {
+        "r": 110,
+        "g": 255,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-green-3",
+      "name": "Green 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#00B738",
+      "rgb": {
+        "r": 0,
+        "g": 183,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-green-4",
+      "name": "Green 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#009A2D",
+      "rgb": {
+        "r": 0,
+        "g": 154,
+        "b": 45
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-green-5",
+      "name": "Green 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#026721",
+      "rgb": {
+        "r": 2,
+        "g": 103,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-green-glaze",
+      "name": "Green Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#9AFF4F",
+      "rgb": {
+        "r": 154,
+        "g": 255,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-grey",
+      "name": "Grey",
+      "code": null,
+      "set": "Paints for undercoating",
+      "hex": "#828282",
+      "rgb": {
+        "r": 130,
+        "g": 130,
+        "b": 130
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-marine-1",
+      "name": "Marine 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#8BC5ED",
+      "rgb": {
+        "r": 139,
+        "g": 197,
+        "b": 237
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-marine-2",
+      "name": "Marine 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#4AA8EE",
+      "rgb": {
+        "r": 74,
+        "g": 168,
+        "b": 238
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-marine-3",
+      "name": "Marine 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#007DDA",
+      "rgb": {
+        "r": 0,
+        "g": 125,
+        "b": 218
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-marine-4",
+      "name": "Marine 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#005AA3",
+      "rgb": {
+        "r": 0,
+        "g": 90,
+        "b": 163
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-marine-5",
+      "name": "Marine 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#003A52",
+      "rgb": {
+        "r": 0,
+        "g": 58,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-antique-gold",
+      "name": "Metallic Antique Gold",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#C5AB18",
+      "rgb": {
+        "r": 197,
+        "g": 171,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-black",
+      "name": "Metallic Black",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#373737",
+      "rgb": {
+        "r": 55,
+        "g": 55,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-black-copper",
+      "name": "Metallic Black Copper",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#4B1C14",
+      "rgb": {
+        "r": 75,
+        "g": 28,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-blue",
+      "name": "Metallic Blue",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#292FFF",
+      "rgb": {
+        "r": 41,
+        "g": 47,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-bright-gold",
+      "name": "Metallic Bright Gold",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#DFB308",
+      "rgb": {
+        "r": 223,
+        "g": 179,
+        "b": 8
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-brown",
+      "name": "Metallic Brown",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#D0A91E",
+      "rgb": {
+        "r": 208,
+        "g": 169,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-choco",
+      "name": "Metallic Choco",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#C67F23",
+      "rgb": {
+        "r": 198,
+        "g": 127,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-copper",
+      "name": "Metallic Copper",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#AA441E",
+      "rgb": {
+        "r": 170,
+        "g": 68,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-crimson",
+      "name": "Metallic Crimson",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#FE4A49",
+      "rgb": {
+        "r": 254,
+        "g": 74,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-dark-copper",
+      "name": "Metallic Dark Copper",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#793C2A",
+      "rgb": {
+        "r": 121,
+        "g": 60,
+        "b": 42
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-dark-green",
+      "name": "Metallic Dark Green",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#74DE3E",
+      "rgb": {
+        "r": 116,
+        "g": 222,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-emerald",
+      "name": "Metallic Emerald",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#298B52",
+      "rgb": {
+        "r": 41,
+        "g": 139,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-green",
+      "name": "Metallic Green",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#E4FF56",
+      "rgb": {
+        "r": 228,
+        "g": 255,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-lemon",
+      "name": "Metallic Lemon",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#C58641",
+      "rgb": {
+        "r": 197,
+        "g": 134,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-pale-gold",
+      "name": "Metallic Pale Gold",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#FEE185",
+      "rgb": {
+        "r": 254,
+        "g": 225,
+        "b": 133
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-pewter",
+      "name": "Metallic Pewter",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#747474",
+      "rgb": {
+        "r": 116,
+        "g": 116,
+        "b": 116
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-pink",
+      "name": "Metallic Pink",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#FE69BA",
+      "rgb": {
+        "r": 254,
+        "g": 105,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-red",
+      "name": "Metallic Red",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#F11718",
+      "rgb": {
+        "r": 241,
+        "g": 23,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-sand",
+      "name": "Metallic Sand",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#FEFF5F",
+      "rgb": {
+        "r": 254,
+        "g": 255,
+        "b": 95
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-silver",
+      "name": "Metallic Silver",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#979797",
+      "rgb": {
+        "r": 151,
+        "g": 151,
+        "b": 151
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-sky",
+      "name": "Metallic Sky",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#4491FD",
+      "rgb": {
+        "r": 68,
+        "g": 145,
+        "b": 253
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-turquoise",
+      "name": "Metallic Turquoise",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#38DB5A",
+      "rgb": {
+        "r": 56,
+        "g": 219,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-ultramarine",
+      "name": "Metallic Ultramarine",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#7E35FF",
+      "rgb": {
+        "r": 126,
+        "g": 53,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-violet",
+      "name": "Metallic Violet",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#7906AB",
+      "rgb": {
+        "r": 121,
+        "g": 6,
+        "b": 171
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-white",
+      "name": "Metallic White",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#C9C9C9",
+      "rgb": {
+        "r": 201,
+        "g": 201,
+        "b": 201
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-metallic-yellow",
+      "name": "Metallic Yellow",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#89811F",
+      "rgb": {
+        "r": 137,
+        "g": 129,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-ochre-1",
+      "name": "Ochre 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E5E1BB",
+      "rgb": {
+        "r": 229,
+        "g": 225,
+        "b": 187
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-ochre-2",
+      "name": "Ochre 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFD66A",
+      "rgb": {
+        "r": 255,
+        "g": 214,
+        "b": 106
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-ochre-3",
+      "name": "Ochre 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#DB9D2C",
+      "rgb": {
+        "r": 219,
+        "g": 157,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-ochre-4",
+      "name": "Ochre 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#CD8F16",
+      "rgb": {
+        "r": 205,
+        "g": 143,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-ochre-5",
+      "name": "Ochre 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#B87F18",
+      "rgb": {
+        "r": 184,
+        "g": 127,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-olive-1",
+      "name": "Olive 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFF764",
+      "rgb": {
+        "r": 255,
+        "g": 247,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-olive-2",
+      "name": "Olive 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#CAE500",
+      "rgb": {
+        "r": 202,
+        "g": 229,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-olive-3",
+      "name": "Olive 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#93A80B",
+      "rgb": {
+        "r": 147,
+        "g": 168,
+        "b": 11
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-olive-4",
+      "name": "Olive 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#596801",
+      "rgb": {
+        "r": 89,
+        "g": 104,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-olive-5",
+      "name": "Olive 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#3F4900",
+      "rgb": {
+        "r": 63,
+        "g": 73,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-baby-blue",
+      "name": "One-coat Baby-blue",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#4C84FF",
+      "rgb": {
+        "r": 76,
+        "g": 132,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-beige",
+      "name": "One-coat Beige",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FFD775",
+      "rgb": {
+        "r": 255,
+        "g": 215,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-black",
+      "name": "One-coat Black",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-blue",
+      "name": "One-coat Blue",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#4C00FF",
+      "rgb": {
+        "r": 76,
+        "g": 0,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-green",
+      "name": "One-coat Green",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#01B62B",
+      "rgb": {
+        "r": 1,
+        "g": 182,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-magenta",
+      "name": "One-coat Magenta",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FF01A1",
+      "rgb": {
+        "r": 255,
+        "g": 1,
+        "b": 161
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-ochre",
+      "name": "One-coat Ochre",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#DB9D2C",
+      "rgb": {
+        "r": 219,
+        "g": 157,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-orange",
+      "name": "One-coat Orange",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FF7701",
+      "rgb": {
+        "r": 255,
+        "g": 119,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-pink",
+      "name": "One-coat Pink",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FF62D7",
+      "rgb": {
+        "r": 255,
+        "g": 98,
+        "b": 215
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-purple",
+      "name": "One-coat Purple",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#BD2F85",
+      "rgb": {
+        "r": 189,
+        "g": 47,
+        "b": 133
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-red",
+      "name": "One-coat Red",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#DD000C",
+      "rgb": {
+        "r": 221,
+        "g": 0,
+        "b": 12
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-red-orange",
+      "name": "One-coat Red-orange",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FF4400",
+      "rgb": {
+        "r": 255,
+        "g": 68,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-turquoise",
+      "name": "One-coat Turquoise",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#01B78F",
+      "rgb": {
+        "r": 1,
+        "g": 183,
+        "b": 143
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-violet",
+      "name": "One-coat Violet",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#BD26FF",
+      "rgb": {
+        "r": 189,
+        "g": 38,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-yellow",
+      "name": "One-coat Yellow",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FFF000",
+      "rgb": {
+        "r": 255,
+        "g": 240,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-one-coat-yellow-green",
+      "name": "One-coat Yellow-green",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#98EA24",
+      "rgb": {
+        "r": 152,
+        "g": 234,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-orange",
+      "name": "Orange",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#FF6801",
+      "rgb": {
+        "r": 255,
+        "g": 104,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-orange-1",
+      "name": "Orange 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FACF8B",
+      "rgb": {
+        "r": 250,
+        "g": 207,
+        "b": 139
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-orange-2",
+      "name": "Orange 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FDB843",
+      "rgb": {
+        "r": 253,
+        "g": 184,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-orange-3",
+      "name": "Orange 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#F48124",
+      "rgb": {
+        "r": 244,
+        "g": 129,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-orange-4",
+      "name": "Orange 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E55926",
+      "rgb": {
+        "r": 229,
+        "g": 89,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-orange-5",
+      "name": "Orange 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E33F3E",
+      "rgb": {
+        "r": 227,
+        "g": 63,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-pink-1",
+      "name": "Pink 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFC1DE",
+      "rgb": {
+        "r": 255,
+        "g": 193,
+        "b": 222
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-pink-2",
+      "name": "Pink 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#F287B5",
+      "rgb": {
+        "r": 242,
+        "g": 135,
+        "b": 181
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-pink-3",
+      "name": "Pink 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#BF2559",
+      "rgb": {
+        "r": 191,
+        "g": 37,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-pink-4",
+      "name": "Pink 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#911D42",
+      "rgb": {
+        "r": 145,
+        "g": 29,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-pink-5",
+      "name": "Pink 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#400B1D",
+      "rgb": {
+        "r": 64,
+        "g": 11,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-pink-glaze",
+      "name": "Pink Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#EB89A8",
+      "rgb": {
+        "r": 235,
+        "g": 137,
+        "b": 168
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-purple-1",
+      "name": "Purple 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFC9E9",
+      "rgb": {
+        "r": 255,
+        "g": 201,
+        "b": 233
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-purple-2",
+      "name": "Purple 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E65EB2",
+      "rgb": {
+        "r": 230,
+        "g": 94,
+        "b": 178
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-purple-3",
+      "name": "Purple 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#BD2F85",
+      "rgb": {
+        "r": 189,
+        "g": 47,
+        "b": 133
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-purple-4",
+      "name": "Purple 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#6A2C51",
+      "rgb": {
+        "r": 106,
+        "g": 44,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-purple-5",
+      "name": "Purple 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#26121D",
+      "rgb": {
+        "r": 38,
+        "g": 18,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-raw-sienna",
+      "name": "Raw Sienna",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#D88100",
+      "rgb": {
+        "r": 216,
+        "g": 129,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-red",
+      "name": "Red",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#E00809",
+      "rgb": {
+        "r": 224,
+        "g": 8,
+        "b": 9
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-red-1",
+      "name": "Red 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#DA2127",
+      "rgb": {
+        "r": 218,
+        "g": 33,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-red-2",
+      "name": "Red 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#C01F27",
+      "rgb": {
+        "r": 192,
+        "g": 31,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-red-3",
+      "name": "Red 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#A71A22",
+      "rgb": {
+        "r": 167,
+        "g": 26,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-red-4",
+      "name": "Red 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#83141A",
+      "rgb": {
+        "r": 131,
+        "g": 20,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-red-5",
+      "name": "Red 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#430B0C",
+      "rgb": {
+        "r": 67,
+        "g": 11,
+        "b": 12
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-red-glaze",
+      "name": "Red Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#EC8A8E",
+      "rgb": {
+        "r": 236,
+        "g": 138,
+        "b": 142
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-sepia",
+      "name": "Sepia",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#8B4201",
+      "rgb": {
+        "r": 139,
+        "g": 66,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-black",
+      "name": "Transparent Black",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#262624",
+      "rgb": {
+        "r": 38,
+        "g": 38,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-blue",
+      "name": "Transparent Blue",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#579DD0",
+      "rgb": {
+        "r": 87,
+        "g": 157,
+        "b": 208
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-blue-grey",
+      "name": "Transparent Blue Grey",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#5F6772",
+      "rgb": {
+        "r": 95,
+        "g": 103,
+        "b": 114
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-brown",
+      "name": "Transparent Brown",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#B86E61",
+      "rgb": {
+        "r": 184,
+        "g": 110,
+        "b": 97
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-cool-grey",
+      "name": "Transparent Cool Grey",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#797979",
+      "rgb": {
+        "r": 121,
+        "g": 121,
+        "b": 121
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-emerald",
+      "name": "Transparent Emerald",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#489A83",
+      "rgb": {
+        "r": 72,
+        "g": 154,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-flesh",
+      "name": "Transparent Flesh",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#988879",
+      "rgb": {
+        "r": 152,
+        "g": 136,
+        "b": 121
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-green",
+      "name": "Transparent Green",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#6E9276",
+      "rgb": {
+        "r": 110,
+        "g": 146,
+        "b": 118
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-marine",
+      "name": "Transparent Marine",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#708BC2",
+      "rgb": {
+        "r": 112,
+        "g": 139,
+        "b": 194
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-ochre",
+      "name": "Transparent Ochre",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#9E844B",
+      "rgb": {
+        "r": 158,
+        "g": 132,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-olive",
+      "name": "Transparent Olive",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#828C58",
+      "rgb": {
+        "r": 130,
+        "g": 140,
+        "b": 88
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-orange",
+      "name": "Transparent Orange",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#FF8E6E",
+      "rgb": {
+        "r": 255,
+        "g": 142,
+        "b": 110
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-pink",
+      "name": "Transparent Pink",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#E87C9E",
+      "rgb": {
+        "r": 232,
+        "g": 124,
+        "b": 158
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-purple",
+      "name": "Transparent Purple",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#D774A0",
+      "rgb": {
+        "r": 215,
+        "g": 116,
+        "b": 160
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-red",
+      "name": "Transparent Red",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#E86A6E",
+      "rgb": {
+        "r": 232,
+        "g": 106,
+        "b": 110
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-turquoise",
+      "name": "Transparent Turquoise",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#599BA7",
+      "rgb": {
+        "r": 89,
+        "g": 155,
+        "b": 167
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-violet",
+      "name": "Transparent Violet",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#987ABA",
+      "rgb": {
+        "r": 152,
+        "g": 122,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-warm-grey",
+      "name": "Transparent Warm Grey",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#908D88",
+      "rgb": {
+        "r": 144,
+        "g": 141,
+        "b": 136
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-white",
+      "name": "Transparent White",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#EDEDED",
+      "rgb": {
+        "r": 237,
+        "g": 237,
+        "b": 237
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-transparent-yellow",
+      "name": "Transparent Yellow",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#FEF552",
+      "rgb": {
+        "r": 254,
+        "g": 245,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-turquoise-1",
+      "name": "Turquoise 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#33E0DA",
+      "rgb": {
+        "r": 51,
+        "g": 224,
+        "b": 218
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-turquoise-2",
+      "name": "Turquoise 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#01B1AE",
+      "rgb": {
+        "r": 1,
+        "g": 177,
+        "b": 174
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-turquoise-3",
+      "name": "Turquoise 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#0093A5",
+      "rgb": {
+        "r": 0,
+        "g": 147,
+        "b": 165
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-turquoise-4",
+      "name": "Turquoise 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#00535B",
+      "rgb": {
+        "r": 0,
+        "g": 83,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-turquoise-5",
+      "name": "Turquoise 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#002327",
+      "rgb": {
+        "r": 0,
+        "g": 35,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-ultramarine",
+      "name": "Ultramarine",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#420CFF",
+      "rgb": {
+        "r": 66,
+        "g": 12,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-vermilion",
+      "name": "Vermilion",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#A70003",
+      "rgb": {
+        "r": 167,
+        "g": 0,
+        "b": 3
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-violet-1",
+      "name": "Violet 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#CAB2FE",
+      "rgb": {
+        "r": 202,
+        "g": 178,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-violet-2",
+      "name": "Violet 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#9B66FF",
+      "rgb": {
+        "r": 155,
+        "g": 102,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-violet-3",
+      "name": "Violet 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#840092",
+      "rgb": {
+        "r": 132,
+        "g": 0,
+        "b": 146
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-violet-4",
+      "name": "Violet 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#560182",
+      "rgb": {
+        "r": 86,
+        "g": 1,
+        "b": 130
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-violet-5",
+      "name": "Violet 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#250038",
+      "rgb": {
+        "r": 37,
+        "g": 0,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-warm-grey-1",
+      "name": "Warm Grey 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#C0BDB6",
+      "rgb": {
+        "r": 192,
+        "g": 189,
+        "b": 182
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-warm-grey-2",
+      "name": "Warm Grey 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#AAA295",
+      "rgb": {
+        "r": 170,
+        "g": 162,
+        "b": 149
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-warm-grey-3",
+      "name": "Warm Grey 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#767269",
+      "rgb": {
+        "r": 118,
+        "g": 114,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-warm-grey-4",
+      "name": "Warm Grey 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#494641",
+      "rgb": {
+        "r": 73,
+        "g": 70,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-warm-grey-5",
+      "name": "Warm Grey 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#1E1D1B",
+      "rgb": {
+        "r": 30,
+        "g": 29,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-white",
+      "name": "White",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-white-2",
+      "name": "White",
+      "code": null,
+      "set": "Paints for undercoating",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-white-3",
+      "name": "White",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-yellow",
+      "name": "Yellow",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#FFC208",
+      "rgb": {
+        "r": 255,
+        "g": 194,
+        "b": 8
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-yellow-1",
+      "name": "Yellow 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFFCDF",
+      "rgb": {
+        "r": 255,
+        "g": 252,
+        "b": 223
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-yellow-2",
+      "name": "Yellow 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFF000",
+      "rgb": {
+        "r": 255,
+        "g": 240,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-yellow-3",
+      "name": "Yellow 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFD416",
+      "rgb": {
+        "r": 255,
+        "g": 212,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-yellow-4",
+      "name": "Yellow 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FCC218",
+      "rgb": {
+        "r": 252,
+        "g": 194,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-yellow-5",
+      "name": "Yellow 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#F9A626",
+      "rgb": {
+        "r": 249,
+        "g": 166,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "warcolours-yellow-glaze",
+      "name": "Yellow Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#FEF65D",
+      "rgb": {
+        "r": 254,
+        "g": 246,
+        "b": 93
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    }
+  ]
+}

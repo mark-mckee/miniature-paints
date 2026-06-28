@@ -1,0 +1,1745 @@
+{
+  "$schema": "../../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
+  "displayName": "Humbrol",
+  "company": "Hornby Hobbies Limited",
+  "address": {
+    "street": "Enterprise Road, Westwood Industrial Estate",
+    "city": "Margate",
+    "postcode": "CT9 4JX",
+    "country": "United Kingdom"
+  },
+  "contactEmail": "customercare@hornby.com",
+  "contactForm": "",
+  "website": "https://uk.humbrol.com",
+  "phone": "+44 1843 233519",
+  "updatedCatalogueRequested": "",
+  "paintCount": 115,
+  "paints": [
+    {
+      "id": "humbrol-56",
+      "name": "Aluminium",
+      "code": "56",
+      "set": "Humbrol Acrylics - Metallics",
+      "hex": "#CAD1D7",
+      "rgb": {
+        "r": 202,
+        "g": 209,
+        "b": 215
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s56",
+      "name": "Aluminium",
+      "code": "S56",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#BFC9D2",
+      "rgb": {
+        "r": 191,
+        "g": 201,
+        "b": 210
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-171",
+      "name": "Antique Bronze",
+      "code": "171",
+      "set": "Humbrol Acrylics - Metallics",
+      "hex": "#A16742",
+      "rgb": {
+        "r": 161,
+        "g": 103,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-102",
+      "name": "Army Green",
+      "code": "102",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#697351",
+      "rgb": {
+        "r": 105,
+        "g": 115,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s90",
+      "name": "Beige Green",
+      "code": "S90",
+      "set": "Humbrol Aerosol Sprays - Matt",
+      "hex": "#DAE9C2",
+      "rgb": {
+        "r": 218,
+        "g": 233,
+        "b": 194
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-85",
+      "name": "Black",
+      "code": "85",
+      "set": "Humbrol Acrylics - Satin",
+      "hex": "#171310",
+      "rgb": {
+        "r": 23,
+        "g": 19,
+        "b": 16
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-21",
+      "name": "Black",
+      "code": "21",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-33",
+      "name": "Black",
+      "code": "33",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s21",
+      "name": "Black Gloss",
+      "code": "S21",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s33",
+      "name": "Black Matt",
+      "code": "S33",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#212021",
+      "rgb": {
+        "r": 33,
+        "g": 32,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s85",
+      "name": "Black Satin",
+      "code": "S85",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#292526",
+      "rgb": {
+        "r": 41,
+        "g": 37,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-25",
+      "name": "Blue",
+      "code": "25",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#223881",
+      "rgb": {
+        "r": 34,
+        "g": 56,
+        "b": 129
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s54",
+      "name": "Brass",
+      "code": "S54",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#DF9228",
+      "rgb": {
+        "r": 223,
+        "g": 146,
+        "b": 40
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-54",
+      "name": "Brass Metallic",
+      "code": "54",
+      "set": "Humbrol Acrylics - Metallics",
+      "hex": "#E29207",
+      "rgb": {
+        "r": 226,
+        "g": 146,
+        "b": 7
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-37",
+      "name": "Bright Green",
+      "code": "37",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#5AAA31",
+      "rgb": {
+        "r": 90,
+        "g": 170,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-55",
+      "name": "Bronze Metallic",
+      "code": "55",
+      "set": "Humbrol Acrylics - Metallics",
+      "hex": "#B45815",
+      "rgb": {
+        "r": 180,
+        "g": 88,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-186",
+      "name": "Brown",
+      "code": "186",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#87533B",
+      "rgb": {
+        "r": 135,
+        "g": 83,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-3",
+      "name": "Brunswick Green",
+      "code": "3",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#213C1D",
+      "rgb": {
+        "r": 33,
+        "g": 60,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s3",
+      "name": "Brunswick Green",
+      "code": "S3",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#123B1D",
+      "rgb": {
+        "r": 18,
+        "g": 59,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-98",
+      "name": "Chocolate",
+      "code": "98",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#77513C",
+      "rgb": {
+        "r": 119,
+        "g": 81,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-191",
+      "name": "Chrome Silver",
+      "code": "191",
+      "set": "Humbrol Acrylics - Metallics",
+      "hex": "#E5E9EC",
+      "rgb": {
+        "r": 229,
+        "g": 233,
+        "b": 236
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s191",
+      "name": "Chrome Silver",
+      "code": "S191",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#E4EBF1",
+      "rgb": {
+        "r": 228,
+        "g": 235,
+        "b": 241
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-12",
+      "name": "Copper",
+      "code": "12",
+      "set": "Humbrol Acrylics - Metallics",
+      "hex": "#A44F18",
+      "rgb": {
+        "r": 164,
+        "g": 79,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-103",
+      "name": "Cream",
+      "code": "103",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#ECD68A",
+      "rgb": {
+        "r": 236,
+        "g": 214,
+        "b": 138
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-20",
+      "name": "Crimson",
+      "code": "20",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#93161E",
+      "rgb": {
+        "r": 147,
+        "g": 22,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s29",
+      "name": "Dark Brown",
+      "code": "S29",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#ECDBCB",
+      "rgb": {
+        "r": 236,
+        "g": 219,
+        "b": 203
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-156",
+      "name": "Dark Camouflage Grey Satin",
+      "code": "156",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#827773",
+      "rgb": {
+        "r": 130,
+        "g": 119,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-29",
+      "name": "Dark Earth",
+      "code": "29",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#84664E",
+      "rgb": {
+        "r": 132,
+        "g": 102,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s163",
+      "name": "Dark Green",
+      "code": "S163",
+      "set": "Humbrol Aerosol Sprays - Satin",
+      "hex": "#1C1D15",
+      "rgb": {
+        "r": 28,
+        "g": 29,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s30",
+      "name": "Dark Green",
+      "code": "S30",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#1A6949",
+      "rgb": {
+        "r": 26,
+        "g": 105,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-30",
+      "name": "Dark Green",
+      "code": "30",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#1E6847",
+      "rgb": {
+        "r": 30,
+        "g": 104,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-163",
+      "name": "Dark Green",
+      "code": "163",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#232B13",
+      "rgb": {
+        "r": 35,
+        "g": 43,
+        "b": 19
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-32",
+      "name": "Dark Grey",
+      "code": "32",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#41444B",
+      "rgb": {
+        "r": 65,
+        "g": 68,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s237",
+      "name": "Desert Tan",
+      "code": "S237",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#B7A889",
+      "rgb": {
+        "r": 183,
+        "g": 168,
+        "b": 137
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s93",
+      "name": "Desert Yellow",
+      "code": "S93",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#BF9352",
+      "rgb": {
+        "r": 191,
+        "g": 147,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-93",
+      "name": "Desert Yellow",
+      "code": "93",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#C69749",
+      "rgb": {
+        "r": 198,
+        "g": 151,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-23",
+      "name": "Duck Egg Blue",
+      "code": "23",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#D5ECE4",
+      "rgb": {
+        "r": 213,
+        "g": 236,
+        "b": 228
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-2",
+      "name": "Emerald Green",
+      "code": "2",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#037C35",
+      "rgb": {
+        "r": 3,
+        "g": 124,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-123",
+      "name": "Extra Dark Sea Grey",
+      "code": "123",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#6E6D75",
+      "rgb": {
+        "r": 110,
+        "g": 109,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-209",
+      "name": "Fire Orange",
+      "code": "209",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#E0181B",
+      "rgb": {
+        "r": 224,
+        "g": 24,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-61",
+      "name": "Flesh",
+      "code": "61",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#EC8F54",
+      "rgb": {
+        "r": 236,
+        "g": 143,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-208",
+      "name": "Fluorescent Signal Green",
+      "code": "208",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#5AAA31",
+      "rgb": {
+        "r": 90,
+        "g": 170,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-14",
+      "name": "French Blue",
+      "code": "14",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#0E4595",
+      "rgb": {
+        "r": 14,
+        "g": 69,
+        "b": 149
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-160",
+      "name": "German Camouflage Red",
+      "code": "160",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#623319",
+      "rgb": {
+        "r": 98,
+        "g": 51,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s68",
+      "name": "Gloss Purple",
+      "code": "S68",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#483A5E",
+      "rgb": {
+        "r": 72,
+        "g": 58,
+        "b": 94
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-35",
+      "name": "Gloss Varnish",
+      "code": "35",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s16",
+      "name": "Gold",
+      "code": "S16",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#E0AC25",
+      "rgb": {
+        "r": 224,
+        "g": 172,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-16",
+      "name": "Gold",
+      "code": "16",
+      "set": "Humbrol Acrylics - Metallics",
+      "hex": "#E2AE00",
+      "rgb": {
+        "r": 226,
+        "g": 174,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-80",
+      "name": "Grass Green",
+      "code": "80",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#6A7145",
+      "rgb": {
+        "r": 106,
+        "g": 113,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s80",
+      "name": "Grass Green",
+      "code": "S80",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#676F48",
+      "rgb": {
+        "r": 103,
+        "g": 111,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s64",
+      "name": "Grey",
+      "code": "S64",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#999CA3",
+      "rgb": {
+        "r": 153,
+        "g": 156,
+        "b": 163
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s53",
+      "name": "Gun Metal",
+      "code": "S53",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#2A2B1B",
+      "rgb": {
+        "r": 42,
+        "g": 43,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-53",
+      "name": "Gunmetal",
+      "code": "53",
+      "set": "Humbrol Acrylics - Metallics",
+      "hex": "#2A2A2A",
+      "rgb": {
+        "r": 42,
+        "g": 42,
+        "b": 42
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-153",
+      "name": "Insignia Red",
+      "code": "153",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#B21F25",
+      "rgb": {
+        "r": 178,
+        "g": 31,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-154",
+      "name": "Insignia Yellow",
+      "code": "154",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#F9B400",
+      "rgb": {
+        "r": 249,
+        "g": 180,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s220",
+      "name": "Italian Racing Red",
+      "code": "S220",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#C32025",
+      "rgb": {
+        "r": 195,
+        "g": 32,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-41",
+      "name": "Ivory",
+      "code": "41",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#F8F4C7",
+      "rgb": {
+        "r": 248,
+        "g": 244,
+        "b": 199
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-26",
+      "name": "Khaki",
+      "code": "26",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#9B6817",
+      "rgb": {
+        "r": 155,
+        "g": 104,
+        "b": 23
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-72",
+      "name": "Khaki Drill",
+      "code": "72",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#AD937A",
+      "rgb": {
+        "r": 173,
+        "g": 147,
+        "b": 122
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-62",
+      "name": "Leather",
+      "code": "62",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#AD5128",
+      "rgb": {
+        "r": 173,
+        "g": 81,
+        "b": 40
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-99",
+      "name": "Lemon",
+      "code": "99",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#F8E000",
+      "rgb": {
+        "r": 248,
+        "g": 224,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-64",
+      "name": "Light Grey",
+      "code": "64",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#CFD0D2",
+      "rgb": {
+        "r": 207,
+        "g": 208,
+        "b": 210
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s86",
+      "name": "Light Olive",
+      "code": "S86",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#665C40",
+      "rgb": {
+        "r": 102,
+        "g": 92,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-38",
+      "name": "Lime",
+      "code": "38",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#7EAD2B",
+      "rgb": {
+        "r": 126,
+        "g": 173,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s38",
+      "name": "Lime Green",
+      "code": "S38",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#C0D0A1",
+      "rgb": {
+        "r": 192,
+        "g": 208,
+        "b": 161
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-58",
+      "name": "Magenta",
+      "code": "58",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#BC4996",
+      "rgb": {
+        "r": 188,
+        "g": 73,
+        "b": 150
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-155",
+      "name": "Matt Olive Drab",
+      "code": "155",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#525123",
+      "rgb": {
+        "r": 82,
+        "g": 81,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-67",
+      "name": "Matt Tank Grey",
+      "code": "67",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#2B3A3D",
+      "rgb": {
+        "r": 43,
+        "g": 58,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-48",
+      "name": "Mediterranean Blue",
+      "code": "48",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#328AB0",
+      "rgb": {
+        "r": 50,
+        "g": 138,
+        "b": 176
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s165",
+      "name": "Medium Sea Grey",
+      "code": "S165",
+      "set": "Humbrol Aerosol Sprays - Satin",
+      "hex": "#9BA2AA",
+      "rgb": {
+        "r": 155,
+        "g": 162,
+        "b": 170
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-89",
+      "name": "Middle Blue",
+      "code": "89",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#4598C0",
+      "rgb": {
+        "r": 69,
+        "g": 152,
+        "b": 192
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-15",
+      "name": "Midnight Blue",
+      "code": "15",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#212F5E",
+      "rgb": {
+        "r": 33,
+        "g": 47,
+        "b": 94
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s15",
+      "name": "Midnight Blue",
+      "code": "S15",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#1D3163",
+      "rgb": {
+        "r": 29,
+        "g": 49,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-110",
+      "name": "Natural Wood",
+      "code": "110",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#996746",
+      "rgb": {
+        "r": 153,
+        "g": 103,
+        "b": 70
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-71",
+      "name": "Oak",
+      "code": "71",
+      "set": "Humbrol Acrylics - Satin",
+      "hex": "#F2DFB7",
+      "rgb": {
+        "r": 242,
+        "g": 223,
+        "b": 183
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-106",
+      "name": "Ocean Grey",
+      "code": "106",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#6E7353",
+      "rgb": {
+        "r": 110,
+        "g": 115,
+        "b": 83
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s155",
+      "name": "Olive Drab",
+      "code": "S155",
+      "set": "Humbrol Aerosol Sprays - Matt",
+      "hex": "#4C4E26",
+      "rgb": {
+        "r": 76,
+        "g": 78,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-86",
+      "name": "Olive Green",
+      "code": "86",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#6F5F3E",
+      "rgb": {
+        "r": 111,
+        "g": 95,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-18",
+      "name": "Orange",
+      "code": "18",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#E7650D",
+      "rgb": {
+        "r": 231,
+        "g": 101,
+        "b": 13
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s18",
+      "name": "Orange",
+      "code": "S18",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#E46E28",
+      "rgb": {
+        "r": 228,
+        "g": 110,
+        "b": 40
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-44",
+      "name": "Pastel Blue",
+      "code": "44",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#C2D7F2",
+      "rgb": {
+        "r": 194,
+        "g": 215,
+        "b": 242
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-36",
+      "name": "Pastel Green",
+      "code": "36",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#CAE2A6",
+      "rgb": {
+        "r": 202,
+        "g": 226,
+        "b": 166
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-42",
+      "name": "Pastel Violet",
+      "code": "42",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#CDA9CF",
+      "rgb": {
+        "r": 205,
+        "g": 169,
+        "b": 207
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-57",
+      "name": "Pink",
+      "code": "57",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#EFAEB4",
+      "rgb": {
+        "r": 239,
+        "g": 174,
+        "b": 180
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-1",
+      "name": "Primer",
+      "code": "1",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#575B5A",
+      "rgb": {
+        "r": 87,
+        "g": 91,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s1",
+      "name": "Primer",
+      "code": "S1",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#525D57",
+      "rgb": {
+        "r": 82,
+        "g": 93,
+        "b": 87
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-68",
+      "name": "Purple",
+      "code": "68",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#2A1744",
+      "rgb": {
+        "r": 42,
+        "g": 23,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-96",
+      "name": "RAF Blue",
+      "code": "96",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#677290",
+      "rgb": {
+        "r": 103,
+        "g": 114,
+        "b": 144
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-19",
+      "name": "Red",
+      "code": "19",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#D80D20",
+      "rgb": {
+        "r": 216,
+        "g": 13,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s19",
+      "name": "Red",
+      "code": "S19",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#DE1D2E",
+      "rgb": {
+        "r": 222,
+        "g": 29,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-113",
+      "name": "Rust",
+      "code": "113",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#AE6A57",
+      "rgb": {
+        "r": 174,
+        "g": 106,
+        "b": 87
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-63",
+      "name": "Sand",
+      "code": "63",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#D69C4A",
+      "rgb": {
+        "r": 214,
+        "g": 156,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s63",
+      "name": "Sand",
+      "code": "S63",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#D19651",
+      "rgb": {
+        "r": 209,
+        "g": 150,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-135",
+      "name": "Satin Varnish",
+      "code": "135",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-60",
+      "name": "Scarlet",
+      "code": "60",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#BA1816",
+      "rgb": {
+        "r": 186,
+        "g": 24,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s27",
+      "name": "Sea Grey",
+      "code": "S27",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#505654",
+      "rgb": {
+        "r": 80,
+        "g": 86,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-27",
+      "name": "Sea Grey",
+      "code": "27",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#585954",
+      "rgb": {
+        "r": 88,
+        "g": 89,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-10",
+      "name": "Service Brown",
+      "code": "10",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#433323",
+      "rgb": {
+        "r": 67,
+        "g": 51,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-174",
+      "name": "Signal Red",
+      "code": "174",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#D32C19",
+      "rgb": {
+        "r": 211,
+        "g": 44,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s11",
+      "name": "Silver",
+      "code": "S11",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#D0D1D3",
+      "rgb": {
+        "r": 208,
+        "g": 209,
+        "b": 211
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-11",
+      "name": "Silver",
+      "code": "11",
+      "set": "Humbrol Acrylics - Metallics",
+      "hex": "#DADADA",
+      "rgb": {
+        "r": 218,
+        "g": 218,
+        "b": 218
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-9",
+      "name": "Tan",
+      "code": "9",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#B05318",
+      "rgb": {
+        "r": 176,
+        "g": 83,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s67",
+      "name": "Tank Grey",
+      "code": "S67",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#24383F",
+      "rgb": {
+        "r": 36,
+        "g": 56,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-24",
+      "name": "Trainer Yellow",
+      "code": "24",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#F8C129",
+      "rgb": {
+        "r": 248,
+        "g": 193,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-127",
+      "name": "US Ghost Grey",
+      "code": "127",
+      "set": "Humbrol Acrylics - Satin",
+      "hex": "#ADBFC9",
+      "rgb": {
+        "r": 173,
+        "g": 191,
+        "b": 201
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-117",
+      "name": "US Light Green",
+      "code": "117",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#566441",
+      "rgb": {
+        "r": 86,
+        "g": 100,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-118",
+      "name": "US Tan",
+      "code": "118",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#B47E58",
+      "rgb": {
+        "r": 180,
+        "g": 126,
+        "b": 88
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-109",
+      "name": "WWI Blue",
+      "code": "109",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#5D7FAF",
+      "rgb": {
+        "r": 93,
+        "g": 127,
+        "b": 175
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-22",
+      "name": "White",
+      "code": "22",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-34",
+      "name": "White",
+      "code": "34",
+      "set": "Humbrol Acrylics - Matt",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-130",
+      "name": "White",
+      "code": "130",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s22",
+      "name": "White Gloss",
+      "code": "S22",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#F3EFEE",
+      "rgb": {
+        "r": 243,
+        "g": 239,
+        "b": 238
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s34",
+      "name": "White Matt",
+      "code": "S34",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#323232",
+      "rgb": {
+        "r": 50,
+        "g": 50,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-69",
+      "name": "Yellow",
+      "code": "69",
+      "set": "Humbrol Acrylics - Gloss",
+      "hex": "#FCDB00",
+      "rgb": {
+        "r": 252,
+        "g": 219,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "humbrol-s69",
+      "name": "Yellow",
+      "code": "S69",
+      "set": "Humbrol Aerosol Sprays",
+      "hex": "#FCDA06",
+      "rgb": {
+        "r": 252,
+        "g": 218,
+        "b": 6
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    }
+  ]
+}

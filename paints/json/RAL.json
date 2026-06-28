@@ -1,0 +1,2915 @@
+{
+  "$schema": "../../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
+  "displayName": "RAL",
+  "company": "RAL Deutsches Institut für Gütesicherung und Kennzeichnung e. V.",
+  "address": {
+    "street": "Fränkische Straße 7",
+    "city": "Bonn",
+    "postcode": "53229",
+    "country": "Germany"
+  },
+  "contactEmail": "kontakt@ral.de",
+  "contactForm": "",
+  "website": "https://www.ral.de/",
+  "phone": "+49 228 68895-0",
+  "updatedCatalogueRequested": "",
+  "paintCount": 193,
+  "paints": [
+    {
+      "id": "ral-7038",
+      "name": "Agate grey",
+      "code": "7038",
+      "set": "RAL Color System",
+      "hex": "#BABDBA",
+      "rgb": {
+        "r": 186,
+        "g": 189,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7016",
+      "name": "Anthracite grey",
+      "code": "7016",
+      "set": "RAL Color System",
+      "hex": "#262E38",
+      "rgb": {
+        "r": 38,
+        "g": 46,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3014",
+      "name": "Antique pink",
+      "code": "3014",
+      "set": "RAL Color System",
+      "hex": "#D96675",
+      "rgb": {
+        "r": 217,
+        "g": 102,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5009",
+      "name": "Azure blue",
+      "code": "5009",
+      "set": "RAL Color System",
+      "hex": "#174570",
+      "rgb": {
+        "r": 23,
+        "g": 69,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7012",
+      "name": "Basalt grey",
+      "code": "7012",
+      "set": "RAL Color System",
+      "hex": "#4A5459",
+      "rgb": {
+        "r": 74,
+        "g": 84,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1001",
+      "name": "Beige",
+      "code": "1001",
+      "set": "RAL Color System",
+      "hex": "#D2AA5A",
+      "rgb": {
+        "r": 210,
+        "g": 170,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8024",
+      "name": "Beige brown",
+      "code": "8024",
+      "set": "RAL Color System",
+      "hex": "#6E4030",
+      "rgb": {
+        "r": 110,
+        "g": 64,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7006",
+      "name": "Beige grey",
+      "code": "7006",
+      "set": "RAL Color System",
+      "hex": "#6B6157",
+      "rgb": {
+        "r": 107,
+        "g": 97,
+        "b": 87
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3012",
+      "name": "Beige red",
+      "code": "3012",
+      "set": "RAL Color System",
+      "hex": "#CC8273",
+      "rgb": {
+        "r": 204,
+        "g": 130,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5004",
+      "name": "Black blue",
+      "code": "5004",
+      "set": "RAL Color System",
+      "hex": "#030D1F",
+      "rgb": {
+        "r": 3,
+        "g": 13,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8022",
+      "name": "Black brown",
+      "code": "8022",
+      "set": "RAL Color System",
+      "hex": "#0D080D",
+      "rgb": {
+        "r": 13,
+        "g": 8,
+        "b": 13
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6012",
+      "name": "Black green",
+      "code": "6012",
+      "set": "RAL Color System",
+      "hex": "#1F2E2B",
+      "rgb": {
+        "r": 31,
+        "g": 46,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7021",
+      "name": "Black grey",
+      "code": "7021",
+      "set": "RAL Color System",
+      "hex": "#1A2129",
+      "rgb": {
+        "r": 26,
+        "g": 33,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6015",
+      "name": "Black olive",
+      "code": "6015",
+      "set": "RAL Color System",
+      "hex": "#292B26",
+      "rgb": {
+        "r": 41,
+        "g": 43,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3007",
+      "name": "Black red",
+      "code": "3007",
+      "set": "RAL Color System",
+      "hex": "#2E121A",
+      "rgb": {
+        "r": 46,
+        "g": 18,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6004",
+      "name": "Blue green",
+      "code": "6004",
+      "set": "RAL Color System",
+      "hex": "#0D3B2E",
+      "rgb": {
+        "r": 13,
+        "g": 59,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7031",
+      "name": "Blue grey",
+      "code": "7031",
+      "set": "RAL Color System",
+      "hex": "#4D5C6B",
+      "rgb": {
+        "r": 77,
+        "g": 92,
+        "b": 107
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-4005",
+      "name": "Blue lilac",
+      "code": "4005",
+      "set": "RAL Color System",
+      "hex": "#633D9C",
+      "rgb": {
+        "r": 99,
+        "g": 61,
+        "b": 156
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6007",
+      "name": "Bottle green",
+      "code": "6007",
+      "set": "RAL Color System",
+      "hex": "#1C2617",
+      "rgb": {
+        "r": 28,
+        "g": 38,
+        "b": 23
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2008",
+      "name": "Bright red orange",
+      "code": "2008",
+      "set": "RAL Color System",
+      "hex": "#FA4F29",
+      "rgb": {
+        "r": 250,
+        "g": 79,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5007",
+      "name": "Brillant blue",
+      "code": "5007",
+      "set": "RAL Color System",
+      "hex": "#264F87",
+      "rgb": {
+        "r": 38,
+        "g": 79,
+        "b": 135
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1032",
+      "name": "Broom yellow",
+      "code": "1032",
+      "set": "RAL Color System",
+      "hex": "#E3A329",
+      "rgb": {
+        "r": 227,
+        "g": 163,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1011",
+      "name": "Brown beige",
+      "code": "1011",
+      "set": "RAL Color System",
+      "hex": "#AD7A29",
+      "rgb": {
+        "r": 173,
+        "g": 122,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6008",
+      "name": "Brown green",
+      "code": "6008",
+      "set": "RAL Color System",
+      "hex": "#21211A",
+      "rgb": {
+        "r": 33,
+        "g": 33,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7013",
+      "name": "Brown grey",
+      "code": "7013",
+      "set": "RAL Color System",
+      "hex": "#474238",
+      "rgb": {
+        "r": 71,
+        "g": 66,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3011",
+      "name": "Brown red",
+      "code": "3011",
+      "set": "RAL Color System",
+      "hex": "#781417",
+      "rgb": {
+        "r": 120,
+        "g": 20,
+        "b": 23
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5019",
+      "name": "Capri blue",
+      "code": "5019",
+      "set": "RAL Color System",
+      "hex": "#0A4278",
+      "rgb": {
+        "r": 10,
+        "g": 66,
+        "b": 120
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3002",
+      "name": "Carmine red",
+      "code": "3002",
+      "set": "RAL Color System",
+      "hex": "#A31A1A",
+      "rgb": {
+        "r": 163,
+        "g": 26,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7033",
+      "name": "Cement grey",
+      "code": "7033",
+      "set": "RAL Color System",
+      "hex": "#7A8275",
+      "rgb": {
+        "r": 122,
+        "g": 130,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8015",
+      "name": "Chestnut brown",
+      "code": "8015",
+      "set": "RAL Color System",
+      "hex": "#4D1F1C",
+      "rgb": {
+        "r": 77,
+        "g": 31,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8017",
+      "name": "Chocolate brown",
+      "code": "8017",
+      "set": "RAL Color System",
+      "hex": "#2E1C1C",
+      "rgb": {
+        "r": 46,
+        "g": 28,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6020",
+      "name": "Chrome green",
+      "code": "6020",
+      "set": "RAL Color System",
+      "hex": "#263829",
+      "rgb": {
+        "r": 38,
+        "g": 56,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-4004",
+      "name": "Claret violet",
+      "code": "4004",
+      "set": "RAL Color System",
+      "hex": "#5C082B",
+      "rgb": {
+        "r": 92,
+        "g": 8,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8003",
+      "name": "Clay brown",
+      "code": "8003",
+      "set": "RAL Color System",
+      "hex": "#733B24",
+      "rgb": {
+        "r": 115,
+        "g": 59,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5013",
+      "name": "Cobalt blue",
+      "code": "5013",
+      "set": "RAL Color System",
+      "hex": "#001245",
+      "rgb": {
+        "r": 0,
+        "g": 18,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7023",
+      "name": "Concrete grey",
+      "code": "7023",
+      "set": "RAL Color System",
+      "hex": "#7A7D75",
+      "rgb": {
+        "r": 122,
+        "g": 125,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8004",
+      "name": "Copper brown",
+      "code": "8004",
+      "set": "RAL Color System",
+      "hex": "#85382B",
+      "rgb": {
+        "r": 133,
+        "g": 56,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3016",
+      "name": "Coral red",
+      "code": "3016",
+      "set": "RAL Color System",
+      "hex": "#A62426",
+      "rgb": {
+        "r": 166,
+        "g": 36,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9001",
+      "name": "Cream",
+      "code": "9001",
+      "set": "RAL Color System",
+      "hex": "#FCFCF0",
+      "rgb": {
+        "r": 252,
+        "g": 252,
+        "b": 240
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1027",
+      "name": "Curry",
+      "code": "1027",
+      "set": "RAL Color System",
+      "hex": "#997521",
+      "rgb": {
+        "r": 153,
+        "g": 117,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1007",
+      "name": "Daffodil yellow",
+      "code": "1007",
+      "set": "RAL Color System",
+      "hex": "#DD9F23",
+      "rgb": {
+        "r": 221,
+        "g": 159,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1033",
+      "name": "Dahlia yellow",
+      "code": "1033",
+      "set": "RAL Color System",
+      "hex": "#FF9436",
+      "rgb": {
+        "r": 255,
+        "g": 148,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2011",
+      "name": "Deep orange",
+      "code": "2011",
+      "set": "RAL Color System",
+      "hex": "#ED5C00",
+      "rgb": {
+        "r": 237,
+        "g": 92,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5023",
+      "name": "Distant blue",
+      "code": "5023",
+      "set": "RAL Color System",
+      "hex": "#2E528F",
+      "rgb": {
+        "r": 46,
+        "g": 82,
+        "b": 143
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7037",
+      "name": "Dusty grey",
+      "code": "7037",
+      "set": "RAL Color System",
+      "hex": "#7A7D80",
+      "rgb": {
+        "r": 122,
+        "g": 125,
+        "b": 128
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6001",
+      "name": "Emerald green",
+      "code": "6001",
+      "set": "RAL Color System",
+      "hex": "#266651",
+      "rgb": {
+        "r": 38,
+        "g": 102,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8007",
+      "name": "Fawn brown",
+      "code": "8007",
+      "set": "RAL Color System",
+      "hex": "#5E3321",
+      "rgb": {
+        "r": 94,
+        "g": 51,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6025",
+      "name": "Fern green",
+      "code": "6025",
+      "set": "RAL Color System",
+      "hex": "#4A6E33",
+      "rgb": {
+        "r": 74,
+        "g": 110,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6009",
+      "name": "Fir green",
+      "code": "6009",
+      "set": "RAL Color System",
+      "hex": "#17291C",
+      "rgb": {
+        "r": 23,
+        "g": 41,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3000",
+      "name": "Flame red",
+      "code": "3000",
+      "set": "RAL Color System",
+      "hex": "#AB1F1C",
+      "rgb": {
+        "r": 171,
+        "g": 31,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1004",
+      "name": "Golden yellow",
+      "code": "1004",
+      "set": "RAL Color System",
+      "hex": "#E0B000",
+      "rgb": {
+        "r": 224,
+        "g": 176,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7026",
+      "name": "Granite grey",
+      "code": "7026",
+      "set": "RAL Color System",
+      "hex": "#263338",
+      "rgb": {
+        "r": 38,
+        "g": 51,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9011",
+      "name": "Graphite black",
+      "code": "9011",
+      "set": "RAL Color System",
+      "hex": "#0D121A",
+      "rgb": {
+        "r": 13,
+        "g": 18,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7024",
+      "name": "Graphite grey",
+      "code": "7024",
+      "set": "RAL Color System",
+      "hex": "#303845",
+      "rgb": {
+        "r": 48,
+        "g": 56,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6010",
+      "name": "Grass green",
+      "code": "6010",
+      "set": "RAL Color System",
+      "hex": "#366926",
+      "rgb": {
+        "r": 54,
+        "g": 105,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5008",
+      "name": "Gray blue",
+      "code": "5008",
+      "set": "RAL Color System",
+      "hex": "#1A2938",
+      "rgb": {
+        "r": 26,
+        "g": 41,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1000",
+      "name": "Green beige",
+      "code": "1000",
+      "set": "RAL Color System",
+      "hex": "#CCCC99",
+      "rgb": {
+        "r": 204,
+        "g": 204,
+        "b": 153
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5001",
+      "name": "Green blue",
+      "code": "5001",
+      "set": "RAL Color System",
+      "hex": "#0A3354",
+      "rgb": {
+        "r": 10,
+        "g": 51,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8000",
+      "name": "Green brown",
+      "code": "8000",
+      "set": "RAL Color System",
+      "hex": "#7D5C38",
+      "rgb": {
+        "r": 125,
+        "g": 92,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7009",
+      "name": "Green grey",
+      "code": "7009",
+      "set": "RAL Color System",
+      "hex": "#4D524A",
+      "rgb": {
+        "r": 77,
+        "g": 82,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9007",
+      "name": "Grey aluminium",
+      "code": "9007",
+      "set": "RAL Color System",
+      "hex": "#7D7A78",
+      "rgb": {
+        "r": 125,
+        "g": 122,
+        "b": 120
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1019",
+      "name": "Grey beige",
+      "code": "1019",
+      "set": "RAL Color System",
+      "hex": "#A38C7A",
+      "rgb": {
+        "r": 163,
+        "g": 140,
+        "b": 122
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8019",
+      "name": "Grey brown",
+      "code": "8019",
+      "set": "RAL Color System",
+      "hex": "#2B2629",
+      "rgb": {
+        "r": 43,
+        "g": 38,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6006",
+      "name": "Grey olive",
+      "code": "6006",
+      "set": "RAL Color System",
+      "hex": "#292B2E",
+      "rgb": {
+        "r": 41,
+        "g": 43,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9002",
+      "name": "Grey white",
+      "code": "9002",
+      "set": "RAL Color System",
+      "hex": "#F0EDE6",
+      "rgb": {
+        "r": 240,
+        "g": 237,
+        "b": 230
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-4003",
+      "name": "Heather violet",
+      "code": "4003",
+      "set": "RAL Color System",
+      "hex": "#C9388C",
+      "rgb": {
+        "r": 201,
+        "g": 56,
+        "b": 140
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1005",
+      "name": "Honey yellow",
+      "code": "1005",
+      "set": "RAL Color System",
+      "hex": "#C98721",
+      "rgb": {
+        "r": 201,
+        "g": 135,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7011",
+      "name": "Iron grey",
+      "code": "7011",
+      "set": "RAL Color System",
+      "hex": "#404A54",
+      "rgb": {
+        "r": 64,
+        "g": 74,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1014",
+      "name": "Ivory",
+      "code": "1014",
+      "set": "RAL Color System",
+      "hex": "#F0D6AB",
+      "rgb": {
+        "r": 240,
+        "g": 214,
+        "b": 171
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9005",
+      "name": "Jet black",
+      "code": "9005",
+      "set": "RAL Color System",
+      "hex": "#03050A",
+      "rgb": {
+        "r": 3,
+        "g": 5,
+        "b": 10
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7008",
+      "name": "Khaki grey",
+      "code": "7008",
+      "set": "RAL Color System",
+      "hex": "#695438",
+      "rgb": {
+        "r": 105,
+        "g": 84,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6002",
+      "name": "Leaf green",
+      "code": "6002",
+      "set": "RAL Color System",
+      "hex": "#265721",
+      "rgb": {
+        "r": 38,
+        "g": 87,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1012",
+      "name": "Lemon yellow",
+      "code": "1012",
+      "set": "RAL Color System",
+      "hex": "#E3B838",
+      "rgb": {
+        "r": 227,
+        "g": 184,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5012",
+      "name": "Light blue",
+      "code": "5012",
+      "set": "RAL Color System",
+      "hex": "#2973B8",
+      "rgb": {
+        "r": 41,
+        "g": 115,
+        "b": 184
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6027",
+      "name": "Light green",
+      "code": "6027",
+      "set": "RAL Color System",
+      "hex": "#7DCCBD",
+      "rgb": {
+        "r": 125,
+        "g": 204,
+        "b": 189
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7035",
+      "name": "Light grey",
+      "code": "7035",
+      "set": "RAL Color System",
+      "hex": "#D4D9DB",
+      "rgb": {
+        "r": 212,
+        "g": 217,
+        "b": 219
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1015",
+      "name": "Light ivory",
+      "code": "1015",
+      "set": "RAL Color System",
+      "hex": "#FCEBCC",
+      "rgb": {
+        "r": 252,
+        "g": 235,
+        "b": 204
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3015",
+      "name": "Light pink",
+      "code": "3015",
+      "set": "RAL Color System",
+      "hex": "#E89CB5",
+      "rgb": {
+        "r": 232,
+        "g": 156,
+        "b": 181
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2007",
+      "name": "Luminous bright orange",
+      "code": "2007",
+      "set": "RAL Color System",
+      "hex": "#FF7521",
+      "rgb": {
+        "r": 255,
+        "g": 117,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3026",
+      "name": "Luminous bright red",
+      "code": "3026",
+      "set": "RAL Color System",
+      "hex": "#FC1414",
+      "rgb": {
+        "r": 252,
+        "g": 20,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2005",
+      "name": "Luminous orange",
+      "code": "2005",
+      "set": "RAL Color System",
+      "hex": "#FC1C14",
+      "rgb": {
+        "r": 252,
+        "g": 28,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3024",
+      "name": "Luminous red",
+      "code": "3024",
+      "set": "RAL Color System",
+      "hex": "#FC0A1C",
+      "rgb": {
+        "r": 252,
+        "g": 10,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1026",
+      "name": "Luminous yellow",
+      "code": "1026",
+      "set": "RAL Color System",
+      "hex": "#FFFF0A",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 10
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8016",
+      "name": "Mahogany brown",
+      "code": "8016",
+      "set": "RAL Color System",
+      "hex": "#3D1F1C",
+      "rgb": {
+        "r": 61,
+        "g": 31,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1006",
+      "name": "Maize yellow",
+      "code": "1006",
+      "set": "RAL Color System",
+      "hex": "#E3A729",
+      "rgb": {
+        "r": 227,
+        "g": 167,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6018",
+      "name": "May green",
+      "code": "6018",
+      "set": "RAL Color System",
+      "hex": "#4FA833",
+      "rgb": {
+        "r": 79,
+        "g": 168,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1028",
+      "name": "Melon yellow",
+      "code": "1028",
+      "set": "RAL Color System",
+      "hex": "#FF8C1A",
+      "rgb": {
+        "r": 255,
+        "g": 140,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6029",
+      "name": "Mint green",
+      "code": "6029",
+      "set": "RAL Color System",
+      "hex": "#127826",
+      "rgb": {
+        "r": 18,
+        "g": 120,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6033",
+      "name": "Mint turquoise",
+      "code": "6033",
+      "set": "RAL Color System",
+      "hex": "#428C78",
+      "rgb": {
+        "r": 66,
+        "g": 140,
+        "b": 120
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6005",
+      "name": "Moss green",
+      "code": "6005",
+      "set": "RAL Color System",
+      "hex": "#0A381F",
+      "rgb": {
+        "r": 10,
+        "g": 56,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7003",
+      "name": "Moss grey",
+      "code": "7003",
+      "set": "RAL Color System",
+      "hex": "#707061",
+      "rgb": {
+        "r": 112,
+        "g": 112,
+        "b": 97
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7005",
+      "name": "Mouse grey",
+      "code": "7005",
+      "set": "RAL Color System",
+      "hex": "#616969",
+      "rgb": {
+        "r": 97,
+        "g": 105,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5022",
+      "name": "Night blue",
+      "code": "5022",
+      "set": "RAL Color System",
+      "hex": "#00084F",
+      "rgb": {
+        "r": 0,
+        "g": 8,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8011",
+      "name": "Nut brown",
+      "code": "8011",
+      "set": "RAL Color System",
+      "hex": "#47261C",
+      "rgb": {
+        "r": 71,
+        "g": 38,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8001",
+      "name": "Ocher brown",
+      "code": "8001",
+      "set": "RAL Color System",
+      "hex": "#91522E",
+      "rgb": {
+        "r": 145,
+        "g": 82,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1024",
+      "name": "Ochre yellow",
+      "code": "1024",
+      "set": "RAL Color System",
+      "hex": "#B58C4F",
+      "rgb": {
+        "r": 181,
+        "g": 140,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8008",
+      "name": "Olive brown",
+      "code": "8008",
+      "set": "RAL Color System",
+      "hex": "#633D24",
+      "rgb": {
+        "r": 99,
+        "g": 61,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6022",
+      "name": "Olive drab",
+      "code": "6022",
+      "set": "RAL Color System",
+      "hex": "#2B261C",
+      "rgb": {
+        "r": 43,
+        "g": 38,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6003",
+      "name": "Olive green",
+      "code": "6003",
+      "set": "RAL Color System",
+      "hex": "#3D452E",
+      "rgb": {
+        "r": 61,
+        "g": 69,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7002",
+      "name": "Olive grey",
+      "code": "7002",
+      "set": "RAL Color System",
+      "hex": "#7A7561",
+      "rgb": {
+        "r": 122,
+        "g": 117,
+        "b": 97
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1020",
+      "name": "Olive yellow",
+      "code": "1020",
+      "set": "RAL Color System",
+      "hex": "#9C8F61",
+      "rgb": {
+        "r": 156,
+        "g": 143,
+        "b": 97
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6026",
+      "name": "Opal green",
+      "code": "6026",
+      "set": "RAL Color System",
+      "hex": "#0A5C33",
+      "rgb": {
+        "r": 10,
+        "g": 92,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8023",
+      "name": "Orange brown",
+      "code": "8023",
+      "set": "RAL Color System",
+      "hex": "#9C4529",
+      "rgb": {
+        "r": 156,
+        "g": 69,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3031",
+      "name": "Orient red",
+      "code": "3031",
+      "set": "RAL Color System",
+      "hex": "#A61C2E",
+      "rgb": {
+        "r": 166,
+        "g": 28,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3009",
+      "name": "Oxide red",
+      "code": "3009",
+      "set": "RAL Color System",
+      "hex": "#5E2121",
+      "rgb": {
+        "r": 94,
+        "g": 33,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1013",
+      "name": "Oyster white",
+      "code": "1013",
+      "set": "RAL Color System",
+      "hex": "#FFF5E3",
+      "rgb": {
+        "r": 255,
+        "g": 245,
+        "b": 227
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8025",
+      "name": "Pale brown",
+      "code": "8025",
+      "set": "RAL Color System",
+      "hex": "#664A3D",
+      "rgb": {
+        "r": 102,
+        "g": 74,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6021",
+      "name": "Pale green",
+      "code": "6021",
+      "set": "RAL Color System",
+      "hex": "#85A67A",
+      "rgb": {
+        "r": 133,
+        "g": 166,
+        "b": 122
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9018",
+      "name": "Papyrus white",
+      "code": "9018",
+      "set": "RAL Color System",
+      "hex": "#DBE3DE",
+      "rgb": {
+        "r": 219,
+        "g": 227,
+        "b": 222
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5024",
+      "name": "Pastel blue",
+      "code": "5024",
+      "set": "RAL Color System",
+      "hex": "#578CAB",
+      "rgb": {
+        "r": 87,
+        "g": 140,
+        "b": 171
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6019",
+      "name": "Pastel green",
+      "code": "6019",
+      "set": "RAL Color System",
+      "hex": "#BFE3BA",
+      "rgb": {
+        "r": 191,
+        "g": 227,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2003",
+      "name": "Pastel orange",
+      "code": "2003",
+      "set": "RAL Color System",
+      "hex": "#FF6336",
+      "rgb": {
+        "r": 255,
+        "g": 99,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6034",
+      "name": "Pastel turquoise",
+      "code": "6034",
+      "set": "RAL Color System",
+      "hex": "#7DBDB5",
+      "rgb": {
+        "r": 125,
+        "g": 189,
+        "b": 181
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-4009",
+      "name": "Pastel violet",
+      "code": "4009",
+      "set": "RAL Color System",
+      "hex": "#9E7394",
+      "rgb": {
+        "r": 158,
+        "g": 115,
+        "b": 148
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1034",
+      "name": "Pastel yellow",
+      "code": "1034",
+      "set": "RAL Color System",
+      "hex": "#F7995C",
+      "rgb": {
+        "r": 247,
+        "g": 153,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6000",
+      "name": "Patina green",
+      "code": "6000",
+      "set": "RAL Color System",
+      "hex": "#337854",
+      "rgb": {
+        "r": 51,
+        "g": 120,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7032",
+      "name": "Pebble grey",
+      "code": "7032",
+      "set": "RAL Color System",
+      "hex": "#BDBAAB",
+      "rgb": {
+        "r": 189,
+        "g": 186,
+        "b": 171
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5014",
+      "name": "Pigeon blue",
+      "code": "5014",
+      "set": "RAL Color System",
+      "hex": "#4D6999",
+      "rgb": {
+        "r": 77,
+        "g": 105,
+        "b": 153
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6028",
+      "name": "Pine green",
+      "code": "6028",
+      "set": "RAL Color System",
+      "hex": "#264A33",
+      "rgb": {
+        "r": 38,
+        "g": 74,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7036",
+      "name": "Platinum grey",
+      "code": "7036",
+      "set": "RAL Color System",
+      "hex": "#9E969C",
+      "rgb": {
+        "r": 158,
+        "g": 150,
+        "b": 156
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2004",
+      "name": "Pure orange",
+      "code": "2004",
+      "set": "RAL Color System",
+      "hex": "#F23B1C",
+      "rgb": {
+        "r": 242,
+        "g": 59,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9010",
+      "name": "Pure white",
+      "code": "9010",
+      "set": "RAL Color System",
+      "hex": "#FAFFFF",
+      "rgb": {
+        "r": 250,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3004",
+      "name": "Purple red",
+      "code": "3004",
+      "set": "RAL Color System",
+      "hex": "#690F14",
+      "rgb": {
+        "r": 105,
+        "g": 15,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-4007",
+      "name": "Purple violet",
+      "code": "4007",
+      "set": "RAL Color System",
+      "hex": "#380A2E",
+      "rgb": {
+        "r": 56,
+        "g": 10,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7039",
+      "name": "Quartz grey",
+      "code": "7039",
+      "set": "RAL Color System",
+      "hex": "#615E59",
+      "rgb": {
+        "r": 97,
+        "g": 94,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1021",
+      "name": "Rape yellow",
+      "code": "1021",
+      "set": "RAL Color System",
+      "hex": "#FCBD1F",
+      "rgb": {
+        "r": 252,
+        "g": 189,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3027",
+      "name": "Raspberry red",
+      "code": "3027",
+      "set": "RAL Color System",
+      "hex": "#B51233",
+      "rgb": {
+        "r": 181,
+        "g": 18,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8012",
+      "name": "Red brown",
+      "code": "8012",
+      "set": "RAL Color System",
+      "hex": "#541F1F",
+      "rgb": {
+        "r": 84,
+        "g": 31,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-4001",
+      "name": "Red lilac",
+      "code": "4001",
+      "set": "RAL Color System",
+      "hex": "#824030",
+      "rgb": {
+        "r": 130,
+        "g": 64,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2001",
+      "name": "Red orange",
+      "code": "2001",
+      "set": "RAL Color System",
+      "hex": "#BA2E21",
+      "rgb": {
+        "r": 186,
+        "g": 46,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-4002",
+      "name": "Red violet",
+      "code": "4002",
+      "set": "RAL Color System",
+      "hex": "#8F2640",
+      "rgb": {
+        "r": 143,
+        "g": 38,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6013",
+      "name": "Reed green",
+      "code": "6013",
+      "set": "RAL Color System",
+      "hex": "#75734F",
+      "rgb": {
+        "r": 117,
+        "g": 115,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6011",
+      "name": "Reseda green",
+      "code": "6011",
+      "set": "RAL Color System",
+      "hex": "#5E7D4F",
+      "rgb": {
+        "r": 94,
+        "g": 125,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3017",
+      "name": "Rose",
+      "code": "3017",
+      "set": "RAL Color System",
+      "hex": "#D13654",
+      "rgb": {
+        "r": 209,
+        "g": 54,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3003",
+      "name": "Ruby red",
+      "code": "3003",
+      "set": "RAL Color System",
+      "hex": "#8A1214",
+      "rgb": {
+        "r": 138,
+        "g": 18,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1017",
+      "name": "Saffron yellow",
+      "code": "1017",
+      "set": "RAL Color System",
+      "hex": "#FFAB59",
+      "rgb": {
+        "r": 255,
+        "g": 171,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2012",
+      "name": "Salmon orange",
+      "code": "2012",
+      "set": "RAL Color System",
+      "hex": "#DE5247",
+      "rgb": {
+        "r": 222,
+        "g": 82,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3022",
+      "name": "Salmon pink",
+      "code": "3022",
+      "set": "RAL Color System",
+      "hex": "#D9594F",
+      "rgb": {
+        "r": 217,
+        "g": 89,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1002",
+      "name": "Sand yellow",
+      "code": "1002",
+      "set": "RAL Color System",
+      "hex": "#D0A818",
+      "rgb": {
+        "r": 208,
+        "g": 168,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5003",
+      "name": "Sapphire blue",
+      "code": "5003",
+      "set": "RAL Color System",
+      "hex": "#001745",
+      "rgb": {
+        "r": 0,
+        "g": 23,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8014",
+      "name": "Sepia brown",
+      "code": "8014",
+      "set": "RAL Color System",
+      "hex": "#38261C",
+      "rgb": {
+        "r": 56,
+        "g": 38,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9004",
+      "name": "Signal black",
+      "code": "9004",
+      "set": "RAL Color System",
+      "hex": "#1C1C21",
+      "rgb": {
+        "r": 28,
+        "g": 28,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5005",
+      "name": "Signal blue",
+      "code": "5005",
+      "set": "RAL Color System",
+      "hex": "#002E7A",
+      "rgb": {
+        "r": 0,
+        "g": 46,
+        "b": 122
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8002",
+      "name": "Signal brown",
+      "code": "8002",
+      "set": "RAL Color System",
+      "hex": "#6E3B3A",
+      "rgb": {
+        "r": 110,
+        "g": 59,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6032",
+      "name": "Signal green",
+      "code": "6032",
+      "set": "RAL Color System",
+      "hex": "#298A40",
+      "rgb": {
+        "r": 41,
+        "g": 138,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7004",
+      "name": "Signal grey",
+      "code": "7004",
+      "set": "RAL Color System",
+      "hex": "#9C9CA6",
+      "rgb": {
+        "r": 156,
+        "g": 156,
+        "b": 166
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2010",
+      "name": "Signal orange",
+      "code": "2010",
+      "set": "RAL Color System",
+      "hex": "#D44529",
+      "rgb": {
+        "r": 212,
+        "g": 69,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3001",
+      "name": "Signal red",
+      "code": "3001",
+      "set": "RAL Color System",
+      "hex": "#A3171A",
+      "rgb": {
+        "r": 163,
+        "g": 23,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-4008",
+      "name": "Signal violet",
+      "code": "4008",
+      "set": "RAL Color System",
+      "hex": "#7D1F7A",
+      "rgb": {
+        "r": 125,
+        "g": 31,
+        "b": 122
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9003",
+      "name": "Signal white",
+      "code": "9003",
+      "set": "RAL Color System",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1003",
+      "name": "Signal yellow",
+      "code": "1003",
+      "set": "RAL Color System",
+      "hex": "#FFCC00",
+      "rgb": {
+        "r": 255,
+        "g": 204,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7044",
+      "name": "Silk grey",
+      "code": "7044",
+      "set": "RAL Color System",
+      "hex": "#C2BFB8",
+      "rgb": {
+        "r": 194,
+        "g": 191,
+        "b": 184
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7001",
+      "name": "Silver grey",
+      "code": "7001",
+      "set": "RAL Color System",
+      "hex": "#8794A6",
+      "rgb": {
+        "r": 135,
+        "g": 148,
+        "b": 166
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5015",
+      "name": "Sky blue",
+      "code": "5015",
+      "set": "RAL Color System",
+      "hex": "#1761AB",
+      "rgb": {
+        "r": 23,
+        "g": 97,
+        "b": 171
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7015",
+      "name": "Slate grey",
+      "code": "7015",
+      "set": "RAL Color System",
+      "hex": "#3D4252",
+      "rgb": {
+        "r": 61,
+        "g": 66,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7000",
+      "name": "Squirrel grey",
+      "code": "7000",
+      "set": "RAL Color System",
+      "hex": "#738591",
+      "rgb": {
+        "r": 115,
+        "g": 133,
+        "b": 145
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5020",
+      "name": "Steel blue",
+      "code": "5020",
+      "set": "RAL Color System",
+      "hex": "#053333",
+      "rgb": {
+        "r": 5,
+        "g": 51,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5011",
+      "name": "Steel blue",
+      "code": "5011",
+      "set": "RAL Color System",
+      "hex": "#002B70",
+      "rgb": {
+        "r": 0,
+        "g": 43,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7030",
+      "name": "Stone grey",
+      "code": "7030",
+      "set": "RAL Color System",
+      "hex": "#918F87",
+      "rgb": {
+        "r": 145,
+        "g": 143,
+        "b": 135
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3018",
+      "name": "Strawberry red",
+      "code": "3018",
+      "set": "RAL Color System",
+      "hex": "#CF2942",
+      "rgb": {
+        "r": 207,
+        "g": 41,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1016",
+      "name": "Sulfur yellow",
+      "code": "1016",
+      "set": "RAL Color System",
+      "hex": "#FFF542",
+      "rgb": {
+        "r": 255,
+        "g": 245,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7010",
+      "name": "Tarpaulin grey",
+      "code": "7010",
+      "set": "RAL Color System",
+      "hex": "#4A4F4A",
+      "rgb": {
+        "r": 74,
+        "g": 79,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7045",
+      "name": "Telegrau 1",
+      "code": "7045",
+      "set": "RAL Color System",
+      "hex": "#8F949E",
+      "rgb": {
+        "r": 143,
+        "g": 148,
+        "b": 158
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7046",
+      "name": "Telegrau 2",
+      "code": "7046",
+      "set": "RAL Color System",
+      "hex": "#78828C",
+      "rgb": {
+        "r": 120,
+        "g": 130,
+        "b": 140
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7047",
+      "name": "Telegrau 4",
+      "code": "7047",
+      "set": "RAL Color System",
+      "hex": "#D9D6DB",
+      "rgb": {
+        "r": 217,
+        "g": 214,
+        "b": 219
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-4010",
+      "name": "Telemagenta",
+      "code": "4010",
+      "set": "RAL Color System",
+      "hex": "#BF1773",
+      "rgb": {
+        "r": 191,
+        "g": 23,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-8028",
+      "name": "Terra brown",
+      "code": "8028",
+      "set": "RAL Color System",
+      "hex": "#402E21",
+      "rgb": {
+        "r": 64,
+        "g": 46,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3013",
+      "name": "Tomato red",
+      "code": "3013",
+      "set": "RAL Color System",
+      "hex": "#961F1C",
+      "rgb": {
+        "r": 150,
+        "g": 31,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9017",
+      "name": "Traffic black",
+      "code": "9017",
+      "set": "RAL Color System",
+      "hex": "#14171C",
+      "rgb": {
+        "r": 20,
+        "g": 23,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5017",
+      "name": "Traffic blue",
+      "code": "5017",
+      "set": "RAL Color System",
+      "hex": "#003B80",
+      "rgb": {
+        "r": 0,
+        "g": 59,
+        "b": 128
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6024",
+      "name": "Traffic green",
+      "code": "6024",
+      "set": "RAL Color System",
+      "hex": "#249140",
+      "rgb": {
+        "r": 36,
+        "g": 145,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2009",
+      "name": "Traffic orange",
+      "code": "2009",
+      "set": "RAL Color System",
+      "hex": "#EB3B1C",
+      "rgb": {
+        "r": 235,
+        "g": 59,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-4006",
+      "name": "Traffic purple",
+      "code": "4006",
+      "set": "RAL Color System",
+      "hex": "#910F66",
+      "rgb": {
+        "r": 145,
+        "g": 15,
+        "b": 102
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3020",
+      "name": "Traffic red",
+      "code": "3020",
+      "set": "RAL Color System",
+      "hex": "#C71712",
+      "rgb": {
+        "r": 199,
+        "g": 23,
+        "b": 18
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9016",
+      "name": "Traffic white",
+      "code": "9016",
+      "set": "RAL Color System",
+      "hex": "#FCFFFF",
+      "rgb": {
+        "r": 252,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1023",
+      "name": "Traffic yellow",
+      "code": "1023",
+      "set": "RAL Color System",
+      "hex": "#FCBD1F",
+      "rgb": {
+        "r": 252,
+        "g": 189,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5018",
+      "name": "Turquoise blue",
+      "code": "5018",
+      "set": "RAL Color System",
+      "hex": "#389482",
+      "rgb": {
+        "r": 56,
+        "g": 148,
+        "b": 130
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6016",
+      "name": "Turquoise green",
+      "code": "6016",
+      "set": "RAL Color System",
+      "hex": "#0F7033",
+      "rgb": {
+        "r": 15,
+        "g": 112,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5002",
+      "name": "Ultramarine blue",
+      "code": "5002",
+      "set": "RAL Color System",
+      "hex": "#000F75",
+      "rgb": {
+        "r": 0,
+        "g": 15,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7022",
+      "name": "Umbra grey",
+      "code": "7022",
+      "set": "RAL Color System",
+      "hex": "#3D3D3B",
+      "rgb": {
+        "r": 61,
+        "g": 61,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7042",
+      "name": "Verkehrsgrau A",
+      "code": "7042",
+      "set": "RAL Color System",
+      "hex": "#8F9699",
+      "rgb": {
+        "r": 143,
+        "g": 150,
+        "b": 153
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7043",
+      "name": "Verkehrsgrau B",
+      "code": "7043",
+      "set": "RAL Color System",
+      "hex": "#404545",
+      "rgb": {
+        "r": 64,
+        "g": 69,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2002",
+      "name": "Vermilion",
+      "code": "2002",
+      "set": "RAL Color System",
+      "hex": "#CC241C",
+      "rgb": {
+        "r": 204,
+        "g": 36,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5000",
+      "name": "Violet blue",
+      "code": "5000",
+      "set": "RAL Color System",
+      "hex": "#17336B",
+      "rgb": {
+        "r": 23,
+        "g": 51,
+        "b": 107
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-5021",
+      "name": "Water blue",
+      "code": "5021",
+      "set": "RAL Color System",
+      "hex": "#1A7A63",
+      "rgb": {
+        "r": 26,
+        "g": 122,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-9006",
+      "name": "White aluminium",
+      "code": "9006",
+      "set": "RAL Color System",
+      "hex": "#A6ABB5",
+      "rgb": {
+        "r": 166,
+        "g": 171,
+        "b": 181
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7040",
+      "name": "Window grey",
+      "code": "7040",
+      "set": "RAL Color System",
+      "hex": "#9EA3B0",
+      "rgb": {
+        "r": 158,
+        "g": 163,
+        "b": 176
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-3005",
+      "name": "Wine red",
+      "code": "3005",
+      "set": "RAL Color System",
+      "hex": "#4F121A",
+      "rgb": {
+        "r": 79,
+        "g": 18,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6017",
+      "name": "Yellow green",
+      "code": "6017",
+      "set": "RAL Color System",
+      "hex": "#408236",
+      "rgb": {
+        "r": 64,
+        "g": 130,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-7034",
+      "name": "Yellow grey",
+      "code": "7034",
+      "set": "RAL Color System",
+      "hex": "#8F8770",
+      "rgb": {
+        "r": 143,
+        "g": 135,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-6014",
+      "name": "Yellow olive",
+      "code": "6014",
+      "set": "RAL Color System",
+      "hex": "#333026",
+      "rgb": {
+        "r": 51,
+        "g": 48,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-2000",
+      "name": "Yellow orange",
+      "code": "2000",
+      "set": "RAL Color System",
+      "hex": "#E05E1F",
+      "rgb": {
+        "r": 224,
+        "g": 94,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "ral-1018",
+      "name": "Zinc yellow",
+      "code": "1018",
+      "set": "RAL Color System",
+      "hex": "#FFD64D",
+      "rgb": {
+        "r": 255,
+        "g": 214,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    }
+  ]
+}

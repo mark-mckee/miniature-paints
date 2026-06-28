@@ -1,0 +1,3800 @@
+{
+  "$schema": "../../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
+  "displayName": "Two Thin Coats",
+  "company": "Duncan Rhodes Painting Academy Limited",
+  "address": {
+    "street": "Unit 24 Wilford Business Park, Ruddington Lane",
+    "city": "Nottingham",
+    "postcode": "NG11 7EP",
+    "country": "United Kingdom"
+  },
+  "contactEmail": "contact@duncanrhodes.com",
+  "contactForm": "",
+  "website": "https://www.duncanrhodes.com",
+  "phone": "",
+  "updatedCatalogueRequested": "",
+  "paintCount": 180,
+  "paints": [
+    {
+      "id": "duncan-amethyst-rayne",
+      "name": "Amethyst Rayne",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#524169",
+      "rgb": {
+        "r": 82,
+        "g": 65,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-barbarian-brawn",
+      "name": "Barbarian Brawn",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#8F5F55",
+      "rgb": {
+        "r": 143,
+        "g": 95,
+        "b": 85
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-berserker-red",
+      "name": "Berserker Red",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#4D1B15",
+      "rgb": {
+        "r": 77,
+        "g": 27,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-cold-corpse-blue",
+      "name": "Cold Corpse Blue",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#51555C",
+      "rgb": {
+        "r": 81,
+        "g": 85,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-cuirass-leather",
+      "name": "Cuirass Leather",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#52433A",
+      "rgb": {
+        "r": 82,
+        "g": 67,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-dark-sun-yellow",
+      "name": "Dark Sun Yellow",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#C48639",
+      "rgb": {
+        "r": 196,
+        "g": 134,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-doom-death-black",
+      "name": "Doom Death Black",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#3D3937",
+      "rgb": {
+        "r": 61,
+        "g": 57,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-dragon-fang",
+      "name": "Dragon Fang",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#9E8460",
+      "rgb": {
+        "r": 158,
+        "g": 132,
+        "b": 96
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-dust-bowl",
+      "name": "Dust Bowl",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#7E634B",
+      "rgb": {
+        "r": 126,
+        "g": 99,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-griffon-claw",
+      "name": "Griffon Claw",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#9F9085",
+      "rgb": {
+        "r": 159,
+        "g": 144,
+        "b": 133
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-marine-blue",
+      "name": "Marine Blue",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#44496F",
+      "rgb": {
+        "r": 68,
+        "g": 73,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-royal-cloak",
+      "name": "Royal Cloak",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#5B4349",
+      "rgb": {
+        "r": 91,
+        "g": 67,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-rust-orange",
+      "name": "Rust Orange",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#BA4D37",
+      "rgb": {
+        "r": 186,
+        "g": 77,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-scorched-earth",
+      "name": "Scorched Earth",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#5A4D49",
+      "rgb": {
+        "r": 90,
+        "g": 77,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-sir-coates-silver",
+      "name": "Sir Coates Silver",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#4A4B4B",
+      "rgb": {
+        "r": 74,
+        "g": 75,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-spartan-bronze",
+      "name": "Spartan Bronze",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#573F30",
+      "rgb": {
+        "r": 87,
+        "g": 63,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-wizard-grey",
+      "name": "Wizard Grey",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#6D6C6C",
+      "rgb": {
+        "r": 109,
+        "g": 108,
+        "b": 108
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-wyvern-green",
+      "name": "Wyvern Green",
+      "code": null,
+      "set": "Wave 1 — Shadow",
+      "hex": "#404A43",
+      "rgb": {
+        "r": 64,
+        "g": 74,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ancient-forest",
+      "name": "Ancient Forest",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#715B52",
+      "rgb": {
+        "r": 113,
+        "g": 91,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-boar-hide",
+      "name": "Boar Hide",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#734539",
+      "rgb": {
+        "r": 115,
+        "g": 69,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-carcharodon-grey",
+      "name": "Carcharodon Grey",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#959596",
+      "rgb": {
+        "r": 149,
+        "g": 149,
+        "b": 150
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-death-reaper",
+      "name": "Death Reaper",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#434142",
+      "rgb": {
+        "r": 67,
+        "g": 65,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-dragon-s-gold",
+      "name": "Dragon's Gold",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#93773E",
+      "rgb": {
+        "r": 147,
+        "g": 119,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-dwarven-skin",
+      "name": "Dwarven Skin",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#B07C62",
+      "rgb": {
+        "r": 176,
+        "g": 124,
+        "b": 98
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-elysium-blue",
+      "name": "Elysium Blue",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#5279AC",
+      "rgb": {
+        "r": 82,
+        "g": 121,
+        "b": 172
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-emerald-green",
+      "name": "Emerald Green",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#3C5C43",
+      "rgb": {
+        "r": 60,
+        "g": 92,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-fanatic-orange",
+      "name": "Fanatic Orange",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#D94A2E",
+      "rgb": {
+        "r": 217,
+        "g": 74,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ivory-tusk",
+      "name": "Ivory Tusk",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#D2C8C0",
+      "rgb": {
+        "r": 210,
+        "g": 200,
+        "b": 192
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-plate-armour",
+      "name": "Plate Armour",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#616362",
+      "rgb": {
+        "r": 97,
+        "g": 99,
+        "b": 98
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-sandstone",
+      "name": "Sandstone",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#927B68",
+      "rgb": {
+        "r": 146,
+        "g": 123,
+        "b": 104
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-sanguine-scarlet",
+      "name": "Sanguine Scarlet",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#971814",
+      "rgb": {
+        "r": 151,
+        "g": 24,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-skeleton-legion",
+      "name": "Skeleton Legion",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#B0966C",
+      "rgb": {
+        "r": 176,
+        "g": 150,
+        "b": 108
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-skulker-yellow",
+      "name": "Skulker Yellow",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#F59E00",
+      "rgb": {
+        "r": 245,
+        "g": 158,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-sorceror-s-cloak",
+      "name": "Sorceror's Cloak",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#79588D",
+      "rgb": {
+        "r": 121,
+        "g": 88,
+        "b": 141
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-sword-hilt-burgundy",
+      "name": "Sword Hilt Burgundy",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#773D4B",
+      "rgb": {
+        "r": 119,
+        "g": 61,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-wolf-grey",
+      "name": "Wolf Grey",
+      "code": null,
+      "set": "Wave 1 — Midtone",
+      "hex": "#627688",
+      "rgb": {
+        "r": 98,
+        "g": 118,
+        "b": 136
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-celestial-blue",
+      "name": "Celestial Blue",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#6992C0",
+      "rgb": {
+        "r": 105,
+        "g": 146,
+        "b": 192
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-demon-red",
+      "name": "Demon Red",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#D21216",
+      "rgb": {
+        "r": 210,
+        "g": 18,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-dungeon-stone-grey",
+      "name": "Dungeon Stone Grey",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#5C5E60",
+      "rgb": {
+        "r": 92,
+        "g": 94,
+        "b": 96
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-elven-skin",
+      "name": "Elven Skin",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#C49774",
+      "rgb": {
+        "r": 196,
+        "g": 151,
+        "b": 116
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ethereal-green",
+      "name": "Ethereal Green",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#56802E",
+      "rgb": {
+        "r": 86,
+        "g": 128,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-fur-cloak",
+      "name": "Fur Cloak",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#92534E",
+      "rgb": {
+        "r": 146,
+        "g": 83,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-glistening-gold",
+      "name": "Glistening Gold",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#73654E",
+      "rgb": {
+        "r": 115,
+        "g": 101,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-glistening-gums",
+      "name": "Glistening Gums",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#995879",
+      "rgb": {
+        "r": 153,
+        "g": 88,
+        "b": 121
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-gravestone-blue",
+      "name": "Gravestone Blue",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#7B8997",
+      "rgb": {
+        "r": 123,
+        "g": 137,
+        "b": 151
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-mythril-blade",
+      "name": "Mythril Blade",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#676968",
+      "rgb": {
+        "r": 103,
+        "g": 105,
+        "b": 104
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-orange-flare",
+      "name": "Orange Flare",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#EB7140",
+      "rgb": {
+        "r": 235,
+        "g": 113,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-runic-purple",
+      "name": "Runic Purple",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#9C8DB3",
+      "rgb": {
+        "r": 156,
+        "g": 141,
+        "b": 179
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-temple-stone",
+      "name": "Temple Stone",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#A39179",
+      "rgb": {
+        "r": 163,
+        "g": 145,
+        "b": 121
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-trooper-white",
+      "name": "Trooper White",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#EDEBE0",
+      "rgb": {
+        "r": 237,
+        "g": 235,
+        "b": 224
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-vampire-fang",
+      "name": "Vampire Fang",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#CCB89A",
+      "rgb": {
+        "r": 204,
+        "g": 184,
+        "b": 154
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-wasteland-brown",
+      "name": "Wasteland Brown",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#856C5C",
+      "rgb": {
+        "r": 133,
+        "g": 108,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-white-star",
+      "name": "White Star",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#F8F9F8",
+      "rgb": {
+        "r": 248,
+        "g": 249,
+        "b": 248
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-yellow-flame",
+      "name": "Yellow Flame",
+      "code": null,
+      "set": "Wave 1 — Highlight",
+      "hex": "#F8B02C",
+      "rgb": {
+        "r": 248,
+        "g": 176,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-archaic-sepia-wash",
+      "name": "Archaic Sepia Wash",
+      "code": null,
+      "set": "Wave 1 — Wash",
+      "hex": "#9D7F69",
+      "rgb": {
+        "r": 157,
+        "g": 127,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-battle-mud-wash",
+      "name": "Battle Mud Wash",
+      "code": null,
+      "set": "Wave 1 — Wash",
+      "hex": "#6F5F52",
+      "rgb": {
+        "r": 111,
+        "g": 95,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-flesh-wash",
+      "name": "Flesh Wash",
+      "code": null,
+      "set": "Wave 1 — Wash",
+      "hex": "#C0A170",
+      "rgb": {
+        "r": 192,
+        "g": 161,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-necrosis-green-wash",
+      "name": "Necrosis Green Wash",
+      "code": null,
+      "set": "Wave 1 — Wash",
+      "hex": "#6C7F5B",
+      "rgb": {
+        "r": 108,
+        "g": 127,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-oblivion-black-wash",
+      "name": "Oblivion Black Wash",
+      "code": null,
+      "set": "Wave 1 — Wash",
+      "hex": "#4B4848",
+      "rgb": {
+        "r": 75,
+        "g": 72,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-orc-flesh-wash",
+      "name": "Orc Flesh Wash",
+      "code": null,
+      "set": "Wave 1 — Wash",
+      "hex": "#417E42",
+      "rgb": {
+        "r": 65,
+        "g": 126,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-abyss-blue",
+      "name": "Abyss Blue",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#334C66",
+      "rgb": {
+        "r": 51,
+        "g": 76,
+        "b": 102
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-argonaut-skin",
+      "name": "Argonaut Skin",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#A6906D",
+      "rgb": {
+        "r": 166,
+        "g": 144,
+        "b": 109
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ashen-grey",
+      "name": "Ashen Grey",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#505349",
+      "rgb": {
+        "r": 80,
+        "g": 83,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-dread-red",
+      "name": "Dread Red",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#6E4040",
+      "rgb": {
+        "r": 110,
+        "g": 64,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-druid-flesh",
+      "name": "Druid Flesh",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#533F35",
+      "rgb": {
+        "r": 83,
+        "g": 63,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-field-grey",
+      "name": "Field Grey",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#6D735E",
+      "rgb": {
+        "r": 109,
+        "g": 115,
+        "b": 94
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-fury-green",
+      "name": "Fury Green",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#6C6B4D",
+      "rgb": {
+        "r": 108,
+        "g": 107,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-gyzmo-fur",
+      "name": "Gyzmo Fur",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#D28950",
+      "rgb": {
+        "r": 210,
+        "g": 137,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-hydra-green",
+      "name": "Hydra Green",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#344C4F",
+      "rgb": {
+        "r": 52,
+        "g": 76,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-noble-steed-brown",
+      "name": "Noble Steed Brown",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#76543A",
+      "rgb": {
+        "r": 118,
+        "g": 84,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-orc-hide",
+      "name": "Orc Hide",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#7B9B6A",
+      "rgb": {
+        "r": 123,
+        "g": 155,
+        "b": 106
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-perisher-pink",
+      "name": "Perisher Pink",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#BA636A",
+      "rgb": {
+        "r": 186,
+        "g": 99,
+        "b": 106
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-sentient-turquoise",
+      "name": "Sentient Turquoise",
+      "code": null,
+      "set": "Wave 2 — Shadow",
+      "hex": "#3C83A3",
+      "rgb": {
+        "r": 60,
+        "g": 131,
+        "b": 163
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-asmodeus-red",
+      "name": "Asmodeus Red",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#8F494A",
+      "rgb": {
+        "r": 143,
+        "g": 73,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-cursed-blue",
+      "name": "Cursed Blue",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#439AB4",
+      "rgb": {
+        "r": 67,
+        "g": 154,
+        "b": 180
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-dry-rust-brown",
+      "name": "Dry Rust Brown",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#B9783F",
+      "rgb": {
+        "r": 185,
+        "g": 120,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-eidolon-grey",
+      "name": "Eidolon Grey",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#545649",
+      "rgb": {
+        "r": 84,
+        "g": 86,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-goblinoid-green",
+      "name": "Goblinoid Green",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#8AB86B",
+      "rgb": {
+        "r": 138,
+        "g": 184,
+        "b": 107
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-gung-ho-green",
+      "name": "Gung-Ho Green",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#A8A365",
+      "rgb": {
+        "r": 168,
+        "g": 163,
+        "b": 101
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-hot-pink",
+      "name": "Hot Pink",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#E285A6",
+      "rgb": {
+        "r": 226,
+        "g": 133,
+        "b": 166
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-jade-green",
+      "name": "Jade Green",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#327B67",
+      "rgb": {
+        "r": 50,
+        "g": 123,
+        "b": 103
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-kronos-flesh",
+      "name": "Kronos Flesh",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#BF9C6F",
+      "rgb": {
+        "r": 191,
+        "g": 156,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-manticore-ochre",
+      "name": "Manticore Ochre",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#D69945",
+      "rgb": {
+        "r": 214,
+        "g": 153,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-paladin-flesh",
+      "name": "Paladin Flesh",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#77584C",
+      "rgb": {
+        "r": 119,
+        "g": 88,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ranger-cloak",
+      "name": "Ranger Cloak",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#7F8452",
+      "rgb": {
+        "r": 127,
+        "g": 132,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-witching-hour-blue",
+      "name": "Witching Hour Blue",
+      "code": null,
+      "set": "Wave 2 — Midtone",
+      "hex": "#326BB3",
+      "rgb": {
+        "r": 50,
+        "g": 107,
+        "b": 179
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ares-flesh",
+      "name": "Ares Flesh",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#DEC388",
+      "rgb": {
+        "r": 222,
+        "g": 195,
+        "b": 136
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-bard-skin",
+      "name": "Bard Skin",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#967064",
+      "rgb": {
+        "r": 150,
+        "g": 112,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-cerberus-brown",
+      "name": "Cerberus Brown",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#E0AF5A",
+      "rgb": {
+        "r": 224,
+        "g": 175,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-evil-eye-red",
+      "name": "Evil Eye Red",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#C25F51",
+      "rgb": {
+        "r": 194,
+        "g": 95,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ghoul-green",
+      "name": "Ghoul Green",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#53BE98",
+      "rgb": {
+        "r": 83,
+        "g": 190,
+        "b": 152
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-green-beret",
+      "name": "Green Beret",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#ACAC87",
+      "rgb": {
+        "r": 172,
+        "g": 172,
+        "b": 135
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-kobold-grey",
+      "name": "Kobold Grey",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#878C76",
+      "rgb": {
+        "r": 135,
+        "g": 140,
+        "b": 118
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-leviathan-blue",
+      "name": "Leviathan Blue",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#3C7CC0",
+      "rgb": {
+        "r": 60,
+        "g": 124,
+        "b": 192
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-neo-pink",
+      "name": "Neo Pink",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#F3BFD8",
+      "rgb": {
+        "r": 243,
+        "g": 191,
+        "b": 216
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ray-gun-glow",
+      "name": "Ray Gun Glow",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#46B1C3",
+      "rgb": {
+        "r": 70,
+        "g": 177,
+        "b": 195
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-rodent-grey",
+      "name": "Rodent Grey",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#707265",
+      "rgb": {
+        "r": 112,
+        "g": 114,
+        "b": 101
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-satyr-brown",
+      "name": "Satyr Brown",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#D69757",
+      "rgb": {
+        "r": 214,
+        "g": 151,
+        "b": 87
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-troll-snot-green",
+      "name": "Troll Snot Green",
+      "code": null,
+      "set": "Wave 2 — Highlight",
+      "hex": "#9EC576",
+      "rgb": {
+        "r": 158,
+        "g": 197,
+        "b": 118
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-amulet-purple",
+      "name": "Amulet Purple",
+      "code": null,
+      "set": "Wave 2 — Brights",
+      "hex": "#BDADD2",
+      "rgb": {
+        "r": 189,
+        "g": 173,
+        "b": 210
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-craven-yellow",
+      "name": "Craven Yellow",
+      "code": null,
+      "set": "Wave 2 — Brights",
+      "hex": "#ECED6A",
+      "rgb": {
+        "r": 236,
+        "g": 237,
+        "b": 106
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-flaming-forge-orange",
+      "name": "Flaming Forge Orange",
+      "code": null,
+      "set": "Wave 2 — Brights",
+      "hex": "#EBA645",
+      "rgb": {
+        "r": 235,
+        "g": 166,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-gigawatt-blue",
+      "name": "Gigawatt Blue",
+      "code": null,
+      "set": "Wave 2 — Brights",
+      "hex": "#56B7E8",
+      "rgb": {
+        "r": 86,
+        "g": 183,
+        "b": 232
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-hellspawn-red",
+      "name": "Hellspawn Red",
+      "code": null,
+      "set": "Wave 2 — Brights",
+      "hex": "#BF3B2F",
+      "rgb": {
+        "r": 191,
+        "g": 59,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-talisman-green",
+      "name": "Talisman Green",
+      "code": null,
+      "set": "Wave 2 — Brights",
+      "hex": "#7AC142",
+      "rgb": {
+        "r": 122,
+        "g": 193,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-battle-axe-brass",
+      "name": "Battle Axe Brass",
+      "code": null,
+      "set": "Wave 2 — Metallic",
+      "hex": "#D6AA81",
+      "rgb": {
+        "r": 214,
+        "g": 170,
+        "b": 129
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-dwarven-iron",
+      "name": "Dwarven Iron",
+      "code": null,
+      "set": "Wave 2 — Metallic",
+      "hex": "#777873",
+      "rgb": {
+        "r": 119,
+        "g": 120,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-overlord-brass",
+      "name": "Overlord Brass",
+      "code": null,
+      "set": "Wave 2 — Metallic",
+      "hex": "#C09E77",
+      "rgb": {
+        "r": 192,
+        "g": 158,
+        "b": 119
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-platinum-crown",
+      "name": "Platinum Crown",
+      "code": null,
+      "set": "Wave 2 — Metallic",
+      "hex": "#DED1B8",
+      "rgb": {
+        "r": 222,
+        "g": 209,
+        "b": 184
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-steampunk-copper",
+      "name": "Steampunk Copper",
+      "code": null,
+      "set": "Wave 2 — Metallic",
+      "hex": "#B8653B",
+      "rgb": {
+        "r": 184,
+        "g": 101,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-top-brass",
+      "name": "Top Brass",
+      "code": null,
+      "set": "Wave 2 — Metallic",
+      "hex": "#C79D5E",
+      "rgb": {
+        "r": 199,
+        "g": 157,
+        "b": 94
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-blue-glaze",
+      "name": "Blue Glaze",
+      "code": null,
+      "set": "Wave 2 — Glaze",
+      "hex": "#8D9CCD",
+      "rgb": {
+        "r": 141,
+        "g": 156,
+        "b": 205
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-green-glaze",
+      "name": "Green Glaze",
+      "code": null,
+      "set": "Wave 2 — Glaze",
+      "hex": "#AFD694",
+      "rgb": {
+        "r": 175,
+        "g": 214,
+        "b": 148
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-orange-glaze",
+      "name": "Orange Glaze",
+      "code": null,
+      "set": "Wave 2 — Glaze",
+      "hex": "#F39245",
+      "rgb": {
+        "r": 243,
+        "g": 146,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-purple-glaze",
+      "name": "Purple Glaze",
+      "code": null,
+      "set": "Wave 2 — Glaze",
+      "hex": "#CBA3C1",
+      "rgb": {
+        "r": 203,
+        "g": 163,
+        "b": 193
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-red-glaze",
+      "name": "Red Glaze",
+      "code": null,
+      "set": "Wave 2 — Glaze",
+      "hex": "#F17F64",
+      "rgb": {
+        "r": 241,
+        "g": 127,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-yellow-glaze",
+      "name": "Yellow Glaze",
+      "code": null,
+      "set": "Wave 2 — Glaze",
+      "hex": "#F2EF6E",
+      "rgb": {
+        "r": 242,
+        "g": 239,
+        "b": 110
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-hellion-red-wash",
+      "name": "Hellion Red Wash",
+      "code": null,
+      "set": "Wave 2 — Wash",
+      "hex": "#865555",
+      "rgb": {
+        "r": 134,
+        "g": 85,
+        "b": 85
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-magi-purple-wash",
+      "name": "Magi Purple Wash",
+      "code": null,
+      "set": "Wave 2 — Wash",
+      "hex": "#553B56",
+      "rgb": {
+        "r": 85,
+        "g": 59,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-tempest-blue-wash",
+      "name": "Tempest Blue Wash",
+      "code": null,
+      "set": "Wave 2 — Wash",
+      "hex": "#3E5163",
+      "rgb": {
+        "r": 62,
+        "g": 81,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-apocalypse-sky",
+      "name": "Apocalypse Sky",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#E74E42",
+      "rgb": {
+        "r": 231,
+        "g": 78,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-carapace-green",
+      "name": "Carapace Green",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#4A7F50",
+      "rgb": {
+        "r": 74,
+        "g": 127,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-emperor-s-purple",
+      "name": "Emperor's Purple",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#6C5877",
+      "rgb": {
+        "r": 108,
+        "g": 88,
+        "b": 119
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-enchantment-blue",
+      "name": "Enchantment Blue",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#3C6A8A",
+      "rgb": {
+        "r": 60,
+        "g": 106,
+        "b": 138
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-fire-opal",
+      "name": "Fire Opal",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#9C6047",
+      "rgb": {
+        "r": 156,
+        "g": 96,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-inferno-orange",
+      "name": "Inferno Orange",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#D14A33",
+      "rgb": {
+        "r": 209,
+        "g": 74,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-omega-blue",
+      "name": "Omega Blue",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#549795",
+      "rgb": {
+        "r": 84,
+        "g": 151,
+        "b": 149
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-red-rage",
+      "name": "Red Rage",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#6B362C",
+      "rgb": {
+        "r": 107,
+        "g": 54,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-scarab-red",
+      "name": "Scarab Red",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#954142",
+      "rgb": {
+        "r": 149,
+        "g": 65,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-septic-green",
+      "name": "Septic Green",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#AFB33B",
+      "rgb": {
+        "r": 175,
+        "g": 179,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ancient-gold",
+      "name": "Ancient Gold",
+      "code": null,
+      "set": "Wave 3 — Metallic",
+      "hex": "#675A3F",
+      "rgb": {
+        "r": 103,
+        "g": 90,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-bits-o-tin",
+      "name": "Bits O'Tin",
+      "code": null,
+      "set": "Wave 3 — Metallic",
+      "hex": "#806F63",
+      "rgb": {
+        "r": 128,
+        "g": 111,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-blue-steel",
+      "name": "Blue Steel",
+      "code": null,
+      "set": "Wave 3 — Metallic",
+      "hex": "#6D7875",
+      "rgb": {
+        "r": 109,
+        "g": 120,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-chaos-bronze",
+      "name": "Chaos Bronze",
+      "code": null,
+      "set": "Wave 3 — Metallic",
+      "hex": "#8F7963",
+      "rgb": {
+        "r": 143,
+        "g": 121,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-doom-metal",
+      "name": "Doom Metal",
+      "code": null,
+      "set": "Wave 3 — Metallic",
+      "hex": "#5C5850",
+      "rgb": {
+        "r": 92,
+        "g": 88,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-heirloom-gold",
+      "name": "Heirloom Gold",
+      "code": null,
+      "set": "Wave 3 — Metallic",
+      "hex": "#9F8351",
+      "rgb": {
+        "r": 159,
+        "g": 131,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-aztec-turquoise-wash",
+      "name": "Aztec Turquoise Wash",
+      "code": null,
+      "set": "Wave 3 — Wash",
+      "hex": "#9EA7A7",
+      "rgb": {
+        "r": 158,
+        "g": 167,
+        "b": 167
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-bone-wash",
+      "name": "Bone Wash",
+      "code": null,
+      "set": "Wave 3 — Wash",
+      "hex": "#CDC0BB",
+      "rgb": {
+        "r": 205,
+        "g": 192,
+        "b": 187
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-hazard-yellow-wash",
+      "name": "Hazard Yellow Wash",
+      "code": null,
+      "set": "Wave 3 — Wash",
+      "hex": "#EDD2C4",
+      "rgb": {
+        "r": 237,
+        "g": 210,
+        "b": 196
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-smoke-grey-wash",
+      "name": "Smoke Grey Wash",
+      "code": null,
+      "set": "Wave 3 — Wash",
+      "hex": "#ECEAE6",
+      "rgb": {
+        "r": 236,
+        "g": 234,
+        "b": 230
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-gloss-varnish",
+      "name": "Gloss Varnish",
+      "code": null,
+      "set": "Wave 3 — Varnish",
+      "hex": "#A09C9D",
+      "rgb": {
+        "r": 160,
+        "g": 156,
+        "b": 157
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-satin-varnish",
+      "name": "Satin Varnish",
+      "code": null,
+      "set": "Wave 3 — Varnish",
+      "hex": "#C8C5C6",
+      "rgb": {
+        "r": 200,
+        "g": 197,
+        "b": 198
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ambush-yellow",
+      "name": "Ambush Yellow",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#E5CC75",
+      "rgb": {
+        "r": 229,
+        "g": 204,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-amphora-red",
+      "name": "Amphora Red",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#492127",
+      "rgb": {
+        "r": 73,
+        "g": 33,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-antiquity-green",
+      "name": "Antiquity Green",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#30807C",
+      "rgb": {
+        "r": 48,
+        "g": 128,
+        "b": 124
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-boot-strap-brown",
+      "name": "Boot Strap Brown",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#855E44",
+      "rgb": {
+        "r": 133,
+        "g": 94,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-centurion-red",
+      "name": "Centurion Red",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#EA3232",
+      "rgb": {
+        "r": 234,
+        "g": 50,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-contagion-green",
+      "name": "Contagion Green",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#91A180",
+      "rgb": {
+        "r": 145,
+        "g": 161,
+        "b": 128
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-cyber-pink",
+      "name": "Cyber Pink",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#C64D8A",
+      "rgb": {
+        "r": 198,
+        "g": 77,
+        "b": 138
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-decadent-purple",
+      "name": "Decadent Purple",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#C4C0D6",
+      "rgb": {
+        "r": 196,
+        "g": 192,
+        "b": 214
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-eldar-robe",
+      "name": "Eldar Robe",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#1E5BA4",
+      "rgb": {
+        "r": 30,
+        "g": 91,
+        "b": 164
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-elixir-green",
+      "name": "Elixir Green",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#7CC790",
+      "rgb": {
+        "r": 124,
+        "g": 199,
+        "b": 144
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-emperor-red",
+      "name": "Emperor Red",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#A03042",
+      "rgb": {
+        "r": 160,
+        "g": 48,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-enchantress-purple",
+      "name": "Enchantress Purple",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#5B3564",
+      "rgb": {
+        "r": 91,
+        "g": 53,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-enticing-purple",
+      "name": "Enticing Purple",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#837C8E",
+      "rgb": {
+        "r": 131,
+        "g": 124,
+        "b": 142
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-faust-blue",
+      "name": "Faust Blue",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#48525C",
+      "rgb": {
+        "r": 72,
+        "g": 82,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-flak-gun-yellow",
+      "name": "Flak Gun Yellow",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#C8AC5C",
+      "rgb": {
+        "r": 200,
+        "g": 172,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-frost-blue",
+      "name": "Frost Blue",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#7A979F",
+      "rgb": {
+        "r": 122,
+        "g": 151,
+        "b": 159
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-incubus-purple",
+      "name": "Incubus Purple",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#6D6A6F",
+      "rgb": {
+        "r": 109,
+        "g": 106,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-ion-blue",
+      "name": "Ion Blue",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#B9D8DB",
+      "rgb": {
+        "r": 185,
+        "g": 216,
+        "b": 219
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-legion-green",
+      "name": "Legion Green",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#276D67",
+      "rgb": {
+        "r": 39,
+        "g": 109,
+        "b": 103
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-mythic-turquoise",
+      "name": "Mythic Turquoise",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#589F9E",
+      "rgb": {
+        "r": 88,
+        "g": 159,
+        "b": 158
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-oxidation-green",
+      "name": "Oxidation Green",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#33444E",
+      "rgb": {
+        "r": 51,
+        "g": 68,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-pale-skin",
+      "name": "Pale Skin",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#CBAD7B",
+      "rgb": {
+        "r": 203,
+        "g": 173,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-panzer-yellow",
+      "name": "Panzer Yellow",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#A68F42",
+      "rgb": {
+        "r": 166,
+        "g": 143,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-pestilence-green",
+      "name": "Pestilence Green",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#D6E298",
+      "rgb": {
+        "r": 214,
+        "g": 226,
+        "b": 152
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-relic-blue",
+      "name": "Relic Blue",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#2481BF",
+      "rgb": {
+        "r": 36,
+        "g": 129,
+        "b": 191
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-scabbard-brown",
+      "name": "Scabbard Brown",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#7D5F49",
+      "rgb": {
+        "r": 125,
+        "g": 95,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-seafarer-blue",
+      "name": "Seafarer Blue",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#4A9DCC",
+      "rgb": {
+        "r": 74,
+        "g": 157,
+        "b": 204
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-serpent-eye-yellow",
+      "name": "Serpent Eye Yellow",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#F5D310",
+      "rgb": {
+        "r": 245,
+        "g": 211,
+        "b": 16
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-shadow-blue",
+      "name": "Shadow Blue",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#51646E",
+      "rgb": {
+        "r": 81,
+        "g": 100,
+        "b": 110
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-solar-flare",
+      "name": "Solar Flare",
+      "code": null,
+      "set": "Wave 3 — Brights",
+      "hex": "#F18122",
+      "rgb": {
+        "r": 241,
+        "g": 129,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-spectral-purple",
+      "name": "Spectral Purple",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#9C5B9C",
+      "rgb": {
+        "r": 156,
+        "g": 91,
+        "b": 156
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-sun-bleach-yellow",
+      "name": "Sun Bleach Yellow",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#F6E754",
+      "rgb": {
+        "r": 246,
+        "g": 231,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-traitor-green",
+      "name": "Traitor Green",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#2E524F",
+      "rgb": {
+        "r": 46,
+        "g": 82,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-twin-suns-yellow",
+      "name": "Twin Suns Yellow",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#E6E8AE",
+      "rgb": {
+        "r": 230,
+        "g": 232,
+        "b": 174
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-vambrace-brown",
+      "name": "Vambrace Brown",
+      "code": null,
+      "set": "Wave 3 — Highlight",
+      "hex": "#9E745D",
+      "rgb": {
+        "r": 158,
+        "g": 116,
+        "b": 93
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-von-evile-purple",
+      "name": "Von Evile Purple",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#22102D",
+      "rgb": {
+        "r": 34,
+        "g": 16,
+        "b": 45
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-war-master-green",
+      "name": "War Master Green",
+      "code": null,
+      "set": "Wave 3 — Shadow",
+      "hex": "#384143",
+      "rgb": {
+        "r": 56,
+        "g": 65,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    },
+    {
+      "id": "duncan-zombie-rot",
+      "name": "Zombie Rot",
+      "code": null,
+      "set": "Wave 3 — Midtone",
+      "hex": "#B5B87B",
+      "rgb": {
+        "r": 181,
+        "g": 184,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": [
+        {
+          "raw": "15ml",
+          "value": 15,
+          "unit": "ml"
+        }
+      ],
+      "description": null
+    }
+  ]
+}

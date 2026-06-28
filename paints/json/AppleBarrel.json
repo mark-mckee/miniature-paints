@@ -1,0 +1,3215 @@
+{
+  "$schema": "../../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
+  "displayName": "Apple Barrel",
+  "company": "Plaid Enterprises, Inc.",
+  "address": {
+    "street": "3225 Westech Drive",
+    "city": "Norcross",
+    "postcode": "30092",
+    "country": "USA"
+  },
+  "contactEmail": "generalcs@plaidonline.com",
+  "contactForm": "",
+  "website": "https://plaidonline.com",
+  "phone": "(800) 842-4197",
+  "updatedCatalogueRequested": "",
+  "paintCount": 213,
+  "paints": [
+    {
+      "id": "applebarrel-21972e",
+      "name": "Acapulco",
+      "code": "21972E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#68AAA8",
+      "rgb": {
+        "r": 104,
+        "g": 170,
+        "b": 168
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21484",
+      "name": "Admiral Blue",
+      "code": "21484",
+      "set": "Colors",
+      "hex": "#393C5F",
+      "rgb": {
+        "r": 57,
+        "g": 60,
+        "b": 95
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21463",
+      "name": "Antique Parchment",
+      "code": "21463",
+      "set": "Colors",
+      "hex": "#DAD3B7",
+      "rgb": {
+        "r": 218,
+        "g": 211,
+        "b": 183
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20505",
+      "name": "Antique White",
+      "code": "20505",
+      "set": "Colors",
+      "hex": "#BFB399",
+      "rgb": {
+        "r": 191,
+        "g": 179,
+        "b": 153
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20764",
+      "name": "Apricot",
+      "code": "20764",
+      "set": "Colors",
+      "hex": "#CD6B22",
+      "rgb": {
+        "r": 205,
+        "g": 107,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-99262e",
+      "name": "Aqua Sky",
+      "code": "99262E",
+      "set": "Colors",
+      "hex": "#DEDDE5",
+      "rgb": {
+        "r": 222,
+        "g": 221,
+        "b": 229
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20774",
+      "name": "Aquamarine",
+      "code": "20774",
+      "set": "Colors",
+      "hex": "#DEE3E9",
+      "rgb": {
+        "r": 222,
+        "g": 227,
+        "b": 233
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21386",
+      "name": "Arbor Green",
+      "code": "21386",
+      "set": "Colors",
+      "hex": "#043A27",
+      "rgb": {
+        "r": 4,
+        "g": 58,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21971e",
+      "name": "Atlantis",
+      "code": "21971E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#0291A1",
+      "rgb": {
+        "r": 2,
+        "g": 145,
+        "b": 161
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21892",
+      "name": "Award Blue",
+      "code": "21892",
+      "set": "Colors",
+      "hex": "#1F435B",
+      "rgb": {
+        "r": 31,
+        "g": 67,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21397",
+      "name": "Bahama Blue",
+      "code": "21397",
+      "set": "Gloss™",
+      "hex": "#497F7F",
+      "rgb": {
+        "r": 73,
+        "g": 127,
+        "b": 127
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20219",
+      "name": "Banana",
+      "code": "20219",
+      "set": "Colors",
+      "hex": "#E4B81E",
+      "rgb": {
+        "r": 228,
+        "g": 184,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20577",
+      "name": "Barn Red",
+      "code": "20577",
+      "set": "Colors",
+      "hex": "#5C1B15",
+      "rgb": {
+        "r": 92,
+        "g": 27,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20663",
+      "name": "Beachcomber Beige",
+      "code": "20663",
+      "set": "Gloss™",
+      "hex": "#AA9B84",
+      "rgb": {
+        "r": 170,
+        "g": 155,
+        "b": 132
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-4471e",
+      "name": "Beige",
+      "code": "4471E",
+      "set": "Colors",
+      "hex": "#B09A82",
+      "rgb": {
+        "r": 176,
+        "g": 154,
+        "b": 130
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20525",
+      "name": "Berry Red",
+      "code": "20525",
+      "set": "Colors",
+      "hex": "#8D152E",
+      "rgb": {
+        "r": 141,
+        "g": 21,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21482",
+      "name": "Bimini Blue",
+      "code": "21482",
+      "set": "Colors",
+      "hex": "#6BA6B4",
+      "rgb": {
+        "r": 107,
+        "g": 166,
+        "b": 180
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21985e",
+      "name": "Black",
+      "code": "21985E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#1D2333",
+      "rgb": {
+        "r": 29,
+        "g": 35,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20662",
+      "name": "Black",
+      "code": "20662",
+      "set": "Gloss™",
+      "hex": "#0A0907",
+      "rgb": {
+        "r": 10,
+        "g": 9,
+        "b": 7
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20504",
+      "name": "Black",
+      "code": "20504",
+      "set": "Colors",
+      "hex": "#010101",
+      "rgb": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21485",
+      "name": "Blue Bonnet",
+      "code": "21485",
+      "set": "Colors",
+      "hex": "#6289B2",
+      "rgb": {
+        "r": 98,
+        "g": 137,
+        "b": 178
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-23892e",
+      "name": "Blue Charm",
+      "code": "23892E",
+      "set": "Gloss™",
+      "hex": "#114F7E",
+      "rgb": {
+        "r": 17,
+        "g": 79,
+        "b": 126
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21886",
+      "name": "Blue Cotton",
+      "code": "21886",
+      "set": "Colors",
+      "hex": "#8ABCD7",
+      "rgb": {
+        "r": 138,
+        "g": 188,
+        "b": 215
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-99263e",
+      "name": "Blue Kazoo",
+      "code": "99263E",
+      "set": "Colors",
+      "hex": "#91B8D9",
+      "rgb": {
+        "r": 145,
+        "g": 184,
+        "b": 217
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-99264e",
+      "name": "Blueberry Frost",
+      "code": "99264E",
+      "set": "Colors",
+      "hex": "#5F74A3",
+      "rgb": {
+        "r": 95,
+        "g": 116,
+        "b": 163
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20225",
+      "name": "Bright Blue",
+      "code": "20225",
+      "set": "Colors",
+      "hex": "#A6D2EF",
+      "rgb": {
+        "r": 166,
+        "g": 210,
+        "b": 239
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20361",
+      "name": "Bright Green",
+      "code": "20361",
+      "set": "Gloss™",
+      "hex": "#C2CDBF",
+      "rgb": {
+        "r": 194,
+        "g": 205,
+        "b": 191
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20591",
+      "name": "Bright Magenta",
+      "code": "20591",
+      "set": "Colors",
+      "hex": "#84165F",
+      "rgb": {
+        "r": 132,
+        "g": 22,
+        "b": 95
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20501",
+      "name": "Bright Red",
+      "code": "20501",
+      "set": "Colors",
+      "hex": "#7F0222",
+      "rgb": {
+        "r": 127,
+        "g": 2,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20513",
+      "name": "Bright Yellow",
+      "code": "20513",
+      "set": "Colors",
+      "hex": "#D0B200",
+      "rgb": {
+        "r": 208,
+        "g": 178,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20511",
+      "name": "Brown Oxide",
+      "code": "20511",
+      "set": "Colors",
+      "hex": "#766259",
+      "rgb": {
+        "r": 118,
+        "g": 98,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20512",
+      "name": "Burnt Umber",
+      "code": "20512",
+      "set": "Colors",
+      "hex": "#4A423F",
+      "rgb": {
+        "r": 74,
+        "g": 66,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21464",
+      "name": "Cameo Pink",
+      "code": "21464",
+      "set": "Colors",
+      "hex": "#C2A4A6",
+      "rgb": {
+        "r": 194,
+        "g": 164,
+        "b": 166
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21344",
+      "name": "Camouflage",
+      "code": "21344",
+      "set": "Colors",
+      "hex": "#1B1B19",
+      "rgb": {
+        "r": 27,
+        "g": 27,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20586",
+      "name": "Canary Yellow",
+      "code": "20586",
+      "set": "Colors",
+      "hex": "#ECC71D",
+      "rgb": {
+        "r": 236,
+        "g": 199,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21958e",
+      "name": "Candy Apple",
+      "code": "21958E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#A50819",
+      "rgb": {
+        "r": 165,
+        "g": 8,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21465",
+      "name": "Candy Pink",
+      "code": "21465",
+      "set": "Colors",
+      "hex": "#C86B86",
+      "rgb": {
+        "r": 200,
+        "g": 107,
+        "b": 134
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20590",
+      "name": "Cardinal Crimson",
+      "code": "20590",
+      "set": "Colors",
+      "hex": "#9D0210",
+      "rgb": {
+        "r": 157,
+        "g": 2,
+        "b": 16
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20247",
+      "name": "Caribbean",
+      "code": "20247",
+      "set": "Colors",
+      "hex": "#68B6B6",
+      "rgb": {
+        "r": 104,
+        "g": 182,
+        "b": 182
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21342",
+      "name": "Caterpillar",
+      "code": "21342",
+      "set": "Colors",
+      "hex": "#546B37",
+      "rgb": {
+        "r": 84,
+        "g": 107,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21391",
+      "name": "Chestnut",
+      "code": "21391",
+      "set": "Colors",
+      "hex": "#A28982",
+      "rgb": {
+        "r": 162,
+        "g": 137,
+        "b": 130
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21483",
+      "name": "China Blue",
+      "code": "21483",
+      "set": "Colors",
+      "hex": "#A5B8BE",
+      "rgb": {
+        "r": 165,
+        "g": 184,
+        "b": 190
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20578",
+      "name": "Chocolate Bar",
+      "code": "20578",
+      "set": "Colors",
+      "hex": "#342220",
+      "rgb": {
+        "r": 52,
+        "g": 34,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21982e",
+      "name": "Chocolate Sprinkle",
+      "code": "21982E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#50434C",
+      "rgb": {
+        "r": 80,
+        "g": 67,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20529",
+      "name": "Christmas Green",
+      "code": "20529",
+      "set": "Colors",
+      "hex": "#214A2C",
+      "rgb": {
+        "r": 33,
+        "g": 74,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21981e",
+      "name": "Classic Caramel",
+      "code": "21981E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#B0895E",
+      "rgb": {
+        "r": 176,
+        "g": 137,
+        "b": 94
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20741",
+      "name": "Cloudless",
+      "code": "20741",
+      "set": "Colors",
+      "hex": "#96BEC0",
+      "rgb": {
+        "r": 150,
+        "g": 190,
+        "b": 192
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20596",
+      "name": "Cobalt Hue",
+      "code": "20596",
+      "set": "Colors",
+      "hex": "#02307D",
+      "rgb": {
+        "r": 2,
+        "g": 48,
+        "b": 125
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21362",
+      "name": "Cobalt Hue",
+      "code": "21362",
+      "set": "Gloss™",
+      "hex": "#4A5897",
+      "rgb": {
+        "r": 74,
+        "g": 88,
+        "b": 151
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20666",
+      "name": "Coffee Bean",
+      "code": "20666",
+      "set": "Gloss™",
+      "hex": "#2F1E16",
+      "rgb": {
+        "r": 47,
+        "g": 30,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20595",
+      "name": "Concord Grape",
+      "code": "20595",
+      "set": "Colors",
+      "hex": "#303183",
+      "rgb": {
+        "r": 48,
+        "g": 49,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20255",
+      "name": "Cool Blue",
+      "code": "20255",
+      "set": "Colors",
+      "hex": "#64B3DC",
+      "rgb": {
+        "r": 100,
+        "g": 179,
+        "b": 220
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20526",
+      "name": "Country Grey",
+      "code": "20526",
+      "set": "Colors",
+      "hex": "#DFE0E5",
+      "rgb": {
+        "r": 223,
+        "g": 224,
+        "b": 229
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21380",
+      "name": "Cranberry",
+      "code": "21380",
+      "set": "Colors",
+      "hex": "#730123",
+      "rgb": {
+        "r": 115,
+        "g": 1,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21890",
+      "name": "Crisp Green",
+      "code": "21890",
+      "set": "Colors",
+      "hex": "#59904D",
+      "rgb": {
+        "r": 89,
+        "g": 144,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20265e",
+      "name": "Crushed Curry",
+      "code": "20265E",
+      "set": "Gloss™",
+      "hex": "#BB6C0D",
+      "rgb": {
+        "r": 187,
+        "g": 108,
+        "b": 13
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20646",
+      "name": "Dandelion Yellow",
+      "code": "20646",
+      "set": "Gloss™",
+      "hex": "#E2B42A",
+      "rgb": {
+        "r": 226,
+        "g": 180,
+        "b": 42
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21984e",
+      "name": "Dark Granite",
+      "code": "21984E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#343D4E",
+      "rgb": {
+        "r": 52,
+        "g": 61,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20366",
+      "name": "Dark Gray",
+      "code": "20366",
+      "set": "Gloss™",
+      "hex": "#464742",
+      "rgb": {
+        "r": 70,
+        "g": 71,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21976e",
+      "name": "Deep Navy",
+      "code": "21976E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#263755",
+      "rgb": {
+        "r": 38,
+        "g": 55,
+        "b": 85
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20625",
+      "name": "Deep Purple",
+      "code": "20625",
+      "set": "Gloss™",
+      "hex": "#1B295A",
+      "rgb": {
+        "r": 27,
+        "g": 41,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21354",
+      "name": "Denim Blue",
+      "code": "21354",
+      "set": "Colors",
+      "hex": "#465363",
+      "rgb": {
+        "r": 70,
+        "g": 83,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20254",
+      "name": "Diva Pink",
+      "code": "20254",
+      "set": "Colors",
+      "hex": "#C35789",
+      "rgb": {
+        "r": 195,
+        "g": 87,
+        "b": 137
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20624",
+      "name": "Dolphin Grey",
+      "code": "20624",
+      "set": "Gloss™",
+      "hex": "#A5A59B",
+      "rgb": {
+        "r": 165,
+        "g": 165,
+        "b": 155
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21974e",
+      "name": "Electric Blue",
+      "code": "21974E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#018AD2",
+      "rgb": {
+        "r": 1,
+        "g": 138,
+        "b": 210
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-4470e",
+      "name": "Elephant Gray",
+      "code": "4470E",
+      "set": "Colors",
+      "hex": "#D8DBE2",
+      "rgb": {
+        "r": 216,
+        "g": 219,
+        "b": 226
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20756",
+      "name": "English Ivy Green",
+      "code": "20756",
+      "set": "Colors",
+      "hex": "#414932",
+      "rgb": {
+        "r": 65,
+        "g": 73,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20773",
+      "name": "English Navy",
+      "code": "20773",
+      "set": "Colors",
+      "hex": "#191F2B",
+      "rgb": {
+        "r": 25,
+        "g": 31,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21469",
+      "name": "Flag Red",
+      "code": "21469",
+      "set": "Colors",
+      "hex": "#800001",
+      "rgb": {
+        "r": 128,
+        "g": 0,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21468",
+      "name": "Flamenco Red",
+      "code": "21468",
+      "set": "Colors",
+      "hex": "#590F20",
+      "rgb": {
+        "r": 89,
+        "g": 15,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-99259e",
+      "name": "Flamingo Coral",
+      "code": "99259E",
+      "set": "Colors",
+      "hex": "#F6DDE1",
+      "rgb": {
+        "r": 246,
+        "g": 221,
+        "b": 225
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21393e",
+      "name": "Fruit Punch",
+      "code": "21393E",
+      "set": "Gloss™",
+      "hex": "#B90043",
+      "rgb": {
+        "r": 185,
+        "g": 0,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20216",
+      "name": "Fuchsia",
+      "code": "20216",
+      "set": "Colors",
+      "hex": "#98306F",
+      "rgb": {
+        "r": 152,
+        "g": 48,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21186",
+      "name": "Golden Sunset",
+      "code": "21186",
+      "set": "Colors",
+      "hex": "#9F7426",
+      "rgb": {
+        "r": 159,
+        "g": 116,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21395",
+      "name": "Golden Yellow",
+      "code": "21395",
+      "set": "Gloss™",
+      "hex": "#ECA900",
+      "rgb": {
+        "r": 236,
+        "g": 169,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21966e",
+      "name": "Golden Yellow",
+      "code": "21966E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#EBA825",
+      "rgb": {
+        "r": 235,
+        "g": 168,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21392",
+      "name": "Granite Gray",
+      "code": "21392",
+      "set": "Colors",
+      "hex": "#868F8A",
+      "rgb": {
+        "r": 134,
+        "g": 143,
+        "b": 138
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20288e",
+      "name": "Grape Freeze",
+      "code": "20288E",
+      "set": "Gloss™",
+      "hex": "#722688",
+      "rgb": {
+        "r": 114,
+        "g": 38,
+        "b": 136
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21176",
+      "name": "Grape Jam",
+      "code": "21176",
+      "set": "Colors",
+      "hex": "#A848AA",
+      "rgb": {
+        "r": 168,
+        "g": 72,
+        "b": 170
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20598",
+      "name": "Green Clover",
+      "code": "20598",
+      "set": "Colors",
+      "hex": "#0B7352",
+      "rgb": {
+        "r": 11,
+        "g": 115,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-4469e",
+      "name": "Green Machine",
+      "code": "4469E",
+      "set": "Colors",
+      "hex": "#30643E",
+      "rgb": {
+        "r": 48,
+        "g": 100,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20589",
+      "name": "Harvest Orange",
+      "code": "20589",
+      "set": "Colors",
+      "hex": "#AA4322",
+      "rgb": {
+        "r": 170,
+        "g": 67,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21478",
+      "name": "Holly Branch",
+      "code": "21478",
+      "set": "Colors",
+      "hex": "#0A380A",
+      "rgb": {
+        "r": 10,
+        "g": 56,
+        "b": 10
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21466",
+      "name": "Honeysuckle Pink",
+      "code": "21466",
+      "set": "Colors",
+      "hex": "#A73847",
+      "rgb": {
+        "r": 167,
+        "g": 56,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20264e",
+      "name": "Hot Ember",
+      "code": "20264E",
+      "set": "Gloss™",
+      "hex": "#922D25",
+      "rgb": {
+        "r": 146,
+        "g": 45,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20637",
+      "name": "Hot Rod Red",
+      "code": "20637",
+      "set": "Gloss™",
+      "hex": "#750418",
+      "rgb": {
+        "r": 117,
+        "g": 4,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20754",
+      "name": "Hunter Green",
+      "code": "20754",
+      "set": "Colors",
+      "hex": "#555F54",
+      "rgb": {
+        "r": 85,
+        "g": 95,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-k20516",
+      "name": "Ivory",
+      "code": "K20516",
+      "set": "Colors",
+      "hex": "#B8AB7E",
+      "rgb": {
+        "r": 184,
+        "g": 171,
+        "b": 126
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21472",
+      "name": "Jack-O-Lantern",
+      "code": "21472",
+      "set": "Colors",
+      "hex": "#B85923",
+      "rgb": {
+        "r": 184,
+        "g": 89,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21885",
+      "name": "Jet Black",
+      "code": "21885",
+      "set": "Colors",
+      "hex": "#0A0907",
+      "rgb": {
+        "r": 10,
+        "g": 9,
+        "b": 7
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20523",
+      "name": "Kelly Green",
+      "code": "20523",
+      "set": "Colors",
+      "hex": "#295D2C",
+      "rgb": {
+        "r": 41,
+        "g": 93,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21481",
+      "name": "Key West",
+      "code": "21481",
+      "set": "Colors",
+      "hex": "#80B9AA",
+      "rgb": {
+        "r": 128,
+        "g": 185,
+        "b": 170
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21390",
+      "name": "Khaki",
+      "code": "21390",
+      "set": "Colors",
+      "hex": "#AF9F7D",
+      "rgb": {
+        "r": 175,
+        "g": 159,
+        "b": 125
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20760",
+      "name": "King’s Gold",
+      "code": "20760",
+      "set": "Colors",
+      "hex": "#EAB148",
+      "rgb": {
+        "r": 234,
+        "g": 177,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20221",
+      "name": "Kiwi",
+      "code": "20221",
+      "set": "Colors",
+      "hex": "#98A23F",
+      "rgb": {
+        "r": 152,
+        "g": 162,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20562",
+      "name": "Laguna",
+      "code": "20562",
+      "set": "Colors",
+      "hex": "#40817D",
+      "rgb": {
+        "r": 64,
+        "g": 129,
+        "b": 125
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20520",
+      "name": "Lavender",
+      "code": "20520",
+      "set": "Colors",
+      "hex": "#927D8C",
+      "rgb": {
+        "r": 146,
+        "g": 125,
+        "b": 140
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21893",
+      "name": "Lavender Sachet",
+      "code": "21893",
+      "set": "Colors",
+      "hex": "#928195",
+      "rgb": {
+        "r": 146,
+        "g": 129,
+        "b": 149
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20528",
+      "name": "Leaf Green",
+      "code": "20528",
+      "set": "Colors",
+      "hex": "#A2B297",
+      "rgb": {
+        "r": 162,
+        "g": 178,
+        "b": 151
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21964e",
+      "name": "Lemon",
+      "code": "21964E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#E8C02D",
+      "rgb": {
+        "r": 232,
+        "g": 192,
+        "b": 45
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20584",
+      "name": "Lemon Chiffon",
+      "code": "20584",
+      "set": "Colors",
+      "hex": "#BDAF6E",
+      "rgb": {
+        "r": 189,
+        "g": 175,
+        "b": 110
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20364",
+      "name": "Light Blue",
+      "code": "20364",
+      "set": "Gloss™",
+      "hex": "#8AAFBC",
+      "rgb": {
+        "r": 138,
+        "g": 175,
+        "b": 188
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20211",
+      "name": "Light Leaf Green",
+      "code": "20211",
+      "set": "Colors",
+      "hex": "#99A16E",
+      "rgb": {
+        "r": 153,
+        "g": 161,
+        "b": 110
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-44844e",
+      "name": "Light Pink",
+      "code": "44844E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#DBC8CA",
+      "rgb": {
+        "r": 219,
+        "g": 200,
+        "b": 202
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20535",
+      "name": "Light Pink",
+      "code": "20535",
+      "set": "Colors",
+      "hex": "#432122",
+      "rgb": {
+        "r": 67,
+        "g": 33,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20360",
+      "name": "Light Yellow",
+      "code": "20360",
+      "set": "Gloss™",
+      "hex": "#CCB845",
+      "rgb": {
+        "r": 204,
+        "g": 184,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-44845e",
+      "name": "Light Yellow",
+      "code": "44845E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#EBCE4C",
+      "rgb": {
+        "r": 235,
+        "g": 206,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20559",
+      "name": "Lilac Dust",
+      "code": "20559",
+      "set": "Colors",
+      "hex": "#807583",
+      "rgb": {
+        "r": 128,
+        "g": 117,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21388",
+      "name": "Lilac Mist",
+      "code": "21388",
+      "set": "Colors",
+      "hex": "#7E73AB",
+      "rgb": {
+        "r": 126,
+        "g": 115,
+        "b": 171
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21480",
+      "name": "Lime Sherbert",
+      "code": "21480",
+      "set": "Colors",
+      "hex": "#9BB459",
+      "rgb": {
+        "r": 155,
+        "g": 180,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21476",
+      "name": "Lime Tree",
+      "code": "21476",
+      "set": "Colors",
+      "hex": "#9EB10A",
+      "rgb": {
+        "r": 158,
+        "g": 177,
+        "b": 10
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20253",
+      "name": "Limeade",
+      "code": "20253",
+      "set": "Colors",
+      "hex": "#809320",
+      "rgb": {
+        "r": 128,
+        "g": 147,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21489",
+      "name": "Lite Mocha",
+      "code": "21489",
+      "set": "Colors",
+      "hex": "#CCB39D",
+      "rgb": {
+        "r": 204,
+        "g": 179,
+        "b": 157
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20218",
+      "name": "Mango",
+      "code": "20218",
+      "set": "Colors",
+      "hex": "#B26946",
+      "rgb": {
+        "r": 178,
+        "g": 105,
+        "b": 70
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21891",
+      "name": "Marsh Green",
+      "code": "21891",
+      "set": "Colors",
+      "hex": "#154C2F",
+      "rgb": {
+        "r": 21,
+        "g": 76,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20757",
+      "name": "Meadow Green",
+      "code": "20757",
+      "set": "Colors",
+      "hex": "#0F3A04",
+      "rgb": {
+        "r": 15,
+        "g": 58,
+        "b": 4
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20258",
+      "name": "Melted Chocolate",
+      "code": "20258",
+      "set": "Colors",
+      "hex": "#291E18",
+      "rgb": {
+        "r": 41,
+        "g": 30,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-44848e",
+      "name": "Milk Chocolate",
+      "code": "44848E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#4F3220",
+      "rgb": {
+        "r": 79,
+        "g": 50,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20286e",
+      "name": "Mint Crush",
+      "code": "20286E",
+      "set": "Gloss™",
+      "hex": "#57AFA1",
+      "rgb": {
+        "r": 87,
+        "g": 175,
+        "b": 161
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20782",
+      "name": "Misty White",
+      "code": "20782",
+      "set": "Colors",
+      "hex": "#716F72",
+      "rgb": {
+        "r": 113,
+        "g": 111,
+        "b": 114
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20287e",
+      "name": "Moody Blue",
+      "code": "20287E",
+      "set": "Gloss™",
+      "hex": "#27688E",
+      "rgb": {
+        "r": 39,
+        "g": 104,
+        "b": 142
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20648",
+      "name": "Mossy Green",
+      "code": "20648",
+      "set": "Gloss™",
+      "hex": "#3A3C24",
+      "rgb": {
+        "r": 58,
+        "g": 60,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21353",
+      "name": "Mountain Blue",
+      "code": "21353",
+      "set": "Colors",
+      "hex": "#DEDCDF",
+      "rgb": {
+        "r": 222,
+        "g": 220,
+        "b": 223
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21970e",
+      "name": "Mountain Forest",
+      "code": "21970E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#2D5241",
+      "rgb": {
+        "r": 45,
+        "g": 82,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21960e",
+      "name": "Nectarine",
+      "code": "21960E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#FF9C3E",
+      "rgb": {
+        "r": 255,
+        "g": 156,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20492",
+      "name": "Neon Blue",
+      "code": "20492",
+      "set": "Colors",
+      "hex": "#385575",
+      "rgb": {
+        "r": 56,
+        "g": 85,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20491",
+      "name": "Neon Green",
+      "code": "20491",
+      "set": "Colors",
+      "hex": "#569D3D",
+      "rgb": {
+        "r": 86,
+        "g": 157,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20489",
+      "name": "Neon Orange",
+      "code": "20489",
+      "set": "Colors",
+      "hex": "#F69D3F",
+      "rgb": {
+        "r": 246,
+        "g": 157,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20487",
+      "name": "Neon Pink",
+      "code": "20487",
+      "set": "Colors",
+      "hex": "#E63E8B",
+      "rgb": {
+        "r": 230,
+        "g": 62,
+        "b": 139
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20493",
+      "name": "Neon Purple",
+      "code": "20493",
+      "set": "Colors",
+      "hex": "#7C437A",
+      "rgb": {
+        "r": 124,
+        "g": 67,
+        "b": 122
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20488",
+      "name": "Neon Red",
+      "code": "20488",
+      "set": "Colors",
+      "hex": "#CB5673",
+      "rgb": {
+        "r": 203,
+        "g": 86,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20490",
+      "name": "Neon Yellow",
+      "code": "20490",
+      "set": "Colors",
+      "hex": "#F3ED7D",
+      "rgb": {
+        "r": 243,
+        "g": 237,
+        "b": 125
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21479",
+      "name": "New Shamrock",
+      "code": "21479",
+      "set": "Colors",
+      "hex": "#3D6E37",
+      "rgb": {
+        "r": 61,
+        "g": 110,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20521",
+      "name": "Nutmeg Brown",
+      "code": "20521",
+      "set": "Colors",
+      "hex": "#412A1A",
+      "rgb": {
+        "r": 65,
+        "g": 42,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20561",
+      "name": "Orange",
+      "code": "20561",
+      "set": "Colors",
+      "hex": "#DB2C00",
+      "rgb": {
+        "r": 219,
+        "g": 44,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21961e",
+      "name": "Outrageous Orange",
+      "code": "21961E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#D54D13",
+      "rgb": {
+        "r": 213,
+        "g": 77,
+        "b": 19
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21473",
+      "name": "Pale Daffodil",
+      "code": "21473",
+      "set": "Colors",
+      "hex": "#D6C14E",
+      "rgb": {
+        "r": 214,
+        "g": 193,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21477",
+      "name": "Palm Leaf",
+      "code": "21477",
+      "set": "Colors",
+      "hex": "#606D35",
+      "rgb": {
+        "r": 96,
+        "g": 109,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21957e",
+      "name": "Paradise Pink",
+      "code": "21957E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#D42B62",
+      "rgb": {
+        "r": 212,
+        "g": 43,
+        "b": 98
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20740",
+      "name": "Parakeet",
+      "code": "20740",
+      "set": "Colors",
+      "hex": "#416D0B",
+      "rgb": {
+        "r": 65,
+        "g": 109,
+        "b": 11
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21185",
+      "name": "Parrot Blue",
+      "code": "21185",
+      "set": "Colors",
+      "hex": "#71A4A7",
+      "rgb": {
+        "r": 113,
+        "g": 164,
+        "b": 167
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21490",
+      "name": "Pavement",
+      "code": "21490",
+      "set": "Colors",
+      "hex": "#272624",
+      "rgb": {
+        "r": 39,
+        "g": 38,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21963e",
+      "name": "Peach",
+      "code": "21963E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#D0A583",
+      "rgb": {
+        "r": 208,
+        "g": 165,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20226",
+      "name": "Petunia Purple",
+      "code": "20226",
+      "set": "Colors",
+      "hex": "#4F438B",
+      "rgb": {
+        "r": 79,
+        "g": 67,
+        "b": 139
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20580",
+      "name": "Pewter Grey",
+      "code": "20580",
+      "set": "Colors",
+      "hex": "#353630",
+      "rgb": {
+        "r": 53,
+        "g": 54,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20631",
+      "name": "Pink Blush",
+      "code": "20631",
+      "set": "Gloss™",
+      "hex": "#B56A81",
+      "rgb": {
+        "r": 181,
+        "g": 106,
+        "b": 129
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21889",
+      "name": "Pink Eraser",
+      "code": "21889",
+      "set": "Colors",
+      "hex": "#A8305E",
+      "rgb": {
+        "r": 168,
+        "g": 48,
+        "b": 94
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20251",
+      "name": "Pink Parfait",
+      "code": "20251",
+      "set": "Colors",
+      "hex": "#C66F7F",
+      "rgb": {
+        "r": 198,
+        "g": 111,
+        "b": 127
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21379",
+      "name": "Pink Polish",
+      "code": "21379",
+      "set": "Colors",
+      "hex": "#E0DFE5",
+      "rgb": {
+        "r": 224,
+        "g": 223,
+        "b": 229
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20223",
+      "name": "Pool Blue",
+      "code": "20223",
+      "set": "Colors",
+      "hex": "#67A3BB",
+      "rgb": {
+        "r": 103,
+        "g": 163,
+        "b": 187
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21339",
+      "name": "Pretty in Pink",
+      "code": "21339",
+      "set": "Colors",
+      "hex": "#E55D7D",
+      "rgb": {
+        "r": 229,
+        "g": 93,
+        "b": 125
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21975e",
+      "name": "Primary Blue",
+      "code": "21975E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#014689",
+      "rgb": {
+        "r": 1,
+        "g": 70,
+        "b": 137
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21956e",
+      "name": "Princess Pink",
+      "code": "21956E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#E793B4",
+      "rgb": {
+        "r": 231,
+        "g": 147,
+        "b": 180
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21978e",
+      "name": "Princess Purple",
+      "code": "21978E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#573484",
+      "rgb": {
+        "r": 87,
+        "g": 52,
+        "b": 132
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20359",
+      "name": "Pumpkin Orange",
+      "code": "20359",
+      "set": "Gloss™",
+      "hex": "#B85A1A",
+      "rgb": {
+        "r": 184,
+        "g": 90,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20588",
+      "name": "Pumpkin Orange",
+      "code": "20588",
+      "set": "Colors",
+      "hex": "#EE4F0E",
+      "rgb": {
+        "r": 238,
+        "g": 79,
+        "b": 14
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20761",
+      "name": "Pure Gold",
+      "code": "20761",
+      "set": "Colors",
+      "hex": "#00214E",
+      "rgb": {
+        "r": 0,
+        "g": 33,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20346",
+      "name": "Pure Pink",
+      "code": "20346",
+      "set": "Gloss™",
+      "hex": "#AC3A7F",
+      "rgb": {
+        "r": 172,
+        "g": 58,
+        "b": 127
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20762",
+      "name": "Pure Silver",
+      "code": "20762",
+      "set": "Colors",
+      "hex": "#99979A",
+      "rgb": {
+        "r": 153,
+        "g": 151,
+        "b": 154
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21486",
+      "name": "Purple Iris",
+      "code": "21486",
+      "set": "Colors",
+      "hex": "#35277C",
+      "rgb": {
+        "r": 53,
+        "g": 39,
+        "b": 124
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21488",
+      "name": "Purple Pansy",
+      "code": "21488",
+      "set": "Colors",
+      "hex": "#1E1832",
+      "rgb": {
+        "r": 30,
+        "g": 24,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20627",
+      "name": "Purple Velvet",
+      "code": "20627",
+      "set": "Gloss™",
+      "hex": "#1F0F33",
+      "rgb": {
+        "r": 31,
+        "g": 15,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20660",
+      "name": "Real Blue",
+      "code": "20660",
+      "set": "Gloss™",
+      "hex": "#012148",
+      "rgb": {
+        "r": 1,
+        "g": 33,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20354",
+      "name": "Real Brown",
+      "code": "20354",
+      "set": "Gloss™",
+      "hex": "#3E2318",
+      "rgb": {
+        "r": 62,
+        "g": 35,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20651",
+      "name": "Real Green",
+      "code": "20651",
+      "set": "Gloss™",
+      "hex": "#163315",
+      "rgb": {
+        "r": 22,
+        "g": 51,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20353",
+      "name": "Real Navy",
+      "code": "20353",
+      "set": "Gloss™",
+      "hex": "#BEC2C5",
+      "rgb": {
+        "r": 190,
+        "g": 194,
+        "b": 197
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20636",
+      "name": "Real Red",
+      "code": "20636",
+      "set": "Gloss™",
+      "hex": "#59051F",
+      "rgb": {
+        "r": 89,
+        "g": 5,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20645",
+      "name": "Real Yellow",
+      "code": "20645",
+      "set": "Gloss™",
+      "hex": "#D1B82A",
+      "rgb": {
+        "r": 209,
+        "g": 184,
+        "b": 42
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20784",
+      "name": "Red Apple",
+      "code": "20784",
+      "set": "Colors",
+      "hex": "#780004",
+      "rgb": {
+        "r": 120,
+        "g": 0,
+        "b": 4
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21348",
+      "name": "Reef Blue",
+      "code": "21348",
+      "set": "Colors",
+      "hex": "#214F45",
+      "rgb": {
+        "r": 33,
+        "g": 79,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20751",
+      "name": "Regency Blue",
+      "code": "20751",
+      "set": "Colors",
+      "hex": "#90AFCB",
+      "rgb": {
+        "r": 144,
+        "g": 175,
+        "b": 203
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21470",
+      "name": "Ripe Tomato",
+      "code": "21470",
+      "set": "Colors",
+      "hex": "#8E3821",
+      "rgb": {
+        "r": 142,
+        "g": 56,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20594",
+      "name": "Royal Violet",
+      "code": "20594",
+      "set": "Colors",
+      "hex": "#292244",
+      "rgb": {
+        "r": 41,
+        "g": 34,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20575",
+      "name": "Sandstone",
+      "code": "20575",
+      "set": "Colors",
+      "hex": "#3E382C",
+      "rgb": {
+        "r": 62,
+        "g": 56,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20770",
+      "name": "Sky Blue",
+      "code": "20770",
+      "set": "Colors",
+      "hex": "#4E6B7D",
+      "rgb": {
+        "r": 78,
+        "g": 107,
+        "b": 125
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-23891e",
+      "name": "Sky Haze",
+      "code": "23891E",
+      "set": "Gloss™",
+      "hex": "#4B87AC",
+      "rgb": {
+        "r": 75,
+        "g": 135,
+        "b": 172
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21884",
+      "name": "Snow White",
+      "code": "21884",
+      "set": "Colors",
+      "hex": "#CDCCC7",
+      "rgb": {
+        "r": 205,
+        "g": 204,
+        "b": 199
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21377",
+      "name": "Snowflake",
+      "code": "21377",
+      "set": "Colors",
+      "hex": "#E4E3E1",
+      "rgb": {
+        "r": 228,
+        "g": 227,
+        "b": 225
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21959e",
+      "name": "Spiced Berry",
+      "code": "21959E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#4D0103",
+      "rgb": {
+        "r": 77,
+        "g": 1,
+        "b": 3
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21471",
+      "name": "Spiced Carrot",
+      "code": "21471",
+      "set": "Colors",
+      "hex": "#DB733E",
+      "rgb": {
+        "r": 219,
+        "g": 115,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20652",
+      "name": "Spring Green",
+      "code": "20652",
+      "set": "Gloss™",
+      "hex": "#A8CAA6",
+      "rgb": {
+        "r": 168,
+        "g": 202,
+        "b": 166
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20587",
+      "name": "Spring Green",
+      "code": "20587",
+      "set": "Colors",
+      "hex": "#588B22",
+      "rgb": {
+        "r": 88,
+        "g": 139,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21973e",
+      "name": "Summer Sky",
+      "code": "21973E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#9EC3D6",
+      "rgb": {
+        "r": 158,
+        "g": 195,
+        "b": 214
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21965e",
+      "name": "Sunbeam",
+      "code": "21965E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#F1A420",
+      "rgb": {
+        "r": 241,
+        "g": 164,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21888",
+      "name": "Sunkissed Peach",
+      "code": "21888",
+      "set": "Colors",
+      "hex": "#C9A889",
+      "rgb": {
+        "r": 201,
+        "g": 168,
+        "b": 137
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21384",
+      "name": "Sunny Day",
+      "code": "21384",
+      "set": "Colors",
+      "hex": "#D0A024",
+      "rgb": {
+        "r": 208,
+        "g": 160,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21381",
+      "name": "Sweet Potato",
+      "code": "21381",
+      "set": "Colors",
+      "hex": "#A42A18",
+      "rgb": {
+        "r": 164,
+        "g": 42,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21093e",
+      "name": "Tangelo",
+      "code": "21093E",
+      "set": "Gloss™",
+      "hex": "#EF8531",
+      "rgb": {
+        "r": 239,
+        "g": 133,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20592",
+      "name": "Tapestry Wine",
+      "code": "20592",
+      "set": "Colors",
+      "hex": "#3D2324",
+      "rgb": {
+        "r": 61,
+        "g": 35,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-4473e",
+      "name": "Teal Treat",
+      "code": "4473E",
+      "set": "Colors",
+      "hex": "#096C83",
+      "rgb": {
+        "r": 9,
+        "g": 108,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20558",
+      "name": "Territorial Beige",
+      "code": "20558",
+      "set": "Colors",
+      "hex": "#866E56",
+      "rgb": {
+        "r": 134,
+        "g": 110,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21983e",
+      "name": "Timeless Gray",
+      "code": "21983E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#95999A",
+      "rgb": {
+        "r": 149,
+        "g": 153,
+        "b": 154
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21955e",
+      "name": "Toasted Marshmallow",
+      "code": "21955E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#E2D5C2",
+      "rgb": {
+        "r": 226,
+        "g": 213,
+        "b": 194
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20576",
+      "name": "Toffee",
+      "code": "20576",
+      "set": "Colors",
+      "hex": "#87552C",
+      "rgb": {
+        "r": 135,
+        "g": 85,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20771",
+      "name": "Too Blue",
+      "code": "20771",
+      "set": "Colors",
+      "hex": "#002F6A",
+      "rgb": {
+        "r": 0,
+        "g": 47,
+        "b": 106
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21341",
+      "name": "Tropic Orange",
+      "code": "21341",
+      "set": "Colors",
+      "hex": "#CB664A",
+      "rgb": {
+        "r": 203,
+        "g": 102,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20348",
+      "name": "Tropical Blue",
+      "code": "20348",
+      "set": "Gloss™",
+      "hex": "#387A92",
+      "rgb": {
+        "r": 56,
+        "g": 122,
+        "b": 146
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21968e",
+      "name": "True Green",
+      "code": "21968E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#048753",
+      "rgb": {
+        "r": 4,
+        "g": 135,
+        "b": 83
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21360",
+      "name": "Turquoise",
+      "code": "21360",
+      "set": "Gloss™",
+      "hex": "#55657C",
+      "rgb": {
+        "r": 85,
+        "g": 101,
+        "b": 124
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20210",
+      "name": "Turquoise",
+      "code": "20210",
+      "set": "Colors",
+      "hex": "#246A76",
+      "rgb": {
+        "r": 36,
+        "g": 106,
+        "b": 118
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21467",
+      "name": "Tuscan Red",
+      "code": "21467",
+      "set": "Colors",
+      "hex": "#84474F",
+      "rgb": {
+        "r": 132,
+        "g": 71,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21887",
+      "name": "Tuscan Teal",
+      "code": "21887",
+      "set": "Colors",
+      "hex": "#2C4C57",
+      "rgb": {
+        "r": 44,
+        "g": 76,
+        "b": 87
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21378",
+      "name": "Vanilla Ice Cream",
+      "code": "21378",
+      "set": "Colors",
+      "hex": "#CFCCBB",
+      "rgb": {
+        "r": 207,
+        "g": 204,
+        "b": 187
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21487",
+      "name": "Velvet Crush",
+      "code": "21487",
+      "set": "Colors",
+      "hex": "#422752",
+      "rgb": {
+        "r": 66,
+        "g": 39,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21980e",
+      "name": "Warm Buff",
+      "code": "21980E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#E1D0C9",
+      "rgb": {
+        "r": 225,
+        "g": 208,
+        "b": 201
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20530",
+      "name": "Wedgewood Green",
+      "code": "20530",
+      "set": "Colors",
+      "hex": "#7E8C72",
+      "rgb": {
+        "r": 126,
+        "g": 140,
+        "b": 114
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20621",
+      "name": "White",
+      "code": "20621",
+      "set": "Gloss™",
+      "hex": "#CECBC6",
+      "rgb": {
+        "r": 206,
+        "g": 203,
+        "b": 198
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20503",
+      "name": "White",
+      "code": "20503",
+      "set": "Colors",
+      "hex": "#ECECEC",
+      "rgb": {
+        "r": 236,
+        "g": 236,
+        "b": 236
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21954e",
+      "name": "White",
+      "code": "21954E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#E0DFDB",
+      "rgb": {
+        "r": 224,
+        "g": 223,
+        "b": 219
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21979e",
+      "name": "Wild Grapes",
+      "code": "21979E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#533D64",
+      "rgb": {
+        "r": 83,
+        "g": 61,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21977e",
+      "name": "Wisteria",
+      "code": "21977E",
+      "set": "Multi-Surface Satin Acrylic Paints",
+      "hex": "#AC98BD",
+      "rgb": {
+        "r": 172,
+        "g": 152,
+        "b": 189
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-20502",
+      "name": "Yellow",
+      "code": "20502",
+      "set": "Colors",
+      "hex": "#D2940B",
+      "rgb": {
+        "r": 210,
+        "g": 148,
+        "b": 11
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "applebarrel-21474",
+      "name": "Yellow Flame",
+      "code": "21474",
+      "set": "Colors",
+      "hex": "#CCB63E",
+      "rgb": {
+        "r": 204,
+        "g": 182,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    }
+  ]
+}

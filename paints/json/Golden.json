@@ -1,0 +1,5210 @@
+{
+  "$schema": "../../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
+  "displayName": "Golden",
+  "company": "Golden Artist Colors, Inc.",
+  "address": {
+    "street": "188 Bell Road",
+    "city": "New Berlin",
+    "postcode": "13411-9527",
+    "country": "USA"
+  },
+  "contactEmail": "help@goldenpaints.com",
+  "contactForm": "",
+  "website": "https://goldenpaints.com",
+  "phone": "800-959-6543",
+  "updatedCatalogueRequested": "",
+  "paintCount": 346,
+  "paints": [
+    {
+      "id": "golden-7450",
+      "name": "Alizarin Crimson Hue",
+      "code": "7450",
+      "set": "OPEN Acrylics",
+      "hex": "#99403F",
+      "rgb": {
+        "r": 153,
+        "g": 64,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1450",
+      "name": "Alizarin Crimson Hue",
+      "code": "1450",
+      "set": "Heavy Body",
+      "hex": "#9C3E40",
+      "rgb": {
+        "r": 156,
+        "g": 62,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2435",
+      "name": "Alizarin Crimson Hue",
+      "code": "2435",
+      "set": "Fluid",
+      "hex": "#662631",
+      "rgb": {
+        "r": 102,
+        "g": 38,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8521",
+      "name": "Alizarin Crimson Hue",
+      "code": "8521",
+      "set": "High Flow",
+      "hex": "#662631",
+      "rgb": {
+        "r": 102,
+        "g": 38,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8522",
+      "name": "Anthraquinone Blue",
+      "code": "8522",
+      "set": "High Flow",
+      "hex": "#231D3C",
+      "rgb": {
+        "r": 35,
+        "g": 29,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1005",
+      "name": "Anthraquinone Blue",
+      "code": "1005",
+      "set": "Heavy Body",
+      "hex": "#182551",
+      "rgb": {
+        "r": 24,
+        "g": 37,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7005",
+      "name": "Anthraquinone Blue",
+      "code": "7005",
+      "set": "OPEN Acrylics",
+      "hex": "#171F4D",
+      "rgb": {
+        "r": 23,
+        "g": 31,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2005",
+      "name": "Anthraquinone Blue",
+      "code": "2005",
+      "set": "Fluid",
+      "hex": "#231D3C",
+      "rgb": {
+        "r": 35,
+        "g": 29,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1464",
+      "name": "Azurite Hue",
+      "code": "1464",
+      "set": "Heavy Body",
+      "hex": "#4078A7",
+      "rgb": {
+        "r": 64,
+        "g": 120,
+        "b": 167
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1009",
+      "name": "Benzimidazolone Yellow Light",
+      "code": "1009",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8554",
+      "name": "Benzimidazolone Yellow Light",
+      "code": "8554",
+      "set": "High Flow",
+      "hex": "#F7E925",
+      "rgb": {
+        "r": 247,
+        "g": 233,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2009",
+      "name": "Benzimidazolone Yellow Light",
+      "code": "2009",
+      "set": "Fluid",
+      "hex": "#F7E925",
+      "rgb": {
+        "r": 247,
+        "g": 233,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7009",
+      "name": "Benzimidazolone Yellow Light",
+      "code": "7009",
+      "set": "OPEN Acrylics",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8553",
+      "name": "Benzimidazolone Yellow Medium",
+      "code": "8553",
+      "set": "High Flow",
+      "hex": "#FFD91D",
+      "rgb": {
+        "r": 255,
+        "g": 217,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2008",
+      "name": "Benzimidazolone Yellow Medium",
+      "code": "2008",
+      "set": "Fluid",
+      "hex": "#FFD91D",
+      "rgb": {
+        "r": 255,
+        "g": 217,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1008",
+      "name": "Benzimidazolone Yellow Medium",
+      "code": "1008",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7008",
+      "name": "Benzimidazolone Yellow Medium",
+      "code": "7008",
+      "set": "OPEN Acrylics",
+      "hex": "#EFDB4B",
+      "rgb": {
+        "r": 239,
+        "g": 219,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1007",
+      "name": "Bismuth Vanadate Yellow",
+      "code": "1007",
+      "set": "Heavy Body",
+      "hex": "#FFF256",
+      "rgb": {
+        "r": 255,
+        "g": 242,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6510",
+      "name": "Bismuth Vanadate Yellow",
+      "code": "6510",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FFEA03",
+      "rgb": {
+        "r": 255,
+        "g": 234,
+        "b": 3
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7007",
+      "name": "Bismuth Vanadate Yellow",
+      "code": "7007",
+      "set": "OPEN Acrylics",
+      "hex": "#FFF256",
+      "rgb": {
+        "r": 255,
+        "g": 242,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6745",
+      "name": "Black",
+      "code": "6745",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#1F2420",
+      "rgb": {
+        "r": 31,
+        "g": 36,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6605",
+      "name": "Blue Violet",
+      "code": "6605",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#2E3569",
+      "rgb": {
+        "r": 46,
+        "g": 53,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7010",
+      "name": "Bone Black",
+      "code": "7010",
+      "set": "OPEN Acrylics",
+      "hex": "#2A2925",
+      "rgb": {
+        "r": 42,
+        "g": 41,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1010",
+      "name": "Bone Black",
+      "code": "1010",
+      "set": "Heavy Body",
+      "hex": "#3C3B37",
+      "rgb": {
+        "r": 60,
+        "g": 59,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2010",
+      "name": "Bone Black",
+      "code": "2010",
+      "set": "Fluid",
+      "hex": "#2C2C2B",
+      "rgb": {
+        "r": 44,
+        "g": 44,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1020",
+      "name": "Burnt Sienna",
+      "code": "1020",
+      "set": "Heavy Body",
+      "hex": "#552F26",
+      "rgb": {
+        "r": 85,
+        "g": 47,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7020",
+      "name": "Burnt Sienna",
+      "code": "7020",
+      "set": "OPEN Acrylics",
+      "hex": "#563027",
+      "rgb": {
+        "r": 86,
+        "g": 48,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6730",
+      "name": "Burnt Sienna",
+      "code": "6730",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#833215",
+      "rgb": {
+        "r": 131,
+        "g": 50,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8523",
+      "name": "Burnt Sienna",
+      "code": "8523",
+      "set": "High Flow",
+      "hex": "#7A4029",
+      "rgb": {
+        "r": 122,
+        "g": 64,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2020",
+      "name": "Burnt Sienna",
+      "code": "2020",
+      "set": "Fluid",
+      "hex": "#7A4029",
+      "rgb": {
+        "r": 122,
+        "g": 64,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1030",
+      "name": "Burnt Umber",
+      "code": "1030",
+      "set": "Heavy Body",
+      "hex": "#382A27",
+      "rgb": {
+        "r": 56,
+        "g": 42,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7030",
+      "name": "Burnt Umber",
+      "code": "7030",
+      "set": "OPEN Acrylics",
+      "hex": "#342B26",
+      "rgb": {
+        "r": 52,
+        "g": 43,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6735",
+      "name": "Burnt Umber",
+      "code": "6735",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#402B1A",
+      "rgb": {
+        "r": 64,
+        "g": 43,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1035",
+      "name": "Burnt Umber Light",
+      "code": "1035",
+      "set": "Heavy Body",
+      "hex": "#382924",
+      "rgb": {
+        "r": 56,
+        "g": 41,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2035",
+      "name": "Burnt Umber Light",
+      "code": "2035",
+      "set": "Fluid",
+      "hex": "#624B44",
+      "rgb": {
+        "r": 98,
+        "g": 75,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7070",
+      "name": "Cadmium Orange",
+      "code": "7070",
+      "set": "OPEN Acrylics",
+      "hex": "#FD4500",
+      "rgb": {
+        "r": 253,
+        "g": 69,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6530",
+      "name": "Cadmium Orange",
+      "code": "6530",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FE670E",
+      "rgb": {
+        "r": 254,
+        "g": 103,
+        "b": 14
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1070",
+      "name": "Cadmium Orange",
+      "code": "1070",
+      "set": "Heavy Body",
+      "hex": "#FD4500",
+      "rgb": {
+        "r": 253,
+        "g": 69,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6505",
+      "name": "Cadmium Primrose",
+      "code": "6505",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FEF116",
+      "rgb": {
+        "r": 254,
+        "g": 241,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6565",
+      "name": "Cadmium Red Dark",
+      "code": "6565",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#8A1F17",
+      "rgb": {
+        "r": 138,
+        "g": 31,
+        "b": 23
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1080",
+      "name": "Cadmium Red Dark",
+      "code": "1080",
+      "set": "Heavy Body",
+      "hex": "#89181C",
+      "rgb": {
+        "r": 137,
+        "g": 24,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7080",
+      "name": "Cadmium Red Dark",
+      "code": "7080",
+      "set": "OPEN Acrylics",
+      "hex": "#8A191D",
+      "rgb": {
+        "r": 138,
+        "g": 25,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6545",
+      "name": "Cadmium Red Light",
+      "code": "6545",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#EF2D11",
+      "rgb": {
+        "r": 239,
+        "g": 45,
+        "b": 17
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7090",
+      "name": "Cadmium Red Light",
+      "code": "7090",
+      "set": "OPEN Acrylics",
+      "hex": "#DA4C41",
+      "rgb": {
+        "r": 218,
+        "g": 76,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1090",
+      "name": "Cadmium Red Light",
+      "code": "1090",
+      "set": "Heavy Body",
+      "hex": "#D94B41",
+      "rgb": {
+        "r": 217,
+        "g": 75,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7100",
+      "name": "Cadmium Red Medium",
+      "code": "7100",
+      "set": "OPEN Acrylics",
+      "hex": "#B91B1C",
+      "rgb": {
+        "r": 185,
+        "g": 27,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1100",
+      "name": "Cadmium Red Medium",
+      "code": "1100",
+      "set": "Heavy Body",
+      "hex": "#C01C1D",
+      "rgb": {
+        "r": 192,
+        "g": 28,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1552",
+      "name": "Cadmium Red Medium Hue",
+      "code": "1552",
+      "set": "Heavy Body",
+      "hex": "#D50505",
+      "rgb": {
+        "r": 213,
+        "g": 5,
+        "b": 5
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2425",
+      "name": "Cadmium Red Medium Hue",
+      "code": "2425",
+      "set": "Fluid",
+      "hex": "#C04340",
+      "rgb": {
+        "r": 192,
+        "g": 67,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1110",
+      "name": "Cadmium Yellow Dark",
+      "code": "1110",
+      "set": "Heavy Body",
+      "hex": "#FFC211",
+      "rgb": {
+        "r": 255,
+        "g": 194,
+        "b": 17
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7110",
+      "name": "Cadmium Yellow Dark",
+      "code": "7110",
+      "set": "OPEN Acrylics",
+      "hex": "#FEC10E",
+      "rgb": {
+        "r": 254,
+        "g": 193,
+        "b": 14
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1120",
+      "name": "Cadmium Yellow Light",
+      "code": "1120",
+      "set": "Heavy Body",
+      "hex": "#FFED41",
+      "rgb": {
+        "r": 255,
+        "g": 237,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1130",
+      "name": "Cadmium Yellow Medium",
+      "code": "1130",
+      "set": "Heavy Body",
+      "hex": "#FFF12C",
+      "rgb": {
+        "r": 255,
+        "g": 241,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6520",
+      "name": "Cadmium Yellow Medium",
+      "code": "6520",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FFD200",
+      "rgb": {
+        "r": 255,
+        "g": 210,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7130",
+      "name": "Cadmium Yellow Medium",
+      "code": "7130",
+      "set": "OPEN Acrylics",
+      "hex": "#FFF12C",
+      "rgb": {
+        "r": 255,
+        "g": 241,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1554",
+      "name": "Cadmium Yellow Medium Hue",
+      "code": "1554",
+      "set": "Heavy Body",
+      "hex": "#FFEC3A",
+      "rgb": {
+        "r": 255,
+        "g": 236,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2428",
+      "name": "Cadmium Yellow Medium Hue",
+      "code": "2428",
+      "set": "Fluid",
+      "hex": "#FDC413",
+      "rgb": {
+        "r": 253,
+        "g": 196,
+        "b": 19
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1135",
+      "name": "Cadmium Yellow Primrose",
+      "code": "1135",
+      "set": "Heavy Body",
+      "hex": "#F8EE87",
+      "rgb": {
+        "r": 248,
+        "g": 238,
+        "b": 135
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7135",
+      "name": "Cadmium Yellow Primrose",
+      "code": "7135",
+      "set": "OPEN Acrylics",
+      "hex": "#F9F088",
+      "rgb": {
+        "r": 249,
+        "g": 240,
+        "b": 136
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2040",
+      "name": "Carbon Black",
+      "code": "2040",
+      "set": "Fluid",
+      "hex": "#171512",
+      "rgb": {
+        "r": 23,
+        "g": 21,
+        "b": 18
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1040",
+      "name": "Carbon Black",
+      "code": "1040",
+      "set": "Heavy Body",
+      "hex": "#222220",
+      "rgb": {
+        "r": 34,
+        "g": 34,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7040",
+      "name": "Carbon Black",
+      "code": "7040",
+      "set": "OPEN Acrylics",
+      "hex": "#373736",
+      "rgb": {
+        "r": 55,
+        "g": 55,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8524",
+      "name": "Carbon Black",
+      "code": "8524",
+      "set": "High Flow",
+      "hex": "#171512",
+      "rgb": {
+        "r": 23,
+        "g": 21,
+        "b": 18
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2051",
+      "name": "Cerulean Blue Deep",
+      "code": "2051",
+      "set": "Fluid",
+      "hex": "#00548D",
+      "rgb": {
+        "r": 0,
+        "g": 84,
+        "b": 141
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1051",
+      "name": "Cerulean Blue Deep",
+      "code": "1051",
+      "set": "Heavy Body",
+      "hex": "#1D3863",
+      "rgb": {
+        "r": 29,
+        "g": 56,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8526",
+      "name": "Cerulean Blue Hue",
+      "code": "8526",
+      "set": "High Flow",
+      "hex": "#0058AE",
+      "rgb": {
+        "r": 0,
+        "g": 88,
+        "b": 174
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6630",
+      "name": "Cerulean Blue Hue",
+      "code": "6630",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#0363AF",
+      "rgb": {
+        "r": 3,
+        "g": 99,
+        "b": 175
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7050",
+      "name": "Cerulean Blue, Chromium",
+      "code": "7050",
+      "set": "OPEN Acrylics",
+      "hex": "#3B7AE1",
+      "rgb": {
+        "r": 59,
+        "g": 122,
+        "b": 225
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2050",
+      "name": "Cerulean Blue, Chromium",
+      "code": "2050",
+      "set": "Fluid",
+      "hex": "#0058AE",
+      "rgb": {
+        "r": 0,
+        "g": 88,
+        "b": 174
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1050",
+      "name": "Cerulean Blue, Chromium",
+      "code": "1050",
+      "set": "Heavy Body",
+      "hex": "#4B88E3",
+      "rgb": {
+        "r": 75,
+        "g": 136,
+        "b": 227
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1060",
+      "name": "Chromium Oxide Green",
+      "code": "1060",
+      "set": "Heavy Body",
+      "hex": "#41613A",
+      "rgb": {
+        "r": 65,
+        "g": 97,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7060",
+      "name": "Chromium Oxide Green",
+      "code": "7060",
+      "set": "OPEN Acrylics",
+      "hex": "#41643C",
+      "rgb": {
+        "r": 65,
+        "g": 100,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2060",
+      "name": "Chromium Oxide Green",
+      "code": "2060",
+      "set": "Fluid",
+      "hex": "#3C6B3B",
+      "rgb": {
+        "r": 60,
+        "g": 107,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7061",
+      "name": "Chromium Oxide Green Dark",
+      "code": "7061",
+      "set": "OPEN Acrylics",
+      "hex": "#365033",
+      "rgb": {
+        "r": 54,
+        "g": 80,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1061",
+      "name": "Chromium Oxide Green Dark",
+      "code": "1061",
+      "set": "Heavy Body",
+      "hex": "#2B432B",
+      "rgb": {
+        "r": 43,
+        "g": 67,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2140",
+      "name": "Cobalt Blue",
+      "code": "2140",
+      "set": "Fluid",
+      "hex": "#0052B4",
+      "rgb": {
+        "r": 0,
+        "g": 82,
+        "b": 180
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1140",
+      "name": "Cobalt Blue",
+      "code": "1140",
+      "set": "Heavy Body",
+      "hex": "#1F52D1",
+      "rgb": {
+        "r": 31,
+        "g": 82,
+        "b": 209
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7140",
+      "name": "Cobalt Blue",
+      "code": "7140",
+      "set": "OPEN Acrylics",
+      "hex": "#1546C6",
+      "rgb": {
+        "r": 21,
+        "g": 70,
+        "b": 198
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1556",
+      "name": "Cobalt Blue Hue",
+      "code": "1556",
+      "set": "Heavy Body",
+      "hex": "#2049B2",
+      "rgb": {
+        "r": 32,
+        "g": 73,
+        "b": 178
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1142",
+      "name": "Cobalt Green",
+      "code": "1142",
+      "set": "Heavy Body",
+      "hex": "#487065",
+      "rgb": {
+        "r": 72,
+        "g": 112,
+        "b": 101
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7142",
+      "name": "Cobalt Green",
+      "code": "7142",
+      "set": "OPEN Acrylics",
+      "hex": "#43695E",
+      "rgb": {
+        "r": 67,
+        "g": 105,
+        "b": 94
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2145",
+      "name": "Cobalt Teal",
+      "code": "2145",
+      "set": "Fluid",
+      "hex": "#00329A",
+      "rgb": {
+        "r": 0,
+        "g": 50,
+        "b": 154
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7145",
+      "name": "Cobalt Teal",
+      "code": "7145",
+      "set": "OPEN Acrylics",
+      "hex": "#569AB6",
+      "rgb": {
+        "r": 86,
+        "g": 154,
+        "b": 182
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1145",
+      "name": "Cobalt Teal",
+      "code": "1145",
+      "set": "Heavy Body",
+      "hex": "#3A9DBA",
+      "rgb": {
+        "r": 58,
+        "g": 157,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6645",
+      "name": "Cobalt Teal",
+      "code": "6645",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#00A6A6",
+      "rgb": {
+        "r": 0,
+        "g": 166,
+        "b": 166
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1144",
+      "name": "Cobalt Turquoise",
+      "code": "1144",
+      "set": "Heavy Body",
+      "hex": "#244F60",
+      "rgb": {
+        "r": 36,
+        "g": 79,
+        "b": 96
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7144",
+      "name": "Cobalt Turquoise",
+      "code": "7144",
+      "set": "OPEN Acrylics",
+      "hex": "#245262",
+      "rgb": {
+        "r": 36,
+        "g": 82,
+        "b": 98
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2144",
+      "name": "Cobalt Turquoise",
+      "code": "2144",
+      "set": "Fluid",
+      "hex": "#006677",
+      "rgb": {
+        "r": 0,
+        "g": 102,
+        "b": 119
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1465",
+      "name": "Cobalt Violet Hue",
+      "code": "1465",
+      "set": "Heavy Body",
+      "hex": "#512036",
+      "rgb": {
+        "r": 81,
+        "g": 32,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6665",
+      "name": "Dark Green",
+      "code": "6665",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#415D44",
+      "rgb": {
+        "r": 65,
+        "g": 93,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7147",
+      "name": "Diarylide Yellow",
+      "code": "7147",
+      "set": "OPEN Acrylics",
+      "hex": "#FEBF18",
+      "rgb": {
+        "r": 254,
+        "g": 191,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8527",
+      "name": "Diarylide Yellow",
+      "code": "8527",
+      "set": "High Flow",
+      "hex": "#FFA401",
+      "rgb": {
+        "r": 255,
+        "g": 164,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2147",
+      "name": "Diarylide Yellow",
+      "code": "2147",
+      "set": "Fluid",
+      "hex": "#FFA401",
+      "rgb": {
+        "r": 255,
+        "g": 164,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1147",
+      "name": "Diarylide Yellow",
+      "code": "1147",
+      "set": "Heavy Body",
+      "hex": "#FDBC16",
+      "rgb": {
+        "r": 253,
+        "g": 188,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1150",
+      "name": "Dioxazine Purple",
+      "code": "1150",
+      "set": "Heavy Body",
+      "hex": "#1F1E3D",
+      "rgb": {
+        "r": 31,
+        "g": 30,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2150",
+      "name": "Dioxazine Purple",
+      "code": "2150",
+      "set": "Fluid",
+      "hex": "#272142",
+      "rgb": {
+        "r": 39,
+        "g": 33,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7150",
+      "name": "Dioxazine Purple",
+      "code": "7150",
+      "set": "OPEN Acrylics",
+      "hex": "#191B30",
+      "rgb": {
+        "r": 25,
+        "g": 27,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6600",
+      "name": "Dioxazine Violet Deep",
+      "code": "6600",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#212032",
+      "rgb": {
+        "r": 33,
+        "g": 32,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-4605",
+      "name": "Fluorescent Blue",
+      "code": "4605",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#018CFE",
+      "rgb": {
+        "r": 1,
+        "g": 140,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8566",
+      "name": "Fluorescent Blue",
+      "code": "8566",
+      "set": "High Flow",
+      "hex": "#018CFE",
+      "rgb": {
+        "r": 1,
+        "g": 140,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8567",
+      "name": "Fluorescent Chartreuse",
+      "code": "8567",
+      "set": "High Flow",
+      "hex": "#DCE202",
+      "rgb": {
+        "r": 220,
+        "g": 226,
+        "b": 2
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-4615",
+      "name": "Fluorescent Chartreuse",
+      "code": "4615",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#DCE202",
+      "rgb": {
+        "r": 220,
+        "g": 226,
+        "b": 2
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8568",
+      "name": "Fluorescent Green",
+      "code": "8568",
+      "set": "High Flow",
+      "hex": "#50D93A",
+      "rgb": {
+        "r": 80,
+        "g": 217,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-4620",
+      "name": "Fluorescent Green",
+      "code": "4620",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#50D93A",
+      "rgb": {
+        "r": 80,
+        "g": 217,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6795",
+      "name": "Fluorescent Green",
+      "code": "6795",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#01FC5D",
+      "rgb": {
+        "r": 1,
+        "g": 252,
+        "b": 93
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-4625",
+      "name": "Fluorescent Magenta",
+      "code": "4625",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#FF00A0",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 160
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6775",
+      "name": "Fluorescent Orange",
+      "code": "6775",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FF950E",
+      "rgb": {
+        "r": 255,
+        "g": 149,
+        "b": 14
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-4630",
+      "name": "Fluorescent Orange",
+      "code": "4630",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#FF7600",
+      "rgb": {
+        "r": 255,
+        "g": 118,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8569",
+      "name": "Fluorescent Orange",
+      "code": "8569",
+      "set": "High Flow",
+      "hex": "#FF7600",
+      "rgb": {
+        "r": 255,
+        "g": 118,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-4640",
+      "name": "Fluorescent Orange-Yellow",
+      "code": "4640",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#FFAE29",
+      "rgb": {
+        "r": 255,
+        "g": 174,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-4645",
+      "name": "Fluorescent Pink",
+      "code": "4645",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#FF14A3",
+      "rgb": {
+        "r": 255,
+        "g": 20,
+        "b": 163
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6785",
+      "name": "Fluorescent Pink",
+      "code": "6785",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FE408A",
+      "rgb": {
+        "r": 254,
+        "g": 64,
+        "b": 138
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8570",
+      "name": "Fluorescent Pink",
+      "code": "8570",
+      "set": "High Flow",
+      "hex": "#FF14A3",
+      "rgb": {
+        "r": 255,
+        "g": 20,
+        "b": 163
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6780",
+      "name": "Fluorescent Red",
+      "code": "6780",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FD5D47",
+      "rgb": {
+        "r": 253,
+        "g": 93,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-4650",
+      "name": "Fluorescent Red",
+      "code": "4650",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#FD4245",
+      "rgb": {
+        "r": 253,
+        "g": 66,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6790",
+      "name": "Fluorescent Violet",
+      "code": "6790",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#D213BB",
+      "rgb": {
+        "r": 210,
+        "g": 19,
+        "b": 187
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6770",
+      "name": "Fluorescent Yellow",
+      "code": "6770",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#F5FF3C",
+      "rgb": {
+        "r": 245,
+        "g": 255,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1160",
+      "name": "Graphite Gray",
+      "code": "1160",
+      "set": "Heavy Body",
+      "hex": "#464543",
+      "rgb": {
+        "r": 70,
+        "g": 69,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1170",
+      "name": "Green Gold",
+      "code": "1170",
+      "set": "Heavy Body",
+      "hex": "#576122",
+      "rgb": {
+        "r": 87,
+        "g": 97,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2170",
+      "name": "Green Gold",
+      "code": "2170",
+      "set": "Fluid",
+      "hex": "#667400",
+      "rgb": {
+        "r": 102,
+        "g": 116,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8528",
+      "name": "Green Gold",
+      "code": "8528",
+      "set": "High Flow",
+      "hex": "#667400",
+      "rgb": {
+        "r": 102,
+        "g": 116,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7170",
+      "name": "Green Gold",
+      "code": "7170",
+      "set": "OPEN Acrylics",
+      "hex": "#808028",
+      "rgb": {
+        "r": 128,
+        "g": 128,
+        "b": 40
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2191",
+      "name": "Hansa Yellow Opaque",
+      "code": "2191",
+      "set": "Fluid",
+      "hex": "#FFD500",
+      "rgb": {
+        "r": 255,
+        "g": 213,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1191",
+      "name": "Hansa Yellow Opaque",
+      "code": "1191",
+      "set": "Heavy Body",
+      "hex": "#FFF436",
+      "rgb": {
+        "r": 255,
+        "g": 244,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7191",
+      "name": "Hansa Yellow Opaque",
+      "code": "7191",
+      "set": "OPEN Acrylics",
+      "hex": "#FFF436",
+      "rgb": {
+        "r": 255,
+        "g": 244,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1454",
+      "name": "Hookers Green Hue",
+      "code": "1454",
+      "set": "Heavy Body",
+      "hex": "#222627",
+      "rgb": {
+        "r": 34,
+        "g": 38,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2436",
+      "name": "India Yellow Hue",
+      "code": "2436",
+      "set": "Fluid",
+      "hex": "#DC7600",
+      "rgb": {
+        "r": 220,
+        "g": 118,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1455",
+      "name": "India Yellow Hue",
+      "code": "1455",
+      "set": "Heavy Body",
+      "hex": "#FFA01E",
+      "rgb": {
+        "r": 255,
+        "g": 160,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7455",
+      "name": "India Yellow Hue",
+      "code": "7455",
+      "set": "OPEN Acrylics",
+      "hex": "#F59A16",
+      "rgb": {
+        "r": 245,
+        "g": 154,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8571",
+      "name": "Iridescent Copper (Fine)",
+      "code": "8571",
+      "set": "High Flow",
+      "hex": "#FFDD33",
+      "rgb": {
+        "r": 255,
+        "g": 221,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8572",
+      "name": "Iridescent Gold (Fine)",
+      "code": "8572",
+      "set": "High Flow",
+      "hex": "#FFDD33",
+      "rgb": {
+        "r": 255,
+        "g": 221,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8574",
+      "name": "Iridescent Pearl (Fine)",
+      "code": "8574",
+      "set": "High Flow",
+      "hex": "#FFDD33",
+      "rgb": {
+        "r": 255,
+        "g": 221,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8573",
+      "name": "Iridescent Silver (Fine)",
+      "code": "8573",
+      "set": "High Flow",
+      "hex": "#FFDD33",
+      "rgb": {
+        "r": 255,
+        "g": 221,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1195",
+      "name": "Jenkins Green",
+      "code": "1195",
+      "set": "Heavy Body",
+      "hex": "#1E2424",
+      "rgb": {
+        "r": 30,
+        "g": 36,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2195",
+      "name": "Jenkins Green",
+      "code": "2195",
+      "set": "Fluid",
+      "hex": "#0D2100",
+      "rgb": {
+        "r": 13,
+        "g": 33,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7195",
+      "name": "Jenkins Green",
+      "code": "7195",
+      "set": "OPEN Acrylics",
+      "hex": "#191E21",
+      "rgb": {
+        "r": 25,
+        "g": 30,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1574",
+      "name": "Light Bismuth Yellow",
+      "code": "1574",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1558",
+      "name": "Light Green (blue Shade)",
+      "code": "1558",
+      "set": "Heavy Body",
+      "hex": "#55C66C",
+      "rgb": {
+        "r": 85,
+        "g": 198,
+        "b": 108
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1560",
+      "name": "Light Green (yellow Shade)",
+      "code": "1560",
+      "set": "Heavy Body",
+      "hex": "#82D873",
+      "rgb": {
+        "r": 130,
+        "g": 216,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1562",
+      "name": "Light Magenta",
+      "code": "1562",
+      "set": "Heavy Body",
+      "hex": "#FD879F",
+      "rgb": {
+        "r": 253,
+        "g": 135,
+        "b": 159
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1575",
+      "name": "Light Orange",
+      "code": "1575",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1577",
+      "name": "Light Phthalo Blue",
+      "code": "1577",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1578",
+      "name": "Light Phthalo Green",
+      "code": "1578",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1564",
+      "name": "Light Turquoise (phthalo)",
+      "code": "1564",
+      "set": "Heavy Body",
+      "hex": "#287683",
+      "rgb": {
+        "r": 40,
+        "g": 118,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1566",
+      "name": "Light Ultramarine Blue",
+      "code": "1566",
+      "set": "Heavy Body",
+      "hex": "#6797EB",
+      "rgb": {
+        "r": 103,
+        "g": 151,
+        "b": 235
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7566",
+      "name": "Light Ultramarine Blue",
+      "code": "7566",
+      "set": "OPEN Acrylics",
+      "hex": "#6595E9",
+      "rgb": {
+        "r": 101,
+        "g": 149,
+        "b": 233
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1568",
+      "name": "Light Violet",
+      "code": "1568",
+      "set": "Heavy Body",
+      "hex": "#625BA9",
+      "rgb": {
+        "r": 98,
+        "g": 91,
+        "b": 169
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2437",
+      "name": "Manganese Blue Hue",
+      "code": "2437",
+      "set": "Fluid",
+      "hex": "#0160A2",
+      "rgb": {
+        "r": 1,
+        "g": 96,
+        "b": 162
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7457",
+      "name": "Manganese Blue Hue",
+      "code": "7457",
+      "set": "OPEN Acrylics",
+      "hex": "#6299CF",
+      "rgb": {
+        "r": 98,
+        "g": 153,
+        "b": 207
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1457",
+      "name": "Manganese Blue Hue",
+      "code": "1457",
+      "set": "Heavy Body",
+      "hex": "#5489C4",
+      "rgb": {
+        "r": 84,
+        "g": 137,
+        "b": 196
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1200",
+      "name": "Mars Black",
+      "code": "1200",
+      "set": "Heavy Body",
+      "hex": "#272725",
+      "rgb": {
+        "r": 39,
+        "g": 39,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7202",
+      "name": "Mars Yellow",
+      "code": "7202",
+      "set": "OPEN Acrylics",
+      "hex": "#963F2C",
+      "rgb": {
+        "r": 150,
+        "g": 63,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1202",
+      "name": "Mars Yellow",
+      "code": "1202",
+      "set": "Heavy Body",
+      "hex": "#913C27",
+      "rgb": {
+        "r": 145,
+        "g": 60,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6705",
+      "name": "Mars Yellow Deep",
+      "code": "6705",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#AF7B32",
+      "rgb": {
+        "r": 175,
+        "g": 123,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1570",
+      "name": "Medium Magenta",
+      "code": "1570",
+      "set": "Heavy Body",
+      "hex": "#CE3D7E",
+      "rgb": {
+        "r": 206,
+        "g": 61,
+        "b": 126
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1572",
+      "name": "Medium Violet",
+      "code": "1572",
+      "set": "Heavy Body",
+      "hex": "#3C2C50",
+      "rgb": {
+        "r": 60,
+        "g": 44,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1442",
+      "name": "N2 Neutral Gray",
+      "code": "1442",
+      "set": "Heavy Body",
+      "hex": "#433C36",
+      "rgb": {
+        "r": 67,
+        "g": 60,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1443",
+      "name": "N3 Neutral Gray",
+      "code": "1443",
+      "set": "Heavy Body",
+      "hex": "#3A3935",
+      "rgb": {
+        "r": 58,
+        "g": 57,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1444",
+      "name": "N4 Neutral Gray",
+      "code": "1444",
+      "set": "Heavy Body",
+      "hex": "#4A4A48",
+      "rgb": {
+        "r": 74,
+        "g": 74,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7445",
+      "name": "N5 Neutral Gray",
+      "code": "7445",
+      "set": "OPEN Acrylics",
+      "hex": "#6D6968",
+      "rgb": {
+        "r": 109,
+        "g": 105,
+        "b": 104
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8533",
+      "name": "N5 Neutral Gray",
+      "code": "8533",
+      "set": "High Flow",
+      "hex": "#848589",
+      "rgb": {
+        "r": 132,
+        "g": 133,
+        "b": 137
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1445",
+      "name": "N5 Neutral Gray",
+      "code": "1445",
+      "set": "Heavy Body",
+      "hex": "#6F6B6A",
+      "rgb": {
+        "r": 111,
+        "g": 107,
+        "b": 106
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1446",
+      "name": "N6 Neutral Gray",
+      "code": "1446",
+      "set": "Heavy Body",
+      "hex": "#979392",
+      "rgb": {
+        "r": 151,
+        "g": 147,
+        "b": 146
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1447",
+      "name": "N7 Neutral Gray",
+      "code": "1447",
+      "set": "Heavy Body",
+      "hex": "#BBB7B6",
+      "rgb": {
+        "r": 187,
+        "g": 183,
+        "b": 182
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1448",
+      "name": "N8 Neutral Gray",
+      "code": "1448",
+      "set": "Heavy Body",
+      "hex": "#E3DFDE",
+      "rgb": {
+        "r": 227,
+        "g": 223,
+        "b": 222
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6570",
+      "name": "Naphthol Pink",
+      "code": "6570",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#ED4350",
+      "rgb": {
+        "r": 237,
+        "g": 67,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8532",
+      "name": "Naphthol Red Light",
+      "code": "8532",
+      "set": "High Flow",
+      "hex": "#C83E34",
+      "rgb": {
+        "r": 200,
+        "g": 62,
+        "b": 52
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2210",
+      "name": "Naphthol Red Light",
+      "code": "2210",
+      "set": "Fluid",
+      "hex": "#C83E34",
+      "rgb": {
+        "r": 200,
+        "g": 62,
+        "b": 52
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7210",
+      "name": "Naphthol Red Light",
+      "code": "7210",
+      "set": "OPEN Acrylics",
+      "hex": "#E60203",
+      "rgb": {
+        "r": 230,
+        "g": 2,
+        "b": 3
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6550",
+      "name": "Naphthol Red Light",
+      "code": "6550",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#EF290F",
+      "rgb": {
+        "r": 239,
+        "g": 41,
+        "b": 15
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1210",
+      "name": "Naphthol Red Light",
+      "code": "1210",
+      "set": "Heavy Body",
+      "hex": "#E80A09",
+      "rgb": {
+        "r": 232,
+        "g": 10,
+        "b": 9
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7220",
+      "name": "Naphthol Red Medium",
+      "code": "7220",
+      "set": "OPEN Acrylics",
+      "hex": "#950810",
+      "rgb": {
+        "r": 149,
+        "g": 8,
+        "b": 16
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1220",
+      "name": "Naphthol Red Medium",
+      "code": "1220",
+      "set": "Heavy Body",
+      "hex": "#A10614",
+      "rgb": {
+        "r": 161,
+        "g": 6,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2220",
+      "name": "Naphthol Red Medium",
+      "code": "2220",
+      "set": "Fluid",
+      "hex": "#A32832",
+      "rgb": {
+        "r": 163,
+        "g": 40,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6695",
+      "name": "Naples Yellow Deep",
+      "code": "6695",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#EAA435",
+      "rgb": {
+        "r": 234,
+        "g": 164,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7459",
+      "name": "Naples Yellow Hue",
+      "code": "7459",
+      "set": "OPEN Acrylics",
+      "hex": "#F0CD71",
+      "rgb": {
+        "r": 240,
+        "g": 205,
+        "b": 113
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1459",
+      "name": "Naples Yellow Hue",
+      "code": "1459",
+      "set": "Heavy Body",
+      "hex": "#F3D074",
+      "rgb": {
+        "r": 243,
+        "g": 208,
+        "b": 116
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2438",
+      "name": "Naples Yellow Hue",
+      "code": "2438",
+      "set": "Fluid",
+      "hex": "#DFC07B",
+      "rgb": {
+        "r": 223,
+        "g": 192,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1225",
+      "name": "Nickel Azo Yellow",
+      "code": "1225",
+      "set": "Heavy Body",
+      "hex": "#C36B12",
+      "rgb": {
+        "r": 195,
+        "g": 107,
+        "b": 18
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8534",
+      "name": "Nickel Azo Yellow",
+      "code": "8534",
+      "set": "High Flow",
+      "hex": "#AF791B",
+      "rgb": {
+        "r": 175,
+        "g": 121,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2225",
+      "name": "Nickel Azo Yellow",
+      "code": "2225",
+      "set": "Fluid",
+      "hex": "#AF791B",
+      "rgb": {
+        "r": 175,
+        "g": 121,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7225",
+      "name": "Nickel Azo Yellow",
+      "code": "7225",
+      "set": "OPEN Acrylics",
+      "hex": "#E4982A",
+      "rgb": {
+        "r": 228,
+        "g": 152,
+        "b": 42
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6500",
+      "name": "Pale Yellow",
+      "code": "6500",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FCEF6F",
+      "rgb": {
+        "r": 252,
+        "g": 239,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1240",
+      "name": "Payne's Gray",
+      "code": "1240",
+      "set": "Heavy Body",
+      "hex": "#282C37",
+      "rgb": {
+        "r": 40,
+        "g": 44,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7240",
+      "name": "Payne's Gray",
+      "code": "7240",
+      "set": "OPEN Acrylics",
+      "hex": "#262B31",
+      "rgb": {
+        "r": 38,
+        "g": 43,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6750",
+      "name": "Payne's Gray",
+      "code": "6750",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#151B1B",
+      "rgb": {
+        "r": 21,
+        "g": 27,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2240",
+      "name": "Payne's Gray",
+      "code": "2240",
+      "set": "Fluid",
+      "hex": "#2C3149",
+      "rgb": {
+        "r": 44,
+        "g": 49,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6660",
+      "name": "Permanent Green",
+      "code": "6660",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#027441",
+      "rgb": {
+        "r": 2,
+        "g": 116,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1250",
+      "name": "Permanent Green Light",
+      "code": "1250",
+      "set": "Heavy Body",
+      "hex": "#175445",
+      "rgb": {
+        "r": 23,
+        "g": 84,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2250",
+      "name": "Permanent Green Light",
+      "code": "2250",
+      "set": "Fluid",
+      "hex": "#007740",
+      "rgb": {
+        "r": 0,
+        "g": 119,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8535",
+      "name": "Permanent Green Light",
+      "code": "8535",
+      "set": "High Flow",
+      "hex": "#007740",
+      "rgb": {
+        "r": 0,
+        "g": 119,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7250",
+      "name": "Permanent Green Light",
+      "code": "7250",
+      "set": "OPEN Acrylics",
+      "hex": "#1A5446",
+      "rgb": {
+        "r": 26,
+        "g": 84,
+        "b": 70
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7252",
+      "name": "Permanent Maroon",
+      "code": "7252",
+      "set": "OPEN Acrylics",
+      "hex": "#3E1B19",
+      "rgb": {
+        "r": 62,
+        "g": 27,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1252",
+      "name": "Permanent Maroon",
+      "code": "1252",
+      "set": "Heavy Body",
+      "hex": "#5D1C22",
+      "rgb": {
+        "r": 93,
+        "g": 28,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7253",
+      "name": "Permanent Violet Dark",
+      "code": "7253",
+      "set": "OPEN Acrylics",
+      "hex": "#3A1A2F",
+      "rgb": {
+        "r": 58,
+        "g": 26,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8536",
+      "name": "Permanent Violet Dark",
+      "code": "8536",
+      "set": "High Flow",
+      "hex": "#442146",
+      "rgb": {
+        "r": 68,
+        "g": 33,
+        "b": 70
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1253",
+      "name": "Permanent Violet Dark",
+      "code": "1253",
+      "set": "Heavy Body",
+      "hex": "#3A1A32",
+      "rgb": {
+        "r": 58,
+        "g": 26,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2253",
+      "name": "Permanent Violet Dark",
+      "code": "2253",
+      "set": "Fluid",
+      "hex": "#442146",
+      "rgb": {
+        "r": 68,
+        "g": 33,
+        "b": 70
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6515",
+      "name": "Permanent Yellow",
+      "code": "6515",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FFE900",
+      "rgb": {
+        "r": 255,
+        "g": 233,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6525",
+      "name": "Permanent Yellow Deep",
+      "code": "6525",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FFAF02",
+      "rgb": {
+        "r": 255,
+        "g": 175,
+        "b": 2
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-4900",
+      "name": "Phosphorescent Green",
+      "code": "4900",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#CCFF99",
+      "rgb": {
+        "r": 204,
+        "g": 255,
+        "b": 153
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8537",
+      "name": "Phthalo Blue (Green Shade)",
+      "code": "8537",
+      "set": "High Flow",
+      "hex": "#000050",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2255",
+      "name": "Phthalo Blue (Green Shade)",
+      "code": "2255",
+      "set": "Fluid",
+      "hex": "#000050",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2260",
+      "name": "Phthalo Blue (Red Shade)",
+      "code": "2260",
+      "set": "Fluid",
+      "hex": "#002F7C",
+      "rgb": {
+        "r": 0,
+        "g": 47,
+        "b": 124
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1255",
+      "name": "Phthalo Blue (green Shade)",
+      "code": "1255",
+      "set": "Heavy Body",
+      "hex": "#0B3371",
+      "rgb": {
+        "r": 11,
+        "g": 51,
+        "b": 113
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7255",
+      "name": "Phthalo Blue (green Shade)",
+      "code": "7255",
+      "set": "OPEN Acrylics",
+      "hex": "#10357B",
+      "rgb": {
+        "r": 16,
+        "g": 53,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6620",
+      "name": "Phthalo Blue (green Shade)",
+      "code": "6620",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#2F3A70",
+      "rgb": {
+        "r": 47,
+        "g": 58,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1260",
+      "name": "Phthalo Blue (red Shade)",
+      "code": "1260",
+      "set": "Heavy Body",
+      "hex": "#0E41AA",
+      "rgb": {
+        "r": 14,
+        "g": 65,
+        "b": 170
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7260",
+      "name": "Phthalo Blue (red Shade)",
+      "code": "7260",
+      "set": "OPEN Acrylics",
+      "hex": "#1B43A2",
+      "rgb": {
+        "r": 27,
+        "g": 67,
+        "b": 162
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2270",
+      "name": "Phthalo Green (Blue Shade)",
+      "code": "2270",
+      "set": "Fluid",
+      "hex": "#002932",
+      "rgb": {
+        "r": 0,
+        "g": 41,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8538",
+      "name": "Phthalo Green (Blue Shade)",
+      "code": "8538",
+      "set": "High Flow",
+      "hex": "#002932",
+      "rgb": {
+        "r": 0,
+        "g": 41,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2275",
+      "name": "Phthalo Green (Yellow Shade)",
+      "code": "2275",
+      "set": "Fluid",
+      "hex": "#00382F",
+      "rgb": {
+        "r": 0,
+        "g": 56,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6650",
+      "name": "Phthalo Green (blue Shade)",
+      "code": "6650",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#074D42",
+      "rgb": {
+        "r": 7,
+        "g": 77,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1270",
+      "name": "Phthalo Green (blue Shade)",
+      "code": "1270",
+      "set": "Heavy Body",
+      "hex": "#185A59",
+      "rgb": {
+        "r": 24,
+        "g": 90,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7270",
+      "name": "Phthalo Green (blue Shade)",
+      "code": "7270",
+      "set": "OPEN Acrylics",
+      "hex": "#0B373A",
+      "rgb": {
+        "r": 11,
+        "g": 55,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7275",
+      "name": "Phthalo Green (yellow Shade)",
+      "code": "7275",
+      "set": "OPEN Acrylics",
+      "hex": "#146847",
+      "rgb": {
+        "r": 20,
+        "g": 104,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1275",
+      "name": "Phthalo Green (yellow Shade)",
+      "code": "1275",
+      "set": "Heavy Body",
+      "hex": "#1B8B59",
+      "rgb": {
+        "r": 27,
+        "g": 139,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2420",
+      "name": "Primary Cyan",
+      "code": "2420",
+      "set": "Fluid",
+      "hex": "#004EAC",
+      "rgb": {
+        "r": 0,
+        "g": 78,
+        "b": 172
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1500",
+      "name": "Primary Cyan",
+      "code": "1500",
+      "set": "Heavy Body",
+      "hex": "#193E8E",
+      "rgb": {
+        "r": 25,
+        "g": 62,
+        "b": 142
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2421",
+      "name": "Primary Magenta",
+      "code": "2421",
+      "set": "Fluid",
+      "hex": "#BA1A22",
+      "rgb": {
+        "r": 186,
+        "g": 26,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1510",
+      "name": "Primary Magenta",
+      "code": "1510",
+      "set": "Heavy Body",
+      "hex": "#D61625",
+      "rgb": {
+        "r": 214,
+        "g": 22,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1530",
+      "name": "Primary Yellow",
+      "code": "1530",
+      "set": "Heavy Body",
+      "hex": "#FEF43A",
+      "rgb": {
+        "r": 254,
+        "g": 244,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2422",
+      "name": "Primary Yellow",
+      "code": "2422",
+      "set": "Fluid",
+      "hex": "#FFD115",
+      "rgb": {
+        "r": 255,
+        "g": 209,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1460",
+      "name": "Prussian Blue Hue",
+      "code": "1460",
+      "set": "Heavy Body",
+      "hex": "#1A2541",
+      "rgb": {
+        "r": 26,
+        "g": 37,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7460",
+      "name": "Prussian Blue Hue",
+      "code": "7460",
+      "set": "OPEN Acrylics",
+      "hex": "#222F51",
+      "rgb": {
+        "r": 34,
+        "g": 47,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2439",
+      "name": "Prussian Blue Hue",
+      "code": "2439",
+      "set": "Fluid",
+      "hex": "#251947",
+      "rgb": {
+        "r": 37,
+        "g": 25,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1276",
+      "name": "Pyrrole Orange",
+      "code": "1276",
+      "set": "Heavy Body",
+      "hex": "#FF2904",
+      "rgb": {
+        "r": 255,
+        "g": 41,
+        "b": 4
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2276",
+      "name": "Pyrrole Orange",
+      "code": "2276",
+      "set": "Fluid",
+      "hex": "#F3491E",
+      "rgb": {
+        "r": 243,
+        "g": 73,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7276",
+      "name": "Pyrrole Orange",
+      "code": "7276",
+      "set": "OPEN Acrylics",
+      "hex": "#FD2901",
+      "rgb": {
+        "r": 253,
+        "g": 41,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8539",
+      "name": "Pyrrole Orange",
+      "code": "8539",
+      "set": "High Flow",
+      "hex": "#F3491E",
+      "rgb": {
+        "r": 243,
+        "g": 73,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7277",
+      "name": "Pyrrole Red",
+      "code": "7277",
+      "set": "OPEN Acrylics",
+      "hex": "#BD0004",
+      "rgb": {
+        "r": 189,
+        "g": 0,
+        "b": 4
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6555",
+      "name": "Pyrrole Red",
+      "code": "6555",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#D3301D",
+      "rgb": {
+        "r": 211,
+        "g": 48,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2277",
+      "name": "Pyrrole Red",
+      "code": "2277",
+      "set": "Fluid",
+      "hex": "#C23739",
+      "rgb": {
+        "r": 194,
+        "g": 55,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1277",
+      "name": "Pyrrole Red",
+      "code": "1277",
+      "set": "Heavy Body",
+      "hex": "#C50003",
+      "rgb": {
+        "r": 197,
+        "g": 0,
+        "b": 3
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1278",
+      "name": "Pyrrole Red Dark",
+      "code": "1278",
+      "set": "Heavy Body",
+      "hex": "#8D1018",
+      "rgb": {
+        "r": 141,
+        "g": 16,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7278",
+      "name": "Pyrrole Red Dark",
+      "code": "7278",
+      "set": "OPEN Acrylics",
+      "hex": "#860710",
+      "rgb": {
+        "r": 134,
+        "g": 7,
+        "b": 16
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1279",
+      "name": "Pyrrole Red Light",
+      "code": "1279",
+      "set": "Heavy Body",
+      "hex": "#E91509",
+      "rgb": {
+        "r": 233,
+        "g": 21,
+        "b": 9
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2279",
+      "name": "Pyrrole Red Light",
+      "code": "2279",
+      "set": "Fluid",
+      "hex": "#D13E37",
+      "rgb": {
+        "r": 209,
+        "g": 62,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7301",
+      "name": "Quinacridone  Nickel Azo Gold",
+      "code": "7301",
+      "set": "OPEN Acrylics",
+      "hex": "#DA4E19",
+      "rgb": {
+        "r": 218,
+        "g": 78,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8542",
+      "name": "Quinacridone  Nickel Azo Gold",
+      "code": "8542",
+      "set": "High Flow",
+      "hex": "#893F26",
+      "rgb": {
+        "r": 137,
+        "g": 63,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1301",
+      "name": "Quinacridone  Nickel Azo Gold",
+      "code": "1301",
+      "set": "Heavy Body",
+      "hex": "#E96125",
+      "rgb": {
+        "r": 233,
+        "g": 97,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2301",
+      "name": "Quinacridone  Nickel Azo Gold",
+      "code": "2301",
+      "set": "Fluid",
+      "hex": "#893F26",
+      "rgb": {
+        "r": 137,
+        "g": 63,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8540",
+      "name": "Quinacridone Magenta",
+      "code": "8540",
+      "set": "High Flow",
+      "hex": "#870412",
+      "rgb": {
+        "r": 135,
+        "g": 4,
+        "b": 18
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7305",
+      "name": "Quinacridone Magenta",
+      "code": "7305",
+      "set": "OPEN Acrylics",
+      "hex": "#611321",
+      "rgb": {
+        "r": 97,
+        "g": 19,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2305",
+      "name": "Quinacridone Magenta",
+      "code": "2305",
+      "set": "Fluid",
+      "hex": "#870412",
+      "rgb": {
+        "r": 135,
+        "g": 4,
+        "b": 18
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1305",
+      "name": "Quinacridone Magenta",
+      "code": "1305",
+      "set": "Heavy Body",
+      "hex": "#991431",
+      "rgb": {
+        "r": 153,
+        "g": 20,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7310",
+      "name": "Quinacridone Red",
+      "code": "7310",
+      "set": "OPEN Acrylics",
+      "hex": "#BF0218",
+      "rgb": {
+        "r": 191,
+        "g": 2,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2310",
+      "name": "Quinacridone Red",
+      "code": "2310",
+      "set": "Fluid",
+      "hex": "#B91D14",
+      "rgb": {
+        "r": 185,
+        "g": 29,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1310",
+      "name": "Quinacridone Red",
+      "code": "1310",
+      "set": "Heavy Body",
+      "hex": "#B80113",
+      "rgb": {
+        "r": 184,
+        "g": 1,
+        "b": 19
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8541",
+      "name": "Quinacridone Red",
+      "code": "8541",
+      "set": "High Flow",
+      "hex": "#B91D14",
+      "rgb": {
+        "r": 185,
+        "g": 29,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2330",
+      "name": "Quinacridone Violet",
+      "code": "2330",
+      "set": "Fluid",
+      "hex": "#87001D",
+      "rgb": {
+        "r": 135,
+        "g": 0,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1330",
+      "name": "Quinacridone Violet",
+      "code": "1330",
+      "set": "Heavy Body",
+      "hex": "#5C1823",
+      "rgb": {
+        "r": 92,
+        "g": 24,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7340",
+      "name": "Raw Sienna",
+      "code": "7340",
+      "set": "OPEN Acrylics",
+      "hex": "#915A31",
+      "rgb": {
+        "r": 145,
+        "g": 90,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1340",
+      "name": "Raw Sienna",
+      "code": "1340",
+      "set": "Heavy Body",
+      "hex": "#9E5A33",
+      "rgb": {
+        "r": 158,
+        "g": 90,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2340",
+      "name": "Raw Sienna",
+      "code": "2340",
+      "set": "Fluid",
+      "hex": "#A77846",
+      "rgb": {
+        "r": 167,
+        "g": 120,
+        "b": 70
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8543",
+      "name": "Raw Sienna",
+      "code": "8543",
+      "set": "High Flow",
+      "hex": "#A77846",
+      "rgb": {
+        "r": 167,
+        "g": 120,
+        "b": 70
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7350",
+      "name": "Raw Umber",
+      "code": "7350",
+      "set": "OPEN Acrylics",
+      "hex": "#322D29",
+      "rgb": {
+        "r": 50,
+        "g": 45,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8544",
+      "name": "Raw Umber",
+      "code": "8544",
+      "set": "High Flow",
+      "hex": "#4A433E",
+      "rgb": {
+        "r": 74,
+        "g": 67,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2350",
+      "name": "Raw Umber",
+      "code": "2350",
+      "set": "Fluid",
+      "hex": "#4A433E",
+      "rgb": {
+        "r": 74,
+        "g": 67,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1350",
+      "name": "Raw Umber",
+      "code": "1350",
+      "set": "Heavy Body",
+      "hex": "#302D28",
+      "rgb": {
+        "r": 48,
+        "g": 45,
+        "b": 40
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6740",
+      "name": "Raw Umber",
+      "code": "6740",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#2D2A19",
+      "rgb": {
+        "r": 45,
+        "g": 42,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2360",
+      "name": "Red Oxide",
+      "code": "2360",
+      "set": "Fluid",
+      "hex": "#90463A",
+      "rgb": {
+        "r": 144,
+        "g": 70,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7360",
+      "name": "Red Oxide",
+      "code": "7360",
+      "set": "OPEN Acrylics",
+      "hex": "#6D2D24",
+      "rgb": {
+        "r": 109,
+        "g": 45,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6720",
+      "name": "Red Oxide",
+      "code": "6720",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#742916",
+      "rgb": {
+        "r": 116,
+        "g": 41,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1360",
+      "name": "Red Oxide",
+      "code": "1360",
+      "set": "Heavy Body",
+      "hex": "#6A2A21",
+      "rgb": {
+        "r": 106,
+        "g": 42,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6595",
+      "name": "Red Violet",
+      "code": "6595",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#6F3568",
+      "rgb": {
+        "r": 111,
+        "g": 53,
+        "b": 104
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2440",
+      "name": "Sap Green Hue",
+      "code": "2440",
+      "set": "Fluid",
+      "hex": "#242D14",
+      "rgb": {
+        "r": 36,
+        "g": 45,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7461",
+      "name": "Sap Green Hue",
+      "code": "7461",
+      "set": "OPEN Acrylics",
+      "hex": "#5C5B42",
+      "rgb": {
+        "r": 92,
+        "g": 91,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1461",
+      "name": "Sap Green Hue",
+      "code": "1461",
+      "set": "Heavy Body",
+      "hex": "#565640",
+      "rgb": {
+        "r": 86,
+        "g": 86,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8545",
+      "name": "Sap Green Hue",
+      "code": "8545",
+      "set": "High Flow",
+      "hex": "#242D14",
+      "rgb": {
+        "r": 36,
+        "g": 45,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8546",
+      "name": "Sepia",
+      "code": "8546",
+      "set": "High Flow",
+      "hex": "#3C2814",
+      "rgb": {
+        "r": 60,
+        "g": 40,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1467",
+      "name": "Smalt Hue",
+      "code": "1467",
+      "set": "Heavy Body",
+      "hex": "#4A5A95",
+      "rgb": {
+        "r": 74,
+        "g": 90,
+        "b": 149
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1369",
+      "name": "Teal",
+      "code": "1369",
+      "set": "Heavy Body",
+      "hex": "#F6F6F4",
+      "rgb": {
+        "r": 246,
+        "g": 246,
+        "b": 244
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8547",
+      "name": "Teal",
+      "code": "8547",
+      "set": "High Flow",
+      "hex": "#00BCC1",
+      "rgb": {
+        "r": 0,
+        "g": 188,
+        "b": 193
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7369",
+      "name": "Teal",
+      "code": "7369",
+      "set": "OPEN Acrylics",
+      "hex": "#3A9DBA",
+      "rgb": {
+        "r": 58,
+        "g": 157,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2369",
+      "name": "Teal",
+      "code": "2369",
+      "set": "Fluid",
+      "hex": "#00BCC1",
+      "rgb": {
+        "r": 0,
+        "g": 188,
+        "b": 193
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7468",
+      "name": "Terre Verte Hue",
+      "code": "7468",
+      "set": "OPEN Acrylics",
+      "hex": "#76825C",
+      "rgb": {
+        "r": 118,
+        "g": 130,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1468",
+      "name": "Terre Verte Hue",
+      "code": "1468",
+      "set": "Heavy Body",
+      "hex": "#95A17B",
+      "rgb": {
+        "r": 149,
+        "g": 161,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8548",
+      "name": "Titan Buff",
+      "code": "8548",
+      "set": "High Flow",
+      "hex": "#E0D4BA",
+      "rgb": {
+        "r": 224,
+        "g": 212,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7370",
+      "name": "Titan Buff",
+      "code": "7370",
+      "set": "OPEN Acrylics",
+      "hex": "#F3E4C7",
+      "rgb": {
+        "r": 243,
+        "g": 228,
+        "b": 199
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2370",
+      "name": "Titan Buff",
+      "code": "2370",
+      "set": "Fluid",
+      "hex": "#E0D4BA",
+      "rgb": {
+        "r": 224,
+        "g": 212,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1370",
+      "name": "Titan Buff",
+      "code": "1370",
+      "set": "Heavy Body",
+      "hex": "#F6E7C8",
+      "rgb": {
+        "r": 246,
+        "g": 231,
+        "b": 200
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7371",
+      "name": "Titan Green Pale",
+      "code": "7371",
+      "set": "OPEN Acrylics",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2371",
+      "name": "Titan Green Pale",
+      "code": "2371",
+      "set": "Fluid",
+      "hex": "#BAC09B",
+      "rgb": {
+        "r": 186,
+        "g": 192,
+        "b": 155
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1371",
+      "name": "Titan Green Pale",
+      "code": "1371",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1576",
+      "name": "Titan Mars Pale",
+      "code": "1576",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1573",
+      "name": "Titan Violet Pale",
+      "code": "1573",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1375",
+      "name": "Titanate Yellow",
+      "code": "1375",
+      "set": "Heavy Body",
+      "hex": "#FFF596",
+      "rgb": {
+        "r": 255,
+        "g": 245,
+        "b": 150
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6755",
+      "name": "Titanium White",
+      "code": "6755",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#F2F6F9",
+      "rgb": {
+        "r": 242,
+        "g": 246,
+        "b": 249
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8549",
+      "name": "Titanium White",
+      "code": "8549",
+      "set": "High Flow",
+      "hex": "#FEFEFE",
+      "rgb": {
+        "r": 254,
+        "g": 254,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7380",
+      "name": "Titanium White",
+      "code": "7380",
+      "set": "OPEN Acrylics",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1380",
+      "name": "Titanium White",
+      "code": "1380",
+      "set": "Heavy Body",
+      "hex": "#FEFEFE",
+      "rgb": {
+        "r": 254,
+        "g": 254,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2380",
+      "name": "Titanium White",
+      "code": "2380",
+      "set": "Fluid",
+      "hex": "#FEFEFE",
+      "rgb": {
+        "r": 254,
+        "g": 254,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8555",
+      "name": "Transparent Benzimidazolone Yellow Medium",
+      "code": "8555",
+      "set": "High Flow",
+      "hex": "#FFDD33",
+      "rgb": {
+        "r": 255,
+        "g": 221,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7383",
+      "name": "Transparent Brown Iron Oxide",
+      "code": "7383",
+      "set": "OPEN Acrylics",
+      "hex": "#762C11",
+      "rgb": {
+        "r": 118,
+        "g": 44,
+        "b": 17
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1383",
+      "name": "Transparent Brown Iron Oxide",
+      "code": "1383",
+      "set": "Heavy Body",
+      "hex": "#702C19",
+      "rgb": {
+        "r": 112,
+        "g": 44,
+        "b": 25
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8562",
+      "name": "Transparent Brown Iron Oxide",
+      "code": "8562",
+      "set": "High Flow",
+      "hex": "#4D3111",
+      "rgb": {
+        "r": 77,
+        "g": 49,
+        "b": 17
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8556",
+      "name": "Transparent Dioxazine Purple",
+      "code": "8556",
+      "set": "High Flow",
+      "hex": "#270786",
+      "rgb": {
+        "r": 39,
+        "g": 7,
+        "b": 134
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8558",
+      "name": "Transparent Naphthol Red Light",
+      "code": "8558",
+      "set": "High Flow",
+      "hex": "#ED584E",
+      "rgb": {
+        "r": 237,
+        "g": 88,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8559",
+      "name": "Transparent Phthalo Blue GS",
+      "code": "8559",
+      "set": "High Flow",
+      "hex": "#024EAC",
+      "rgb": {
+        "r": 2,
+        "g": 78,
+        "b": 172
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8560",
+      "name": "Transparent Phthalo Green BS",
+      "code": "8560",
+      "set": "High Flow",
+      "hex": "#05C383",
+      "rgb": {
+        "r": 5,
+        "g": 195,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8561",
+      "name": "Transparent Quinacridone Red",
+      "code": "8561",
+      "set": "High Flow",
+      "hex": "#D90C45",
+      "rgb": {
+        "r": 217,
+        "g": 12,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7385",
+      "name": "Transparent Red Iron Oxide",
+      "code": "7385",
+      "set": "OPEN Acrylics",
+      "hex": "#9A1800",
+      "rgb": {
+        "r": 154,
+        "g": 24,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8563",
+      "name": "Transparent Red Iron Oxide",
+      "code": "8563",
+      "set": "High Flow",
+      "hex": "#84301E",
+      "rgb": {
+        "r": 132,
+        "g": 48,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2385",
+      "name": "Transparent Red Iron Oxide",
+      "code": "2385",
+      "set": "Fluid",
+      "hex": "#84301E",
+      "rgb": {
+        "r": 132,
+        "g": 48,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1385",
+      "name": "Transparent Red Iron Oxide",
+      "code": "1385",
+      "set": "Heavy Body",
+      "hex": "#B53011",
+      "rgb": {
+        "r": 181,
+        "g": 48,
+        "b": 17
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8564",
+      "name": "Transparent Shading Gray",
+      "code": "8564",
+      "set": "High Flow",
+      "hex": "#C1C0AB",
+      "rgb": {
+        "r": 193,
+        "g": 192,
+        "b": 171
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7386",
+      "name": "Transparent Yellow Iron Oxide",
+      "code": "7386",
+      "set": "OPEN Acrylics",
+      "hex": "#F6AE36",
+      "rgb": {
+        "r": 246,
+        "g": 174,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8565",
+      "name": "Transparent Yellow Iron Oxide",
+      "code": "8565",
+      "set": "High Flow",
+      "hex": "#A95B15",
+      "rgb": {
+        "r": 169,
+        "g": 91,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2386",
+      "name": "Transparent Yellow Iron Oxide",
+      "code": "2386",
+      "set": "Fluid",
+      "hex": "#A95B15",
+      "rgb": {
+        "r": 169,
+        "g": 91,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1386",
+      "name": "Transparent Yellow Iron Oxide",
+      "code": "1386",
+      "set": "Heavy Body",
+      "hex": "#EFAA31",
+      "rgb": {
+        "r": 239,
+        "g": 170,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6640",
+      "name": "Turquoise",
+      "code": "6640",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#00626F",
+      "rgb": {
+        "r": 0,
+        "g": 98,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8550",
+      "name": "Turquoise (Phthalo)",
+      "code": "8550",
+      "set": "High Flow",
+      "hex": "#002239",
+      "rgb": {
+        "r": 0,
+        "g": 34,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2390",
+      "name": "Turquoise (Phthalo)",
+      "code": "2390",
+      "set": "Fluid",
+      "hex": "#002239",
+      "rgb": {
+        "r": 0,
+        "g": 34,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1390",
+      "name": "Turquoise (phthalo)",
+      "code": "1390",
+      "set": "Heavy Body",
+      "hex": "#0F152B",
+      "rgb": {
+        "r": 15,
+        "g": 21,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2400",
+      "name": "Ultramarine Blue",
+      "code": "2400",
+      "set": "Fluid",
+      "hex": "#1C1B7C",
+      "rgb": {
+        "r": 28,
+        "g": 27,
+        "b": 124
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8551",
+      "name": "Ultramarine Blue",
+      "code": "8551",
+      "set": "High Flow",
+      "hex": "#1C1B7C",
+      "rgb": {
+        "r": 28,
+        "g": 27,
+        "b": 124
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7400",
+      "name": "Ultramarine Blue",
+      "code": "7400",
+      "set": "OPEN Acrylics",
+      "hex": "#44549C",
+      "rgb": {
+        "r": 68,
+        "g": 84,
+        "b": 156
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1400",
+      "name": "Ultramarine Blue",
+      "code": "1400",
+      "set": "Heavy Body",
+      "hex": "#40519B",
+      "rgb": {
+        "r": 64,
+        "g": 81,
+        "b": 155
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6610",
+      "name": "Ultramarine Blue",
+      "code": "6610",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#0028CE",
+      "rgb": {
+        "r": 0,
+        "g": 40,
+        "b": 206
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2401",
+      "name": "Ultramarine Violet",
+      "code": "2401",
+      "set": "Fluid",
+      "hex": "#4B4069",
+      "rgb": {
+        "r": 75,
+        "g": 64,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1401",
+      "name": "Ultramarine Violet",
+      "code": "1401",
+      "set": "Heavy Body",
+      "hex": "#3E397B",
+      "rgb": {
+        "r": 62,
+        "g": 57,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7401",
+      "name": "Ultramarine Violet",
+      "code": "7401",
+      "set": "OPEN Acrylics",
+      "hex": "#2C2A5C",
+      "rgb": {
+        "r": 44,
+        "g": 42,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2442",
+      "name": "VanDyke Brown Hue",
+      "code": "2442",
+      "set": "Fluid",
+      "hex": "#3B3330",
+      "rgb": {
+        "r": 59,
+        "g": 51,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1462",
+      "name": "Vandyke Brown Hue",
+      "code": "1462",
+      "set": "Heavy Body",
+      "hex": "#332920",
+      "rgb": {
+        "r": 51,
+        "g": 41,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7462",
+      "name": "Vandyke Brown Hue",
+      "code": "7462",
+      "set": "OPEN Acrylics",
+      "hex": "#4C352D",
+      "rgb": {
+        "r": 76,
+        "g": 53,
+        "b": 45
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2403",
+      "name": "Vat Orange",
+      "code": "2403",
+      "set": "Fluid",
+      "hex": "#D64409",
+      "rgb": {
+        "r": 214,
+        "g": 68,
+        "b": 9
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1403",
+      "name": "Vat Orange",
+      "code": "1403",
+      "set": "Heavy Body",
+      "hex": "#FB3100",
+      "rgb": {
+        "r": 251,
+        "g": 49,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1405",
+      "name": "Violet Oxide",
+      "code": "1405",
+      "set": "Heavy Body",
+      "hex": "#4D2523",
+      "rgb": {
+        "r": 77,
+        "g": 37,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2405",
+      "name": "Violet Oxide",
+      "code": "2405",
+      "set": "Fluid",
+      "hex": "#6B3F3E",
+      "rgb": {
+        "r": 107,
+        "g": 63,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7405",
+      "name": "Violet Oxide",
+      "code": "7405",
+      "set": "OPEN Acrylics",
+      "hex": "#502826",
+      "rgb": {
+        "r": 80,
+        "g": 40,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2443",
+      "name": "Viridian Green Hue",
+      "code": "2443",
+      "set": "Fluid",
+      "hex": "#004D48",
+      "rgb": {
+        "r": 0,
+        "g": 77,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1469",
+      "name": "Viridian Green Hue",
+      "code": "1469",
+      "set": "Heavy Body",
+      "hex": "#2B4752",
+      "rgb": {
+        "r": 43,
+        "g": 71,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7469",
+      "name": "Viridian Green Hue",
+      "code": "7469",
+      "set": "OPEN Acrylics",
+      "hex": "#307676",
+      "rgb": {
+        "r": 48,
+        "g": 118,
+        "b": 118
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6675",
+      "name": "Yellow Green",
+      "code": "6675",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#ACE735",
+      "rgb": {
+        "r": 172,
+        "g": 231,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2407",
+      "name": "Yellow Ochre",
+      "code": "2407",
+      "set": "Fluid",
+      "hex": "#B78B38",
+      "rgb": {
+        "r": 183,
+        "g": 139,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1407",
+      "name": "Yellow Ochre",
+      "code": "1407",
+      "set": "Heavy Body",
+      "hex": "#C9834A",
+      "rgb": {
+        "r": 201,
+        "g": 131,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7407",
+      "name": "Yellow Ochre",
+      "code": "7407",
+      "set": "OPEN Acrylics",
+      "hex": "#D38952",
+      "rgb": {
+        "r": 211,
+        "g": 137,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1410",
+      "name": "Yellow Oxide",
+      "code": "1410",
+      "set": "Heavy Body",
+      "hex": "#CF8C35",
+      "rgb": {
+        "r": 207,
+        "g": 140,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-6700",
+      "name": "Yellow Oxide",
+      "code": "6700",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#CD951C",
+      "rgb": {
+        "r": 205,
+        "g": 149,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-8552",
+      "name": "Yellow Oxide",
+      "code": "8552",
+      "set": "High Flow",
+      "hex": "#C5A045",
+      "rgb": {
+        "r": 197,
+        "g": 160,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2410",
+      "name": "Yellow Oxide",
+      "code": "2410",
+      "set": "Fluid",
+      "hex": "#C5A045",
+      "rgb": {
+        "r": 197,
+        "g": 160,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7410",
+      "name": "Yellow Oxide",
+      "code": "7410",
+      "set": "OPEN Acrylics",
+      "hex": "#DA9339",
+      "rgb": {
+        "r": 218,
+        "g": 147,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-1415",
+      "name": "Zinc White",
+      "code": "1415",
+      "set": "Heavy Body",
+      "hex": "#CAD3E2",
+      "rgb": {
+        "r": 202,
+        "g": 211,
+        "b": 226
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-2415",
+      "name": "Zinc White",
+      "code": "2415",
+      "set": "Fluid",
+      "hex": "#FEFEFE",
+      "rgb": {
+        "r": 254,
+        "g": 254,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "golden-7415",
+      "name": "Zinc White",
+      "code": "7415",
+      "set": "OPEN Acrylics",
+      "hex": "#9FACBD",
+      "rgb": {
+        "r": 159,
+        "g": 172,
+        "b": 189
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    }
+  ]
+}

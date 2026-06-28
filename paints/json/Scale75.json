@@ -1,0 +1,5390 @@
+{
+  "$schema": "../../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
+  "displayName": "Scale75",
+  "company": "SCALE75 HOBBIES AND GAMES, S.L.",
+  "address": {
+    "street": "Calle Cadmio, 12",
+    "city": "Arganda del Rey",
+    "postcode": "28500",
+    "country": "Spain"
+  },
+  "contactEmail": "info@scale75.com",
+  "contactForm": "",
+  "website": "https://scale75.com",
+  "phone": "+34 918 70 74 71",
+  "updatedCatalogueRequested": "",
+  "paintCount": 358,
+  "paints": [
+    {
+      "id": "scale75-abyssal-blue",
+      "name": "Abyssal Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#292A2F",
+      "rgb": {
+        "r": 41,
+        "g": 42,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-acid-green",
+      "name": "Acid Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#C4D964",
+      "rgb": {
+        "r": 196,
+        "g": 217,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-acid-pink",
+      "name": "Acid Pink",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#F81DFE",
+      "rgb": {
+        "r": 248,
+        "g": 29,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-adriatic-blue",
+      "name": "Adriatic Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#128A9B",
+      "rgb": {
+        "r": 18,
+        "g": 138,
+        "b": 155
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-african-shadow",
+      "name": "African Shadow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#56424B",
+      "rgb": {
+        "r": 86,
+        "g": 66,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-airnrhod-blue",
+      "name": "Airnrhod Blue",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#39398F",
+      "rgb": {
+        "r": 57,
+        "g": 57,
+        "b": 143
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-aldebaran-red",
+      "name": "Aldebaran Red",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#BE331E",
+      "rgb": {
+        "r": 190,
+        "g": 51,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-alizarin-green",
+      "name": "Alizarin Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#26944B",
+      "rgb": {
+        "r": 38,
+        "g": 148,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-amarth-blue",
+      "name": "Amarth Blue",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#0582C5",
+      "rgb": {
+        "r": 5,
+        "g": 130,
+        "b": 197
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-amber-alchemy",
+      "name": "Amber Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#B89E85",
+      "rgb": {
+        "r": 184,
+        "g": 158,
+        "b": 133
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-american-olive",
+      "name": "American Olive",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#736737",
+      "rgb": {
+        "r": 115,
+        "g": 103,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-amethyst-alchemy",
+      "name": "Amethyst Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#9F8EB0",
+      "rgb": {
+        "r": 159,
+        "g": 142,
+        "b": 176
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ancestral-blue",
+      "name": "Ancestral Blue",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#61ABC4",
+      "rgb": {
+        "r": 97,
+        "g": 171,
+        "b": 196
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-antares-red",
+      "name": "Antares Red",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#C11E21",
+      "rgb": {
+        "r": 193,
+        "g": 30,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-anthartic-grey",
+      "name": "Anthartic Grey",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#42424C",
+      "rgb": {
+        "r": 66,
+        "g": 66,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-arabic-shadow",
+      "name": "Arabic Shadow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#7C6833",
+      "rgb": {
+        "r": 124,
+        "g": 104,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-arbuckles-brown",
+      "name": "Arbuckles Brown",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#3C2922",
+      "rgb": {
+        "r": 60,
+        "g": 41,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-arcane-purple",
+      "name": "Arcane Purple",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#350D4C",
+      "rgb": {
+        "r": 53,
+        "g": 13,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ardenes-green",
+      "name": "Ardenes Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#566345",
+      "rgb": {
+        "r": 86,
+        "g": 99,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-arphen-jade",
+      "name": "Arphen Jade",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#035D53",
+      "rgb": {
+        "r": 3,
+        "g": 93,
+        "b": 83
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-art-black",
+      "name": "Art Black",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#101010",
+      "rgb": {
+        "r": 16,
+        "g": 16,
+        "b": 16
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-art-white",
+      "name": "Art White",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#FEFEFE",
+      "rgb": {
+        "r": 254,
+        "g": 254,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-artic-blue",
+      "name": "Artic Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#888FA1",
+      "rgb": {
+        "r": 136,
+        "g": 143,
+        "b": 161
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-artic-blue-2",
+      "name": "Artic Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#9FB3BC",
+      "rgb": {
+        "r": 159,
+        "g": 179,
+        "b": 188
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-baal-crimson",
+      "name": "Baal Crimson",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#E11A39",
+      "rgb": {
+        "r": 225,
+        "g": 26,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-basic-flesh",
+      "name": "Basic Flesh",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#D0B393",
+      "rgb": {
+        "r": 208,
+        "g": 179,
+        "b": 147
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-basilisk-green",
+      "name": "Basilisk Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#3D5152",
+      "rgb": {
+        "r": 61,
+        "g": 81,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-beherit-red",
+      "name": "Beherit Red",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#E2390E",
+      "rgb": {
+        "r": 226,
+        "g": 57,
+        "b": 14
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-belladonna-green",
+      "name": "Belladonna Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#4CA579",
+      "rgb": {
+        "r": 76,
+        "g": 165,
+        "b": 121
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-bering-blue",
+      "name": "Bering Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#6C8997",
+      "rgb": {
+        "r": 108,
+        "g": 137,
+        "b": 151
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-birch",
+      "name": "Birch",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#EFD2B0",
+      "rgb": {
+        "r": 239,
+        "g": 210,
+        "b": 176
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-black",
+      "name": "Black",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#2C2C2C",
+      "rgb": {
+        "r": 44,
+        "g": 44,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-black-forest-green",
+      "name": "Black Forest Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#004834",
+      "rgb": {
+        "r": 0,
+        "g": 72,
+        "b": 52
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-black-ink",
+      "name": "Black Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#1B1A18",
+      "rgb": {
+        "r": 27,
+        "g": 26,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-black-leather",
+      "name": "Black Leather",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#422A2A",
+      "rgb": {
+        "r": 66,
+        "g": 42,
+        "b": 42
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-black-metal",
+      "name": "Black Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#484848",
+      "rgb": {
+        "r": 72,
+        "g": 72,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-blackert-brown",
+      "name": "Blackert Brown",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#B8825C",
+      "rgb": {
+        "r": 184,
+        "g": 130,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-blood-red",
+      "name": "Blood Red",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#912727",
+      "rgb": {
+        "r": 145,
+        "g": 39,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-bloodfest-crimson",
+      "name": "Bloodfest Crimson",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#6A033B",
+      "rgb": {
+        "r": 106,
+        "g": 3,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-boreal-green",
+      "name": "Boreal Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#00563E",
+      "rgb": {
+        "r": 0,
+        "g": 86,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-bosh-chesnut",
+      "name": "Bosh Chesnut",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#69452F",
+      "rgb": {
+        "r": 105,
+        "g": 69,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-braineater-azure",
+      "name": "Braineater Azure",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#676AAF",
+      "rgb": {
+        "r": 103,
+        "g": 106,
+        "b": 175
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-braun",
+      "name": "Braun",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#E5C89E",
+      "rgb": {
+        "r": 229,
+        "g": 200,
+        "b": 158
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-brilli-white",
+      "name": "Brilli White",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#FEFEFE",
+      "rgb": {
+        "r": 254,
+        "g": 254,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-brown-gray",
+      "name": "Brown Gray",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#7B7170",
+      "rgb": {
+        "r": 123,
+        "g": 113,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-brown-leather",
+      "name": "Brown Leather",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#4D2C1D",
+      "rgb": {
+        "r": 77,
+        "g": 44,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-buff",
+      "name": "Buff",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#B29D82",
+      "rgb": {
+        "r": 178,
+        "g": 157,
+        "b": 130
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-burgundy-wine-red",
+      "name": "Burgundy Wine Red",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#5A2212",
+      "rgb": {
+        "r": 90,
+        "g": 34,
+        "b": 18
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-burnt-sienna",
+      "name": "Burnt Sienna",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#7C2D06",
+      "rgb": {
+        "r": 124,
+        "g": 45,
+        "b": 6
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-burnt-sienna-umber",
+      "name": "Burnt Sienna Umber",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#4C2A20",
+      "rgb": {
+        "r": 76,
+        "g": 42,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-burnt-skin",
+      "name": "Burnt Skin",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#654023",
+      "rgb": {
+        "r": 101,
+        "g": 64,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-burnt-umber",
+      "name": "Burnt Umber",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#51402C",
+      "rgb": {
+        "r": 81,
+        "g": 64,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-cantabric-blue",
+      "name": "Cantabric Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#164765",
+      "rgb": {
+        "r": 22,
+        "g": 71,
+        "b": 101
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-caribbean-blue",
+      "name": "Caribbean Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#75B6B0",
+      "rgb": {
+        "r": 117,
+        "g": 182,
+        "b": 176
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-caspian-blue",
+      "name": "Caspian Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#2A4F58",
+      "rgb": {
+        "r": 42,
+        "g": 79,
+        "b": 88
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-chesknut-ink",
+      "name": "Chesknut Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#40362D",
+      "rgb": {
+        "r": 64,
+        "g": 54,
+        "b": 45
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-chink-orange",
+      "name": "Chink Orange",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#B2621B",
+      "rgb": {
+        "r": 178,
+        "g": 98,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-citrine-alchemy",
+      "name": "Citrine Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#EFE1C7",
+      "rgb": {
+        "r": 239,
+        "g": 225,
+        "b": 199
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-city-dust",
+      "name": "City Dust",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#C6C1BD",
+      "rgb": {
+        "r": 198,
+        "g": 193,
+        "b": 189
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-cobalt-blue",
+      "name": "Cobalt Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#005E91",
+      "rgb": {
+        "r": 0,
+        "g": 94,
+        "b": 145
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-cobalt-metal",
+      "name": "Cobalt Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#7FA2B5",
+      "rgb": {
+        "r": 127,
+        "g": 162,
+        "b": 181
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-cobalt-violet-grey",
+      "name": "Cobalt Violet Grey",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#73768B",
+      "rgb": {
+        "r": 115,
+        "g": 118,
+        "b": 139
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-cokum-copper",
+      "name": "Cokum Copper",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#A37021",
+      "rgb": {
+        "r": 163,
+        "g": 112,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-coral-red",
+      "name": "Coral Red",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#F73724",
+      "rgb": {
+        "r": 247,
+        "g": 55,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-cork-brown",
+      "name": "Cork Brown",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#9F8D78",
+      "rgb": {
+        "r": 159,
+        "g": 141,
+        "b": 120
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-corrupted-stamina",
+      "name": "Corrupted Stamina",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#699D0C",
+      "rgb": {
+        "r": 105,
+        "g": 157,
+        "b": 12
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-cremeweiss",
+      "name": "Cremeweiss",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#FCFCE0",
+      "rgb": {
+        "r": 252,
+        "g": 252,
+        "b": 224
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-crimsom",
+      "name": "Crimsom",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#C22335",
+      "rgb": {
+        "r": 194,
+        "g": 35,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-crimson-ink",
+      "name": "Crimson Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#9F1C2B",
+      "rgb": {
+        "r": 159,
+        "g": 28,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dark-brown-ochre",
+      "name": "Dark Brown Ochre",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#1E1317",
+      "rgb": {
+        "r": 30,
+        "g": 19,
+        "b": 23
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dark-earth",
+      "name": "Dark Earth",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#643722",
+      "rgb": {
+        "r": 100,
+        "g": 55,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dark-kraken",
+      "name": "Dark Kraken",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#194A5B",
+      "rgb": {
+        "r": 25,
+        "g": 74,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dark-mud",
+      "name": "Dark Mud",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#210200",
+      "rgb": {
+        "r": 33,
+        "g": 2,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dark-prussian-blue",
+      "name": "Dark Prussian Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#252430",
+      "rgb": {
+        "r": 37,
+        "g": 36,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dark-rust",
+      "name": "Dark Rust",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#6B3729",
+      "rgb": {
+        "r": 107,
+        "g": 55,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dark-sand",
+      "name": "Dark Sand",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#D4BB92",
+      "rgb": {
+        "r": 212,
+        "g": 187,
+        "b": 146
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dark-stains",
+      "name": "Dark Stains",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dark-ultramarine",
+      "name": "Dark Ultramarine",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#32297A",
+      "rgb": {
+        "r": 50,
+        "g": 41,
+        "b": 122
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dark-violet",
+      "name": "Dark Violet",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#481A3F",
+      "rgb": {
+        "r": 72,
+        "g": 26,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dead-flesh",
+      "name": "Dead Flesh",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#7F6662",
+      "rgb": {
+        "r": 127,
+        "g": 102,
+        "b": 98
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-decay-black",
+      "name": "Decay Black",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#1C1C1C",
+      "rgb": {
+        "r": 28,
+        "g": 28,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-decayed-metal",
+      "name": "Decayed Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#5D4038",
+      "rgb": {
+        "r": 93,
+        "g": 64,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-deep-blue",
+      "name": "Deep Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#383B4A",
+      "rgb": {
+        "r": 56,
+        "g": 59,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-deep-ocean",
+      "name": "Deep Ocean",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#000B2B",
+      "rgb": {
+        "r": 0,
+        "g": 11,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-deep-red",
+      "name": "Deep Red",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#701B20",
+      "rgb": {
+        "r": 112,
+        "g": 27,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-demon-brown",
+      "name": "Demon Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#66271E",
+      "rgb": {
+        "r": 102,
+        "g": 39,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-desert-yellow",
+      "name": "Desert Yellow",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#D9AF75",
+      "rgb": {
+        "r": 217,
+        "g": 175,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-despair-green",
+      "name": "Despair Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#17383D",
+      "rgb": {
+        "r": 23,
+        "g": 56,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dragon-blood",
+      "name": "Dragon Blood",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#810622",
+      "rgb": {
+        "r": 129,
+        "g": 6,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-drain-life",
+      "name": "Drain Life",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#E69464",
+      "rgb": {
+        "r": 230,
+        "g": 148,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dubai-brown",
+      "name": "Dubai Brown",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#583D22",
+      "rgb": {
+        "r": 88,
+        "g": 61,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dunkelbraun-brown",
+      "name": "Dunkelbraun Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#413028",
+      "rgb": {
+        "r": 65,
+        "g": 48,
+        "b": 40
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dunkelgelb-44",
+      "name": "Dunkelgelb 44",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#DED1B1",
+      "rgb": {
+        "r": 222,
+        "g": 209,
+        "b": 177
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dunkelgelb-yellow",
+      "name": "Dunkelgelb Yellow",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#CBB550",
+      "rgb": {
+        "r": 203,
+        "g": 181,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dunkelgrau-gray",
+      "name": "Dunkelgrau Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#57585A",
+      "rgb": {
+        "r": 87,
+        "g": 88,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dust-in-summertime",
+      "name": "Dust In Summertime",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#727556",
+      "rgb": {
+        "r": 114,
+        "g": 117,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-dwarven-gold",
+      "name": "Dwarven Gold",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#D68D2F",
+      "rgb": {
+        "r": 214,
+        "g": 141,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-earth-green",
+      "name": "Earth Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#4A3C2F",
+      "rgb": {
+        "r": 74,
+        "g": 60,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-eclipse-grey",
+      "name": "Eclipse Grey",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#363636",
+      "rgb": {
+        "r": 54,
+        "g": 54,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-eldandil-violet",
+      "name": "Eldandil Violet",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#2B1A3C",
+      "rgb": {
+        "r": 43,
+        "g": 26,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-electric-blue",
+      "name": "Electric Blue",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#021AFE",
+      "rgb": {
+        "r": 2,
+        "g": 26,
+        "b": 254
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-elixir-green",
+      "name": "Elixir Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#005C4D",
+      "rgb": {
+        "r": 0,
+        "g": 92,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-elven-gold",
+      "name": "Elven Gold",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#CDAB47",
+      "rgb": {
+        "r": 205,
+        "g": 171,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-emerald-alchemy",
+      "name": "Emerald Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#78A098",
+      "rgb": {
+        "r": 120,
+        "g": 160,
+        "b": 152
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-emerald-green",
+      "name": "Emerald Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#165341",
+      "rgb": {
+        "r": 22,
+        "g": 83,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-endurance-brown",
+      "name": "Endurance Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#773F1C",
+      "rgb": {
+        "r": 119,
+        "g": 63,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-estus-yellow",
+      "name": "Estus Yellow",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#FEE459",
+      "rgb": {
+        "r": 254,
+        "g": 228,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-evil-root",
+      "name": "Evil Root",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#F07E4A",
+      "rgb": {
+        "r": 240,
+        "g": 126,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-fairy-blood",
+      "name": "Fairy Blood",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#414874",
+      "rgb": {
+        "r": 65,
+        "g": 72,
+        "b": 116
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-fall-green",
+      "name": "Fall Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#C9D161",
+      "rgb": {
+        "r": 201,
+        "g": 209,
+        "b": 97
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-field-gray",
+      "name": "Field Gray",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#66736C",
+      "rgb": {
+        "r": 102,
+        "g": 115,
+        "b": 108
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-field-grey-1",
+      "name": "Field Grey 1",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#39553C",
+      "rgb": {
+        "r": 57,
+        "g": 85,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-field-grey-2",
+      "name": "Field Grey 2",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#3F4C45",
+      "rgb": {
+        "r": 63,
+        "g": 76,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-flat-black",
+      "name": "Flat Black",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#1C1C1C",
+      "rgb": {
+        "r": 28,
+        "g": 28,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-flight-blue",
+      "name": "Flight Blue",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#01688B",
+      "rgb": {
+        "r": 1,
+        "g": 104,
+        "b": 139
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-frenzy-orange",
+      "name": "Frenzy Orange",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#EC6001",
+      "rgb": {
+        "r": 236,
+        "g": 96,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-fuchsia",
+      "name": "Fuchsia",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#AA336B",
+      "rgb": {
+        "r": 170,
+        "g": 51,
+        "b": 107
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-fuel-and-grease",
+      "name": "Fuel And Grease",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#EEEAE9",
+      "rgb": {
+        "r": 238,
+        "g": 234,
+        "b": 233
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-full-healing",
+      "name": "Full Healing",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#FEEF00",
+      "rgb": {
+        "r": 254,
+        "g": 239,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-garnet-alchemy",
+      "name": "Garnet Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#88424D",
+      "rgb": {
+        "r": 136,
+        "g": 66,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-gelbraun-brown",
+      "name": "Gelbraun Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#D5AC74",
+      "rgb": {
+        "r": 213,
+        "g": 172,
+        "b": 116
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-gobi-brown",
+      "name": "Gobi Brown",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#6E5A3F",
+      "rgb": {
+        "r": 110,
+        "g": 90,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-goblin-flesh",
+      "name": "Goblin Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#77B840",
+      "rgb": {
+        "r": 119,
+        "g": 184,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-golden-flesh",
+      "name": "Golden Flesh",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#E2A76D",
+      "rgb": {
+        "r": 226,
+        "g": 167,
+        "b": 109
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-golden-skin",
+      "name": "Golden Skin",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#EDC89C",
+      "rgb": {
+        "r": 237,
+        "g": 200,
+        "b": 156
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-golem-grey",
+      "name": "Golem Grey",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#2C3031",
+      "rgb": {
+        "r": 44,
+        "g": 48,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-graphene-gray",
+      "name": "Graphene Gray",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#4A515B",
+      "rgb": {
+        "r": 74,
+        "g": 81,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-graphite",
+      "name": "Graphite",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#8B8C87",
+      "rgb": {
+        "r": 139,
+        "g": 140,
+        "b": 135
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-grau",
+      "name": "Grau",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#E8D5C4",
+      "rgb": {
+        "r": 232,
+        "g": 213,
+        "b": 196
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-graugrun-gray",
+      "name": "Graugrun Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#A08848",
+      "rgb": {
+        "r": 160,
+        "g": 136,
+        "b": 72
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-grease",
+      "name": "Grease",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#3E2D25",
+      "rgb": {
+        "r": 62,
+        "g": 45,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-green-grey",
+      "name": "Green Grey",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#2C3033",
+      "rgb": {
+        "r": 44,
+        "g": 48,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-green-moss",
+      "name": "Green Moss",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#1C7C23",
+      "rgb": {
+        "r": 28,
+        "g": 124,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-green-ochre",
+      "name": "Green Ochre",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#948123",
+      "rgb": {
+        "r": 148,
+        "g": 129,
+        "b": 35
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-greenskin-flesh",
+      "name": "Greenskin Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#006F34",
+      "rgb": {
+        "r": 0,
+        "g": 111,
+        "b": 52
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-grey-spell",
+      "name": "Grey Spell",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#808FB0",
+      "rgb": {
+        "r": 128,
+        "g": 143,
+        "b": 176
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-grizzly-brown",
+      "name": "Grizzly Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#50181B",
+      "rgb": {
+        "r": 80,
+        "g": 24,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-harvester-flesh",
+      "name": "Harvester Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#D0A791",
+      "rgb": {
+        "r": 208,
+        "g": 167,
+        "b": 145
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-hastur-purple",
+      "name": "Hastur Purple",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#740331",
+      "rgb": {
+        "r": 116,
+        "g": 3,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-health-red",
+      "name": "Health Red",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#C31610",
+      "rgb": {
+        "r": 195,
+        "g": 22,
+        "b": 16
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-heavy-metal",
+      "name": "Heavy Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#9C9DA1",
+      "rgb": {
+        "r": 156,
+        "g": 157,
+        "b": 161
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-hellbound-flesh",
+      "name": "Hellbound Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#9CB1AC",
+      "rgb": {
+        "r": 156,
+        "g": 177,
+        "b": 172
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-hiril-blue",
+      "name": "Hiril Blue",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#4AA9BF",
+      "rgb": {
+        "r": 74,
+        "g": 169,
+        "b": 191
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-huldra-blue",
+      "name": "Huldra Blue",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#234256",
+      "rgb": {
+        "r": 35,
+        "g": 66,
+        "b": 86
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-human-flesh",
+      "name": "Human Flesh",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#DAAB97",
+      "rgb": {
+        "r": 218,
+        "g": 171,
+        "b": 151
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-hykey-yellow",
+      "name": "Hykey Yellow",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#EFD491",
+      "rgb": {
+        "r": 239,
+        "g": 212,
+        "b": 145
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-indian-shadow",
+      "name": "Indian Shadow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#673D3F",
+      "rgb": {
+        "r": 103,
+        "g": 61,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-inktense-black",
+      "name": "Inktense Black",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#292929",
+      "rgb": {
+        "r": 41,
+        "g": 41,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-inktense-blue",
+      "name": "Inktense Blue",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#012861",
+      "rgb": {
+        "r": 1,
+        "g": 40,
+        "b": 97
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-inktense-chesnut",
+      "name": "Inktense Chesnut",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#803C15",
+      "rgb": {
+        "r": 128,
+        "g": 60,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-inktense-green",
+      "name": "Inktense Green",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#043E32",
+      "rgb": {
+        "r": 4,
+        "g": 62,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-inktense-red",
+      "name": "Inktense Red",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#A91E21",
+      "rgb": {
+        "r": 169,
+        "g": 30,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-inktense-violet",
+      "name": "Inktense Violet",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#49196F",
+      "rgb": {
+        "r": 73,
+        "g": 25,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-inktense-wood",
+      "name": "Inktense Wood",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#493326",
+      "rgb": {
+        "r": 73,
+        "g": 51,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-inktense-yellow",
+      "name": "Inktense Yellow",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#E3BE15",
+      "rgb": {
+        "r": 227,
+        "g": 190,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-innsmouth-blue",
+      "name": "Innsmouth Blue",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#00596B",
+      "rgb": {
+        "r": 0,
+        "g": 89,
+        "b": 107
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-intense-yellow",
+      "name": "Intense Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#F2CB02",
+      "rgb": {
+        "r": 242,
+        "g": 203,
+        "b": 2
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-irati-green",
+      "name": "Irati Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#008721",
+      "rgb": {
+        "r": 0,
+        "g": 135,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-iroko",
+      "name": "Iroko",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#B28F4D",
+      "rgb": {
+        "r": 178,
+        "g": 143,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ishtar-pink",
+      "name": "Ishtar Pink",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#FC9363",
+      "rgb": {
+        "r": 252,
+        "g": 147,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-jade-green",
+      "name": "Jade Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#2FBEAF",
+      "rgb": {
+        "r": 47,
+        "g": 190,
+        "b": 175
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-jorildyn-turquoise",
+      "name": "Jorildyn Turquoise",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#067DA7",
+      "rgb": {
+        "r": 6,
+        "g": 125,
+        "b": 167
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-kalahari-orange",
+      "name": "Kalahari Orange",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#A3563C",
+      "rgb": {
+        "r": 163,
+        "g": 86,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-kunzite-alchemy",
+      "name": "Kunzite Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#CA9FBB",
+      "rgb": {
+        "r": 202,
+        "g": 159,
+        "b": 187
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-leaden-sky",
+      "name": "Leaden Sky",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#404F70",
+      "rgb": {
+        "r": 64,
+        "g": 79,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-lemon-yellow",
+      "name": "Lemon Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#EBEA52",
+      "rgb": {
+        "r": 235,
+        "g": 234,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-lendanis-grey",
+      "name": "Lendanis Grey",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#8B8DA4",
+      "rgb": {
+        "r": 139,
+        "g": 141,
+        "b": 164
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-leviathan-blue",
+      "name": "Leviathan Blue",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#005E70",
+      "rgb": {
+        "r": 0,
+        "g": 94,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-life-red",
+      "name": "Life Red",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#E63217",
+      "rgb": {
+        "r": 230,
+        "g": 50,
+        "b": 23
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-light-moss-green",
+      "name": "Light Moss Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#61701B",
+      "rgb": {
+        "r": 97,
+        "g": 112,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-light-rust",
+      "name": "Light Rust",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#C1682C",
+      "rgb": {
+        "r": 193,
+        "g": 104,
+        "b": 44
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-light-skin",
+      "name": "Light Skin",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#E2B890",
+      "rgb": {
+        "r": 226,
+        "g": 184,
+        "b": 144
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-light-skin-2",
+      "name": "Light Skin",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#D3B5AD",
+      "rgb": {
+        "r": 211,
+        "g": 181,
+        "b": 173
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-light-sky",
+      "name": "Light Sky",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#7890B4",
+      "rgb": {
+        "r": 120,
+        "g": 144,
+        "b": 180
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-light-ultramarine",
+      "name": "Light Ultramarine",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#263E88",
+      "rgb": {
+        "r": 38,
+        "g": 62,
+        "b": 136
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-lilith-yellow",
+      "name": "Lilith Yellow",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#FDEA83",
+      "rgb": {
+        "r": 253,
+        "g": 234,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-lime-green",
+      "name": "Lime Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#ACE44A",
+      "rgb": {
+        "r": 172,
+        "g": 228,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-love-affair",
+      "name": "Love Affair",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#E92B37",
+      "rgb": {
+        "r": 233,
+        "g": 43,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-magenta",
+      "name": "Magenta",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#C60A85",
+      "rgb": {
+        "r": 198,
+        "g": 10,
+        "b": 133
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-magic-blue",
+      "name": "Magic Blue",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#147797",
+      "rgb": {
+        "r": 20,
+        "g": 119,
+        "b": 151
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-mana-regeneration",
+      "name": "Mana Regeneration",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#0184D2",
+      "rgb": {
+        "r": 1,
+        "g": 132,
+        "b": 210
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-marduk-yellow",
+      "name": "Marduk Yellow",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#FFEF00",
+      "rgb": {
+        "r": 255,
+        "g": 239,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-mars-orange",
+      "name": "Mars Orange",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#AF6631",
+      "rgb": {
+        "r": 175,
+        "g": 102,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-mayhem-red",
+      "name": "Mayhem Red",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#9F0D20",
+      "rgb": {
+        "r": 159,
+        "g": 13,
+        "b": 32
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-mediterranean-blue",
+      "name": "Mediterranean Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#4D73B2",
+      "rgb": {
+        "r": 77,
+        "g": 115,
+        "b": 178
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-medium-wet",
+      "name": "Medium Wet",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-merm-green",
+      "name": "Merm Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#455236",
+      "rgb": {
+        "r": 69,
+        "g": 82,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-mid-ground-earth",
+      "name": "Mid Ground / Earth",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#C8AD7E",
+      "rgb": {
+        "r": 200,
+        "g": 173,
+        "b": 126
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-misfits-green",
+      "name": "Misfits Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#004B31",
+      "rgb": {
+        "r": 0,
+        "g": 75,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-miskatonic-grey",
+      "name": "Miskatonic Grey",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#BBB7B4",
+      "rgb": {
+        "r": 187,
+        "g": 183,
+        "b": 180
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-mojave-white",
+      "name": "Mojave White",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#D2CEB5",
+      "rgb": {
+        "r": 210,
+        "g": 206,
+        "b": 181
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-moonray-flesh",
+      "name": "Moonray Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#F0D7A1",
+      "rgb": {
+        "r": 240,
+        "g": 215,
+        "b": 161
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-moonstone-alchemy",
+      "name": "Moonstone Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#BC937F",
+      "rgb": {
+        "r": 188,
+        "g": 147,
+        "b": 127
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-moss-green",
+      "name": "Moss Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#43492F",
+      "rgb": {
+        "r": 67,
+        "g": 73,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-nacar",
+      "name": "Nacar",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#9B9F90",
+      "rgb": {
+        "r": 155,
+        "g": 159,
+        "b": 144
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-naples-yellow",
+      "name": "Naples Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#DAAC22",
+      "rgb": {
+        "r": 218,
+        "g": 172,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-navy-blue",
+      "name": "Navy Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#253B6D",
+      "rgb": {
+        "r": 37,
+        "g": 59,
+        "b": 109
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-necro-gold",
+      "name": "Necro Gold",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#574E31",
+      "rgb": {
+        "r": 87,
+        "g": 78,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-necro-grey",
+      "name": "Necro Grey",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#303038",
+      "rgb": {
+        "r": 48,
+        "g": 48,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-neon-blue",
+      "name": "Neon Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#0E81D6",
+      "rgb": {
+        "r": 14,
+        "g": 129,
+        "b": 214
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-neon-green",
+      "name": "Neon Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#62F687",
+      "rgb": {
+        "r": 98,
+        "g": 246,
+        "b": 135
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-neon-orange",
+      "name": "Neon Orange",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#FF9E0E",
+      "rgb": {
+        "r": 255,
+        "g": 158,
+        "b": 14
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-neon-pink",
+      "name": "Neon Pink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#FE3F47",
+      "rgb": {
+        "r": 254,
+        "g": 63,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-neon-red",
+      "name": "Neon Red",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#EF321D",
+      "rgb": {
+        "r": 239,
+        "g": 50,
+        "b": 29
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-neon-yellow",
+      "name": "Neon Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#EDFE5A",
+      "rgb": {
+        "r": 237,
+        "g": 254,
+        "b": 90
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ocean-blue",
+      "name": "Ocean Blue",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#0C2140",
+      "rgb": {
+        "r": 12,
+        "g": 33,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ocean-gray",
+      "name": "Ocean Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#556477",
+      "rgb": {
+        "r": 85,
+        "g": 100,
+        "b": 119
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-odorless-thinner",
+      "name": "Odorless Thinner",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#DFDFDF",
+      "rgb": {
+        "r": 223,
+        "g": 223,
+        "b": 223
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-off-white",
+      "name": "Off White",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#DFD3B9",
+      "rgb": {
+        "r": 223,
+        "g": 211,
+        "b": 185
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ogre-brown",
+      "name": "Ogre Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#C07704",
+      "rgb": {
+        "r": 192,
+        "g": 119,
+        "b": 4
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-old-copper",
+      "name": "Old Copper",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#97604C",
+      "rgb": {
+        "r": 151,
+        "g": 96,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-olive-brown",
+      "name": "Olive Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#434631",
+      "rgb": {
+        "r": 67,
+        "g": 70,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-olive-green",
+      "name": "Olive Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#585135",
+      "rgb": {
+        "r": 88,
+        "g": 81,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-olivegrun-44",
+      "name": "Olivegrun 44",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#93A45D",
+      "rgb": {
+        "r": 147,
+        "g": 164,
+        "b": 93
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-olivegrun-green",
+      "name": "Olivegrun Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#5A6432",
+      "rgb": {
+        "r": 90,
+        "g": 100,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-orange",
+      "name": "Orange",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#E9670F",
+      "rgb": {
+        "r": 233,
+        "g": 103,
+        "b": 15
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-orange-2",
+      "name": "Orange",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#D45B14",
+      "rgb": {
+        "r": 212,
+        "g": 91,
+        "b": 20
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-orange-leather",
+      "name": "Orange Leather",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#A06337",
+      "rgb": {
+        "r": 160,
+        "g": 99,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-orange-neon",
+      "name": "Orange Neon",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#F96401",
+      "rgb": {
+        "r": 249,
+        "g": 100,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-orcish-dermis",
+      "name": "Orcish Dermis",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#DB7D73",
+      "rgb": {
+        "r": 219,
+        "g": 125,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-oxford-blue",
+      "name": "Oxford Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#434EA8",
+      "rgb": {
+        "r": 67,
+        "g": 78,
+        "b": 168
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pale-dust",
+      "name": "Pale Dust",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#EAD1BB",
+      "rgb": {
+        "r": 234,
+        "g": 209,
+        "b": 187
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pale-earth",
+      "name": "Pale Earth",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#5F4125",
+      "rgb": {
+        "r": 95,
+        "g": 65,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pale-skin",
+      "name": "Pale Skin",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#F1D9CF",
+      "rgb": {
+        "r": 241,
+        "g": 217,
+        "b": 207
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pale-skin-2",
+      "name": "Pale Skin",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#F3D6CF",
+      "rgb": {
+        "r": 243,
+        "g": 214,
+        "b": 207
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-panzer-grey",
+      "name": "Panzer Grey",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#30383B",
+      "rgb": {
+        "r": 48,
+        "g": 56,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-panzer-yellow",
+      "name": "Panzer Yellow",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#D6C78C",
+      "rgb": {
+        "r": 214,
+        "g": 199,
+        "b": 140
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-paralyze-blue",
+      "name": "Paralyze Blue",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#3579C0",
+      "rgb": {
+        "r": 53,
+        "g": 121,
+        "b": 192
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pastel-blue",
+      "name": "Pastel Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#44646F",
+      "rgb": {
+        "r": 68,
+        "g": 100,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pastel-green",
+      "name": "Pastel Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#929D97",
+      "rgb": {
+        "r": 146,
+        "g": 157,
+        "b": 151
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pastel-pink",
+      "name": "Pastel Pink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#D97ABA",
+      "rgb": {
+        "r": 217,
+        "g": 122,
+        "b": 186
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pastel-violet",
+      "name": "Pastel Violet",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#804A95",
+      "rgb": {
+        "r": 128,
+        "g": 74,
+        "b": 149
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-peanut-butter",
+      "name": "Peanut Butter",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#BB8103",
+      "rgb": {
+        "r": 187,
+        "g": 129,
+        "b": 3
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pearl-grey",
+      "name": "Pearl Grey",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#867980",
+      "rgb": {
+        "r": 134,
+        "g": 121,
+        "b": 128
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-peridot-alchemy",
+      "name": "Peridot Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#8A8D78",
+      "rgb": {
+        "r": 138,
+        "g": 141,
+        "b": 120
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-permanent-orange",
+      "name": "Permanent Orange",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#FF6B0D",
+      "rgb": {
+        "r": 255,
+        "g": 107,
+        "b": 13
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-petroleum-gray",
+      "name": "Petroleum Gray",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#554D4B",
+      "rgb": {
+        "r": 85,
+        "g": 77,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-phoenix-egg",
+      "name": "Phoenix Egg",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#E5D0A3",
+      "rgb": {
+        "r": 229,
+        "g": 208,
+        "b": 163
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-phoenix-feather",
+      "name": "Phoenix Feather",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#D18A5C",
+      "rgb": {
+        "r": 209,
+        "g": 138,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pink-flesh",
+      "name": "Pink Flesh",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#D1928D",
+      "rgb": {
+        "r": 209,
+        "g": 146,
+        "b": 141
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pink-flesh-2",
+      "name": "Pink Flesh",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#BD7066",
+      "rgb": {
+        "r": 189,
+        "g": 112,
+        "b": 102
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pistachio-green-ink",
+      "name": "Pistachio Green Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#C0CF18",
+      "rgb": {
+        "r": 192,
+        "g": 207,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-primary-blue",
+      "name": "Primary Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#1A76B5",
+      "rgb": {
+        "r": 26,
+        "g": 118,
+        "b": 181
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-primary-red",
+      "name": "Primary Red",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#D53036",
+      "rgb": {
+        "r": 213,
+        "g": 48,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-primary-yellow",
+      "name": "Primary Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#F4E915",
+      "rgb": {
+        "r": 244,
+        "g": 233,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-primer-surface-black",
+      "name": "Primer Surface Black",
+      "code": null,
+      "set": "Primers",
+      "hex": "#101318",
+      "rgb": {
+        "r": 16,
+        "g": 19,
+        "b": 24
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-primer-surface-gray",
+      "name": "Primer Surface Gray",
+      "code": null,
+      "set": "Primers",
+      "hex": "#646464",
+      "rgb": {
+        "r": 100,
+        "g": 100,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-primer-surface-white",
+      "name": "Primer Surface White",
+      "code": null,
+      "set": "Primers",
+      "hex": "#C9CFD5",
+      "rgb": {
+        "r": 201,
+        "g": 207,
+        "b": 213
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-prusian-blue",
+      "name": "Prusian Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#06293D",
+      "rgb": {
+        "r": 6,
+        "g": 41,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-psychedelic-purple",
+      "name": "Psychedelic Purple",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#BB1CFF",
+      "rgb": {
+        "r": 187,
+        "g": 28,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-pure-copper",
+      "name": "Pure Copper",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#CC744C",
+      "rgb": {
+        "r": 204,
+        "g": 116,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-purity-white",
+      "name": "Purity White",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-purple",
+      "name": "Purple",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#912360",
+      "rgb": {
+        "r": 145,
+        "g": 35,
+        "b": 96
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-rage-brown",
+      "name": "Rage Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#7C2B16",
+      "rgb": {
+        "r": 124,
+        "g": 43,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ragweed-orange",
+      "name": "Ragweed Orange",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#DF6A27",
+      "rgb": {
+        "r": 223,
+        "g": 106,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-rainy-gray",
+      "name": "Rainy Gray",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#8B8683",
+      "rgb": {
+        "r": 139,
+        "g": 134,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-raw-sienna",
+      "name": "Raw Sienna",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#654226",
+      "rgb": {
+        "r": 101,
+        "g": 66,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-raw-umber",
+      "name": "Raw Umber",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#765F33",
+      "rgb": {
+        "r": 118,
+        "g": 95,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-red-ecstasy",
+      "name": "Red Ecstasy",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#F81803",
+      "rgb": {
+        "r": 248,
+        "g": 24,
+        "b": 3
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-red-label",
+      "name": "Red Label",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#DF0617",
+      "rgb": {
+        "r": 223,
+        "g": 6,
+        "b": 23
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-red-leather",
+      "name": "Red Leather",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#5F3634",
+      "rgb": {
+        "r": 95,
+        "g": 54,
+        "b": 52
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-red-ochre",
+      "name": "Red Ochre",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#80362D",
+      "rgb": {
+        "r": 128,
+        "g": 54,
+        "b": 45
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-remove-mana",
+      "name": "Remove Mana",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#0D2736",
+      "rgb": {
+        "r": 13,
+        "g": 39,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-replenish-blue",
+      "name": "Replenish Blue",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#01479C",
+      "rgb": {
+        "r": 1,
+        "g": 71,
+        "b": 156
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-resurrection-flesh",
+      "name": "Resurrection Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#BB8B65",
+      "rgb": {
+        "r": 187,
+        "g": 139,
+        "b": 101
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-riff-green",
+      "name": "Riff Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#1A2D29",
+      "rgb": {
+        "r": 26,
+        "g": 45,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-rlyeh-grey",
+      "name": "Rlyeh Grey",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#464B4E",
+      "rgb": {
+        "r": 70,
+        "g": 75,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-rotbraun-44",
+      "name": "Rotbraun 44",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#905024",
+      "rgb": {
+        "r": 144,
+        "g": 80,
+        "b": 36
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-rotbraun-primer-red",
+      "name": "Rotbraun Primer Red",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#925447",
+      "rgb": {
+        "r": 146,
+        "g": 84,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-rotbraun-red",
+      "name": "Rotbraun Red",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#52341A",
+      "rgb": {
+        "r": 82,
+        "g": 52,
+        "b": 26
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-rotten-pus",
+      "name": "Rotten Pus",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#FBB400",
+      "rgb": {
+        "r": 251,
+        "g": 180,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ruby-alchemy",
+      "name": "Ruby Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#D37887",
+      "rgb": {
+        "r": 211,
+        "g": 120,
+        "b": 135
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-russian-green",
+      "name": "Russian Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#584F26",
+      "rgb": {
+        "r": 88,
+        "g": 79,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-russian-light-green",
+      "name": "Russian Light Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#635111",
+      "rgb": {
+        "r": 99,
+        "g": 81,
+        "b": 17
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-russian-uniform",
+      "name": "Russian Uniform",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#695928",
+      "rgb": {
+        "r": 105,
+        "g": 89,
+        "b": 40
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-golden-brown",
+      "name": "SS Camo Golden Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#F0A001",
+      "rgb": {
+        "r": 240,
+        "g": 160,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sahara-sand",
+      "name": "Sahara Sand",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#EFD066",
+      "rgb": {
+        "r": 239,
+        "g": 208,
+        "b": 102
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sahara-yellow",
+      "name": "Sahara Yellow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#AA852D",
+      "rgb": {
+        "r": 170,
+        "g": 133,
+        "b": 45
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-salmon-fury",
+      "name": "Salmon Fury",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#EB5650",
+      "rgb": {
+        "r": 235,
+        "g": 86,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sand-yellow",
+      "name": "Sand Yellow",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#EAC581",
+      "rgb": {
+        "r": 234,
+        "g": 197,
+        "b": 129
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sandalwood",
+      "name": "Sandalwood",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#B89086",
+      "rgb": {
+        "r": 184,
+        "g": 144,
+        "b": 134
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sap-green",
+      "name": "Sap Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#033417",
+      "rgb": {
+        "r": 3,
+        "g": 52,
+        "b": 23
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-savage-beige",
+      "name": "Savage Beige",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#F3D783",
+      "rgb": {
+        "r": 243,
+        "g": 215,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-shadow-black",
+      "name": "Shadow Black",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#1D1F1C",
+      "rgb": {
+        "r": 29,
+        "g": 31,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-shadow-blue",
+      "name": "Shadow Blue",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#2A3245",
+      "rgb": {
+        "r": 42,
+        "g": 50,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sharpnel-red",
+      "name": "Sharpnel Red",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#6E290A",
+      "rgb": {
+        "r": 110,
+        "g": 41,
+        "b": 10
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sherwood-green",
+      "name": "Sherwood Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#7D853A",
+      "rgb": {
+        "r": 125,
+        "g": 133,
+        "b": 58
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sky-blue",
+      "name": "Sky Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#2496C8",
+      "rgb": {
+        "r": 36,
+        "g": 150,
+        "b": 200
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sky-blue-2",
+      "name": "Sky Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#C0E4ED",
+      "rgb": {
+        "r": 192,
+        "g": 228,
+        "b": 237
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-slate-gray",
+      "name": "Slate Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#372B15",
+      "rgb": {
+        "r": 55,
+        "g": 43,
+        "b": 21
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-slimer-green",
+      "name": "Slimer Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#5A9032",
+      "rgb": {
+        "r": 90,
+        "g": 144,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-smoke-gray",
+      "name": "Smoke Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#886859",
+      "rgb": {
+        "r": 136,
+        "g": 104,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sol-yellow",
+      "name": "Sol Yellow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#ECCB00",
+      "rgb": {
+        "r": 236,
+        "g": 203,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-spectral-wolf",
+      "name": "Spectral Wolf",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#AB9FA1",
+      "rgb": {
+        "r": 171,
+        "g": 159,
+        "b": 161
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-speed-metal",
+      "name": "Speed Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#D4D4D6",
+      "rgb": {
+        "r": 212,
+        "g": 212,
+        "b": 214
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-speed-yellow",
+      "name": "Speed Yellow",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#FFFE00",
+      "rgb": {
+        "r": 255,
+        "g": 254,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-spring-green",
+      "name": "Spring Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#5D9F35",
+      "rgb": {
+        "r": 93,
+        "g": 159,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-spring-green-2",
+      "name": "Spring Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#7FB953",
+      "rgb": {
+        "r": 127,
+        "g": 185,
+        "b": 83
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-dark-brown",
+      "name": "Ss Camo Dark Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#220B05",
+      "rgb": {
+        "r": 34,
+        "g": 11,
+        "b": 5
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-dark-green",
+      "name": "Ss Camo Dark Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#2A331E",
+      "rgb": {
+        "r": 42,
+        "g": 51,
+        "b": 30
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-gray-brown",
+      "name": "Ss Camo Gray Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#6F4F36",
+      "rgb": {
+        "r": 111,
+        "g": 79,
+        "b": 54
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-grey",
+      "name": "Ss Camo Grey",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#8F8063",
+      "rgb": {
+        "r": 143,
+        "g": 128,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-highlights",
+      "name": "Ss Camo Highlights",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#FAB861",
+      "rgb": {
+        "r": 250,
+        "g": 184,
+        "b": 97
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-italian-green",
+      "name": "Ss Camo Italian Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#3F5232",
+      "rgb": {
+        "r": 63,
+        "g": 82,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-light-green",
+      "name": "Ss Camo Light Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#7E8126",
+      "rgb": {
+        "r": 126,
+        "g": 129,
+        "b": 38
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-medium-brown",
+      "name": "Ss Camo Medium Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#825D31",
+      "rgb": {
+        "r": 130,
+        "g": 93,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-medium-green",
+      "name": "Ss Camo Medium Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#4D5025",
+      "rgb": {
+        "r": 77,
+        "g": 80,
+        "b": 37
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-ocher-brown",
+      "name": "Ss Camo Ocher Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#CFAE5F",
+      "rgb": {
+        "r": 207,
+        "g": 174,
+        "b": 95
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-red-brown",
+      "name": "Ss Camo Red Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#593A1B",
+      "rgb": {
+        "r": 89,
+        "g": 58,
+        "b": 27
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-top-lights",
+      "name": "Ss Camo Top Lights",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#FBC77E",
+      "rgb": {
+        "r": 251,
+        "g": 199,
+        "b": 126
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-top-shadows",
+      "name": "Ss Camo Top Shadows",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#343428",
+      "rgb": {
+        "r": 52,
+        "g": 52,
+        "b": 40
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-ss-camo-yellow-sand",
+      "name": "Ss Camo Yellow Sand",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#C0A56E",
+      "rgb": {
+        "r": 192,
+        "g": 165,
+        "b": 110
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sulfur-yellow",
+      "name": "Sulfur Yellow",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#FED500",
+      "rgb": {
+        "r": 254,
+        "g": 213,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-sunset-purple",
+      "name": "Sunset Purple",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#622E54",
+      "rgb": {
+        "r": 98,
+        "g": 46,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-surfer-orc-flesh",
+      "name": "Surfer Orc Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#00A58B",
+      "rgb": {
+        "r": 0,
+        "g": 165,
+        "b": 139
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-techno-green",
+      "name": "Techno Green",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#44FA05",
+      "rgb": {
+        "r": 68,
+        "g": 250,
+        "b": 5
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-tenere-yellow",
+      "name": "Tenere Yellow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#E5C76F",
+      "rgb": {
+        "r": 229,
+        "g": 199,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-tesla-blue",
+      "name": "Tesla Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#414D97",
+      "rgb": {
+        "r": 65,
+        "g": 77,
+        "b": 151
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-thar-brown",
+      "name": "Thar Brown",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#B09F81",
+      "rgb": {
+        "r": 176,
+        "g": 159,
+        "b": 129
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-thrash-metal",
+      "name": "Thrash Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#544943",
+      "rgb": {
+        "r": 84,
+        "g": 73,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-tiamat-orange",
+      "name": "Tiamat Orange",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#E97329",
+      "rgb": {
+        "r": 233,
+        "g": 115,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-tindalos-red",
+      "name": "Tindalos Red",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#5B2922",
+      "rgb": {
+        "r": 91,
+        "g": 41,
+        "b": 34
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-titanium-gray",
+      "name": "Titanium Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#41342B",
+      "rgb": {
+        "r": 65,
+        "g": 52,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-titanium-grey",
+      "name": "Titanium Grey",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#404445",
+      "rgb": {
+        "r": 64,
+        "g": 68,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-toad-green",
+      "name": "Toad Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#475139",
+      "rgb": {
+        "r": 71,
+        "g": 81,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-tourmaline-alchemy",
+      "name": "Tourmaline Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#E7A8B3",
+      "rgb": {
+        "r": 231,
+        "g": 168,
+        "b": 179
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-toxic-waste-green",
+      "name": "Toxic Waste Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#C7D538",
+      "rgb": {
+        "r": 199,
+        "g": 213,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-turquoise",
+      "name": "Turquoise",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#03435F",
+      "rgb": {
+        "r": 3,
+        "g": 67,
+        "b": 95
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-turquoise-blue",
+      "name": "Turquoise Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#15998E",
+      "rgb": {
+        "r": 21,
+        "g": 153,
+        "b": 142
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-turquoise-ink",
+      "name": "Turquoise Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#204C50",
+      "rgb": {
+        "r": 32,
+        "g": 76,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-undead-dragon",
+      "name": "Undead Dragon",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#B6C8BC",
+      "rgb": {
+        "r": 182,
+        "g": 200,
+        "b": 188
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-undead-flesh",
+      "name": "Undead Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#A8B170",
+      "rgb": {
+        "r": 168,
+        "g": 177,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-us-dark-brown",
+      "name": "Us Dark Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#AE8A72",
+      "rgb": {
+        "r": 174,
+        "g": 138,
+        "b": 114
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-us-green",
+      "name": "Us Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#474632",
+      "rgb": {
+        "r": 71,
+        "g": 70,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-us-medium-brown",
+      "name": "Us Medium Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#D4AD84",
+      "rgb": {
+        "r": 212,
+        "g": 173,
+        "b": 132
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-vanilla-white",
+      "name": "Vanilla White",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#EDE8D4",
+      "rgb": {
+        "r": 237,
+        "g": 232,
+        "b": 212
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-vanilla-yellow",
+      "name": "Vanilla Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#D8CC68",
+      "rgb": {
+        "r": 216,
+        "g": 204,
+        "b": 104
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-victorian-brass",
+      "name": "Victorian Brass",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#B6843B",
+      "rgb": {
+        "r": 182,
+        "g": 132,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-viking-gold",
+      "name": "Viking Gold",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#8D591F",
+      "rgb": {
+        "r": 141,
+        "g": 89,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-violet",
+      "name": "Violet",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#2A1C51",
+      "rgb": {
+        "r": 42,
+        "g": 28,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-violet-blue",
+      "name": "Violet Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#604673",
+      "rgb": {
+        "r": 96,
+        "g": 70,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-violet-grey",
+      "name": "Violet Grey",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#72727C",
+      "rgb": {
+        "r": 114,
+        "g": 114,
+        "b": 124
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-walnut",
+      "name": "Walnut",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#7D6450",
+      "rgb": {
+        "r": 125,
+        "g": 100,
+        "b": 80
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-werewolf-brown",
+      "name": "Werewolf Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#553C35",
+      "rgb": {
+        "r": 85,
+        "g": 60,
+        "b": 53
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-white",
+      "name": "White",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-white-2",
+      "name": "White",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-white-ink",
+      "name": "White Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#F7F7F7",
+      "rgb": {
+        "r": 247,
+        "g": 247,
+        "b": 247
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-white-metal",
+      "name": "White Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#F1F1F1",
+      "rgb": {
+        "r": 241,
+        "g": 241,
+        "b": 241
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-white-sands",
+      "name": "White Sands",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#F6E1C6",
+      "rgb": {
+        "r": 246,
+        "g": 225,
+        "b": 198
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-wild-beast",
+      "name": "Wild Beast",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#CA854E",
+      "rgb": {
+        "r": 202,
+        "g": 133,
+        "b": 78
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-winter-grey",
+      "name": "Winter Grey",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#6E6E70",
+      "rgb": {
+        "r": 110,
+        "g": 110,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-winter-shadow",
+      "name": "Winter Shadow",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#3A3C39",
+      "rgb": {
+        "r": 58,
+        "g": 60,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-wood",
+      "name": "Wood",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#60483E",
+      "rgb": {
+        "r": 96,
+        "g": 72,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-yellow-code",
+      "name": "Yellow Code",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#FFCB06",
+      "rgb": {
+        "r": 255,
+        "g": 203,
+        "b": 6
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-yellow-ocre",
+      "name": "Yellow Ocre",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#A0702E",
+      "rgb": {
+        "r": 160,
+        "g": 112,
+        "b": 46
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-yellow-oxide",
+      "name": "Yellow Oxide",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#4B3527",
+      "rgb": {
+        "r": 75,
+        "g": 53,
+        "b": 39
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-zombie-skin",
+      "name": "Zombie Skin",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#A6A869",
+      "rgb": {
+        "r": 166,
+        "g": 168,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "scale75-zucchini-green",
+      "name": "Zucchini Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#405B32",
+      "rgb": {
+        "r": 64,
+        "g": 91,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    }
+  ]
+}

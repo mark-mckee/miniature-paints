@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rebuild paints/TurboDork.md from the updated catalogue CSV.
+"""Rebuild paints/markdown/TurboDork.md from the updated catalogue CSV.
 
 - Adds a Code column; fills Pot Size (22ml) and Description for every paint.
 - Metallic paints: carry the EXISTING hex/rgb from the current TurboDork.md
@@ -10,7 +10,7 @@
   image plus the stop hexes as backtick codes.
 
 The markdown is the source of truth; run scripts/build_paints.py afterwards to
-regenerate paints.json / json/TurboDork.json.
+regenerate paints.json / paints/json/TurboDork.json.
 
 Usage:
     python scripts/build_turbodork.py [CSV_PATH] [--dry-run]
@@ -21,7 +21,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from color_language import resolve  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MD_PATH = os.path.join(ROOT, "paints", "TurboDork.md")
+MD_PATH = os.path.join(ROOT, "paints", "markdown", "TurboDork.md")
 SWATCH_DIR = os.path.join(ROOT, "swatches", "turbodork")
 
 HEADER = "|Name|Code|Set|R|G|B|Hex|Pot Size|Description|"
@@ -113,7 +113,7 @@ def gradient_png(stops, path, w=60, h=15):
 
 
 def hex_cell_shift(slug_name, stops):
-    img = f'<img src="../swatches/turbodork/{slug_name}.png" height="15" />'
+    img = f'<img src="../../swatches/turbodork/{slug_name}.png" height="15" />'
     codes = ' '.join(f'`{s}`' for s in stops)
     return f'{img} {codes}'
 

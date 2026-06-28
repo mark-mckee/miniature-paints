@@ -1,0 +1,2375 @@
+{
+  "$schema": "../../schema/brand.schema.json",
+  "schema": "miniature-paints/v3",
+  "displayName": "Coat D Armes",
+  "company": "Battlezone Miniatures",
+  "address": {
+    "street": "3 Hillside Lane",
+    "city": "Arrington",
+    "postcode": "SG8 0DA",
+    "country": "United Kingdom"
+  },
+  "contactEmail": "admin@battlezone-miniatures.co.uk",
+  "contactForm": "",
+  "website": "https://www.battlezone-miniatures.co.uk",
+  "phone": "",
+  "updatedCatalogueRequested": "",
+  "paintCount": 157,
+  "paints": [
+    {
+      "id": "coatdarmes-160",
+      "name": "Amethest Purple",
+      "code": "160",
+      "set": "Fantasy Range",
+      "hex": "#675A92",
+      "rgb": {
+        "r": 103,
+        "g": 90,
+        "b": 146
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-155",
+      "name": "Angel Green",
+      "code": "155",
+      "set": "Fantasy Range",
+      "hex": "#3B413F",
+      "rgb": {
+        "r": 59,
+        "g": 65,
+        "b": 63
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-149",
+      "name": "Angel Red",
+      "code": "149",
+      "set": "Fantasy Range",
+      "hex": "#FE5339",
+      "rgb": {
+        "r": 254,
+        "g": 83,
+        "b": 57
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-132",
+      "name": "Aquamarine",
+      "code": "132",
+      "set": "Fantasy Range",
+      "hex": "#3A7289",
+      "rgb": {
+        "r": 58,
+        "g": 114,
+        "b": 137
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-153",
+      "name": "Armour",
+      "code": "153",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#6D746D",
+      "rgb": {
+        "r": 109,
+        "g": 116,
+        "b": 109
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-521",
+      "name": "Army Green",
+      "code": "521",
+      "set": "World War II Range",
+      "hex": "#4C5947",
+      "rgb": {
+        "r": 76,
+        "g": 89,
+        "b": 71
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-116",
+      "name": "Barbarian Leather",
+      "code": "116",
+      "set": "Fantasy Range",
+      "hex": "#8B5D43",
+      "rgb": {
+        "r": 139,
+        "g": 93,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-239",
+      "name": "Bavarian Blue",
+      "code": "239",
+      "set": "Military Range",
+      "hex": "#2F9CF1",
+      "rgb": {
+        "r": 47,
+        "g": 156,
+        "b": 241
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-163",
+      "name": "Beaten Copper",
+      "code": "163",
+      "set": "Fantasy Range",
+      "hex": "#C96F4D",
+      "rgb": {
+        "r": 201,
+        "g": 111,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-529",
+      "name": "Beige Brown",
+      "code": "529",
+      "set": "World War II Range",
+      "hex": "#8A654B",
+      "rgb": {
+        "r": 138,
+        "g": 101,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-130",
+      "name": "Billous Brown",
+      "code": "130",
+      "set": "Fantasy Range",
+      "hex": "#C98651",
+      "rgb": {
+        "r": 201,
+        "g": 134,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-102",
+      "name": "Black",
+      "code": "102",
+      "set": "Military Range",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-102-2",
+      "name": "Black",
+      "code": "102",
+      "set": "Fantasy Range",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-154",
+      "name": "Black",
+      "code": "154",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#646B64",
+      "rgb": {
+        "r": 100,
+        "g": 107,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-515",
+      "name": "Black Green",
+      "code": "515",
+      "set": "World War II Range",
+      "hex": "#405046",
+      "rgb": {
+        "r": 64,
+        "g": 80,
+        "b": 70
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-104",
+      "name": "Blood Red",
+      "code": "104",
+      "set": "Fantasy Range",
+      "hex": "#D83F37",
+      "rgb": {
+        "r": 216,
+        "g": 63,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-121",
+      "name": "Bogey Green",
+      "code": "121",
+      "set": "Fantasy Range",
+      "hex": "#487149",
+      "rgb": {
+        "r": 72,
+        "g": 113,
+        "b": 73
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-112",
+      "name": "Bone",
+      "code": "112",
+      "set": "Fantasy Range",
+      "hex": "#F4DAA7",
+      "rgb": {
+        "r": 244,
+        "g": 218,
+        "b": 167
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-131",
+      "name": "Brass",
+      "code": "131",
+      "set": "Fantasy Range",
+      "hex": "#CAA07A",
+      "rgb": {
+        "r": 202,
+        "g": 160,
+        "b": 122
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-509",
+      "name": "Brick Red",
+      "code": "509",
+      "set": "World War II Range",
+      "hex": "#794D40",
+      "rgb": {
+        "r": 121,
+        "g": 77,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-107",
+      "name": "Bright Gold",
+      "code": "107",
+      "set": "Fantasy Range",
+      "hex": "#ABA073",
+      "rgb": {
+        "r": 171,
+        "g": 160,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-501",
+      "name": "British Khaki",
+      "code": "501",
+      "set": "World War II Range",
+      "hex": "#7A6844",
+      "rgb": {
+        "r": 122,
+        "g": 104,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-238",
+      "name": "British Scarlet",
+      "code": "238",
+      "set": "Military Range",
+      "hex": "#F5333C",
+      "rgb": {
+        "r": 245,
+        "g": 51,
+        "b": 60
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-232",
+      "name": "Bronze",
+      "code": "232",
+      "set": "Military Range",
+      "hex": "#D1C0B0",
+      "rgb": {
+        "r": 209,
+        "g": 192,
+        "b": 176
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-228",
+      "name": "Buff",
+      "code": "228",
+      "set": "Military Range",
+      "hex": "#DED19D",
+      "rgb": {
+        "r": 222,
+        "g": 209,
+        "b": 157
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-147",
+      "name": "Burnt Orange",
+      "code": "147",
+      "set": "Fantasy Range",
+      "hex": "#FF8041",
+      "rgb": {
+        "r": 255,
+        "g": 128,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-230",
+      "name": "Camouflage Green",
+      "code": "230",
+      "set": "Military Range",
+      "hex": "#6B845C",
+      "rgb": {
+        "r": 107,
+        "g": 132,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-109",
+      "name": "Chainmail",
+      "code": "109",
+      "set": "Fantasy Range",
+      "hex": "#BAB8C3",
+      "rgb": {
+        "r": 186,
+        "g": 184,
+        "b": 195
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-219",
+      "name": "Chesnut Brown",
+      "code": "219",
+      "set": "Military Range",
+      "hex": "#543E31",
+      "rgb": {
+        "r": 84,
+        "g": 62,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-519",
+      "name": "Chocolate Brown",
+      "code": "519",
+      "set": "World War II Range",
+      "hex": "#5A5444",
+      "rgb": {
+        "r": 90,
+        "g": 84,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-207",
+      "name": "Dark Blue",
+      "code": "207",
+      "set": "Military Range",
+      "hex": "#48508F",
+      "rgb": {
+        "r": 72,
+        "g": 80,
+        "b": 143
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-234",
+      "name": "Dark Earth",
+      "code": "234",
+      "set": "Military Range",
+      "hex": "#55584F",
+      "rgb": {
+        "r": 85,
+        "g": 88,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-402",
+      "name": "Dark Earth",
+      "code": "402",
+      "set": "Brushscape Range",
+      "hex": "#42412F",
+      "rgb": {
+        "r": 66,
+        "g": 65,
+        "b": 47
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-111",
+      "name": "Dark Elf Green",
+      "code": "111",
+      "set": "Fantasy Range",
+      "hex": "#394A44",
+      "rgb": {
+        "r": 57,
+        "g": 74,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-216",
+      "name": "Dark Flesh",
+      "code": "216",
+      "set": "Military Range",
+      "hex": "#3E373E",
+      "rgb": {
+        "r": 62,
+        "g": 55,
+        "b": 62
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-209",
+      "name": "Dark Green",
+      "code": "209",
+      "set": "Military Range",
+      "hex": "#456A59",
+      "rgb": {
+        "r": 69,
+        "g": 106,
+        "b": 89
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-405",
+      "name": "Dark Green",
+      "code": "405",
+      "set": "Brushscape Range",
+      "hex": "#35614A",
+      "rgb": {
+        "r": 53,
+        "g": 97,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-212",
+      "name": "Dark Grey",
+      "code": "212",
+      "set": "Military Range",
+      "hex": "#526760",
+      "rgb": {
+        "r": 82,
+        "g": 103,
+        "b": 96
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-534",
+      "name": "Dark Leather",
+      "code": "534",
+      "set": "World War II Range",
+      "hex": "#5E533D",
+      "rgb": {
+        "r": 94,
+        "g": 83,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-229",
+      "name": "Dark Sand",
+      "code": "229",
+      "set": "Military Range",
+      "hex": "#CAB876",
+      "rgb": {
+        "r": 202,
+        "g": 184,
+        "b": 118
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-404",
+      "name": "Dark Sand",
+      "code": "404",
+      "set": "Brushscape Range",
+      "hex": "#7D7640",
+      "rgb": {
+        "r": 125,
+        "g": 118,
+        "b": 64
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-161",
+      "name": "Deadly Nightshade",
+      "code": "161",
+      "set": "Fantasy Range",
+      "hex": "#404B4F",
+      "rgb": {
+        "r": 64,
+        "g": 75,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-506",
+      "name": "Desert Sand",
+      "code": "506",
+      "set": "World War II Range",
+      "hex": "#DFA96B",
+      "rgb": {
+        "r": 223,
+        "g": 169,
+        "b": 107
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-517",
+      "name": "Desert Yellow",
+      "code": "517",
+      "set": "World War II Range",
+      "hex": "#E1C96F",
+      "rgb": {
+        "r": 225,
+        "g": 201,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-146",
+      "name": "Dusky Yellow",
+      "code": "146",
+      "set": "Fantasy Range",
+      "hex": "#FDCA31",
+      "rgb": {
+        "r": 253,
+        "g": 202,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-143",
+      "name": "Dwarven Bronze",
+      "code": "143",
+      "set": "Fantasy Range",
+      "hex": "#D6A48B",
+      "rgb": {
+        "r": 214,
+        "g": 164,
+        "b": 139
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-124",
+      "name": "Dwarven Flesh",
+      "code": "124",
+      "set": "Fantasy Range",
+      "hex": "#D58C7B",
+      "rgb": {
+        "r": 213,
+        "g": 140,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-123",
+      "name": "Elven Flesh",
+      "code": "123",
+      "set": "Fantasy Range",
+      "hex": "#FFA88A",
+      "rgb": {
+        "r": 255,
+        "g": 168,
+        "b": 138
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-122",
+      "name": "Elven Grey",
+      "code": "122",
+      "set": "Fantasy Range",
+      "hex": "#CED7D4",
+      "rgb": {
+        "r": 206,
+        "g": 215,
+        "b": 212
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-164",
+      "name": "Emerald Green",
+      "code": "164",
+      "set": "Fantasy Range",
+      "hex": "#398C54",
+      "rgb": {
+        "r": 57,
+        "g": 140,
+        "b": 84
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-127",
+      "name": "Enchanted Blue",
+      "code": "127",
+      "set": "Fantasy Range",
+      "hex": "#7B74AA",
+      "rgb": {
+        "r": 123,
+        "g": 116,
+        "b": 170
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-128",
+      "name": "Enchanted Green",
+      "code": "128",
+      "set": "Fantasy Range",
+      "hex": "#8EB894",
+      "rgb": {
+        "r": 142,
+        "g": 184,
+        "b": 148
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-106",
+      "name": "Enchanted Silver",
+      "code": "106",
+      "set": "Fantasy Range",
+      "hex": "#AEB2BD",
+      "rgb": {
+        "r": 174,
+        "g": 178,
+        "b": 189
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-537",
+      "name": "Faded Khaki",
+      "code": "537",
+      "set": "World War II Range",
+      "hex": "#838270",
+      "rgb": {
+        "r": 131,
+        "g": 130,
+        "b": 112
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-513",
+      "name": "Faded Olive",
+      "code": "513",
+      "set": "World War II Range",
+      "hex": "#6F926A",
+      "rgb": {
+        "r": 111,
+        "g": 146,
+        "b": 106
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-166",
+      "name": "Fester Blue",
+      "code": "166",
+      "set": "Fantasy Range",
+      "hex": "#37698C",
+      "rgb": {
+        "r": 55,
+        "g": 105,
+        "b": 140
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-126",
+      "name": "Festering Brown",
+      "code": "126",
+      "set": "Fantasy Range",
+      "hex": "#B5955C",
+      "rgb": {
+        "r": 181,
+        "g": 149,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-518",
+      "name": "Field Blue",
+      "code": "518",
+      "set": "World War II Range",
+      "hex": "#616F6F",
+      "rgb": {
+        "r": 97,
+        "g": 111,
+        "b": 111
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-502",
+      "name": "Field Drab",
+      "code": "502",
+      "set": "World War II Range",
+      "hex": "#797864",
+      "rgb": {
+        "r": 121,
+        "g": 120,
+        "b": 100
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-227",
+      "name": "Field Grey",
+      "code": "227",
+      "set": "World War II Range",
+      "hex": "#5A6658",
+      "rgb": {
+        "r": 90,
+        "g": 102,
+        "b": 88
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-227-2",
+      "name": "Field Grey",
+      "code": "227",
+      "set": "Military Range",
+      "hex": "#5A6658",
+      "rgb": {
+        "r": 90,
+        "g": 102,
+        "b": 88
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-105",
+      "name": "Flame Orange",
+      "code": "105",
+      "set": "Fantasy Range",
+      "hex": "#E87651",
+      "rgb": {
+        "r": 232,
+        "g": 118,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-213",
+      "name": "Flesh",
+      "code": "213",
+      "set": "Military Range",
+      "hex": "#FFF4CE",
+      "rgb": {
+        "r": 255,
+        "g": 244,
+        "b": 206
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-536",
+      "name": "Forest Green",
+      "code": "536",
+      "set": "World War II Range",
+      "hex": "#4B8634",
+      "rgb": {
+        "r": 75,
+        "g": 134,
+        "b": 52
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-108",
+      "name": "Goblin Green",
+      "code": "108",
+      "set": "Fantasy Range",
+      "hex": "#657C52",
+      "rgb": {
+        "r": 101,
+        "g": 124,
+        "b": 82
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-159",
+      "name": "Golden Yellow",
+      "code": "159",
+      "set": "Fantasy Range",
+      "hex": "#FEB101",
+      "rgb": {
+        "r": 254,
+        "g": 177,
+        "b": 1
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-208",
+      "name": "Grass Green",
+      "code": "208",
+      "set": "Military Range",
+      "hex": "#68905C",
+      "rgb": {
+        "r": 104,
+        "g": 144,
+        "b": 92
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-401",
+      "name": "Grass Green",
+      "code": "401",
+      "set": "Brushscape Range",
+      "hex": "#799855",
+      "rgb": {
+        "r": 121,
+        "g": 152,
+        "b": 85
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-505",
+      "name": "Green Grey",
+      "code": "505",
+      "set": "World War II Range",
+      "hex": "#4C665D",
+      "rgb": {
+        "r": 76,
+        "g": 102,
+        "b": 93
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-141",
+      "name": "Grey Primer",
+      "code": "141",
+      "set": "Fantasy Range",
+      "hex": "#8A584D",
+      "rgb": {
+        "r": 138,
+        "g": 88,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-142",
+      "name": "Gun Metal",
+      "code": "142",
+      "set": "Fantasy Range",
+      "hex": "#917F75",
+      "rgb": {
+        "r": 145,
+        "g": 127,
+        "b": 117
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-120",
+      "name": "Hairy Brown",
+      "code": "120",
+      "set": "Fantasy Range",
+      "hex": "#6C4C3D",
+      "rgb": {
+        "r": 108,
+        "g": 76,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-165",
+      "name": "Hawk Turquoise",
+      "code": "165",
+      "set": "Fantasy Range",
+      "hex": "#0291B9",
+      "rgb": {
+        "r": 2,
+        "g": 145,
+        "b": 185
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-167",
+      "name": "Hideous Blue",
+      "code": "167",
+      "set": "Fantasy Range",
+      "hex": "#3F7EAA",
+      "rgb": {
+        "r": 63,
+        "g": 126,
+        "b": 170
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-117",
+      "name": "High Elf Blue",
+      "code": "117",
+      "set": "Fantasy Range",
+      "hex": "#3D6799",
+      "rgb": {
+        "r": 61,
+        "g": 103,
+        "b": 153
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-224",
+      "name": "Horse Tone – Bay",
+      "code": "224",
+      "set": "Military Range",
+      "hex": "#DB7E55",
+      "rgb": {
+        "r": 219,
+        "g": 126,
+        "b": 85
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-235",
+      "name": "Horse Tone – Brown",
+      "code": "235",
+      "set": "Military Range",
+      "hex": "#665C43",
+      "rgb": {
+        "r": 102,
+        "g": 92,
+        "b": 67
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-223",
+      "name": "Horse Tone – Chesnut",
+      "code": "223",
+      "set": "Military Range",
+      "hex": "#754F4C",
+      "rgb": {
+        "r": 117,
+        "g": 79,
+        "b": 76
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-221",
+      "name": "Horse Tone – Dun",
+      "code": "221",
+      "set": "Military Range",
+      "hex": "#BC9D66",
+      "rgb": {
+        "r": 188,
+        "g": 157,
+        "b": 102
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-236",
+      "name": "Horse Tone – Grey",
+      "code": "236",
+      "set": "Military Range",
+      "hex": "#B0BBB7",
+      "rgb": {
+        "r": 176,
+        "g": 187,
+        "b": 183
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-222",
+      "name": "Horse Tone – Roan",
+      "code": "222",
+      "set": "Military Range",
+      "hex": "#AD9887",
+      "rgb": {
+        "r": 173,
+        "g": 152,
+        "b": 135
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-168",
+      "name": "Ink Wash Yellow",
+      "code": "168",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#FFFD32",
+      "rgb": {
+        "r": 255,
+        "g": 253,
+        "b": 50
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-516",
+      "name": "Iron Grey",
+      "code": "516",
+      "set": "World War II Range",
+      "hex": "#475555",
+      "rgb": {
+        "r": 71,
+        "g": 85,
+        "b": 85
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-532",
+      "name": "Italian Red Earth",
+      "code": "532",
+      "set": "World War II Range",
+      "hex": "#D66C30",
+      "rgb": {
+        "r": 214,
+        "g": 108,
+        "b": 48
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-158",
+      "name": "Jade Green",
+      "code": "158",
+      "set": "Fantasy Range",
+      "hex": "#149D8B",
+      "rgb": {
+        "r": 20,
+        "g": 157,
+        "b": 139
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-531",
+      "name": "Japanese Uniform",
+      "code": "531",
+      "set": "World War II Range",
+      "hex": "#B59816",
+      "rgb": {
+        "r": 181,
+        "g": 152,
+        "b": 22
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-535",
+      "name": "Jungle Green",
+      "code": "535",
+      "set": "World War II Range",
+      "hex": "#3F8431",
+      "rgb": {
+        "r": 63,
+        "g": 132,
+        "b": 49
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-225",
+      "name": "Khaki",
+      "code": "225",
+      "set": "Military Range",
+      "hex": "#C0B973",
+      "rgb": {
+        "r": 192,
+        "g": 185,
+        "b": 115
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-217",
+      "name": "Leather Brown",
+      "code": "217",
+      "set": "Military Range",
+      "hex": "#BE8E66",
+      "rgb": {
+        "r": 190,
+        "g": 142,
+        "b": 102
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-156",
+      "name": "Leprous Brown",
+      "code": "156",
+      "set": "Fantasy Range",
+      "hex": "#FC7B37",
+      "rgb": {
+        "r": 252,
+        "g": 123,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-206",
+      "name": "Light Blue",
+      "code": "206",
+      "set": "Military Range",
+      "hex": "#6377B4",
+      "rgb": {
+        "r": 99,
+        "g": 119,
+        "b": 180
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-403",
+      "name": "Light Earth",
+      "code": "403",
+      "set": "Brushscape Range",
+      "hex": "#6F7051",
+      "rgb": {
+        "r": 111,
+        "g": 112,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-211",
+      "name": "Light Grey",
+      "code": "211",
+      "set": "Military Range",
+      "hex": "#FCFDF7",
+      "rgb": {
+        "r": 252,
+        "g": 253,
+        "b": 247
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-408",
+      "name": "Light Sand",
+      "code": "408",
+      "set": "Brushscape Range",
+      "hex": "#E7CFA1",
+      "rgb": {
+        "r": 231,
+        "g": 207,
+        "b": 161
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-233",
+      "name": "Linen",
+      "code": "233",
+      "set": "Military Range",
+      "hex": "#F2E9C2",
+      "rgb": {
+        "r": 242,
+        "g": 233,
+        "b": 194
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-151",
+      "name": "Lupin Grey",
+      "code": "151",
+      "set": "Fantasy Range",
+      "hex": "#BEE0F9",
+      "rgb": {
+        "r": 190,
+        "g": 224,
+        "b": 249
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-113",
+      "name": "Magic Metal",
+      "code": "113",
+      "set": "Fantasy Range",
+      "hex": "#62422B",
+      "rgb": {
+        "r": 98,
+        "g": 66,
+        "b": 43
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-148",
+      "name": "Marine Blue",
+      "code": "148",
+      "set": "Fantasy Range",
+      "hex": "#2F67A4",
+      "rgb": {
+        "r": 47,
+        "g": 103,
+        "b": 164
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-231",
+      "name": "Mid Grey",
+      "code": "231",
+      "set": "Military Range",
+      "hex": "#B2A7A5",
+      "rgb": {
+        "r": 178,
+        "g": 167,
+        "b": 165
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-510",
+      "name": "Mid Stone",
+      "code": "510",
+      "set": "World War II Range",
+      "hex": "#9A7C33",
+      "rgb": {
+        "r": 154,
+        "g": 124,
+        "b": 51
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-503",
+      "name": "Military Green",
+      "code": "503",
+      "set": "World War II Range",
+      "hex": "#3D5C4D",
+      "rgb": {
+        "r": 61,
+        "g": 92,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-406",
+      "name": "Muddy Green",
+      "code": "406",
+      "set": "Brushscape Range",
+      "hex": "#434A21",
+      "rgb": {
+        "r": 67,
+        "g": 74,
+        "b": 33
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-162",
+      "name": "Nauseous Blue",
+      "code": "162",
+      "set": "Fantasy Range",
+      "hex": "#3D4A90",
+      "rgb": {
+        "r": 61,
+        "g": 74,
+        "b": 144
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-226",
+      "name": "Olive",
+      "code": "226",
+      "set": "Military Range",
+      "hex": "#54674B",
+      "rgb": {
+        "r": 84,
+        "g": 103,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-226-2",
+      "name": "Olive",
+      "code": "226",
+      "set": "World War II Range",
+      "hex": "#54674B",
+      "rgb": {
+        "r": 84,
+        "g": 103,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-508",
+      "name": "Olive Drab",
+      "code": "508",
+      "set": "World War II Range",
+      "hex": "#545744",
+      "rgb": {
+        "r": 84,
+        "g": 87,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-105-2",
+      "name": "Orange",
+      "code": "105",
+      "set": "Military Range",
+      "hex": "#E87651",
+      "rgb": {
+        "r": 232,
+        "g": 118,
+        "b": 81
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-215",
+      "name": "Oriental Flesh",
+      "code": "215",
+      "set": "Military Range",
+      "hex": "#F6C77F",
+      "rgb": {
+        "r": 246,
+        "g": 199,
+        "b": 127
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-514",
+      "name": "Pale Green",
+      "code": "514",
+      "set": "World War II Range",
+      "hex": "#7BB783",
+      "rgb": {
+        "r": 123,
+        "g": 183,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-522",
+      "name": "Pale Sand",
+      "code": "522",
+      "set": "World War II Range",
+      "hex": "#E7CD90",
+      "rgb": {
+        "r": 231,
+        "g": 205,
+        "b": 144
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-504",
+      "name": "Panzer Grey",
+      "code": "504",
+      "set": "World War II Range",
+      "hex": "#3A453D",
+      "rgb": {
+        "r": 58,
+        "g": 69,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-118",
+      "name": "Poison Purple",
+      "code": "118",
+      "set": "Fantasy Range",
+      "hex": "#5D4569",
+      "rgb": {
+        "r": 93,
+        "g": 69,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-210",
+      "name": "Purple",
+      "code": "210",
+      "set": "Military Range",
+      "hex": "#C74B6D",
+      "rgb": {
+        "r": 199,
+        "g": 75,
+        "b": 109
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-125",
+      "name": "Putrid Green",
+      "code": "125",
+      "set": "Fantasy Range",
+      "hex": "#A5B183",
+      "rgb": {
+        "r": 165,
+        "g": 177,
+        "b": 131
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-119",
+      "name": "Rat Brown",
+      "code": "119",
+      "set": "Fantasy Range",
+      "hex": "#7E4941",
+      "rgb": {
+        "r": 126,
+        "g": 73,
+        "b": 65
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-104-2",
+      "name": "Red",
+      "code": "104",
+      "set": "Military Range",
+      "hex": "#D83F37",
+      "rgb": {
+        "r": 216,
+        "g": 63,
+        "b": 55
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-520",
+      "name": "Red Brown",
+      "code": "520",
+      "set": "World War II Range",
+      "hex": "#79493D",
+      "rgb": {
+        "r": 121,
+        "g": 73,
+        "b": 61
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-110",
+      "name": "Royal Blue",
+      "code": "110",
+      "set": "Fantasy Range",
+      "hex": "#324669",
+      "rgb": {
+        "r": 50,
+        "g": 70,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-145",
+      "name": "Ruby Red",
+      "code": "145",
+      "set": "Fantasy Range",
+      "hex": "#FE0000",
+      "rgb": {
+        "r": 254,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-237",
+      "name": "Russet Red",
+      "code": "237",
+      "set": "Military Range",
+      "hex": "#BA4244",
+      "rgb": {
+        "r": 186,
+        "g": 66,
+        "b": 68
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-528",
+      "name": "Russian Brown",
+      "code": "528",
+      "set": "World War II Range",
+      "hex": "#7A8461",
+      "rgb": {
+        "r": 122,
+        "g": 132,
+        "b": 97
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-530",
+      "name": "Russian Green",
+      "code": "530",
+      "set": "World War II Range",
+      "hex": "#4D5D38",
+      "rgb": {
+        "r": 77,
+        "g": 93,
+        "b": 56
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-407",
+      "name": "Sandy Brown",
+      "code": "407",
+      "set": "Brushscape Range",
+      "hex": "#85643B",
+      "rgb": {
+        "r": 133,
+        "g": 100,
+        "b": 59
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-152",
+      "name": "Scorpion Green",
+      "code": "152",
+      "set": "Fantasy Range",
+      "hex": "#4FC60A",
+      "rgb": {
+        "r": 79,
+        "g": 198,
+        "b": 10
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-507",
+      "name": "Sea Grey",
+      "code": "507",
+      "set": "World War II Range",
+      "hex": "#97C9C0",
+      "rgb": {
+        "r": 151,
+        "g": 201,
+        "b": 192
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-150",
+      "name": "Shadow Grey",
+      "code": "150",
+      "set": "Fantasy Range",
+      "hex": "#637FA4",
+      "rgb": {
+        "r": 99,
+        "g": 127,
+        "b": 164
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-144",
+      "name": "Shocking Pink",
+      "code": "144",
+      "set": "Fantasy Range",
+      "hex": "#DFA8C7",
+      "rgb": {
+        "r": 223,
+        "g": 168,
+        "b": 199
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-220",
+      "name": "Silver",
+      "code": "220",
+      "set": "Military Range",
+      "hex": "#D5D9E4",
+      "rgb": {
+        "r": 213,
+        "g": 217,
+        "b": 228
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-533",
+      "name": "Slate Grey",
+      "code": "533",
+      "set": "World War II Range",
+      "hex": "#556363",
+      "rgb": {
+        "r": 85,
+        "g": 99,
+        "b": 99
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-103",
+      "name": "Sun Yellow",
+      "code": "103",
+      "set": "Military Range",
+      "hex": "#FFFF00",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-103-2",
+      "name": "Sun Yellow",
+      "code": "103",
+      "set": "Fantasy Range",
+      "hex": "#FFFF00",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-214",
+      "name": "Suntanned Flesh",
+      "code": "214",
+      "set": "Military Range",
+      "hex": "#DDA78F",
+      "rgb": {
+        "r": 221,
+        "g": 167,
+        "b": 143
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-169",
+      "name": "Super Wash Black",
+      "code": "169",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-172",
+      "name": "Super Wash Blue",
+      "code": "172",
+      "set": "Fantasy Range",
+      "hex": "#384861",
+      "rgb": {
+        "r": 56,
+        "g": 72,
+        "b": 97
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-177",
+      "name": "Super Wash Dark Brown",
+      "code": "177",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#66584B",
+      "rgb": {
+        "r": 102,
+        "g": 88,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-170",
+      "name": "Super Wash Green",
+      "code": "170",
+      "set": "Fantasy Range",
+      "hex": "#81AB7B",
+      "rgb": {
+        "r": 129,
+        "g": 171,
+        "b": 123
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-175",
+      "name": "Super Wash Light Brown",
+      "code": "175",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#6C4645",
+      "rgb": {
+        "r": 108,
+        "g": 70,
+        "b": 69
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-176",
+      "name": "Super Wash Mid Brown",
+      "code": "176",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#825D42",
+      "rgb": {
+        "r": 130,
+        "g": 93,
+        "b": 66
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-174",
+      "name": "Super Wash Purple",
+      "code": "174",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#5F3E5B",
+      "rgb": {
+        "r": 95,
+        "g": 62,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-171",
+      "name": "Super Wash Red",
+      "code": "171",
+      "set": "Fantasy Range",
+      "hex": "#9C5158",
+      "rgb": {
+        "r": 156,
+        "g": 81,
+        "b": 88
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-173",
+      "name": "Super Wash Yellow",
+      "code": "173",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#FFFF69",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 105
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-524",
+      "name": "Tan Earth",
+      "code": "524",
+      "set": "World War II Range",
+      "hex": "#91824B",
+      "rgb": {
+        "r": 145,
+        "g": 130,
+        "b": 75
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-511",
+      "name": "Tank Blue Grey",
+      "code": "511",
+      "set": "World War II Range",
+      "hex": "#4D5B5B",
+      "rgb": {
+        "r": 77,
+        "g": 91,
+        "b": 91
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-527",
+      "name": "Tank Drab",
+      "code": "527",
+      "set": "World War II Range",
+      "hex": "#6C6D4D",
+      "rgb": {
+        "r": 108,
+        "g": 109,
+        "b": 77
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-512",
+      "name": "Tank Green",
+      "code": "512",
+      "set": "World War II Range",
+      "hex": "#397D4A",
+      "rgb": {
+        "r": 57,
+        "g": 125,
+        "b": 74
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-526",
+      "name": "Tank Light Grey",
+      "code": "526",
+      "set": "World War II Range",
+      "hex": "#F0F5EF",
+      "rgb": {
+        "r": 240,
+        "g": 245,
+        "b": 239
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-115",
+      "name": "Tanned Flesh",
+      "code": "115",
+      "set": "Fantasy Range",
+      "hex": "#DD9A65",
+      "rgb": {
+        "r": 221,
+        "g": 154,
+        "b": 101
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-240",
+      "name": "Unbleached Wool",
+      "code": "240",
+      "set": "Military Range",
+      "hex": "#D9E0B7",
+      "rgb": {
+        "r": 217,
+        "g": 224,
+        "b": 183
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-525",
+      "name": "Uniform Grey",
+      "code": "525",
+      "set": "World War II Range",
+      "hex": "#6A8893",
+      "rgb": {
+        "r": 106,
+        "g": 136,
+        "b": 147
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-409",
+      "name": "Urban Grey",
+      "code": "409",
+      "set": "Brushscape Range",
+      "hex": "#6D5C55",
+      "rgb": {
+        "r": 109,
+        "g": 92,
+        "b": 85
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-523",
+      "name": "Us Dark Green",
+      "code": "523",
+      "set": "World War II Range",
+      "hex": "#455B4F",
+      "rgb": {
+        "r": 69,
+        "g": 91,
+        "b": 79
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-129",
+      "name": "Vampire Red",
+      "code": "129",
+      "set": "Fantasy Range",
+      "hex": "#B32E1F",
+      "rgb": {
+        "r": 179,
+        "g": 46,
+        "b": 31
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-157",
+      "name": "Warlock Purple",
+      "code": "157",
+      "set": "Fantasy Range",
+      "hex": "#C6385E",
+      "rgb": {
+        "r": 198,
+        "g": 56,
+        "b": 94
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-101",
+      "name": "White",
+      "code": "101",
+      "set": "Fantasy Range",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-101-2",
+      "name": "White",
+      "code": "101",
+      "set": "Military Range",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-114",
+      "name": "Wizard Blue",
+      "code": "114",
+      "set": "Fantasy Range",
+      "hex": "#396298",
+      "rgb": {
+        "r": 57,
+        "g": 98,
+        "b": 152
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
+      "id": "coatdarmes-218",
+      "name": "Wood Brown",
+      "code": "218",
+      "set": "Military Range",
+      "hex": "#59371C",
+      "rgb": {
+        "r": 89,
+        "g": 55,
+        "b": 28
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    }
+  ]
+}

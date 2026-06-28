@@ -60,9 +60,9 @@ Feel free to use or improve any of these paints in your own personal projects. A
 
 ## JSON
 
-At the root of this repo I have added a single JSON file that contains all brands and paints, and I have also included a JSON file for each brand individually for ease of use. These files are built every time I update the paints in the MD files and push to the repo through a worker action. 
+At the root of this repo I have added a single JSON file ([`paints.json`](paints.json)) that contains all brands and paints, and I have also included a JSON file for each brand individually under [`paints/json/`](paints/json/) for ease of use. These files are built every time I update the paints in the MD files and push to the repo through a worker action. 
 
-The `paints/*.md` tables are the single source of truth; everything below is generated from them by `scripts/build_paints.py`.
+The `paints/markdown/*.md` tables are the single source of truth; everything below is generated from them by `scripts/build_paints.py`. The aggregate `paints.json` lives at the repo root, and the per-brand files live in `paints/json/`. See [`paints/README.md`](paints/README.md) for a per-brand index.
 
 Every output file is described by a formal [JSON Schema](https://json-schema.org/) (Draft 2020-12) under [`schema/`](schema/): [`schema/paints.schema.json`](schema/paints.schema.json) for the aggregate and [`schema/brand.schema.json`](schema/brand.schema.json) for the per-brand files. Each data file links to its schema via a relative `$schema` reference, so editors like VS Code validate it automatically.
 
@@ -82,13 +82,13 @@ Every output file is described by a formal [JSON Schema](https://json-schema.org
 }
 ```
 
-The per-brand files `json/<stem>.json` each contain a single **brand object** (without the `brandCount`/`brands` wrapper). Each one is prefixed with its own `$schema` and `schema` keys so the file is self-identifying; the brand objects embedded under `brands` in `paints.json` omit those two keys (the aggregate already carries them).
+The per-brand files `paints/json/<stem>.json` each contain a single **brand object** (without the `brandCount`/`brands` wrapper). Each one is prefixed with its own `$schema` and `schema` keys so the file is self-identifying; the brand objects embedded under `brands` in `paints.json` omit those two keys (the aggregate already carries them).
 
 ### Brand object
 
 ```jsonc
 {
-  "$schema": "../schema/brand.schema.json",   // standalone files only
+  "$schema": "../../schema/brand.schema.json",   // standalone files only
   "schema": "miniature-paints/v3",            // standalone files only
   "displayName": "Acrilex",
   "company": "Acrilex Tintas Especiais S.A.",
@@ -137,17 +137,17 @@ The per-brand files `json/<stem>.json` each contain a single **brand object** (w
 <!-- START -->
 |  |  |  |
 | :---: | :---: | :---: |
-|  <a href="paints/AK.md"> <img src="logos/AK.png" height="70" /> <br/> AK</a>|  <a href="paints/Acrilex.md"> <img src="logos/Acrilex.png" height="70" /> <br/> Acrilex</a>|
-|  <a href="paints/AppleBarrel.md"> <img src="logos/AppleBarrel.png" height="70" /> <br/> Apple Barrel</a>|  <a href="paints/Army_Painter.md"> <img src="logos/Army_Painter.png" height="70" /> <br/> Army Painter</a>|  <a href="paints/Arteza.md"> <img src="logos/Arteza.png" height="70" /> <br/> Arteza</a>|
-|  <a href="paints/CoatDArmes.md"> <img src="logos/CoatDArmes.png" height="70" /> <br/> Coat D Armes</a>|  <a href="paints/Creature.md"> <img src="logos/Creature.png" height="70" /> <br/> Creature</a>| <a href="paints/Duncan.md"> <img src="logos/Duncan.png" height="70" /> <br/> Two Thin Coats</a>|  <a href="paints/FolkArt.md"> <img src="logos/FolkArt.png" height="70" /> <br/> Folk Art</a>|  <a href="paints/Foundry.md"> <img src="logos/Foundry.png" height="70" /> <br/> Foundry</a>|
-|  <a href="paints/Golden.md"> <img src="logos/Golden.png" height="70" /> <br/> Golden</a>|  <a href="paints/GreenStuffWorld.md"> <img src="logos/GreenStuffWorld.png" height="70" /> <br/> Green Stuff World</a>|  <a href="paints/Humbrol.md"> <img src="logos/Humbrol.png" height="70" /> <br/> Humbrol</a>|
-|  <a href="paints/Italeri.md"> <img src="logos/Italeri.png" height="70" /> <br/> Italeri</a>|  <a href="paints/KimeraKolors.md"> <img src="logos/KimeraKolors.png" height="70" /> <br/> Kimera Kolors</a>|  <a href="paints/Liquitex.md"> <img src="logos/Liquitex.png" height="70" /> <br/> Liquitex</a>|
-|  <a href="paints/Mig.md"> <img src="logos/Mig.png" height="70" /> <br/> Mig</a>|  <a href="paints/MissionModels.md"> <img src="logos/MissionModels.png" height="70" /> <br/> Mission Models</a>|  <a href="paints/Monument.md"> <img src="logos/Monument.png" height="70" /> <br/> Monument</a>|
-|  <a href="paints/MrHobby.md"> <img src="logos/MrHobby.png" height="70" /> <br/> Mr Hobby</a>|  <a href="paints/MrPaint.md"> <img src="logos/MrPaint.png" height="70" /> <br/> Mr Paint</a>|  <a href="paints/P3.md"> <img src="logos/P3.png" height="70" /> <br/> P3</a>|
-|  <a href="paints/Pantone.md"> <img src="logos/Pantone.png" height="70" /> <br/> Pantone</a>|  <a href="paints/RAL.md"> <img src="logos/RAL.png" height="70" /> <br/> RAL</a>|  <a href="paints/Reaper.md"> <img src="logos/Reaper.png" height="70" /> <br/> Reaper</a>|
-|  <a href="paints/Revell.md"> <img src="logos/Revell.png" height="70" /> <br/> Revell</a>|  <a href="paints/Scale75.md"> <img src="logos/Scale75.png" height="70" /> <br/> Scale75</a>|  <a href="paints/Tamiya.md"> <img src="logos/Tamiya.png" height="70" /> <br/> Tamiya</a>|
-|  <a href="paints/TomColor.md"> <img src="logos/TomColor.png" height="70" /> <br/> Tom Color</a>|  <a href="paints/TurboDork.md"> <img src="logos/TurboDork.png" height="70" /> <br/> Turbo Dork</a>|  <a href="paints/Vallejo.md"> <img src="logos/Vallejo.png" height="70" /> <br/> Vallejo</a>|
-|  <a href="paints/Warcolours.md"> <img src="logos/Warcolours.png" height="70" /> <br/> Warcolours</a>| <a href="paints/Warhammer_Colour.md"> <img src="logos/Warhammer_Colour.png" height="70" /> <br/> Warhammer Colour</a>||
+|  <a href="paints/markdown/AK.md"> <img src="logos/AK.png" height="70" /> <br/> AK</a>|  <a href="paints/markdown/Acrilex.md"> <img src="logos/Acrilex.png" height="70" /> <br/> Acrilex</a>|
+|  <a href="paints/markdown/AppleBarrel.md"> <img src="logos/AppleBarrel.png" height="70" /> <br/> Apple Barrel</a>|  <a href="paints/markdown/Army_Painter.md"> <img src="logos/Army_Painter.png" height="70" /> <br/> Army Painter</a>|  <a href="paints/markdown/Arteza.md"> <img src="logos/Arteza.png" height="70" /> <br/> Arteza</a>|
+|  <a href="paints/markdown/CoatDArmes.md"> <img src="logos/CoatDArmes.png" height="70" /> <br/> Coat D Armes</a>|  <a href="paints/markdown/Creature.md"> <img src="logos/Creature.png" height="70" /> <br/> Creature</a>| <a href="paints/markdown/Duncan.md"> <img src="logos/Duncan.png" height="70" /> <br/> Two Thin Coats</a>|  <a href="paints/markdown/FolkArt.md"> <img src="logos/FolkArt.png" height="70" /> <br/> Folk Art</a>|  <a href="paints/markdown/Foundry.md"> <img src="logos/Foundry.png" height="70" /> <br/> Foundry</a>|
+|  <a href="paints/markdown/Golden.md"> <img src="logos/Golden.png" height="70" /> <br/> Golden</a>|  <a href="paints/markdown/GreenStuffWorld.md"> <img src="logos/GreenStuffWorld.png" height="70" /> <br/> Green Stuff World</a>|  <a href="paints/markdown/Humbrol.md"> <img src="logos/Humbrol.png" height="70" /> <br/> Humbrol</a>|
+|  <a href="paints/markdown/Italeri.md"> <img src="logos/Italeri.png" height="70" /> <br/> Italeri</a>|  <a href="paints/markdown/KimeraKolors.md"> <img src="logos/KimeraKolors.png" height="70" /> <br/> Kimera Kolors</a>|  <a href="paints/markdown/Liquitex.md"> <img src="logos/Liquitex.png" height="70" /> <br/> Liquitex</a>|
+|  <a href="paints/markdown/Mig.md"> <img src="logos/Mig.png" height="70" /> <br/> Mig</a>|  <a href="paints/markdown/MissionModels.md"> <img src="logos/MissionModels.png" height="70" /> <br/> Mission Models</a>|  <a href="paints/markdown/Monument.md"> <img src="logos/Monument.png" height="70" /> <br/> Monument</a>|
+|  <a href="paints/markdown/MrHobby.md"> <img src="logos/MrHobby.png" height="70" /> <br/> Mr Hobby</a>|  <a href="paints/markdown/MrPaint.md"> <img src="logos/MrPaint.png" height="70" /> <br/> Mr Paint</a>|  <a href="paints/markdown/P3.md"> <img src="logos/P3.png" height="70" /> <br/> P3</a>|
+|  <a href="paints/markdown/Pantone.md"> <img src="logos/Pantone.png" height="70" /> <br/> Pantone</a>|  <a href="paints/markdown/RAL.md"> <img src="logos/RAL.png" height="70" /> <br/> RAL</a>|  <a href="paints/markdown/Reaper.md"> <img src="logos/Reaper.png" height="70" /> <br/> Reaper</a>|
+|  <a href="paints/markdown/Revell.md"> <img src="logos/Revell.png" height="70" /> <br/> Revell</a>|  <a href="paints/markdown/Scale75.md"> <img src="logos/Scale75.png" height="70" /> <br/> Scale75</a>|  <a href="paints/markdown/Tamiya.md"> <img src="logos/Tamiya.png" height="70" /> <br/> Tamiya</a>|
+|  <a href="paints/markdown/TomColor.md"> <img src="logos/TomColor.png" height="70" /> <br/> Tom Color</a>|  <a href="paints/markdown/TurboDork.md"> <img src="logos/TurboDork.png" height="70" /> <br/> Turbo Dork</a>|  <a href="paints/markdown/Vallejo.md"> <img src="logos/Vallejo.png" height="70" /> <br/> Vallejo</a>|
+|  <a href="paints/markdown/Warcolours.md"> <img src="logos/Warcolours.png" height="70" /> <br/> Warcolours</a>| <a href="paints/markdown/Warhammer_Colour.md"> <img src="logos/Warhammer_Colour.png" height="70" /> <br/> Warhammer Colour</a>||
 <!-- END -->
 
 ## Thanks
