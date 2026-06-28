@@ -1,6 +1,9 @@
 # Warhammer Colour
 ![Warhammer_Colour](../../logos/Warhammer_Colour.png "Warhammer_Colour")
 
+> [!NOTE]
+> A large number of paints now appear to be discontinued, as they are no longer for sale on the main Warhammer website. They could well still be sold by other retailers. The culled paints are archived in [discontinued/Warhammer_Colour.csv](../discontinued/Warhammer_Colour.csv).
+
 ## Brand Details
 
 | Field | Value |

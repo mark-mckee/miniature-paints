@@ -25,6 +25,9 @@ Feel free to use or improve any of these paints in your own personal projects. A
 
 [The expanded Tasks file is here](TODO.md)
 
+> [!NOTE]
+> Brands (and sets) marked as complete `[X]` below have been updated to the manufacturer's product line as of June/July 2026.
+
 - [X] Add contact information for each brand where possible
 - [ ] Update all paint sets to match the current product catalogues
   - [X] AK
