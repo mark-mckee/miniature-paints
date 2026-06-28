@@ -88,4 +88,4 @@
     - [X] TurboShift
   - [ ] Vallejo
   - [ ] Warcolours
-  - [ ] Warhammer Colour
+  - [X] Warhammer Colour

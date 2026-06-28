@@ -18,460 +18,333 @@
 
 |Name|Set|R|G|B|Hex|Pot Size|Description|
 |---|---|---|---|---|---|---|---|
-|'Ardcoat|Technical|249|249|249|![#F9F9F9](https://placehold.co/15x15/F9F9F9/F9F9F9.png) `#F9F9F9`|12ml||
 |Abaddon Black|Air|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|24ml||
 |Abaddon Black|Base|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|12ml||
-|Adeptus Battlegrey|Foundation (discontinued)|74|76|88|![#4A4C58](https://placehold.co/15x15/4A4C58/4A4C58.png) `#4A4C58`|12ml||
-|Administratum Grey|Layer|152|156|148|![#989C94](https://placehold.co/15x15/989C94/989C94.png) `#989C94`|12ml||
-|Administratum Grey|Air|143|150|144|![#8F9690](https://placehold.co/15x15/8F9690/8F9690.png) `#8F9690`|24ml||
-|Aethermatic Blue|Contrast|28|126|146|![#1C7E92](https://placehold.co/15x15/1C7E92/1C7E92.png) `#1C7E92`|18ml||
-|Aggaros Dunes|Contrast|112|101|66|![#706542](https://placehold.co/15x15/706542/706542.png) `#706542`|18ml||
-|Agrax Earthshade|Shade|169|157|141|![#A99D8D](https://placehold.co/15x15/A99D8D/A99D8D.png) `#A99D8D`|18ml||
-|Agrax Earthshade Gloss|Shade|180|170|158|![#B4AA9E](https://placehold.co/15x15/B4AA9E/B4AA9E.png) `#B4AA9E`|18ml||
-|Agrellan Badland|Technical|179|158|128|![#B39E80](https://placehold.co/15x15/B39E80/B39E80.png) `#B39E80`|12ml||
-|Agrellan Earth|Technical|179|158|128|![#B39E80](https://placehold.co/15x15/B39E80/B39E80.png) `#B39E80`|12ml||
-|Ahriman Blue|Layer|0|112|138|![#00708A](https://placehold.co/15x15/00708A/00708A.png) `#00708A`|12ml||
-|Air Caste Thinner|Air|249|249|249|![#F9F9F9](https://placehold.co/15x15/F9F9F9/F9F9F9.png) `#F9F9F9`|24ml||
-|Akhelian Green|Contrast|0|79|99|![#004F63](https://placehold.co/15x15/004F63/004F63.png) `#004F63`|18ml||
-|Alaitoc Blue|Layer|47|79|133|![#2F4F85](https://placehold.co/15x15/2F4F85/2F4F85.png) `#2F4F85`|12ml||
-|Altdorf Guard Blue|Layer|45|70|150|![#2D4696](https://placehold.co/15x15/2D4696/2D4696.png) `#2D4696`|12ml||
-|Angron Red Clear|Air|226|24|35|![#E21823](https://placehold.co/15x15/E21823/E21823.png) `#E21823`|24ml||
-|Apothecary White|Contrast|165|190|212|![#A5BED4](https://placehold.co/15x15/A5BED4/A5BED4.png) `#A5BED4`|18ml||
-|Armageddon Dunes|Technical|232|211|111|![#E8D36F](https://placehold.co/15x15/E8D36F/E8D36F.png) `#E8D36F`|12ml||
-|Armageddon Dust|Technical|210|173|0|![#D2AD00](https://placehold.co/15x15/D2AD00/D2AD00.png) `#D2AD00`|12ml||
-|Astorath Red|Dry|169|49|30|![#A9311E](https://placehold.co/15x15/A9311E/A9311E.png) `#A9311E`|12ml||
-|Astrogranite|Technical|118|118|117|![#767675](https://placehold.co/15x15/767675/767675.png) `#767675`|12ml||
-|Astrogranite Debris|Technical|157|157|157|![#9D9D9D](https://placehold.co/15x15/9D9D9D/9D9D9D.png) `#9D9D9D`|12ml||
-|Astronomicon Grey|Foundation (discontinued)|147|171|175|![#93ABAF](https://placehold.co/15x15/93ABAF/93ABAF.png) `#93ABAF`|12ml||
-|Asurmen Blue Wash|Foundation Wash (discontinued)|39|62|81|![#273E51](https://placehold.co/15x15/273E51/273E51.png) `#273E51`|12ml||
-|Athonian Camoshade|Shade|182|183|136|![#B6B788](https://placehold.co/15x15/B6B788/B6B788.png) `#B6B788`|18ml||
-|Auric Armour Gold|Layer|255|196|81|![#FFC451](https://placehold.co/15x15/FFC451/FFC451.png) `#FFC451`|12ml||
-|Averland Sunset|Air|251|184|28|![#FBB81C](https://placehold.co/15x15/FBB81C/FBB81C.png) `#FBB81C`|24ml||
-|Averland Sunset|Base|251|184|28|![#FBB81C](https://placehold.co/15x15/FBB81C/FBB81C.png) `#FBB81C`|12ml||
-|Baal Red Wash|Foundation Wash (discontinued)|99|8|8|![#630808](https://placehold.co/15x15/630808/630808.png) `#630808`|12ml||
-|Bad Moon Yellow|Foundation (discontinued)|255|242|0|![#FFF200](https://placehold.co/15x15/FFF200/FFF200.png) `#FFF200`|12ml||
-|Badab Black Wash|Foundation Wash (discontinued)|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|12ml||
-|Baharroth Blue|Layer|84|189|202|![#54BDCA](https://placehold.co/15x15/54BDCA/54BDCA.png) `#54BDCA`|12ml||
-|Balor Brown|Layer|135|84|8|![#875408](https://placehold.co/15x15/875408/875408.png) `#875408`|12ml||
-|Balor Brown|Air|135|84|8|![#875408](https://placehold.co/15x15/875408/875408.png) `#875408`|24ml||
-|Balthasar Gold|Air|167|115|83|![#A77353](https://placehold.co/15x15/A77353/A77353.png) `#A77353`|24ml||
-|Balthasar Gold|Base|167|115|83|![#A77353](https://placehold.co/15x15/A77353/A77353.png) `#A77353`|12ml||
-|Baneblade Brown|Air|143|124|104|![#8F7C68](https://placehold.co/15x15/8F7C68/8F7C68.png) `#8F7C68`|24ml||
-|Baneblade Brown|Layer|143|124|104|![#8F7C68](https://placehold.co/15x15/8F7C68/8F7C68.png) `#8F7C68`|12ml||
-|Barak-Nar Burgundy|Base|69|22|54|![#451636](https://placehold.co/15x15/451636/451636.png) `#451636`|12ml||
-|Basilicanum Grey|Contrast|33|33|33|![#212121](https://placehold.co/15x15/212121/212121.png) `#212121`|18ml||
-|Beaten Copper|Foundation (discontinued)|115|55|45|![#73372D](https://placehold.co/15x15/73372D/73372D.png) `#73372D`|12ml||
-|Bestial Brown|Foundation (discontinued)|123|74|57|![#7B4A39](https://placehold.co/15x15/7B4A39/7B4A39.png) `#7B4A39`|12ml||
-|Bestigor Flesh|Layer|208|137|81|![#D08951](https://placehold.co/15x15/D08951/D08951.png) `#D08951`|12ml||
-|Biel-Tan Green|Shade|125|165|122|![#7DA57A](https://placehold.co/15x15/7DA57A/7DA57A.png) `#7DA57A`|18ml||
-|Bilious Green|Foundation (discontinued)|169|209|113|![#A9D171](https://placehold.co/15x15/A9D171/A9D171.png) `#A9D171`|12ml||
-|Black Ink|Foundation (discontinued)|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|12ml||
-|Black Legion|Contrast|35|35|36|![#232324](https://placehold.co/15x15/232324/232324.png) `#232324`|18ml||
-|Black Templar|Contrast|23|23|23|![#171717](https://placehold.co/15x15/171717/171717.png) `#171717`|18ml||
-|Blazing Orange|Foundation (discontinued)|230|89|37|![#E65925](https://placehold.co/15x15/E65925/E65925.png) `#E65925`|12ml||
-|Bleached Bone|Foundation (discontinued)|238|213|172|![#EED5AC](https://placehold.co/15x15/EED5AC/EED5AC.png) `#EED5AC`|12ml||
-|Blood Angels Red|Contrast|134|11|14|![#860B0E](https://placehold.co/15x15/860B0E/860B0E.png) `#860B0E`|18ml||
-|Blood For The Blood God|Technical|96|1|6|![#600106](https://placehold.co/15x15/600106/600106.png) `#600106`|12ml||
-|Blood Red|Foundation (discontinued)|210|34|62|![#D2223E](https://placehold.co/15x15/D2223E/D2223E.png) `#D2223E`|12ml||
-|Bloodletter|Glaze|243|115|85|![#F37355](https://placehold.co/15x15/F37355/F37355.png) `#F37355`|||
-|Bloodreaver Flesh|Layer|106|72|72|![#6A4848](https://placehold.co/15x15/6A4848/6A4848.png) `#6A4848`|12ml||
-|Blue Horror|Layer|158|181|206|![#9EB5CE](https://placehold.co/15x15/9EB5CE/9EB5CE.png) `#9EB5CE`|12ml||
-|Boltgun Metal|Foundation (discontinued)|136|135|137|![#888789](https://placehold.co/15x15/888789/888789.png) `#888789`|12ml||
-|Brass Scorpion|Layer|166|93|44|![#A65D2C](https://placehold.co/15x15/A65D2C/A65D2C.png) `#A65D2C`|12ml||
-|Brazen Brass|Foundation (discontinued)|150|103|71|![#966747](https://placehold.co/15x15/966747/966747.png) `#966747`|12ml||
-|Bronzed Flesh|Foundation (discontinued)|236|154|54|![#EC9A36](https://placehold.co/15x15/EC9A36/EC9A36.png) `#EC9A36`|12ml||
-|Bubonic Brown|Foundation (discontinued)|184|145|66|![#B89142](https://placehold.co/15x15/B89142/B89142.png) `#B89142`|12ml||
-|Bugman Glow|Base|128|76|67|![#804C43](https://placehold.co/15x15/804C43/804C43.png) `#804C43`|12ml||
-|Burnished Gold|Foundation (discontinued)|224|192|104|![#E0C068](https://placehold.co/15x15/E0C068/E0C068.png) `#E0C068`|12ml||
-|Cadian Fleshtone|Layer|196|118|82|![#C47652](https://placehold.co/15x15/C47652/C47652.png) `#C47652`|12ml||
-|Caledor Sky|Air|54|102|153|![#366699](https://placehold.co/15x15/366699/366699.png) `#366699`|24ml||
-|Caledor Sky|Base|54|102|153|![#366699](https://placehold.co/15x15/366699/366699.png) `#366699`|12ml||
-|Calgar Blue|Air|42|73|127|![#2A497F](https://placehold.co/15x15/2A497F/2A497F.png) `#2A497F`|24ml||
-|Calgar Blue|Layer|42|73|127|![#2A497F](https://placehold.co/15x15/2A497F/2A497F.png) `#2A497F`|12ml||
-|Caliban Green|Base|0|61|21|![#003D15](https://placehold.co/15x15/003D15/003D15.png) `#003D15`|12ml||
-|Caliban Green|Air|0|61|21|![#003D15](https://placehold.co/15x15/003D15/003D15.png) `#003D15`|24ml||
-|Calth Blue Clear|Air|0|135|209|![#0087D1](https://placehold.co/15x15/0087D1/0087D1.png) `#0087D1`|24ml||
-|Calthan Brown|Foundation (discontinued)|122|66|49|![#7A4231](https://placehold.co/15x15/7A4231/7A4231.png) `#7A4231`|12ml||
-|Camo Green|Foundation (discontinued)|135|141|82|![#878D52](https://placehold.co/15x15/878D52/878D52.png) `#878D52`|12ml||
-|Canoptek Alloy|Layer|195|178|172|![#C3B2AC](https://placehold.co/15x15/C3B2AC/C3B2AC.png) `#C3B2AC`|12ml||
-|Carroburg Crimson|Shade|190|128|164|![#BE80A4](https://placehold.co/15x15/BE80A4/BE80A4.png) `#BE80A4`|18ml||
-|Cassandora Yellow|Shade|245|204|146|![#F5CC92](https://placehold.co/15x15/F5CC92/F5CC92.png) `#F5CC92`|18ml||
-|Castellan Green|Air|38|71|21|![#264715](https://placehold.co/15x15/264715/264715.png) `#264715`|24ml||
-|Castellan Green|Base|38|71|21|![#264715](https://placehold.co/15x15/264715/264715.png) `#264715`|12ml||
-|Castellax Bronze|Air|198|131|81|![#C68351](https://placehold.co/15x15/C68351/C68351.png) `#C68351`|24ml||
-|Castellax Bronze|Layer|198|131|81|![#C68351](https://placehold.co/15x15/C68351/C68351.png) `#C68351`|12ml||
-|Catachan Fleshtone|Base|68|43|37|![#442B25](https://placehold.co/15x15/442B25/442B25.png) `#442B25`|12ml||
-|Catachan Green|Foundation (discontinued)|69|84|64|![#455440](https://placehold.co/15x15/455440/455440.png) `#455440`|12ml||
-|Celestra Grey|Base|139|163|163|![#8BA3A3](https://placehold.co/15x15/8BA3A3/8BA3A3.png) `#8BA3A3`|12ml||
-|Chainmail|Foundation (discontinued)|142|140|145|![#8E8C91](https://placehold.co/15x15/8E8C91/8E8C91.png) `#8E8C91`|12ml||
-|Changeling Pink|Dry|243|171|202|![#F3ABCA](https://placehold.co/15x15/F3ABCA/F3ABCA.png) `#F3ABCA`|12ml||
-|Chaos Black|Foundation (discontinued)|0|21|34|![#001522](https://placehold.co/15x15/001522/001522.png) `#001522`|12ml||
-|Chaos Black|Spray|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|||
-|Charadon Granite|Foundation (discontinued)|70|63|57|![#463F39](https://placehold.co/15x15/463F39/463F39.png) `#463F39`|12ml||
-|Chemos Purple|Air|79|53|108|![#4F356C](https://placehold.co/15x15/4F356C/4F356C.png) `#4F356C`|24ml||
-|Chronus Blue|Dry|75|144|207|![#4B90CF](https://placehold.co/15x15/4B90CF/4B90CF.png) `#4B90CF`|12ml||
-|Codex Grey|Foundation (discontinued)|128|130|133|![#808285](https://placehold.co/15x15/808285/808285.png) `#808285`|12ml||
-|Coelia Greenshade|Shade|27|143|133|![#1B8F85](https://placehold.co/15x15/1B8F85/1B8F85.png) `#1B8F85`|18ml||
-|Commando Khaki|Foundation (discontinued)|154|140|123|![#9A8C7B](https://placehold.co/15x15/9A8C7B/9A8C7B.png) `#9A8C7B`|12ml||
-|Contrast Medium|Technical|249|249|249|![#F9F9F9](https://placehold.co/15x15/F9F9F9/F9F9F9.png) `#F9F9F9`|12ml||
+|Administratum Grey|Air|157|164|157|![#9DA49D](https://placehold.co/15x15/9DA49D/9DA49D.png) `#9DA49D`|24ml||
+|Administratum Grey|Layer|153|156|149|![#999C95](https://placehold.co/15x15/999C95/999C95.png) `#999C95`|12ml||
+|Aeldari Emerald|Contrast|50|130|117|![#328275](https://placehold.co/15x15/328275/328275.png) `#328275`|18ml||
+|Aethermatic Blue|Contrast|17|133|144|![#118590](https://placehold.co/15x15/118590/118590.png) `#118590`|18ml||
+|Aggaros Dunes|Contrast|211|189|121|![#D3BD79](https://placehold.co/15x15/D3BD79/D3BD79.png) `#D3BD79`|18ml||
+|Agrax Earthshade|Shade|154|153|142|![#9A998E](https://placehold.co/15x15/9A998E/9A998E.png) `#9A998E`|18ml||
+|Agrellan Badland|Technical|134|119|94|![#86775E](https://placehold.co/15x15/86775E/86775E.png) `#86775E`|24ml||
+|Agrellan Earth|Technical|170|153|125|![#AA997D](https://placehold.co/15x15/AA997D/AA997D.png) `#AA997D`|24ml||
+|Ahriman Blue|Layer|41|113|137|![#297189](https://placehold.co/15x15/297189/297189.png) `#297189`|12ml||
+|Air Caste Thinner|Air|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|24ml||
+|Akhelian Green|Contrast|15|143|168|![#0F8FA8](https://placehold.co/15x15/0F8FA8/0F8FA8.png) `#0F8FA8`|18ml||
+|Alaitoc Blue|Layer|56|79|131|![#384F83](https://placehold.co/15x15/384F83/384F83.png) `#384F83`|12ml||
+|Altdorf Guard Blue|Layer|53|70|148|![#354694](https://placehold.co/15x15/354694/354694.png) `#354694`|12ml||
+|Angron Red Clear|Air|246|126|136|![#F67E88](https://placehold.co/15x15/F67E88/F67E88.png) `#F67E88`|24ml||
+|Apothecary White|Contrast|241|249|254|![#F1F9FE](https://placehold.co/15x15/F1F9FE/F1F9FE.png) `#F1F9FE`|18ml||
+|Ardcoat|Technical|242|242|242|![#F2F2F2](https://placehold.co/15x15/F2F2F2/F2F2F2.png) `#F2F2F2`|24ml||
+|Armageddon Dust|Technical|209|194|107|![#D1C26B](https://placehold.co/15x15/D1C26B/D1C26B.png) `#D1C26B`|24ml||
+|Astorath Red|Dry|170|49|30|![#AA311E](https://placehold.co/15x15/AA311E/AA311E.png) `#AA311E`|12ml||
+|Astrogranite|Technical|145|145|145|![#919191](https://placehold.co/15x15/919191/919191.png) `#919191`|24ml||
+|Asurmen Blue|Contrast|39|126|171|![#277EAB](https://placehold.co/15x15/277EAB/277EAB.png) `#277EAB`|18ml||
+|Athonian Camoshade|Shade|157|172|143|![#9DAC8F](https://placehold.co/15x15/9DAC8F/9DAC8F.png) `#9DAC8F`|18ml||
+|Auric Armour Gold|Layer|220|153|76|![#DC994C](https://placehold.co/15x15/DC994C/DC994C.png) `#DC994C`|12ml||
+|Averland Sunset|Air|243|183|51|![#F3B733](https://placehold.co/15x15/F3B733/F3B733.png) `#F3B733`|24ml||
+|Averland Sunset|Base|243|183|51|![#F3B733](https://placehold.co/15x15/F3B733/F3B733.png) `#F3B733`|12ml||
+|Baal Red|Contrast|178|58|69|![#B23A45](https://placehold.co/15x15/B23A45/B23A45.png) `#B23A45`|18ml||
+|Bad Moon Yellow|Contrast|199|184|41|![#C7B829](https://placehold.co/15x15/C7B829/C7B829.png) `#C7B829`|18ml||
+|Baharroth Blue|Layer|106|190|201|![#6ABEC9](https://placehold.co/15x15/6ABEC9/6ABEC9.png) `#6ABEC9`|12ml||
+|Balor Brown|Layer|131|83|19|![#835313](https://placehold.co/15x15/835313/835313.png) `#835313`|12ml||
+|Balthasar Gold|Air|127|106|74|![#7F6A4A](https://placehold.co/15x15/7F6A4A/7F6A4A.png) `#7F6A4A`|24ml||
+|Balthasar Gold|Base|173|128|69|![#AD8045](https://placehold.co/15x15/AD8045/AD8045.png) `#AD8045`|12ml||
+|Baneblade Brown|Air|145|126|109|![#917E6D](https://placehold.co/15x15/917E6D/917E6D.png) `#917E6D`|24ml||
+|Baneblade Brown|Layer|141|124|106|![#8D7C6A](https://placehold.co/15x15/8D7C6A/8D7C6A.png) `#8D7C6A`|12ml||
+|Barak-Nar Burgundy|Base|67|15|37|![#430F25](https://placehold.co/15x15/430F25/430F25.png) `#430F25`|12ml||
+|Basilicanum Grey|Contrast|152|156|159|![#989C9F](https://placehold.co/15x15/989C9F/989C9F.png) `#989C9F`|18ml||
+|Berserker Bloodshade|Shade|196|136|154|![#C4889A](https://placehold.co/15x15/C4889A/C4889A.png) `#C4889A`|18ml||
+|Bestigor Flesh|Layer|199|136|85|![#C78855](https://placehold.co/15x15/C78855/C78855.png) `#C78855`|12ml||
+|Biel-Tan Green|Shade|132|181|159|![#84B59F](https://placehold.co/15x15/84B59F/84B59F.png) `#84B59F`|18ml||
+|Black Legion|Contrast|59|57|58|![#3B393A](https://placehold.co/15x15/3B393A/3B393A.png) `#3B393A`|18ml||
+|Black Templar|Contrast|152|156|159|![#989C9F](https://placehold.co/15x15/989C9F/989C9F.png) `#989C9F`|18ml||
+|Blood Angels Red|Contrast|163|16|17|![#A31011](https://placehold.co/15x15/A31011/A31011.png) `#A31011`|18ml||
+|Blood for the Blood God|Technical|99|5|11|![#63050B](https://placehold.co/15x15/63050B/63050B.png) `#63050B`|24ml||
+|Bloodreaver Flesh|Layer|103|71|72|![#674748](https://placehold.co/15x15/674748/674748.png) `#674748`|12ml||
+|Blue Horror|Layer|163|181|205|![#A3B5CD](https://placehold.co/15x15/A3B5CD/A3B5CD.png) `#A3B5CD`|12ml||
+|Brass Scorpion|Layer|122|65|45|![#7A412D](https://placehold.co/15x15/7A412D/7A412D.png) `#7A412D`|12ml||
+|Briar Queen Chill|Contrast|121|160|171|![#79A0AB](https://placehold.co/15x15/79A0AB/79A0AB.png) `#79A0AB`|18ml||
+|Bugman's Glow|Base|124|75|68|![#7C4B44](https://placehold.co/15x15/7C4B44/7C4B44.png) `#7C4B44`|12ml||
+|Cadian Fleshtone|Layer|188|117|85|![#BC7555](https://placehold.co/15x15/BC7555/BC7555.png) `#BC7555`|12ml||
+|Caledor Sky|Base|66|102|152|![#426698](https://placehold.co/15x15/426698/426698.png) `#426698`|12ml||
+|Calgar Blue|Layer|50|73|125|![#32497D](https://placehold.co/15x15/32497D/32497D.png) `#32497D`|12ml||
+|Caliban Green|Air|0|64|30|![#00401E](https://placehold.co/15x15/00401E/00401E.png) `#00401E`|24ml||
+|Caliban Green|Base|16|60|24|![#103C18](https://placehold.co/15x15/103C18/103C18.png) `#103C18`|12ml||
+|Calth Blue Clear|Air|0|151|220|![#0097DC](https://placehold.co/15x15/0097DC/0097DC.png) `#0097DC`|24ml||
+|Canoptek Alloy|Layer|147|136|134|![#938886](https://placehold.co/15x15/938886/938886.png) `#938886`|12ml||
+|Carroburg Crimson|Shade|189|135|168|![#BD87A8](https://placehold.co/15x15/BD87A8/BD87A8.png) `#BD87A8`|18ml||
+|Casandora Yellow|Shade|214|194|141|![#D6C28D](https://placehold.co/15x15/D6C28D/D6C28D.png) `#D6C28D`|18ml||
+|Castellan Green|Air|43|71|23|![#2B4717](https://placehold.co/15x15/2B4717/2B4717.png) `#2B4717`|24ml||
+|Castellan Green|Base|43|71|23|![#2B4717](https://placehold.co/15x15/2B4717/2B4717.png) `#2B4717`|12ml||
+|Castellax Bronze|Layer|165|131|103|![#A58367](https://placehold.co/15x15/A58367/A58367.png) `#A58367`|12ml||
+|Catachan Flesh|Base|68|40|37|![#442825](https://placehold.co/15x15/442825/442825.png) `#442825`|12ml||
+|Celestium Blue|Contrast|59|101|142|![#3B658E](https://placehold.co/15x15/3B658E/3B658E.png) `#3B658E`|18ml||
+|Celestra Grey|Base|143|163|164|![#8FA3A4](https://placehold.co/15x15/8FA3A4/8FA3A4.png) `#8FA3A4`|12ml||
+|Chaos Black|Spray|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|400ml||
+|Coelia Greenshade|Shade|131|171|167|![#83ABA7](https://placehold.co/15x15/83ABA7/83ABA7.png) `#83ABA7`|18ml||
+|Contrast Medium|Technical|242|242|242|![#F2F2F2](https://placehold.co/15x15/F2F2F2/F2F2F2.png) `#F2F2F2`|24ml||
 |Corax White|Base|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|12ml||
-|Corax White|Spray|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|||
 |Corvus Black|Air|23|19|20|![#171314](https://placehold.co/15x15/171314/171314.png) `#171314`|24ml||
 |Corvus Black|Base|23|19|20|![#171314](https://placehold.co/15x15/171314/171314.png) `#171314`|12ml||
-|Creed Camo|Contrast|20|93|46|![#145D2E](https://placehold.co/15x15/145D2E/145D2E.png) `#145D2E`|18ml||
-|Cryptek Armourshade Gloss|Shade|133|106|103|![#856A67](https://placehold.co/15x15/856A67/856A67.png) `#856A67`|18ml||
-|Cygor Brown|Contrast|62|26|23|![#3E1A17](https://placehold.co/15x15/3E1A17/3E1A17.png) `#3E1A17`|18ml||
+|Creed Camo|Contrast|16|139|110|![#108B6E](https://placehold.co/15x15/108B6E/108B6E.png) `#108B6E`|18ml||
+|Cygor Brown|Contrast|119|85|84|![#775554](https://placehold.co/15x15/775554/775554.png) `#775554`|18ml||
 |Daemonette Hide|Base|101|95|129|![#655F81](https://placehold.co/15x15/655F81/655F81.png) `#655F81`|12ml||
-|Dark Angels Green|Contrast|0|17|15|![#00110F](https://placehold.co/15x15/00110F/00110F.png) `#00110F`|18ml||
-|Dark Angels Green|Foundation (discontinued)|25|85|60|![#19553C](https://placehold.co/15x15/19553C/19553C.png) `#19553C`|12ml||
-|Dark Flesh|Foundation (discontinued)|104|59|49|![#683B31](https://placehold.co/15x15/683B31/683B31.png) `#683B31`|12ml||
-|Dark Green Ink|Foundation (discontinued)|16|132|115|![#108473](https://placehold.co/15x15/108473/108473.png) `#108473`|12ml||
-|Dark Reaper|Layer|53|77|76|![#354D4C](https://placehold.co/15x15/354D4C/354D4C.png) `#354D4C`|12ml||
-|Darkoath Flesh|Contrast|152|97|91|![#98615B](https://placehold.co/15x15/98615B/98615B.png) `#98615B`|18ml||
+|Dark Angels Green|Contrast|17|99|85|![#116355](https://placehold.co/15x15/116355/116355.png) `#116355`|18ml||
+|Dark Reaper|Layer|57|77|76|![#394D4C](https://placehold.co/15x15/394D4C/394D4C.png) `#394D4C`|12ml||
+|Darkoath Flesh|Contrast|219|154|140|![#DB9A8C](https://placehold.co/15x15/DB9A8C/DB9A8C.png) `#DB9A8C`|18ml||
+|Dawnstone|Air|106|111|104|![#6A6F68](https://placehold.co/15x15/6A6F68/6A6F68.png) `#6A6F68`|24ml||
 |Dawnstone|Dry|105|112|104|![#697068](https://placehold.co/15x15/697068/697068.png) `#697068`|12ml||
-|Dawnstone|Air|105|112|104|![#697068](https://placehold.co/15x15/697068/697068.png) `#697068`|24ml||
-|Dawnstone|Layer|105|112|104|![#697068](https://placehold.co/15x15/697068/697068.png) `#697068`|12ml||
-|Death Guard Green|Spray|85|98|41|![#556229](https://placehold.co/15x15/556229/556229.png) `#556229`|||
-|Death Guard Green|Base|109|119|77|![#6D774D](https://placehold.co/15x15/6D774D/6D774D.png) `#6D774D`|12ml||
-|Death Korps Drab|Air|61|69|57|![#3D4539](https://placehold.co/15x15/3D4539/3D4539.png) `#3D4539`|24ml||
-|Death Korps Drab|Base|61|69|57|![#3D4539](https://placehold.co/15x15/3D4539/3D4539.png) `#3D4539`|12ml||
-|Deathclaw Brown|Layer|175|99|79|![#AF634F](https://placehold.co/15x15/AF634F/AF634F.png) `#AF634F`|12ml||
-|Deathclaw Brown|Air|175|99|79|![#AF634F](https://placehold.co/15x15/AF634F/AF634F.png) `#AF634F`|24ml||
-|Deathshroud Clear|Air|28|28|27|![#1C1C1B](https://placehold.co/15x15/1C1C1B/1C1C1B.png) `#1C1C1B`|24ml||
-|Deathworld Forest|Base|85|98|41|![#556229](https://placehold.co/15x15/556229/556229.png) `#556229`|12ml||
-|Deathworld Forest|Air|85|98|41|![#556229](https://placehold.co/15x15/556229/556229.png) `#556229`|24ml||
-|Dechala Lilac|Layer|181|152|201|![#B598C9](https://placehold.co/15x15/B598C9/B598C9.png) `#B598C9`|12ml||
-|Deepkin Flesh|Layer|169|183|159|![#A9B79F](https://placehold.co/15x15/A9B79F/A9B79F.png) `#A9B79F`|12ml||
-|Desert Yellow|Foundation (discontinued)|156|136|85|![#9C8855](https://placehold.co/15x15/9C8855/9C8855.png) `#9C8855`|12ml||
-|Devlan Mud Wash|Foundation Wash (discontinued)|57|49|33|![#393121](https://placehold.co/15x15/393121/393121.png) `#393121`|12ml||
-|Dheneb Stone|Foundation (discontinued)|184|172|160|![#B8ACA0](https://placehold.co/15x15/B8ACA0/B8ACA0.png) `#B8ACA0`|12ml||
-|Doombull Brown|Layer|87|0|3|![#570003](https://placehold.co/15x15/570003/570003.png) `#570003`|12ml||
-|Dorn Yellow|Layer|255|245|90|![#FFF55A](https://placehold.co/15x15/FFF55A/FFF55A.png) `#FFF55A`|12ml||
-|Drakenhof Nightshade|Shade|161|165|175|![#A1A5AF](https://placehold.co/15x15/A1A5AF/A1A5AF.png) `#A1A5AF`|18ml||
-|Druchii Violet|Shade|143|101|146|![#8F6592](https://placehold.co/15x15/8F6592/8F6592.png) `#8F6592`|18ml||
-|Dryad Bark|Base|43|42|36|![#2B2A24](https://placehold.co/15x15/2B2A24/2B2A24.png) `#2B2A24`|12ml||
-|Dryad Bark|Air|43|42|36|![#2B2A24](https://placehold.co/15x15/2B2A24/2B2A24.png) `#2B2A24`|24ml||
-|Dwarf Bronze|Foundation (discontinued)|162|104|64|![#A26840](https://placehold.co/15x15/A26840/A26840.png) `#A26840`|12ml||
-|Dwarf Flesh|Foundation (discontinued)|218|147|130|![#DA9382](https://placehold.co/15x15/DA9382/DA9382.png) `#DA9382`|12ml||
-|Eidolon Purple Clear|Air|125|77|153|![#7D4D99](https://placehold.co/15x15/7D4D99/7D4D99.png) `#7D4D99`|24ml||
-|Eldar Flesh|Dry|232|192|127|![#E8C07F](https://placehold.co/15x15/E8C07F/E8C07F.png) `#E8C07F`|12ml||
-|Elf Flesh|Foundation (discontinued)|237|174|116|![#EDAE74](https://placehold.co/15x15/EDAE74/EDAE74.png) `#EDAE74`|12ml||
-|Elysian Green|Layer|107|140|55|![#6B8C37](https://placehold.co/15x15/6B8C37/6B8C37.png) `#6B8C37`|12ml||
-|Elysian Green|Air|107|140|55|![#6B8C37](https://placehold.co/15x15/6B8C37/6B8C37.png) `#6B8C37`|24ml||
-|Emperor Children|Layer|183|64|115|![#B74073](https://placehold.co/15x15/B74073/B74073.png) `#B74073`|12ml||
-|Enchanted Blue|Foundation (discontinued)|0|113|183|![#0071B7](https://placehold.co/15x15/0071B7/0071B7.png) `#0071B7`|12ml||
-|Eshin Grey|Layer|72|75|78|![#484B4E](https://placehold.co/15x15/484B4E/484B4E.png) `#484B4E`|12ml||
-|Etherium Blue|Dry|158|181|206|![#9EB5CE](https://placehold.co/15x15/9EB5CE/9EB5CE.png) `#9EB5CE`|12ml||
-|Evil Sunz Scarlet|Layer|192|20|17|![#C01411](https://placehold.co/15x15/C01411/C01411.png) `#C01411`|12ml||
-|Evil Sunz Scarlet|Air|192|20|17|![#C01411](https://placehold.co/15x15/C01411/C01411.png) `#C01411`|24ml||
-|Fenrisian Grey|Layer|109|148|179|![#6D94B3](https://placehold.co/15x15/6D94B3/6D94B3.png) `#6D94B3`|12ml||
-|Fenrisian Grey|Air|109|148|179|![#6D94B3](https://placehold.co/15x15/6D94B3/6D94B3.png) `#6D94B3`|24ml||
-|Fenrys Grey|Foundation (discontinued)|44|67|99|![#2C4363](https://placehold.co/15x15/2C4363/2C4363.png) `#2C4363`|12ml||
-|Fiery Orange|Foundation (discontinued)|244|121|32|![#F47920](https://placehold.co/15x15/F47920/F47920.png) `#F47920`|12ml||
-|Fire Dragon Bright|Layer|244|135|78|![#F4874E](https://placehold.co/15x15/F4874E/F4874E.png) `#F4874E`|12ml||
-|Flash Gitz Yellow|Air|255|243|0|![#FFF300](https://placehold.co/15x15/FFF300/FFF300.png) `#FFF300`|24ml||
-|Flash Gitz Yellow|Layer|255|243|0|![#FFF300](https://placehold.co/15x15/FFF300/FFF300.png) `#FFF300`|12ml||
-|Flayed One Flesh|Layer|238|196|131|![#EEC483](https://placehold.co/15x15/EEC483/EEC483.png) `#EEC483`|12ml||
-|Flesh Tearers Red|Contrast|75|4|2|![#4B0402](https://placehold.co/15x15/4B0402/4B0402.png) `#4B0402`|18ml||
-|Flesh Wash|Foundation Wash (discontinued)|206|140|66|![#CE8C42](https://placehold.co/15x15/CE8C42/CE8C42.png) `#CE8C42`|12ml||
-|Fortress Grey|Foundation (discontinued)|188|189|192|![#BCBDC0](https://placehold.co/15x15/BCBDC0/BCBDC0.png) `#BCBDC0`|12ml||
-|Fuegan Orange|Shade|187|118|72|![#BB7648](https://placehold.co/15x15/BB7648/BB7648.png) `#BB7648`|18ml||
-|Fulgrim Pink|Layer|243|171|202|![#F3ABCA](https://placehold.co/15x15/F3ABCA/F3ABCA.png) `#F3ABCA`|12ml||
-|Fulgurite Copper|Layer|206|141|81|![#CE8D51](https://placehold.co/15x15/CE8D51/CE8D51.png) `#CE8D51`|12ml||
-|Fyreslayer Flesh|Contrast|114|78|60|![#724E3C](https://placehold.co/15x15/724E3C/724E3C.png) `#724E3C`|18ml||
-|Gal Vorbak Red|Base|75|33|60|![#4B213C](https://placehold.co/15x15/4B213C/4B213C.png) `#4B213C`|12ml||
-|Gal Vorbak Red|Air|75|33|60|![#4B213C](https://placehold.co/15x15/4B213C/4B213C.png) `#4B213C`|24ml||
-|Gauss Blaster Green|Layer|127|193|165|![#7FC1A5](https://placehold.co/15x15/7FC1A5/7FC1A5.png) `#7FC1A5`|12ml||
-|Gehenna Gold|Layer|201|107|24|![#C96B18](https://placehold.co/15x15/C96B18/C96B18.png) `#C96B18`|12ml||
-|Genestealer Purple|Air|118|88|165|![#7658A5](https://placehold.co/15x15/7658A5/7658A5.png) `#7658A5`|24ml||
-|Genestealer Purple|Layer|118|88|165|![#7658A5](https://placehold.co/15x15/7658A5/7658A5.png) `#7658A5`|12ml||
-|Ghostly Grey|Foundation (discontinued)|195|198|205|![#C3C6CD](https://placehold.co/15x15/C3C6CD/C3C6CD.png) `#C3C6CD`|12ml||
-|Goblin Green|Foundation (discontinued)|61|147|83|![#3D9353](https://placehold.co/15x15/3D9353/3D9353.png) `#3D9353`|12ml||
-|Golden Griffon|Dry|225|186|127|![#E1BA7F](https://placehold.co/15x15/E1BA7F/E1BA7F.png) `#E1BA7F`|12ml||
-|Golden Yellow|Foundation (discontinued)|255|194|14|![#FFC20E](https://placehold.co/15x15/FFC20E/FFC20E.png) `#FFC20E`|12ml||
-|Golgfag Brown|Dry|143|80|42|![#8F502A](https://placehold.co/15x15/8F502A/8F502A.png) `#8F502A`|12ml||
-|Gore-Grunta Fur|Contrast|97|59|31|![#613B1F](https://placehold.co/15x15/613B1F/613B1F.png) `#613B1F`|18ml||
-|Gorthor Brown|Layer|95|70|63|![#5F463F](https://placehold.co/15x15/5F463F/5F463F.png) `#5F463F`|12ml||
-|Graveyard Earth|Foundation (discontinued)|102|82|56|![#665238](https://placehold.co/15x15/665238/665238.png) `#665238`|12ml||
-|Gretchin Green|Foundation (discontinued)|126|105|48|![#7E6930](https://placehold.co/15x15/7E6930/7E6930.png) `#7E6930`|12ml||
-|Grey Knights Steel|Air|176|189|198|![#B0BDC6](https://placehold.co/15x15/B0BDC6/B0BDC6.png) `#B0BDC6`|24ml||
-|Grey Knights Steel|Base|176|189|198|![#B0BDC6](https://placehold.co/15x15/B0BDC6/B0BDC6.png) `#B0BDC6`|12ml||
-|Grey Seer|Base|162|165|167|![#A2A5A7](https://placehold.co/15x15/A2A5A7/A2A5A7.png) `#A2A5A7`|12ml||
-|Grey Seer|Spray|162|165|167|![#A2A5A7](https://placehold.co/15x15/A2A5A7/A2A5A7.png) `#A2A5A7`|||
-|Gryph-Charger Grey|Contrast|37|105|138|![#25698A](https://placehold.co/15x15/25698A/25698A.png) `#25698A`|18ml||
-|Gryph-Hound Orange|Contrast|148|48|14|![#94300E](https://placehold.co/15x15/94300E/94300E.png) `#94300E`|18ml||
-|Gryphonne Sepia Wash|Foundation Wash (discontinued)|132|57|16|![#843910](https://placehold.co/15x15/843910/843910.png) `#843910`|12ml||
-|Guilliman Blue|Glaze|47|154|214|![#2F9AD6](https://placehold.co/15x15/2F9AD6/2F9AD6.png) `#2F9AD6`|||
-|Guilliman Flesh|Contrast|159|70|57|![#9F4639](https://placehold.co/15x15/9F4639/9F4639.png) `#9F4639`|18ml||
-|Gutrippa Flesh|Contrast|127|93|70|![#7F5D46](https://placehold.co/15x15/7F5D46/7F5D46.png) `#7F5D46`|18ml||
-|Hashut Copper|Layer|186|136|95|![#BA885F](https://placehold.co/15x15/BA885F/BA885F.png) `#BA885F`|12ml||
-|Hawk Turquoise|Foundation (discontinued)|0|129|148|![#008194](https://placehold.co/15x15/008194/008194.png) `#008194`|12ml||
-|Hellion Green|Dry|127|193|165|![#7FC1A5](https://placehold.co/15x15/7FC1A5/7FC1A5.png) `#7FC1A5`|12ml||
-|Hexos Palesun|Dry|255|245|90|![#FFF55A](https://placehold.co/15x15/FFF55A/FFF55A.png) `#FFF55A`|12ml||
-|Hexwraith Flame|Technical|41|162|54|![#29A236](https://placehold.co/15x15/29A236/29A236.png) `#29A236`|12ml||
-|Hobgrot Hide|Base|156|130|59|![#9C823B](https://placehold.co/15x15/9C823B/9C823B.png) `#9C823B`|12ml||
-|Hoeth Blue|Layer|76|120|175|![#4C78AF](https://placehold.co/15x15/4C78AF/4C78AF.png) `#4C78AF`|12ml||
-|Hoeth Blue|Dry|76|120|175|![#4C78AF](https://placehold.co/15x15/4C78AF/4C78AF.png) `#4C78AF`|12ml||
-|Hormagaunt Purple|Foundation (discontinued)|84|73|107|![#54496B](https://placehold.co/15x15/54496B/54496B.png) `#54496B`|12ml||
-|Ice Blue|Foundation (discontinued)|129|211|235|![#81D3EB](https://placehold.co/15x15/81D3EB/81D3EB.png) `#81D3EB`|12ml||
-|Imperial Fist|Contrast|255|221|0|![#FFDD00](https://placehold.co/15x15/FFDD00/FFDD00.png) `#FFDD00`|18ml||
-|Imperial Purple|Foundation (discontinued)|86|47|126|![#562F7E](https://placehold.co/15x15/562F7E/562F7E.png) `#562F7E`|12ml||
-|Imrik Blue|Dry|32|138|191|![#208ABF](https://placehold.co/15x15/208ABF/208ABF.png) `#208ABF`|12ml||
-|Incubi Darkness|Base|8|46|50|![#082E32](https://placehold.co/15x15/082E32/082E32.png) `#082E32`|12ml||
-|Ionrach Skin|Base|151|163|132|![#97A384](https://placehold.co/15x15/97A384/97A384.png) `#97A384`|12ml||
-|Iron Hands Steel|Air|178|167|159|![#B2A79F](https://placehold.co/15x15/B2A79F/B2A79F.png) `#B2A79F`|24ml||
-|Iron Hands Steel|Base|178|167|159|![#B2A79F](https://placehold.co/15x15/B2A79F/B2A79F.png) `#B2A79F`|12ml||
-|Iron Warriors|Base|112|110|107|![#706E6B](https://placehold.co/15x15/706E6B/706E6B.png) `#706E6B`|12ml||
-|Ironbreaker|Air|137|144|146|![#899092](https://placehold.co/15x15/899092/899092.png) `#899092`|24ml||
-|Ironbreaker|Layer|137|144|146|![#899092](https://placehold.co/15x15/899092/899092.png) `#899092`|12ml||
-|Iyanden Darksun|Foundation (discontinued)|173|133|46|![#AD852E](https://placehold.co/15x15/AD852E/AD852E.png) `#AD852E`|12ml||
-|Iyanden Yellow|Contrast|219|127|12|![#DB7F0C](https://placehold.co/15x15/DB7F0C/DB7F0C.png) `#DB7F0C`|18ml||
-|Jade Green|Foundation (discontinued)|6|155|125|![#069B7D](https://placehold.co/15x15/069B7D/069B7D.png) `#069B7D`|12ml||
-|Jokaero Orange|Base|237|56|20|![#ED3814](https://placehold.co/15x15/ED3814/ED3814.png) `#ED3814`|12ml||
-|Kabalite Green|Layer|0|137|98|![#008962](https://placehold.co/15x15/008962/008962.png) `#008962`|12ml||
-|Kakophoni Purple|Layer|136|105|174|![#8869AE](https://placehold.co/15x15/8869AE/8869AE.png) `#8869AE`|12ml||
-|Kakophoni Purple|Air|136|105|174|![#8869AE](https://placehold.co/15x15/8869AE/8869AE.png) `#8869AE`|24ml||
-|Kantor Blue|Air|2|19|78|![#02134E](https://placehold.co/15x15/02134E/02134E.png) `#02134E`|24ml||
-|Kantor Blue|Base|2|19|78|![#02134E](https://placehold.co/15x15/02134E/02134E.png) `#02134E`|12ml||
-|Karak Stone|Layer|183|148|92|![#B7945C](https://placehold.co/15x15/B7945C/B7945C.png) `#B7945C`|12ml||
-|Karak Stone|Air|183|148|92|![#B7945C](https://placehold.co/15x15/B7945C/B7945C.png) `#B7945C`|24ml||
-|Khemri Brown|Foundation (discontinued)|115|97|77|![#73614D](https://placehold.co/15x15/73614D/73614D.png) `#73614D`|12ml||
-|Khorne Red|Base|101|0|1|![#650001](https://placehold.co/15x15/650001/650001.png) `#650001`|12ml||
-|Khorne Red|Air|101|0|1|![#650001](https://placehold.co/15x15/650001/650001.png) `#650001`|24ml||
-|Kindleflame|Dry|246|156|130|![#F69C82](https://placehold.co/15x15/F69C82/F69C82.png) `#F69C82`|12ml||
-|Kislev Flesh|Layer|209|165|112|![#D1A570](https://placehold.co/15x15/D1A570/D1A570.png) `#D1A570`|12ml||
-|Kislev Flesh|Air|209|165|112|![#D1A570](https://placehold.co/15x15/D1A570/D1A570.png) `#D1A570`|24ml||
-|Knarloc Green|Foundation (discontinued)|72|86|60|![#48563C](https://placehold.co/15x15/48563C/48563C.png) `#48563C`|12ml||
-|Knight-Questor Flesh|Layer|153|101|99|![#996563](https://placehold.co/15x15/996563/996563.png) `#996563`|12ml||
-|Kommando Khaki|Foundation (discontinued)|158|145|92|![#9E915C](https://placehold.co/15x15/9E915C/9E915C.png) `#9E915C`|12ml||
-|Kommando Khaki|Foundation (discontinued)|155|140|123|![#9B8C7B](https://placehold.co/15x15/9B8C7B/9B8C7B.png) `#9B8C7B`|12ml||
-|Krieg Khaki|Layer|188|187|126|![#BCBB7E](https://placehold.co/15x15/BCBB7E/BCBB7E.png) `#BCBB7E`|12ml||
-|Lahmian Medium|Technical|249|249|249|![#F9F9F9](https://placehold.co/15x15/F9F9F9/F9F9F9.png) `#F9F9F9`|12ml||
-|Lamenters Yellow|Glaze|255|245|107|![#FFF56B](https://placehold.co/15x15/FFF56B/FFF56B.png) `#FFF56B`|||
-|Leadbelcher|Spray|134|134|134|![#868686](https://placehold.co/15x15/868686/868686.png) `#868686`|||
-|Leadbelcher|Base|150|150|150|![#969696](https://placehold.co/15x15/969696/969696.png) `#969696`|12ml||
-|Leadbelcher|Air|150|150|150|![#969696](https://placehold.co/15x15/969696/969696.png) `#969696`|24ml||
-|Leprous Brown|Foundation (discontinued)|216|142|45|![#D88E2D](https://placehold.co/15x15/D88E2D/D88E2D.png) `#D88E2D`|12ml||
-|Leviadon Blue|Contrast|0|10|19|![#000A13](https://placehold.co/15x15/000A13/000A13.png) `#000A13`|18ml||
-|Leviathan Purple Wash|Foundation Wash (discontinued)|132|41|148|![#842994](https://placehold.co/15x15/842994/842994.png) `#842994`|12ml||
-|Liberator Gold|Layer|225|186|127|![#E1BA7F](https://placehold.co/15x15/E1BA7F/E1BA7F.png) `#E1BA7F`|12ml||
-|Liche Purple|Foundation (discontinued)|44|45|139|![#2C2D8B](https://placehold.co/15x15/2C2D8B/2C2D8B.png) `#2C2D8B`|12ml||
-|Lightning Bolt Blue|Foundation (discontinued)|139|185|221|![#8BB9DD](https://placehold.co/15x15/8BB9DD/8BB9DD.png) `#8BB9DD`|12ml||
-|Longbeard Grey|Dry|219|220|198|![#DBDCC6](https://placehold.co/15x15/DBDCC6/DBDCC6.png) `#DBDCC6`|12ml||
-|Loren Forest|Layer|72|108|37|![#486C25](https://placehold.co/15x15/486C25/486C25.png) `#486C25`|12ml||
-|Lothern Blue|Air|44|155|204|![#2C9BCC](https://placehold.co/15x15/2C9BCC/2C9BCC.png) `#2C9BCC`|24ml||
-|Lothern Blue|Layer|44|155|204|![#2C9BCC](https://placehold.co/15x15/2C9BCC/2C9BCC.png) `#2C9BCC`|12ml||
-|Lucius Lilac|Dry|181|152|201|![#B598C9](https://placehold.co/15x15/B598C9/B598C9.png) `#B598C9`|12ml||
-|Lugganath Orange|Layer|246|155|130|![#F69B82](https://placehold.co/15x15/F69B82/F69B82.png) `#F69B82`|12ml||
-|Lupercal Green|Base|0|44|43|![#002C2B](https://placehold.co/15x15/002C2B/002C2B.png) `#002C2B`|12ml||
-|Lupercal Green|Air|0|44|43|![#002C2B](https://placehold.co/15x15/002C2B/002C2B.png) `#002C2B`|24ml||
-|Macharius Solar Orange|Foundation (discontinued)|185|64|35|![#B94023](https://placehold.co/15x15/B94023/B94023.png) `#B94023`|12ml||
-|Macragge Blue|Spray|16|62|124|![#103E7C](https://placehold.co/15x15/103E7C/103E7C.png) `#103E7C`|||
-|Macragge Blue|Air|15|61|124|![#0F3D7C](https://placehold.co/15x15/0F3D7C/0F3D7C.png) `#0F3D7C`|24ml||
-|Macragge Blue|Base|15|61|124|![#0F3D7C](https://placehold.co/15x15/0F3D7C/0F3D7C.png) `#0F3D7C`|12ml||
-|Magenta Ink|Foundation (discontinued)|222|0|123|![#DE007B](https://placehold.co/15x15/DE007B/DE007B.png) `#DE007B`|12ml||
-|Magos Purple|Contrast|122|63|110|![#7A3F6E](https://placehold.co/15x15/7A3F6E/7A3F6E.png) `#7A3F6E`|18ml||
-|Mantis Warriors Green|Contrast|0|72|50|![#004832](https://placehold.co/15x15/004832/004832.png) `#004832`|18ml||
-|Martian Ironcrust|Technical|207|112|93|![#CF705D](https://placehold.co/15x15/CF705D/CF705D.png) `#CF705D`|12ml||
-|Martian Ironearth|Technical|207|112|93|![#CF705D](https://placehold.co/15x15/CF705D/CF705D.png) `#CF705D`|12ml||
-|Mechanicus Standard Grey|Spray|57|72|74|![#39484A](https://placehold.co/15x15/39484A/39484A.png) `#39484A`|||
-|Mechanicus Standard Grey|Base|57|72|74|![#39484A](https://placehold.co/15x15/39484A/39484A.png) `#39484A`|12ml||
-|Mechanicus Standard Grey|Air|57|72|74|![#39484A](https://placehold.co/15x15/39484A/39484A.png) `#39484A`|24ml||
-|Mechrite Red|Foundation (discontinued)|168|32|20|![#A82014](https://placehold.co/15x15/A82014/A82014.png) `#A82014`|12ml||
-|Mephiston Red|Air|150|12|9|![#960C09](https://placehold.co/15x15/960C09/960C09.png) `#960C09`|24ml||
-|Mephiston Red|Spray|150|13|10|![#960D0A](https://placehold.co/15x15/960D0A/960D0A.png) `#960D0A`|||
-|Mephiston Red|Base|150|12|9|![#960C09](https://placehold.co/15x15/960C09/960C09.png) `#960C09`|12ml||
-|Midnight Blue|Foundation (discontinued)|0|37|97|![#002561](https://placehold.co/15x15/002561/002561.png) `#002561`|12ml||
-|Militarum Green|Contrast|107|119|17|![#6B7711](https://placehold.co/15x15/6B7711/6B7711.png) `#6B7711`|18ml||
-|Mithril Silver|Foundation (discontinued)|183|190|197|![#B7BEC5](https://placehold.co/15x15/B7BEC5/B7BEC5.png) `#B7BEC5`|12ml||
-|Moot Green|Air|61|175|68|![#3DAF44](https://placehold.co/15x15/3DAF44/3DAF44.png) `#3DAF44`|24ml||
-|Moot Green|Layer|61|175|68|![#3DAF44](https://placehold.co/15x15/3DAF44/3DAF44.png) `#3DAF44`|12ml||
-|Mordant Earth|Technical|23|19|20|![#171314](https://placehold.co/15x15/171314/171314.png) `#171314`|12ml||
-|Mordian Blue|Foundation (discontinued)|36|72|130|![#244882](https://placehold.co/15x15/244882/244882.png) `#244882`|12ml||
-|Morghast Bone|Base|192|169|115|![#C0A973](https://placehold.co/15x15/C0A973/C0A973.png) `#C0A973`|12ml||
-|Mortarion Green Clear|Air|0|131|43|![#00832B](https://placehold.co/15x15/00832B/00832B.png) `#00832B`|24ml||
-|Mournfang Brown|Base|73|15|6|![#490F06](https://placehold.co/15x15/490F06/490F06.png) `#490F06`|12ml||
-|Mournfang Brown|Air|73|15|6|![#490F06](https://placehold.co/15x15/490F06/490F06.png) `#490F06`|24ml||
-|Munitorum Varnish|Spray|250|250|250|![#FAFAFA](https://placehold.co/15x15/FAFAFA/FAFAFA.png) `#FAFAFA`|||
+|Dawnstone|Layer|106|111|104|![#6A6F68](https://placehold.co/15x15/6A6F68/6A6F68.png) `#6A6F68`|12ml||
+|Death Guard Green|Base|111|119|80|![#6F7750](https://placehold.co/15x15/6F7750/6F7750.png) `#6F7750`|12ml||
+|Death Guard Green|Spray|85|98|42|![#55622A](https://placehold.co/15x15/55622A/55622A.png) `#55622A`|400ml||
+|Death Korps Drab|Base|63|69|57|![#3F4539](https://placehold.co/15x15/3F4539/3F4539.png) `#3F4539`|12ml||
+|Deathclaw Brown|Layer|167|98|82|![#A76252](https://placehold.co/15x15/A76252/A76252.png) `#A76252`|12ml||
+|Deathworld Forest|Air|85|98|45|![#55622D](https://placehold.co/15x15/55622D/55622D.png) `#55622D`|24ml||
+|Deathworld Forest|Base|85|98|45|![#55622D](https://placehold.co/15x15/55622D/55622D.png) `#55622D`|12ml||
+|Dechala Lilac|Layer|180|152|201|![#B498C9](https://placehold.co/15x15/B498C9/B498C9.png) `#B498C9`|12ml||
+|Deepkin Flesh|Layer|170|184|161|![#AAB8A1](https://placehold.co/15x15/AAB8A1/AAB8A1.png) `#AAB8A1`|12ml||
+|Doombull Brown|Layer|82|0|6|![#520006](https://placehold.co/15x15/520006/520006.png) `#520006`|12ml||
+|Doomfire Magenta|Contrast|188|39|129|![#BC2781](https://placehold.co/15x15/BC2781/BC2781.png) `#BC2781`|18ml||
+|Dorn Yellow|Layer|252|245|102|![#FCF566](https://placehold.co/15x15/FCF566/FCF566.png) `#FCF566`|12ml||
+|Drakenhof Nightshade|Shade|133|160|184|![#85A0B8](https://placehold.co/15x15/85A0B8/85A0B8.png) `#85A0B8`|18ml||
+|Dreadful Visage|Contrast|182|168|181|![#B6A8B5](https://placehold.co/15x15/B6A8B5/B6A8B5.png) `#B6A8B5`|18ml||
+|Druchii Violet|Shade|170|144|176|![#AA90B0](https://placehold.co/15x15/AA90B0/AA90B0.png) `#AA90B0`|18ml||
+|Dryad Bark|Base|43|42|37|![#2B2A25](https://placehold.co/15x15/2B2A25/2B2A25.png) `#2B2A25`|12ml||
+|Eidolon Purple Clear|Air|119|91|166|![#775BA6](https://placehold.co/15x15/775BA6/775BA6.png) `#775BA6`|24ml||
+|Eldar Flesh|Dry|232|193|128|![#E8C180](https://placehold.co/15x15/E8C180/E8C180.png) `#E8C180`|12ml||
+|Elysian Green|Air|109|140|62|![#6D8C3E](https://placehold.co/15x15/6D8C3E/6D8C3E.png) `#6D8C3E`|24ml||
+|Elysian Green|Layer|109|140|62|![#6D8C3E](https://placehold.co/15x15/6D8C3E/6D8C3E.png) `#6D8C3E`|12ml||
+|Emperor's Children|Layer|174|61|113|![#AE3D71](https://placehold.co/15x15/AE3D71/AE3D71.png) `#AE3D71`|12ml||
+|Eshin Grey|Layer|72|76|79|![#484C4F](https://placehold.co/15x15/484C4F/484C4F.png) `#484C4F`|12ml||
+|Etherium Blue|Dry|157|181|205|![#9DB5CD](https://placehold.co/15x15/9DB5CD/9DB5CD.png) `#9DB5CD`|12ml||
+|Evil Sunz Scarlet|Air|181|5|25|![#B50519](https://placehold.co/15x15/B50519/B50519.png) `#B50519`|24ml||
+|Evil Sunz Scarlet|Layer|181|5|25|![#B50519](https://placehold.co/15x15/B50519/B50519.png) `#B50519`|12ml||
+|Fenrisian Grey|Air|117|148|177|![#7594B1](https://placehold.co/15x15/7594B1/7594B1.png) `#7594B1`|24ml||
+|Fenrisian Grey|Layer|117|148|177|![#7594B1](https://placehold.co/15x15/7594B1/7594B1.png) `#7594B1`|12ml||
+|Fire Dragon Bright|Layer|235|133|84|![#EB8554](https://placehold.co/15x15/EB8554/EB8554.png) `#EB8554`|12ml||
+|Flash Gitz Yellow|Air|255|243|1|![#FFF301](https://placehold.co/15x15/FFF301/FFF301.png) `#FFF301`|24ml||
+|Flash Gitz Yellow|Layer|252|243|52|![#FCF334](https://placehold.co/15x15/FCF334/FCF334.png) `#FCF334`|12ml||
+|Flayed One Flesh|Layer|234|195|136|![#EAC388](https://placehold.co/15x15/EAC388/EAC388.png) `#EAC388`|12ml||
+|Flesh Tearers Red|Contrast|159|39|38|![#9F2726](https://placehold.co/15x15/9F2726/9F2726.png) `#9F2726`|18ml||
+|Frostheart|Contrast|50|86|102|![#325666](https://placehold.co/15x15/325666/325666.png) `#325666`|18ml||
+|Fuegan Orange|Shade|193|163|142|![#C1A38E](https://placehold.co/15x15/C1A38E/C1A38E.png) `#C1A38E`|18ml||
+|Fulgrim Pink|Layer|236|169|200|![#ECA9C8](https://placehold.co/15x15/ECA9C8/ECA9C8.png) `#ECA9C8`|12ml||
+|Fulgurite Copper|Layer|167|105|69|![#A76945](https://placehold.co/15x15/A76945/A76945.png) `#A76945`|12ml||
+|Fyreslayer Flesh|Contrast|143|112|84|![#8F7054](https://placehold.co/15x15/8F7054/8F7054.png) `#8F7054`|18ml||
+|Gal Vorbak Red|Base|97|46|61|![#612E3D](https://placehold.co/15x15/612E3D/612E3D.png) `#612E3D`|12ml||
+|Garaghak's Sewer|Contrast|135|105|56|![#876938](https://placehold.co/15x15/876938/876938.png) `#876938`|18ml||
+|Gauss Blaster Green|Layer|137|193|166|![#89C1A6](https://placehold.co/15x15/89C1A6/89C1A6.png) `#89C1A6`|12ml||
+|Gehenna's Gold|Layer|163|89|45|![#A3592D](https://placehold.co/15x15/A3592D/A3592D.png) `#A3592D`|12ml||
+|Genestealer Purple|Layer|116|88|163|![#7458A3](https://placehold.co/15x15/7458A3/7458A3.png) `#7458A3`|12ml||
+|Golden Griffon|Dry|227|190|135|![#E3BE87](https://placehold.co/15x15/E3BE87/E3BE87.png) `#E3BE87`|12ml||
+|Golgfag Brown|Dry|144|80|42|![#90502A](https://placehold.co/15x15/90502A/90502A.png) `#90502A`|12ml||
+|Gore-Grunta Fur|Contrast|153|70|22|![#994616](https://placehold.co/15x15/994616/994616.png) `#994616`|18ml||
+|Gorthor Brown|Layer|93|70|64|![#5D4640](https://placehold.co/15x15/5D4640/5D4640.png) `#5D4640`|12ml||
+|Grey Knights Steel|Air|118|128|137|![#768089](https://placehold.co/15x15/768089/768089.png) `#768089`|24ml||
+|Grey Knights Steel|Base|154|159|163|![#9A9FA3](https://placehold.co/15x15/9A9FA3/9A9FA3.png) `#9A9FA3`|12ml||
+|Grey Seer|Base|161|165|168|![#A1A5A8](https://placehold.co/15x15/A1A5A8/A1A5A8.png) `#A1A5A8`|12ml||
+|Grey Seer|Spray|161|165|168|![#A1A5A8](https://placehold.co/15x15/A1A5A8/A1A5A8.png) `#A1A5A8`|400ml||
+|Gryph-Charger Grey|Contrast|163|201|220|![#A3C9DC](https://placehold.co/15x15/A3C9DC/A3C9DC.png) `#A3C9DC`|18ml||
+|Gryph-Hound Orange|Contrast|243|118|78|![#F3764E](https://placehold.co/15x15/F3764E/F3764E.png) `#F3764E`|18ml||
+|Guilliman Flesh|Contrast|210|162|148|![#D2A294](https://placehold.co/15x15/D2A294/D2A294.png) `#D2A294`|18ml||
+|Gutrippa Flesh|Contrast|129|156|123|![#819C7B](https://placehold.co/15x15/819C7B/819C7B.png) `#819C7B`|18ml||
+|Hashut Copper|Layer|139|99|74|![#8B634A](https://placehold.co/15x15/8B634A/8B634A.png) `#8B634A`|12ml||
+|Hexos Palesun|Dry|255|244|90|![#FFF45A](https://placehold.co/15x15/FFF45A/FFF45A.png) `#FFF45A`|12ml||
+|Hexwraith Flame|Contrast|53|155|89|![#359B59](https://placehold.co/15x15/359B59/359B59.png) `#359B59`|18ml||
+|Hobgrot Hide|Base|156|129|50|![#9C8132](https://placehold.co/15x15/9C8132/9C8132.png) `#9C8132`|12ml||
+|Hoeth Blue|Dry|77|120|175|![#4D78AF](https://placehold.co/15x15/4D78AF/4D78AF.png) `#4D78AF`|12ml||
+|Hoeth Blue|Layer|85|121|173|![#5579AD](https://placehold.co/15x15/5579AD/5579AD.png) `#5579AD`|12ml||
+|Imperial Fist|Contrast|197|156|51|![#C59C33](https://placehold.co/15x15/C59C33/C59C33.png) `#C59C33`|18ml||
+|Imrik Blue|Dry|32|138|190|![#208ABE](https://placehold.co/15x15/208ABE/208ABE.png) `#208ABE`|12ml||
+|Incubi Darkness|Base|17|46|50|![#112E32](https://placehold.co/15x15/112E32/112E32.png) `#112E32`|12ml||
+|Ionrach Skin|Base|152|163|133|![#98A385](https://placehold.co/15x15/98A385/98A385.png) `#98A385`|12ml||
+|Iron Hands Steel|Base|156|161|165|![#9CA1A5](https://placehold.co/15x15/9CA1A5/9CA1A5.png) `#9CA1A5`|12ml||
+|Iron Warriors|Base|84|85|87|![#545557](https://placehold.co/15x15/545557/545557.png) `#545557`|12ml||
+|Ironbreaker|Layer|113|117|118|![#717576](https://placehold.co/15x15/717576/717576.png) `#717576`|12ml||
+|Ironjawz Yellow|Contrast|197|168|90|![#C5A85A](https://placehold.co/15x15/C5A85A/C5A85A.png) `#C5A85A`|18ml||
+|Iyanden Yellow|Contrast|255|203|75|![#FFCB4B](https://placehold.co/15x15/FFCB4B/FFCB4B.png) `#FFCB4B`|18ml||
+|Jokaero Orange|Base|225|50|31|![#E1321F](https://placehold.co/15x15/E1321F/E1321F.png) `#E1321F`|12ml||
+|Kabalite Green|Layer|47|137|99|![#2F8963](https://placehold.co/15x15/2F8963/2F8963.png) `#2F8963`|12ml||
+|Kakophoni Purple|Layer|134|105|172|![#8669AC](https://placehold.co/15x15/8669AC/8669AC.png) `#8669AC`|12ml||
+|Kantor Blue|Air|9|19|78|![#09134E](https://placehold.co/15x15/09134E/09134E.png) `#09134E`|24ml||
+|Kantor Blue|Base|9|19|78|![#09134E](https://placehold.co/15x15/09134E/09134E.png) `#09134E`|12ml||
+|Karak Stone|Layer|178|148|94|![#B2945E](https://placehold.co/15x15/B2945E/B2945E.png) `#B2945E`|12ml||
+|Karandras Green|Contrast|38|151|95|![#26975F](https://placehold.co/15x15/26975F/26975F.png) `#26975F`|18ml||
+|Khorne Red|Air|95|0|4|![#5F0004](https://placehold.co/15x15/5F0004/5F0004.png) `#5F0004`|24ml||
+|Khorne Red|Base|95|0|4|![#5F0004](https://placehold.co/15x15/5F0004/5F0004.png) `#5F0004`|12ml||
+|Kislev Flesh|Air|204|164|115|![#CCA473](https://placehold.co/15x15/CCA473/CCA473.png) `#CCA473`|24ml||
+|Kislev Flesh|Layer|204|164|115|![#CCA473](https://placehold.co/15x15/CCA473/CCA473.png) `#CCA473`|12ml||
+|Knight-Questor Flesh|Layer|148|100|100|![#946464](https://placehold.co/15x15/946464/946464.png) `#946464`|12ml||
+|Krieg Khaki|Layer|187|186|129|![#BBBA81](https://placehold.co/15x15/BBBA81/BBBA81.png) `#BBBA81`|12ml||
+|Kroak Green|Shade|172|196|180|![#ACC4B4](https://placehold.co/15x15/ACC4B4/ACC4B4.png) `#ACC4B4`|18ml||
+|Kroxigor Scales|Contrast|37|138|150|![#258A96](https://placehold.co/15x15/258A96/258A96.png) `#258A96`|18ml||
+|Lahmian Medium|Technical|242|242|242|![#F2F2F2](https://placehold.co/15x15/F2F2F2/F2F2F2.png) `#F2F2F2`|24ml||
+|Leadbelcher|Air|97|102|105|![#616669](https://placehold.co/15x15/616669/616669.png) `#616669`|24ml||
+|Leadbelcher|Spray|140|140|140|![#8C8C8C](https://placehold.co/15x15/8C8C8C/8C8C8C.png) `#8C8C8C`|400ml||
+|Leviadon Blue|Contrast|16|64|110|![#10406E](https://placehold.co/15x15/10406E/10406E.png) `#10406E`|18ml||
+|Leviathan Purple|Contrast|46|45|102|![#2E2D66](https://placehold.co/15x15/2E2D66/2E2D66.png) `#2E2D66`|18ml||
+|Liberator Gold|Layer|185|150|94|![#B9965E](https://placehold.co/15x15/B9965E/B9965E.png) `#B9965E`|12ml||
+|Longbeard Grey|Dry|218|220|198|![#DADCC6](https://placehold.co/15x15/DADCC6/DADCC6.png) `#DADCC6`|12ml||
+|Loren Forest|Layer|76|108|41|![#4C6C29](https://placehold.co/15x15/4C6C29/4C6C29.png) `#4C6C29`|12ml||
+|Lothern Blue|Air|74|156|203|![#4A9CCB](https://placehold.co/15x15/4A9CCB/4A9CCB.png) `#4A9CCB`|24ml||
+|Lothern Blue|Layer|74|156|203|![#4A9CCB](https://placehold.co/15x15/4A9CCB/4A9CCB.png) `#4A9CCB`|12ml||
+|Lucius Lilac|Dry|181|151|201|![#B597C9](https://placehold.co/15x15/B597C9/B597C9.png) `#B597C9`|12ml||
+|Lugganath Orange|Layer|236|154|132|![#EC9A84](https://placehold.co/15x15/EC9A84/EC9A84.png) `#EC9A84`|12ml||
+|Lupercal Green|Base|10|44|43|![#0A2C2B](https://placehold.co/15x15/0A2C2B/0A2C2B.png) `#0A2C2B`|12ml||
+|Luxion Purple|Contrast|87|56|123|![#57387B](https://placehold.co/15x15/57387B/57387B.png) `#57387B`|18ml||
+|Macragge Blue|Air|14|64|125|![#0E407D](https://placehold.co/15x15/0E407D/0E407D.png) `#0E407D`|24ml||
+|Macragge Blue|Base|31|61|123|![#1F3D7B](https://placehold.co/15x15/1F3D7B/1F3D7B.png) `#1F3D7B`|12ml||
+|Macragge Blue|Spray|15|61|123|![#0F3D7B](https://placehold.co/15x15/0F3D7B/0F3D7B.png) `#0F3D7B`|400ml||
+|Magmadroth Flame|Contrast|189|103|56|![#BD6738](https://placehold.co/15x15/BD6738/BD6738.png) `#BD6738`|18ml||
+|Magos Purple|Contrast|187|162|191|![#BBA2BF](https://placehold.co/15x15/BBA2BF/BBA2BF.png) `#BBA2BF`|18ml||
+|Mantis Warriors Green|Contrast|126|151|83|![#7E9753](https://placehold.co/15x15/7E9753/7E9753.png) `#7E9753`|18ml||
+|Martian Ironcrust|Technical|183|102|87|![#B76657](https://placehold.co/15x15/B76657/B76657.png) `#B76657`|24ml||
+|Martian Ironearth|Technical|190|108|92|![#BE6C5C](https://placehold.co/15x15/BE6C5C/BE6C5C.png) `#BE6C5C`|24ml||
+|Mechanicus Standard Grey|Air|58|72|73|![#3A4849](https://placehold.co/15x15/3A4849/3A4849.png) `#3A4849`|24ml||
+|Mechanicus Standard Grey|Base|58|72|73|![#3A4849](https://placehold.co/15x15/3A4849/3A4849.png) `#3A4849`|12ml||
+|Mechanicus Standard Grey|Spray|57|72|75|![#39484B](https://placehold.co/15x15/39484B/39484B.png) `#39484B`|400ml||
+|Mephiston Red|Air|142|2|15|![#8E020F](https://placehold.co/15x15/8E020F/8E020F.png) `#8E020F`|24ml||
+|Mephiston Red|Base|142|2|15|![#8E020F](https://placehold.co/15x15/8E020F/8E020F.png) `#8E020F`|12ml||
+|Mephiston Red|Spray|150|12|9|![#960C09](https://placehold.co/15x15/960C09/960C09.png) `#960C09`|400ml||
+|Militarum Green|Contrast|152|159|91|![#989F5B](https://placehold.co/15x15/989F5B/989F5B.png) `#989F5B`|18ml||
+|Moot Green|Air|84|176|75|![#54B04B](https://placehold.co/15x15/54B04B/54B04B.png) `#54B04B`|24ml||
+|Moot Green|Layer|84|176|75|![#54B04B](https://placehold.co/15x15/54B04B/54B04B.png) `#54B04B`|12ml||
+|Mordant Earth|Technical|72|70|71|![#484647](https://placehold.co/15x15/484647/484647.png) `#484647`|24ml||
+|Morghast Bone|Base|189|169|118|![#BDA976](https://placehold.co/15x15/BDA976/BDA976.png) `#BDA976`|12ml||
+|Mortarion Green Clear|Air|64|169|112|![#40A970](https://placehold.co/15x15/40A970/40A970.png) `#40A970`|24ml||
+|Mortarion Grime|Shade|188|186|130|![#BCBA82](https://placehold.co/15x15/BCBA82/BCBA82.png) `#BCBA82`|18ml||
+|Mournfang Brown|Air|68|13|8|![#440D08](https://placehold.co/15x15/440D08/440D08.png) `#440D08`|24ml||
+|Mournfang Brown|Base|68|13|8|![#440D08](https://placehold.co/15x15/440D08/440D08.png) `#440D08`|12ml||
+|Munitorum Varnish|Spray|248|248|248|![#F8F8F8](https://placehold.co/15x15/F8F8F8/F8F8F8.png) `#F8F8F8`|400ml||
 |Naggaroth Night|Base|59|43|80|![#3B2B50](https://placehold.co/15x15/3B2B50/3B2B50.png) `#3B2B50`|12ml||
-|Nauseating Blue|Foundation (discontinued)|65|42|122|![#412A7A](https://placehold.co/15x15/412A7A/412A7A.png) `#412A7A`|12ml||
-|Nazdreg Yellow|Contrast|108|76|0|![#6C4C00](https://placehold.co/15x15/6C4C00/6C4C00.png) `#6C4C00`|18ml||
-|Necron Abyss|Foundation (discontinued)|26|33|61|![#1A213D](https://placehold.co/15x15/1A213D/1A213D.png) `#1A213D`|12ml||
-|Necron Compound|Dry|218|221|223|![#DADDDF](https://placehold.co/15x15/DADDDF/DADDDF.png) `#DADDDF`|12ml||
-|Niblet Green|Dry|55|140|53|![#378C35](https://placehold.co/15x15/378C35/378C35.png) `#378C35`|12ml||
-|Night Lords Blue|Air|0|43|92|![#002B5C](https://placehold.co/15x15/002B5C/002B5C.png) `#002B5C`|24ml||
-|Night Lords Blue|Base|0|43|92|![#002B5C](https://placehold.co/15x15/002B5C/002B5C.png) `#002B5C`|12ml||
-|Nighthaunt Gloom|Technical|58|104|110|![#3A686E](https://placehold.co/15x15/3A686E/3A686E.png) `#3A686E`|12ml||
-|Nihilakh Oxide|Technical|102|179|154|![#66B39A](https://placehold.co/15x15/66B39A/66B39A.png) `#66B39A`|12ml||
-|Nocturne Green|Base|22|42|41|![#162A29](https://placehold.co/15x15/162A29/162A29.png) `#162A29`|12ml||
-|Nocturne Green|Air|22|42|41|![#162A29](https://placehold.co/15x15/162A29/162A29.png) `#162A29`|24ml||
-|Nuln Oil|Shade|158|154|152|![#9E9A98](https://placehold.co/15x15/9E9A98/9E9A98.png) `#9E9A98`|18ml||
-|Nuln Oil Gloss|Shade|179|175|174|![#B3AFAE](https://placehold.co/15x15/B3AFAE/B3AFAE.png) `#B3AFAE`|18ml||
-|Nurgles Rot|Technical|157|139|22|![#9D8B16](https://placehold.co/15x15/9D8B16/9D8B16.png) `#9D8B16`|12ml||
-|Nurgling Green|Layer|126|151|94|![#7E975E](https://placehold.co/15x15/7E975E/7E975E.png) `#7E975E`|12ml||
+|Nazdreg Yellow|Contrast|220|157|34|![#DC9D22](https://placehold.co/15x15/DC9D22/DC9D22.png) `#DC9D22`|18ml||
+|Necron Compound|Dry|215|219|222|![#D7DBDE](https://placehold.co/15x15/D7DBDE/D7DBDE.png) `#D7DBDE`|12ml||
+|Niblet Green|Dry|56|140|54|![#388C36](https://placehold.co/15x15/388C36/388C36.png) `#388C36`|12ml||
+|Night Lords Blue|Air|0|52|99|![#003463](https://placehold.co/15x15/003463/003463.png) `#003463`|24ml||
+|Night Lords Blue|Base|15|43|91|![#0F2B5B](https://placehold.co/15x15/0F2B5B/0F2B5B.png) `#0F2B5B`|12ml||
+|Nighthaunt Gloom|Contrast|81|126|132|![#517E84](https://placehold.co/15x15/517E84/517E84.png) `#517E84`|18ml||
+|Nihilakh Oxide|Technical|114|179|155|![#72B39B](https://placehold.co/15x15/72B39B/72B39B.png) `#72B39B`|24ml||
+|Nocturne Green|Base|26|42|41|![#1A2A29](https://placehold.co/15x15/1A2A29/1A2A29.png) `#1A2A29`|12ml||
+|Nuln Oil|Shade|154|153|160|![#9A99A0](https://placehold.co/15x15/9A99A0/9A99A0.png) `#9A99A0`|18ml||
+|Nurgle's Rot|Technical|154|139|38|![#9A8B26](https://placehold.co/15x15/9A8B26/9A8B26.png) `#9A8B26`|24ml||
 |Nurgling Green|Dry|126|151|94|![#7E975E](https://placehold.co/15x15/7E975E/7E975E.png) `#7E975E`|12ml||
-|Ogryn Camo|Layer|150|166|72|![#96A648](https://placehold.co/15x15/96A648/96A648.png) `#96A648`|12ml||
-|Ogryn Camo|Air|150|166|72|![#96A648](https://placehold.co/15x15/96A648/96A648.png) `#96A648`|24ml||
-|Ogryn Flesh Wash|Foundation Wash (discontinued)|206|140|66|![#CE8C42](https://placehold.co/15x15/CE8C42/CE8C42.png) `#CE8C42`|12ml||
-|Ork Flesh|Contrast|0|89|30|![#00591E](https://placehold.co/15x15/00591E/00591E.png) `#00591E`|18ml||
-|Orkhide Shade|Foundation (discontinued)|38|55|45|![#26372D](https://placehold.co/15x15/26372D/26372D.png) `#26372D`|12ml||
-|Orruk Flesh|Base|151|193|126|![#97C17E](https://placehold.co/15x15/97C17E/97C17E.png) `#97C17E`|12ml||
-|Pallid Flesh|Foundation (discontinued)|238|200|199|![#EEC8C7](https://placehold.co/15x15/EEC8C7/EEC8C7.png) `#EEC8C7`|12ml||
-|Pallid Wych Flesh|Layer|202|204|187|![#CACCBB](https://placehold.co/15x15/CACCBB/CACCBB.png) `#CACCBB`|12ml||
-|Phalanx Yellow|Layer|255|226|0|![#FFE200](https://placehold.co/15x15/FFE200/FFE200.png) `#FFE200`|12ml||
-|Phalanx Yellow|Air|255|226|0|![#FFE200](https://placehold.co/15x15/FFE200/FFE200.png) `#FFE200`|24ml||
-|Phoenician Purple|Base|68|0|82|![#440052](https://placehold.co/15x15/440052/440052.png) `#440052`|12ml||
-|Phoenician Purple|Air|68|0|82|![#440052](https://placehold.co/15x15/440052/440052.png) `#440052`|24ml||
-|Pink Horror|Layer|142|39|87|![#8E2757](https://placehold.co/15x15/8E2757/8E2757.png) `#8E2757`|12ml||
-|Plaguebearer Flesh|Contrast|113|128|37|![#718025](https://placehold.co/15x15/718025/718025.png) `#718025`|18ml||
+|Nurgling Green|Layer|128|151|97|![#809761](https://placehold.co/15x15/809761/809761.png) `#809761`|12ml||
+|Ogryn Camo|Air|152|166|79|![#98A64F](https://placehold.co/15x15/98A64F/98A64F.png) `#98A64F`|24ml||
+|Ogryn Camo|Layer|152|166|79|![#98A64F](https://placehold.co/15x15/98A64F/98A64F.png) `#98A64F`|12ml||
+|Ork Flesh|Contrast|195|206|166|![#C3CEA6](https://placehold.co/15x15/C3CEA6/C3CEA6.png) `#C3CEA6`|18ml||
+|Orruk Flesh|Base|147|194|122|![#93C27A](https://placehold.co/15x15/93C27A/93C27A.png) `#93C27A`|12ml||
+|Pallid Wych Flesh|Layer|202|205|188|![#CACDBC](https://placehold.co/15x15/CACDBC/CACDBC.png) `#CACDBC`|12ml||
+|Phalanx Yellow|Air|249|226|50|![#F9E232](https://placehold.co/15x15/F9E232/F9E232.png) `#F9E232`|24ml||
+|Phalanx Yellow|Layer|249|226|50|![#F9E232](https://placehold.co/15x15/F9E232/F9E232.png) `#F9E232`|12ml||
+|Phoenician Purple|Air|66|2|88|![#420258](https://placehold.co/15x15/420258/420258.png) `#420258`|24ml||
+|Phoenician Purple|Base|65|0|82|![#410052](https://placehold.co/15x15/410052/410052.png) `#410052`|12ml||
+|Pink Horror|Layer|142|38|87|![#8E2657](https://placehold.co/15x15/8E2657/8E2657.png) `#8E2657`|12ml||
+|Plaguebearer Flesh|Contrast|205|212|172|![#CDD4AC](https://placehold.co/15x15/CDD4AC/CDD4AC.png) `#CDD4AC`|18ml||
+|Poxwalker|Shade|156|182|183|![#9CB6B7](https://placehold.co/15x15/9CB6B7/9CB6B7.png) `#9CB6B7`|18ml||
 |Praxeti White|Dry|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|12ml||
-|Purple Ink|Foundation (discontinued)|132|41|148|![#842994](https://placehold.co/15x15/842994/842994.png) `#842994`|12ml||
-|Pyroclast Orange Clear|Air|237|128|34|![#ED8022](https://placehold.co/15x15/ED8022/ED8022.png) `#ED8022`|24ml||
-|Rakarth Flesh|Base|156|153|141|![#9C998D](https://placehold.co/15x15/9C998D/9C998D.png) `#9C998D`|12ml||
-|Ratskin Flesh|Base|168|102|72|![#A86648](https://placehold.co/15x15/A86648/A86648.png) `#A86648`|12ml||
-|Red Gore|Foundation (discontinued)|157|43|63|![#9D2B3F](https://placehold.co/15x15/9D2B3F/9D2B3F.png) `#9D2B3F`|12ml||
-|Regal Blue|Foundation (discontinued)|0|63|112|![#003F70](https://placehold.co/15x15/003F70/003F70.png) `#003F70`|12ml||
-|Reikland Fleshshade|Shade|190|154|128|![#BE9A80](https://placehold.co/15x15/BE9A80/BE9A80.png) `#BE9A80`|18ml||
-|Reikland Fleshshade Gloss|Shade|194|168|150|![#C2A896](https://placehold.co/15x15/C2A896/C2A896.png) `#C2A896`|18ml||
-|Relictor Gold|Air|234|197|143|![#EAC58F](https://placehold.co/15x15/EAC58F/EAC58F.png) `#EAC58F`|24ml||
-|Retributor Armour|Base|237|193|105|![#EDC169](https://placehold.co/15x15/EDC169/EDC169.png) `#EDC169`|12ml||
-|Retributor Armour|Spray|237|192|106|![#EDC06A](https://placehold.co/15x15/EDC06A/EDC06A.png) `#EDC06A`|||
-|Rhinox Hide|Base|70|47|48|![#462F30](https://placehold.co/15x15/462F30/462F30.png) `#462F30`|12ml||
-|Rotting Flesh|Foundation (discontinued)|184|195|158|![#B8C39E](https://placehold.co/15x15/B8C39E/B8C39E.png) `#B8C39E`|12ml||
-|Runefang Steel|Layer|194|200|204|![#C2C8CC](https://placehold.co/15x15/C2C8CC/C2C8CC.png) `#C2C8CC`|12ml||
-|Runefang Steel|Air|194|200|204|![#C2C8CC](https://placehold.co/15x15/C2C8CC/C2C8CC.png) `#C2C8CC`|24ml||
-|Runelord Brass|Base|141|128|111|![#8D806F](https://placehold.co/15x15/8D806F/8D806F.png) `#8D806F`|12ml||
-|Russ Grey|Air|80|112|133|![#507085](https://placehold.co/15x15/507085/507085.png) `#507085`|24ml||
-|Russ Grey|Layer|80|112|133|![#507085](https://placehold.co/15x15/507085/507085.png) `#507085`|12ml||
-|Ryza Rust|Dry|241|108|35|![#F16C23](https://placehold.co/15x15/F16C23/F16C23.png) `#F16C23`|12ml||
-|Scab Red|Foundation (discontinued)|144|38|61|![#90263D](https://placehold.co/15x15/90263D/90263D.png) `#90263D`|12ml||
-|Scaly Green|Foundation (discontinued)|0|96|99|![#006063](https://placehold.co/15x15/006063/006063.png) `#006063`|12ml||
-|Scorched Brown|Foundation (discontinued)|90|66|47|![#5A422F](https://placehold.co/15x15/5A422F/5A422F.png) `#5A422F`|12ml||
-|Scorpion Green|Foundation (discontinued)|101|179|69|![#65B345](https://placehold.co/15x15/65B345/65B345.png) `#65B345`|12ml||
-|Screamer Pink|Base|122|14|68|![#7A0E44](https://placehold.co/15x15/7A0E44/7A0E44.png) `#7A0E44`|12ml||
-|Screaming Bell|Base|209|138|94|![#D18A5E](https://placehold.co/15x15/D18A5E/D18A5E.png) `#D18A5E`|12ml||
-|Screaming Skull|Layer|185|192|153|![#B9C099](https://placehold.co/15x15/B9C099/B9C099.png) `#B9C099`|12ml||
-|Seraphim Sepia|Shade|174|129|88|![#AE8158](https://placehold.co/15x15/AE8158/AE8158.png) `#AE8158`|18ml||
-|Shadow Grey|Foundation (discontinued)|16|105|147|![#106993](https://placehold.co/15x15/106993/106993.png) `#106993`|12ml||
-|Shining Gold|Foundation (discontinued)|239|183|54|![#EFB736](https://placehold.co/15x15/EFB736/EFB736.png) `#EFB736`|12ml||
-|Shyish Purple|Contrast|43|14|66|![#2B0E42](https://placehold.co/15x15/2B0E42/2B0E42.png) `#2B0E42`|18ml||
-|Sigismund Yellow Clear|Air|255|227|47|![#FFE32F](https://placehold.co/15x15/FFE32F/FFE32F.png) `#FFE32F`|24ml||
-|Sigmarite|Dry|214|172|87|![#D6AC57](https://placehold.co/15x15/D6AC57/D6AC57.png) `#D6AC57`|12ml||
-|Sigvald Burgundy|Contrast|85|0|34|![#550022](https://placehold.co/15x15/550022/550022.png) `#550022`|18ml||
-|Skarsnik Green|Layer|88|143|107|![#588F6B](https://placehold.co/15x15/588F6B/588F6B.png) `#588F6B`|12ml||
-|Skavenblight Dinge|Layer|69|65|59|![#45413B](https://placehold.co/15x15/45413B/45413B.png) `#45413B`|12ml||
-|Skeleton Horde|Contrast|164|150|111|![#A4966F](https://placehold.co/15x15/A4966F/A4966F.png) `#A4966F`|18ml||
-|Skink Blue|Dry|84|189|202|![#54BDCA](https://placehold.co/15x15/54BDCA/54BDCA.png) `#54BDCA`|12ml||
-|Skrag Brown|Layer|139|72|6|![#8B4806](https://placehold.co/15x15/8B4806/8B4806.png) `#8B4806`|12ml||
-|Skull White|Foundation (discontinued)|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|12ml||
-|Skullcrusher Brass|Layer|244|203|122|![#F4CB7A](https://placehold.co/15x15/F4CB7A/F4CB7A.png) `#F4CB7A`|12ml||
+|Pylar Glacier|Contrast|98|157|188|![#629DBC](https://placehold.co/15x15/629DBC/629DBC.png) `#629DBC`|18ml||
+|Rakarth Flesh|Base|155|153|141|![#9B998D](https://placehold.co/15x15/9B998D/9B998D.png) `#9B998D`|12ml||
+|Ratling Grime|Contrast|133|123|121|![#857B79](https://placehold.co/15x15/857B79/857B79.png) `#857B79`|18ml||
+|Ratskin Flesh|Base|161|101|73|![#A16549](https://placehold.co/15x15/A16549/A16549.png) `#A16549`|12ml||
+|Reikland Fleshshade|Shade|194|146|140|![#C2928C](https://placehold.co/15x15/C2928C/C2928C.png) `#C2928C`|18ml||
+|Retributor Armour|Base|164|142|85|![#A48E55](https://placehold.co/15x15/A48E55/A48E55.png) `#A48E55`|12ml||
+|Retributor Armour|Spray|235|185|89|![#EBB959](https://placehold.co/15x15/EBB959/EBB959.png) `#EBB959`|400ml||
+|Rhinox Hide|Base|67|47|48|![#432F30](https://placehold.co/15x15/432F30/432F30.png) `#432F30`|12ml||
+|Runefang Steel|Air|145|154|159|![#919A9F](https://placehold.co/15x15/919A9F/919A9F.png) `#919A9F`|24ml||
+|Runefang Steel|Layer|169|174|178|![#A9AEB2](https://placehold.co/15x15/A9AEB2/A9AEB2.png) `#A9AEB2`|12ml||
+|Runelord Brass|Base|136|126|116|![#887E74](https://placehold.co/15x15/887E74/887E74.png) `#887E74`|12ml||
+|Russ Grey|Air|85|112|133|![#557085](https://placehold.co/15x15/557085/557085.png) `#557085`|24ml||
+|Russ Grey|Layer|85|112|133|![#557085](https://placehold.co/15x15/557085/557085.png) `#557085`|12ml||
+|Ryza Rust|Dry|240|108|34|![#F06C22](https://placehold.co/15x15/F06C22/F06C22.png) `#F06C22`|12ml||
+|Screamer Pink|Base|114|9|68|![#720944](https://placehold.co/15x15/720944/720944.png) `#720944`|12ml||
+|Screaming Bell|Base|157|98|70|![#9D6246](https://placehold.co/15x15/9D6246/9D6246.png) `#9D6246`|12ml||
+|Screaming Skull|Layer|186|192|156|![#BAC09C](https://placehold.co/15x15/BAC09C/BAC09C.png) `#BAC09C`|12ml||
+|Seraphim Sepia|Shade|202|167|146|![#CAA792](https://placehold.co/15x15/CAA792/CAA792.png) `#CAA792`|18ml||
+|Shyish Purple|Contrast|90|70|121|![#5A4679](https://placehold.co/15x15/5A4679/5A4679.png) `#5A4679`|18ml||
+|Sigvald Burgundy|Contrast|126|39|98|![#7E2762](https://placehold.co/15x15/7E2762/7E2762.png) `#7E2762`|18ml||
+|Skarsnik Green|Layer|96|143|107|![#608F6B](https://placehold.co/15x15/608F6B/608F6B.png) `#608F6B`|12ml||
+|Skavenblight Dinge|Layer|68|65|60|![#44413C](https://placehold.co/15x15/44413C/44413C.png) `#44413C`|12ml||
+|Skeleton Horde|Contrast|236|223|189|![#ECDFBD](https://placehold.co/15x15/ECDFBD/ECDFBD.png) `#ECDFBD`|18ml||
+|Skink Blue|Dry|83|189|202|![#53BDCA](https://placehold.co/15x15/53BDCA/53BDCA.png) `#53BDCA`|12ml||
+|Skrag Brown|Layer|132|71|17|![#844711](https://placehold.co/15x15/844711/844711.png) `#844711`|12ml||
+|Skullcrusher Brass|Layer|222|175|107|![#DEAF6B](https://placehold.co/15x15/DEAF6B/DEAF6B.png) `#DEAF6B`|12ml||
 |Slaanesh Grey|Layer|139|136|147|![#8B8893](https://placehold.co/15x15/8B8893/8B8893.png) `#8B8893`|12ml||
-|Slaanesh Grey|Dry|139|136|147|![#8B8893](https://placehold.co/15x15/8B8893/8B8893.png) `#8B8893`|12ml||
-|Smelly Primer|Foundation Primer (discontinued)|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|12ml||
-|Snakebite Leather|Foundation (discontinued)|140|108|64|![#8C6C40](https://placehold.co/15x15/8C6C40/8C6C40.png) `#8C6C40`|12ml||
-|Snakebite Leather|Contrast|105|76|41|![#694C29](https://placehold.co/15x15/694C29/694C29.png) `#694C29`|18ml||
-|Snot Green|Foundation (discontinued)|0|111|69|![#006F45](https://placehold.co/15x15/006F45/006F45.png) `#006F45`|12ml||
-|Sons of Horus Green|Air|0|84|94|![#00545E](https://placehold.co/15x15/00545E/00545E.png) `#00545E`|24ml||
-|Sons of Horus Green|Layer|0|84|94|![#00545E](https://placehold.co/15x15/00545E/00545E.png) `#00545E`|12ml||
-|Sotek Green|Layer|11|99|113|![#0B6371](https://placehold.co/15x15/0B6371/0B6371.png) `#0B6371`|12ml||
-|Soulstone Blue|Technical|20|39|88|![#142758](https://placehold.co/15x15/142758/142758.png) `#142758`|12ml||
-|Space Wolves Grey|Contrast|31|72|107|![#1F486B](https://placehold.co/15x15/1F486B/1F486B.png) `#1F486B`|18ml||
-|Space Wolves Grey|Foundation (discontinued)|145|191|220|![#91BFDC](https://placehold.co/15x15/91BFDC/91BFDC.png) `#91BFDC`|12ml||
-|Spiritstone Red|Technical|138|42|30|![#8A2A1E](https://placehold.co/15x15/8A2A1E/8A2A1E.png) `#8A2A1E`|12ml||
-|Squig Orange|Layer|167|77|66|![#A74D42](https://placehold.co/15x15/A74D42/A74D42.png) `#A74D42`|12ml||
-|Steel Legion Drab|Base|88|78|45|![#584E2D](https://placehold.co/15x15/584E2D/584E2D.png) `#584E2D`|12ml||
-|Steel Legion Drab|Air|88|78|45|![#584E2D](https://placehold.co/15x15/584E2D/584E2D.png) `#584E2D`|24ml||
-|Stegadon Scale Green|Base|6|69|93|![#06455D](https://placehold.co/15x15/06455D/06455D.png) `#06455D`|12ml||
-|Stirland Battlemire|Technical|112|73|13|![#70490D](https://placehold.co/15x15/70490D/70490D.png) `#70490D`|12ml||
-|Stirland Mud|Technical|72|43|0|![#482B00](https://placehold.co/15x15/482B00/482B00.png) `#482B00`|12ml||
-|Storm Blue|Foundation (discontinued)|39|53|126|![#27357E](https://placehold.co/15x15/27357E/27357E.png) `#27357E`|12ml||
-|Stormfang|Dry|90|127|163|![#5A7FA3](https://placehold.co/15x15/5A7FA3/5A7FA3.png) `#5A7FA3`|12ml||
-|Stormhost Silver|Layer|218|221|223|![#DADDDF](https://placehold.co/15x15/DADDDF/DADDDF.png) `#DADDDF`|12ml||
-|Stormshield|Technical|249|249|249|![#F9F9F9](https://placehold.co/15x15/F9F9F9/F9F9F9.png) `#F9F9F9`|12ml||
-|Stormvermin Fur|Layer|109|101|95|![#6D655F](https://placehold.co/15x15/6D655F/6D655F.png) `#6D655F`|12ml||
-|Straken Green|Air|89|127|28|![#597F1C](https://placehold.co/15x15/597F1C/597F1C.png) `#597F1C`|24ml||
-|Straken Green|Layer|89|127|28|![#597F1C](https://placehold.co/15x15/597F1C/597F1C.png) `#597F1C`|12ml||
-|Striking Scorpion Green|Contrast|0|128|64|![#008040](https://placehold.co/15x15/008040/008040.png) `#008040`|18ml||
-|Sunburst Yellow|Foundation (discontinued)|255|212|0|![#FFD400](https://placehold.co/15x15/FFD400/FFD400.png) `#FFD400`|12ml||
-|Sybarite Green|Air|23|161|102|![#17A166](https://placehold.co/15x15/17A166/17A166.png) `#17A166`|24ml||
-|Sybarite Green|Layer|23|161|102|![#17A166](https://placehold.co/15x15/17A166/17A166.png) `#17A166`|12ml||
-|Sycorax Bronze|Layer|187|159|132|![#BB9F84](https://placehold.co/15x15/BB9F84/BB9F84.png) `#BB9F84`|12ml||
-|Sylvaneth Bark|Dry|78|72|59|![#4E483B](https://placehold.co/15x15/4E483B/4E483B.png) `#4E483B`|12ml||
-|Talassar Blue|Contrast|0|59|112|![#003B70](https://placehold.co/15x15/003B70/003B70.png) `#003B70`|18ml||
-|Tallarn Flesh|Foundation (discontinued)|178|123|103|![#B27B67](https://placehold.co/15x15/B27B67/B27B67.png) `#B27B67`|12ml||
-|Tallarn Sand|Layer|160|116|9|![#A07409](https://placehold.co/15x15/A07409/A07409.png) `#A07409`|12ml||
-|Tallarn Sand|Air|160|116|9|![#A07409](https://placehold.co/15x15/A07409/A07409.png) `#A07409`|24ml||
-|Tanned Flesh|Foundation (discontinued)|169|92|62|![#A95C3E](https://placehold.co/15x15/A95C3E/A95C3E.png) `#A95C3E`|12ml||
-|Tau Light Ochre|Air|188|107|16|![#BC6B10](https://placehold.co/15x15/BC6B10/BC6B10.png) `#BC6B10`|24ml||
-|Tau Light Ochre|Layer|188|107|16|![#BC6B10](https://placehold.co/15x15/BC6B10/BC6B10.png) `#BC6B10`|12ml||
-|Tausept Ochre|Foundation (discontinued)|160|110|59|![#A06E3B](https://placehold.co/15x15/A06E3B/A06E3B.png) `#A06E3B`|12ml||
-|Teclis Blue|Layer|56|119|191|![#3877BF](https://placehold.co/15x15/3877BF/3877BF.png) `#3877BF`|12ml||
-|Temple Guard Blue|Layer|35|148|137|![#239489](https://placehold.co/15x15/239489/239489.png) `#239489`|12ml||
-|Temple Guard Blue|Air|35|148|137|![#239489](https://placehold.co/15x15/239489/239489.png) `#239489`|24ml||
-|Tentacle Pink|Foundation (discontinued)|220|157|198|![#DC9DC6](https://placehold.co/15x15/DC9DC6/DC9DC6.png) `#DC9DC6`|12ml||
-|Terminatus Stone|Air|200|183|157|![#C8B79D](https://placehold.co/15x15/C8B79D/C8B79D.png) `#C8B79D`|24ml||
+|Snakebite Leather|Contrast|182|113|44|![#B6712C](https://placehold.co/15x15/B6712C/B6712C.png) `#B6712C`|18ml||
+|Sons of Horus Green|Layer|27|84|93|![#1B545D](https://placehold.co/15x15/1B545D/1B545D.png) `#1B545D`|12ml||
+|Sotek Green|Layer|39|98|112|![#276270](https://placehold.co/15x15/276270/276270.png) `#276270`|12ml||
+|Soulblight Grey|Shade|191|181|189|![#BFB5BD](https://placehold.co/15x15/BFB5BD/BFB5BD.png) `#BFB5BD`|18ml||
+|Soulstone Blue|Technical|6|26|79|![#061A4F](https://placehold.co/15x15/061A4F/061A4F.png) `#061A4F`|24ml||
+|Space Wolves Grey|Contrast|122|157|182|![#7A9DB6](https://placehold.co/15x15/7A9DB6/7A9DB6.png) `#7A9DB6`|18ml||
+|Spiritstone Red|Technical|126|22|6|![#7E1606](https://placehold.co/15x15/7E1606/7E1606.png) `#7E1606`|24ml||
+|Squig Orange|Layer|159|74|67|![#9F4A43](https://placehold.co/15x15/9F4A43/9F4A43.png) `#9F4A43`|12ml||
+|Steel Legion Drab|Base|87|78|47|![#574E2F](https://placehold.co/15x15/574E2F/574E2F.png) `#574E2F`|12ml||
+|Stegadon Scale Green|Base|25|70|93|![#19465D](https://placehold.co/15x15/19465D/19465D.png) `#19465D`|12ml||
+|Stirland Mud|Technical|99|66|19|![#634213](https://placehold.co/15x15/634213/634213.png) `#634213`|24ml||
+|Stormfang|Dry|91|127|163|![#5B7FA3](https://placehold.co/15x15/5B7FA3/5B7FA3.png) `#5B7FA3`|12ml||
+|Stormfiend|Contrast|37|104|132|![#256884](https://placehold.co/15x15/256884/256884.png) `#256884`|18ml||
+|Stormhost Silver|Layer|192|197|200|![#C0C5C8](https://placehold.co/15x15/C0C5C8/C0C5C8.png) `#C0C5C8`|12ml||
+|Stormshield|Technical|242|242|242|![#F2F2F2](https://placehold.co/15x15/F2F2F2/F2F2F2.png) `#F2F2F2`|24ml||
+|Stormvermin Fur|Layer|108|101|95|![#6C655F](https://placehold.co/15x15/6C655F/6C655F.png) `#6C655F`|12ml||
+|Straken Green|Layer|93|128|38|![#5D8026](https://placehold.co/15x15/5D8026/5D8026.png) `#5D8026`|12ml||
+|Striking Scorpion Green|Contrast|43|155|97|![#2B9B61](https://placehold.co/15x15/2B9B61/2B9B61.png) `#2B9B61`|18ml||
+|Sybarite Green|Layer|93|128|38|![#5D8026](https://placehold.co/15x15/5D8026/5D8026.png) `#5D8026`|12ml||
+|Sycorax Bronze|Layer|153|122|107|![#997A6B](https://placehold.co/15x15/997A6B/997A6B.png) `#997A6B`|12ml||
+|Sylvaneth Bark|Dry|78|72|58|![#4E483A](https://placehold.co/15x15/4E483A/4E483A.png) `#4E483A`|12ml||
+|Talassar Blue|Contrast|13|138|205|![#0D8ACD](https://placehold.co/15x15/0D8ACD/0D8ACD.png) `#0D8ACD`|18ml||
+|Tallarn Sand|Layer|155|115|27|![#9B731B](https://placehold.co/15x15/9B731B/9B731B.png) `#9B731B`|12ml||
+|Targor Rageshade|Shade|168|157|171|![#A89DAB](https://placehold.co/15x15/A89DAB/A89DAB.png) `#A89DAB`|18ml||
+|Tau Light Ochre|Layer|180|106|31|![#B46A1F](https://placehold.co/15x15/B46A1F/B46A1F.png) `#B46A1F`|12ml||
+|Teclis Blue|Layer|72|121|190|![#4879BE](https://placehold.co/15x15/4879BE/4879BE.png) `#4879BE`|12ml||
+|Temple Guard Blue|Air|65|149|136|![#419588](https://placehold.co/15x15/419588/419588.png) `#419588`|24ml||
+|Temple Guard Blue|Layer|65|149|136|![#419588](https://placehold.co/15x15/419588/419588.png) `#419588`|12ml||
 |Terminatus Stone|Dry|200|183|157|![#C8B79D](https://placehold.co/15x15/C8B79D/C8B79D.png) `#C8B79D`|12ml||
-|Terracotta|Foundation (discontinued)|121|55|33|![#793721](https://placehold.co/15x15/793721/793721.png) `#793721`|12ml||
-|Terradon Turquoise|Contrast|0|88|98|![#005862](https://placehold.co/15x15/005862/005862.png) `#005862`|18ml||
-|Tesseract Glow|Technical|101|171|70|![#65AB46](https://placehold.co/15x15/65AB46/65AB46.png) `#65AB46`|12ml||
-|Thallax Gold|Air|232|143|71|![#E88F47](https://placehold.co/15x15/E88F47/E88F47.png) `#E88F47`|24ml||
-|The Fang|Air|64|91|113|![#405B71](https://placehold.co/15x15/405B71/405B71.png) `#405B71`|24ml||
-|The Fang|Base|64|91|113|![#405B71](https://placehold.co/15x15/405B71/405B71.png) `#405B71`|12ml||
-|Thondia Brown|Base|79|50|44|![#4F322C](https://placehold.co/15x15/4F322C/4F322C.png) `#4F322C`|12ml||
-|Thousand Sons Blue|Base|0|80|111|![#00506F](https://placehold.co/15x15/00506F/00506F.png) `#00506F`|12ml||
-|Thunderhawk Blue|Dry|57|106|112|![#396A70](https://placehold.co/15x15/396A70/396A70.png) `#396A70`|12ml||
-|Thunderhawk Blue|Layer|57|106|112|![#396A70](https://placehold.co/15x15/396A70/396A70.png) `#396A70`|12ml||
-|Tin Bitz|Foundation (discontinued)|71|63|57|![#473F39](https://placehold.co/15x15/473F39/473F39.png) `#473F39`|12ml||
-|Troll Slayer Orange|Air|241|108|35|![#F16C23](https://placehold.co/15x15/F16C23/F16C23.png) `#F16C23`|24ml||
-|Troll Slayer Orange|Layer|241|108|35|![#F16C23](https://placehold.co/15x15/F16C23/F16C23.png) `#F16C23`|12ml||
-|Tuskgor Fur|Air|134|50|49|![#863231](https://placehold.co/15x15/863231/863231.png) `#863231`|24ml||
-|Tuskgor Fur|Layer|134|50|49|![#863231](https://placehold.co/15x15/863231/863231.png) `#863231`|12ml||
-|Typhon Ash|Air|228|216|193|![#E4D8C1](https://placehold.co/15x15/E4D8C1/E4D8C1.png) `#E4D8C1`|24ml||
-|Typhus Corrosion|Technical|55|58|34|![#373A22](https://placehold.co/15x15/373A22/373A22.png) `#373A22`|12ml||
-|Tyrant Skull|Dry|200|196|131|![#C8C483](https://placehold.co/15x15/C8C483/C8C483.png) `#C8C483`|12ml||
-|Ulthuan Grey|Layer|196|221|213|![#C4DDD5](https://placehold.co/15x15/C4DDD5/C4DDD5.png) `#C4DDD5`|12ml||
-|Ulthuan Grey|Air|196|221|213|![#C4DDD5](https://placehold.co/15x15/C4DDD5/C4DDD5.png) `#C4DDD5`|24ml||
-|Ultramarine Blue|Foundation (discontinued)|0|102|179|![#0066B3](https://placehold.co/15x15/0066B3/0066B3.png) `#0066B3`|12ml||
-|Ultramarines Blue|Contrast|9|25|72|![#091948](https://placehold.co/15x15/091948/091948.png) `#091948`|18ml||
-|Underhive Ash|Dry|188|187|126|![#BCBB7E](https://placehold.co/15x15/BCBB7E/BCBB7E.png) `#BCBB7E`|12ml||
-|Ungor Flesh|Layer|209|165|96|![#D1A560](https://placehold.co/15x15/D1A560/D1A560.png) `#D1A560`|12ml||
-|Ushabti Bone|Air|171|161|115|![#ABA173](https://placehold.co/15x15/ABA173/ABA173.png) `#ABA173`|24ml||
-|Ushabti Bone|Layer|171|161|115|![#ABA173](https://placehold.co/15x15/ABA173/ABA173.png) `#ABA173`|12ml||
-|Valdor Gold|Air|206|141|81|![#CE8D51](https://placehold.co/15x15/CE8D51/CE8D51.png) `#CE8D51`|24ml||
-|Valhallan Blizzard|Technical|225|225|225|![#E1E1E1](https://placehold.co/15x15/E1E1E1/E1E1E1.png) `#E1E1E1`|12ml||
-|Vermin Brown|Foundation (discontinued)|132|57|16|![#843910](https://placehold.co/15x15/843910/843910.png) `#843910`|12ml||
-|Vermin Fur|Foundation (discontinued)|144|79|46|![#904F2E](https://placehold.co/15x15/904F2E/904F2E.png) `#904F2E`|12ml||
-|Verminlord Hide|Dry|126|51|49|![#7E3331](https://placehold.co/15x15/7E3331/7E3331.png) `#7E3331`|12ml||
-|Vile Green|Foundation (discontinued)|130|197|156|![#82C59C](https://placehold.co/15x15/82C59C/82C59C.png) `#82C59C`|12ml||
-|Volupus Pink|Contrast|96|0|28|![#60001C](https://placehold.co/15x15/60001C/60001C.png) `#60001C`|18ml||
-|Vomit Brown|Foundation (discontinued)|206|139|60|![#CE8B3C](https://placehold.co/15x15/CE8B3C/CE8B3C.png) `#CE8B3C`|12ml||
-|Vulkan Green|Layer|34|60|46|![#223C2E](https://placehold.co/15x15/223C2E/223C2E.png) `#223C2E`|12ml||
-|Vulkan Green|Air|34|60|46|![#223C2E](https://placehold.co/15x15/223C2E/223C2E.png) `#223C2E`|24ml||
-|Waaagh! Flesh|Base|11|59|54|![#0B3B36](https://placehold.co/15x15/0B3B36/0B3B36.png) `#0B3B36`|12ml||
-|Warboss Green|Layer|49|126|87|![#317E57](https://placehold.co/15x15/317E57/317E57.png) `#317E57`|12ml||
-|Warboss Green|Air|49|126|87|![#317E57](https://placehold.co/15x15/317E57/317E57.png) `#317E57`|24ml||
-|Warlock Purple|Foundation (discontinued)|164|62|139|![#A43E8B](https://placehold.co/15x15/A43E8B/A43E8B.png) `#A43E8B`|12ml||
-|Warp Lightning|Contrast|0|94|38|![#005E26](https://placehold.co/15x15/005E26/005E26.png) `#005E26`|18ml||
-|Warpfiend Grey|Layer|102|101|110|![#66656E](https://placehold.co/15x15/66656E/66656E.png) `#66656E`|12ml||
-|Warplock Bronze|Base|179|110|79|![#B36E4F](https://placehold.co/15x15/B36E4F/B36E4F.png) `#B36E4F`|12ml||
-|Warpstone Glow|Layer|15|112|42|![#0F702A](https://placehold.co/15x15/0F702A/0F702A.png) `#0F702A`|12ml||
-|Waystone Green|Technical|35|81|61|![#23513D](https://placehold.co/15x15/23513D/23513D.png) `#23513D`|12ml||
-|Waywatcher Green|Glaze|109|192|102|![#6DC066](https://placehold.co/15x15/6DC066/6DC066.png) `#6DC066`|||
-|Wazdakka Red|Layer|136|8|4|![#880804](https://placehold.co/15x15/880804/880804.png) `#880804`|12ml||
-|White Scar|Layer|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|12ml||
+|Terradon Turquoise|Contrast|13|153|175|![#0D99AF](https://placehold.co/15x15/0D99AF/0D99AF.png) `#0D99AF`|18ml||
+|Tesseract Glow|Technical|90|174|60|![#5AAE3C](https://placehold.co/15x15/5AAE3C/5AAE3C.png) `#5AAE3C`|24ml||
+|Thallax Gold|Air|135|94|76|![#875E4C](https://placehold.co/15x15/875E4C/875E4C.png) `#875E4C`|24ml||
+|The Fang|Air|69|91|112|![#455B70](https://placehold.co/15x15/455B70/455B70.png) `#455B70`|24ml||
+|The Fang|Base|69|91|112|![#455B70](https://placehold.co/15x15/455B70/455B70.png) `#455B70`|12ml||
+|Thondia Brown|Base|80|47|42|![#502F2A](https://placehold.co/15x15/502F2A/502F2A.png) `#502F2A`|12ml||
+|Thousand Sons Blue|Base|29|80|111|![#1D506F](https://placehold.co/15x15/1D506F/1D506F.png) `#1D506F`|12ml||
+|Thunderhawk Blue|Layer|67|106|113|![#436A71](https://placehold.co/15x15/436A71/436A71.png) `#436A71`|12ml||
+|Troll Slayer Orange|Air|229|105|45|![#E5692D](https://placehold.co/15x15/E5692D/E5692D.png) `#E5692D`|24ml||
+|Troll Slayer Orange|Layer|229|105|45|![#E5692D](https://placehold.co/15x15/E5692D/E5692D.png) `#E5692D`|12ml||
+|Tuskgor Fur|Layer|127|48|51|![#7F3033](https://placehold.co/15x15/7F3033/7F3033.png) `#7F3033`|12ml||
+|Typhon Ash|Air|231|216|195|![#E7D8C3](https://placehold.co/15x15/E7D8C3/E7D8C3.png) `#E7D8C3`|24ml||
+|Typhus Corrosion|Technical|55|59|36|![#373B24](https://placehold.co/15x15/373B24/373B24.png) `#373B24`|24ml||
+|Tyran Blue|Shade|132|176|199|![#84B0C7](https://placehold.co/15x15/84B0C7/84B0C7.png) `#84B0C7`|18ml||
+|Tyrant Skull|Dry|200|196|132|![#C8C484](https://placehold.co/15x15/C8C484/C8C484.png) `#C8C484`|12ml||
+|Ulthuan Grey|Air|200|221|214|![#C8DDD6](https://placehold.co/15x15/C8DDD6/C8DDD6.png) `#C8DDD6`|24ml||
+|Ulthuan Grey|Layer|200|221|214|![#C8DDD6](https://placehold.co/15x15/C8DDD6/C8DDD6.png) `#C8DDD6`|12ml||
+|Ultramarines Blue|Contrast|49|92|142|![#315C8E](https://placehold.co/15x15/315C8E/315C8E.png) `#315C8E`|18ml||
+|Underhive Ash|Dry|187|187|125|![#BBBB7D](https://placehold.co/15x15/BBBB7D/BBBB7D.png) `#BBBB7D`|12ml||
+|Ungor Flesh|Layer|203|164|99|![#CBA463](https://placehold.co/15x15/CBA463/CBA463.png) `#CBA463`|12ml||
+|Ushabti Bone|Air|169|160|117|![#A9A075](https://placehold.co/15x15/A9A075/A9A075.png) `#A9A075`|24ml||
+|Ushabti Bone|Layer|169|160|117|![#A9A075](https://placehold.co/15x15/A9A075/A9A075.png) `#A9A075`|12ml||
+|Valhallan Blizzard|Technical|234|234|234|![#EAEAEA](https://placehold.co/15x15/EAEAEA/EAEAEA.png) `#EAEAEA`|24ml||
+|Volupus Pink|Contrast|150|6|75|![#96064B](https://placehold.co/15x15/96064B/96064B.png) `#96064B`|18ml||
+|Vulkan Green|Layer|45|63|51|![#2D3F33](https://placehold.co/15x15/2D3F33/2D3F33.png) `#2D3F33`|12ml||
+|Waaagh! Flesh|Base|22|58|54|![#163A36](https://placehold.co/15x15/163A36/163A36.png) `#163A36`|12ml||
+|Warboss Green|Layer|64|126|89|![#407E59](https://placehold.co/15x15/407E59/407E59.png) `#407E59`|12ml||
+|Warp Lightning|Contrast|1|162|94|![#01A25E](https://placehold.co/15x15/01A25E/01A25E.png) `#01A25E`|18ml||
+|Warpfiend Grey|Layer|102|101|109|![#66656D](https://placehold.co/15x15/66656D/66656D.png) `#66656D`|12ml||
+|Warplock Bronze|Base|133|114|97|![#857261](https://placehold.co/15x15/857261/857261.png) `#857261`|12ml||
+|Warpstone Glow|Layer|40|112|46|![#28702E](https://placehold.co/15x15/28702E/28702E.png) `#28702E`|12ml||
+|Waystone Green|Technical|6|60|36|![#063C24](https://placehold.co/15x15/063C24/063C24.png) `#063C24`|24ml||
+|Wazdakka Red|Layer|127|0|9|![#7F0009](https://placehold.co/15x15/7F0009/7F0009.png) `#7F0009`|12ml||
 |White Scar|Air|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|24ml||
-|Wild Rider Red|Layer|232|46|27|![#E82E1B](https://placehold.co/15x15/E82E1B/E82E1B.png) `#E82E1B`|12ml||
-|Word Bearers Red|Layer|98|1|4|![#620104](https://placehold.co/15x15/620104/620104.png) `#620104`|12ml||
-|Word Bearers Red|Air|98|1|4|![#620104](https://placehold.co/15x15/620104/620104.png) `#620104`|24ml||
-|Wrack White|Dry|211|208|207|![#D3D0CF](https://placehold.co/15x15/D3D0CF/D3D0CF.png) `#D3D0CF`|12ml||
-|Wraithbone|Base|219|209|178|![#DBD1B2](https://placehold.co/15x15/DBD1B2/DBD1B2.png) `#DBD1B2`|12ml||
-|Wraithbone|Spray|219|209|178|![#DBD1B2](https://placehold.co/15x15/DBD1B2/DBD1B2.png) `#DBD1B2`|||
-|Wyldwood|Contrast|67|40|34|![#432822](https://placehold.co/15x15/432822/432822.png) `#432822`|18ml||
-|XV-88|Air|108|72|17|![#6C4811](https://placehold.co/15x15/6C4811/6C4811.png) `#6C4811`|24ml||
-|XV-88|Base|108|72|17|![#6C4811](https://placehold.co/15x15/6C4811/6C4811.png) `#6C4811`|12ml||
-|Xereus Purple|Layer|71|18|90|![#47125A](https://placehold.co/15x15/47125A/47125A.png) `#47125A`|12ml||
-|Yriel Yellow|Layer|255|217|0|![#FFD900](https://placehold.co/15x15/FFD900/FFD900.png) `#FFD900`|12ml||
-|Zamesi Desert|Layer|216|157|27|![#D89D1B](https://placehold.co/15x15/D89D1B/D89D1B.png) `#D89D1B`|12ml||
-|Zandri Dust|Spray|152|142|86|![#988E56](https://placehold.co/15x15/988E56/988E56.png) `#988E56`|||
-|Zandri Dust|Base|152|142|86|![#988E56](https://placehold.co/15x15/988E56/988E56.png) `#988E56`|12ml||
-|Zandri Dust|Air|152|142|86|![#988E56](https://placehold.co/15x15/988E56/988E56.png) `#988E56`|24ml||
+|White Scar|Layer|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|12ml||
+|White Scar|Spray|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|400ml||
+|Wild Rider Red|Layer|220|38|35|![#DC2623](https://placehold.co/15x15/DC2623/DC2623.png) `#DC2623`|12ml||
+|Word Bearers Red|Layer|91|0|7|![#5B0007](https://placehold.co/15x15/5B0007/5B0007.png) `#5B0007`|12ml||
+|Wrack White|Dry|212|208|207|![#D4D0CF](https://placehold.co/15x15/D4D0CF/D4D0CF.png) `#D4D0CF`|12ml||
+|Wraithbone|Base|218|209|180|![#DAD1B4](https://placehold.co/15x15/DAD1B4/DAD1B4.png) `#DAD1B4`|12ml||
+|Wraithbone|Spray|219|208|178|![#DBD0B2](https://placehold.co/15x15/DBD0B2/DBD0B2.png) `#DBD0B2`|400ml||
+|Wyldwood|Contrast|109|89|88|![#6D5958](https://placehold.co/15x15/6D5958/6D5958.png) `#6D5958`|18ml||
+|Xereus Purple|Layer|69|17|89|![#451159](https://placehold.co/15x15/451159/451159.png) `#451159`|12ml||
+|XV-88|Base|103|71|22|![#674716](https://placehold.co/15x15/674716/674716.png) `#674716`|12ml||
+|Yriel Yellow|Layer|249|217|48|![#F9D930](https://placehold.co/15x15/F9D930/F9D930.png) `#F9D930`|12ml||
+|Zamesi Desert|Layer|193|150|48|![#C19630](https://placehold.co/15x15/C19630/C19630.png) `#C19630`|12ml||
+|Zandri Dust|Air|149|142|88|![#958E58](https://placehold.co/15x15/958E58/958E58.png) `#958E58`|24ml||
+|Zandri Dust|Base|149|142|88|![#958E58](https://placehold.co/15x15/958E58/958E58.png) `#958E58`|12ml||
+|Zandri Dust|Spray|153|142|86|![#998E56](https://placehold.co/15x15/998E56/998E56.png) `#998E56`|400ml||

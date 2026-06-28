@@ -1,6 +1,6 @@
 # Name, Set, RGB, and Hex values of Miniature Paints
 
-**33 brands · 11,938 paints**
+**33 brands · 11,811 paints**
 
 This repo is a collection of hobby/miniature painting paints from some of the most popular brands around the world.
 
@@ -57,7 +57,7 @@ Feel free to use or improve any of these paints in your own personal projects. A
   - [X] Turbo Dork
   - [ ] Vallejo
   - [ ] Warcolours
-  - [ ] Warhammer Colour
+  - [X] Warhammer Colour
 
 
 ## JSON
