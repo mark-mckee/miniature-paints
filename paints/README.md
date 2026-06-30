@@ -11,7 +11,7 @@ Paints that have been culled from a brand's current line (discontinued, but stil
 | <img src="../logos/Acrilex.png" height="40" alt="Acrilex" /> | [Acrilex](markdown/Acrilex.md) | 95 |  |
 | <img src="../logos/AK.png" height="40" alt="AK" /> | [AK](markdown/AK.md) | 980 |  |
 | <img src="../logos/AppleBarrel.png" height="40" alt="Apple Barrel" /> | [Apple Barrel](markdown/AppleBarrel.md) | 213 |  |
-| <img src="../logos/Army_Painter.png" height="40" alt="Army Painter" /> | [Army Painter](markdown/Army_Painter.md) | 704 |  |
+| <img src="../logos/Army_Painter.png" height="40" alt="Army Painter" /> | [Army Painter](markdown/Army_Painter.md) | 501 |  |
 | <img src="../logos/Arteza.png" height="40" alt="Arteza" /> | [Arteza](markdown/Arteza.md) | 96 |  |
 | <img src="../logos/CoatDArmes.png" height="40" alt="Coat D Armes" /> | [Coat D Armes](markdown/CoatDArmes.md) | 157 |  |
 | <img src="../logos/Creature.png" height="40" alt="Creature" /> | [Creature](markdown/Creature.md) | 53 |  |

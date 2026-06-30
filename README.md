@@ -1,6 +1,6 @@
 # Name, Set, RGB, and Hex values of Miniature Paints
 
-**33 brands · 11,812 paints**
+**33 brands · 11,609 paints**
 
 This is a collection of hobby/miniature -painting paints from some of the most popular brands around the world.
 
@@ -20,7 +20,7 @@ Unless otherwise stated, the RGB/Hex values for all paints are an approximation,
   - [X] AK
   - [X] Acrilex
   - [ ] Apple Barrel
-  - [ ] Army Painter
+  - [X] Army Painter
   - [ ] Arteza
   - [ ] Coat D'Armes
   - [ ] Creature Caster
