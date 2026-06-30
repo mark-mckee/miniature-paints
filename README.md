@@ -152,6 +152,7 @@ The per-brand files `paints/json/<stem>.json` each contain a single **brand obje
 ### Turbo Dork
 ❤️ A huge thank you to Greg over at Turbo Dork for supplying an up to date list of their products in an easy to use spreadsheet, and for their permission and support to include their paints here. Your help is very much appreciated.
 
+### The Army Painter
 ❤️ A huge thank you to Jesper over at The Army Painter for providing me with an up to date spreadsheet of all their current paints and sets. Thank you for your support.
 
 ## Notes
