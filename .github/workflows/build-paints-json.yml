@@ -29,10 +29,10 @@ jobs:
 
       - name: Commit paints.json if it changed
         run: |
-          if [ -n "$(git status --porcelain paints.json)" ]; then
+          if [ -n "$(git status --porcelain paints/paints.json)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add paints.json
+            git add paints/paints.json
             git commit -m "Auto-build paints.json [skip ci]"
             git push
           else

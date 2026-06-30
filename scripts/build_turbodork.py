@@ -10,7 +10,7 @@
   image plus the stop hexes as backtick codes.
 
 The markdown is the source of truth; run scripts/build_paints.py afterwards to
-regenerate paints.json / paints/json/TurboDork.json.
+regenerate paints/paints.json / paints/json/TurboDork.json.
 
 Usage:
     python scripts/build_turbodork.py [CSV_PATH] [--dry-run]

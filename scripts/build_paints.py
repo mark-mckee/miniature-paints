@@ -14,13 +14,13 @@ from collections import OrderedDict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAINTS_DIR = os.path.join(ROOT, "paints", "markdown")
-OUT_PATH = os.path.join(ROOT, "paints.json")
+OUT_PATH = os.path.join(ROOT, "paints", "paints.json")
 JSON_DIR = os.path.join(ROOT, "paints", "json")
 
 # Dataset schema version, and the JSON Schema files each output document links to via
 # "$schema" (relative to the document's own location). See schema/ at the repo root.
 SCHEMA_VERSION = "miniature-paints/v3"
-AGG_SCHEMA_REF = "./schema/paints.schema.json"         # for paints.json (repo root)
+AGG_SCHEMA_REF = "../schema/paints.schema.json"        # for paints/paints.json
 BRAND_SCHEMA_REF = "../../schema/brand.schema.json"    # for paints/json/<stem>.json
 
 HEX_RE = re.compile(r'#([0-9A-Fa-f]{6})')

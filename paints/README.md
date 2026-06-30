@@ -1,6 +1,6 @@
 # Paints
 
-Per-brand paint data lives here. Each brand has a markdown table in [`markdown/`](markdown/) (the single source of truth) and a generated JSON file in [`json/`](json/). The aggregate dataset is [`paints.json`](../paints.json) at the repo root; see the [main README](../README.md#json) for the schema.
+Per-brand paint data lives here. Each brand has a markdown table in [`markdown/`](markdown/) (the single source of truth) and a generated JSON file in [`json/`](json/). The aggregate dataset is [`paints.json`](paints.json) in this directory; see the [main README](../README.md#json--markdown) for the schema.
 
 Paints that have been culled from a brand's current line (discontinued, but still owned by plenty of painters) are archived as CSVs in [`discontinued/`](discontinued/). A ✓ in the table below links to a brand's archive.
 

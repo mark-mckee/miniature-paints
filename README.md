@@ -2,31 +2,18 @@
 
 **33 brands · 11,812 paints**
 
-This repo is a collection of hobby/miniature painting paints from some of the most popular brands around the world.
+This is a collection of hobby/miniature -painting paints from some of the most popular brands around the world.
 
-I forked the original repo from Arcturus5404/miniature-paints, who had made a significant amount of progress, but has not updated the repo in several years. I needed a clean and up to date dataset for a project I wanted to work on.
+I forked the original repo from Arcturus5404/miniature-paints, who had made a significant amount of progress, but has not updated the repo in several years. I needed a clean and up to date dataset for my own paint/supplies inventory app.
 
 The original paint list was scraped by Arcturus5404 from the [Miniature Painter Pro](https://miniaturepainterpro.app/) team.
 
-Feel free to use or improve any of these paints in your own personal projects. Also feel free to submit PR's
+Feel free to use or improve any of these paints in your own personal projects. This repo will remain free for you to use in your projects, all I ask is a credit.
 
-> [!IMPORTANT]
-> Whilst I have reviewed the original list of paint colours, and take as much care as I can determining the hex and RGB values for any of the paints are as accurate as possible, without official information from the brands themselves they are approximations. This is especially true for colour-shifting paints, which have no single colour — their swatches are generated from the manufacturer's colour descriptions and are only an approximation of how the paint actually shifts. Please refer to the brand's website or videos for a closer look at the colours and how they behave.
-
-> [!NOTE]
-> I am not affiliated in any way with the [Miniature Painter Pro](https://miniaturepainterpro.app/) team or app, nor am I affiliated with any of the brands shared here. So far, all knowledge of paints has been gathered from publicly available websites or product catalogues. I have contacted several brands for an up to date catalogue/spreadsheet. See the [Thanks](#thanks) section below to see who responded!
-
-> [!NOTE]
-> There's a lot of paints! Tens of thousands of them! I have been feeding the latest product catalogues into Claude and asking it to pull out all the paints and the sets they belong to. After I process and verify the output, Claude then updates the tables in the markdown files. AI can make mistakes, and so can I, so there may be errors. I verify as much as possible, but if a mistake slips through feel free to open a PR and I'll correct it. 
->
->There's still an awful lot of legwork involved. Claude is basically my unpaid intern.
+## RGB & HEX
+Unless otherwise stated, the RGB/Hex values for all paints are an approximation, as most manufacturers hold the spectral info secret. For the most part, the values have been sampled from product images either from the brands website or product catalogue.
 
 ## Tasks
-
-[The expanded Tasks file is here](TODO.md)
-
-> [!NOTE]
-> Brands (and sets) marked as complete `[X]` below have been updated to the manufacturer's product line as of June/July 2026.
 
 - [X] Add contact information for each brand where possible
 - [ ] Update all paint sets to match the current product catalogues
@@ -63,11 +50,9 @@ Feel free to use or improve any of these paints in your own personal projects. A
   - [X] Warhammer Colour
 
 
-## JSON
+## JSON & Markdown
 
-At the root of this repo I have added a single JSON file ([`paints.json`](paints.json)) that contains all brands and paints, and I have also included a JSON file for each brand individually under [`paints/json/`](paints/json/) for ease of use. These files are built every time I update the paints in the MD files and push to the repo through a worker action. 
-
-The `paints/markdown/*.md` tables are the single source of truth; everything below is generated from them by `scripts/build_paints.py`. The aggregate `paints.json` lives at the repo root, and the per-brand files live in `paints/json/`. See [`paints/README.md`](paints/README.md) for a per-brand index.
+The `paints/markdown/*.md` tables are the single source of truth; everything below is generated from them by `scripts/build_paints.py`. The aggregate `paints.json` lives at the root of the `/paints` directory, and the per-brand files live in `paints/json/`. See [`paints/README.md`](paints/README.md) for a per-brand index.
 
 Every output file is described by a formal [JSON Schema](https://json-schema.org/) (Draft 2020-12) under [`schema/`](schema/): [`schema/paints.schema.json`](schema/paints.schema.json) for the aggregate and [`schema/brand.schema.json`](schema/brand.schema.json) for the per-brand files. Each data file links to its schema via a relative `$schema` reference, so editors like VS Code validate it automatically.
 
@@ -75,10 +60,10 @@ Every output file is described by a formal [JSON Schema](https://json-schema.org
 
 ```jsonc
 {
-  "$schema": "./schema/paints.schema.json",   // relative link to the schema
+  "$schema": "../schema/paints.schema.json",  // relative link to the schema
   "schema": "miniature-paints/v3",            // version tag
   "brandCount": 33,
-  "paintCount": 11938,
+  "paintCount": 11812,
   "brands": {
     "AK": { /* brand object */ },     // keyed by file stem (paints/<stem>.md)
     "Acrilex": { /* brand object */ },
@@ -158,4 +143,15 @@ The per-brand files `paints/json/<stem>.json` each contain a single **brand obje
 ## Thanks
 
 ### Turbo Dork
-❤️ A huge thank you to Greg over at Turbo Dork for supplying an up to date list of their products in an easy to use spreadsheet! Your help is very much appreciated
+❤️ A huge thank you to Greg over at Turbo Dork for supplying an up to date list of their products in an easy to use spreadsheet, and for their permission and support to include their paints here. Your help is very much appreciated.
+
+❤️ A huge thank you to Jesper over at The Army Painter for providing me with an up to date spreadsheet of all their current paints and sets. Thank you for your support.
+
+## Notes
+> [!NOTE]
+> I am not affiliated in any way with the [Miniature Painter Pro](https://miniaturepainterpro.app/) team or app, nor am I affiliated with any of the brands shared here.
+
+> [!NOTE]
+> There's a lot of paints! Tens of thousands of them! I have been feeding the latest product catalogues into Claude and asking it to pull out all the paints and the sets they belong to. After I process and verify the output, Claude then updates the tables in the markdown files. AI can make mistakes, and so can I, so there may be errors. I verify as much as possible, but if a mistake slips through feel free to open a PR and I'll correct it. 
+>
+>There's still an awful lot of legwork involved. Claude is basically my unpaid intern.
