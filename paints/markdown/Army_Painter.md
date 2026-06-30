@@ -26,6 +26,7 @@
 |Afterglow|WP3060P|Warpaints Fanatic|192|196|113|![#C0C471](https://placehold.co/15x15/C0C471/C0C471.png) `#C0C471`|||
 |Agate Skin|WP3146P|Warpaints Fanatic|182|114|99|![#B67263](https://placehold.co/15x15/B67263/B67263.png) `#B67263`|||
 |Aged Hide|WP2036P|Speedpaint|191|93|69|![#BF5D45](https://placehold.co/15x15/BF5D45/BF5D45.png) `#BF5D45`|||
+|Airbrush Medium|AW2001P|Warpaints Air|48|49|41|![#303129](https://placehold.co/15x15/303129/303129.png) `#303129`|||
 |Algae Green|WP2045P|Speedpaint|116|122|67|![#747A43](https://placehold.co/15x15/747A43/747A43.png) `#747A43`|||
 |Alien Purple|AW1128P|Warpaints Air|100|53|139|![#64358B](https://placehold.co/15x15/64358B/64358B.png) `#64358B`|||
 |Alien Purple|WP3128P|Warpaints Fanatic|84|72|130|![#544882](https://placehold.co/15x15/544882/544882.png) `#544882`|||
@@ -89,7 +90,6 @@
 |Broodmother Purple|AW3128P|Warpaints Air|66|52|97|![#423461](https://placehold.co/15x15/423461/423461.png) `#423461`|||
 |Brownish Decay|WP2067P|Speedpaint|112|99|51|![#706333](https://placehold.co/15x15/706333/706333.png) `#706333`|||
 |Brush Cleaner|AW2002P|Warpaints Air|48|49|41|![#303129](https://placehold.co/15x15/303129/303129.png) `#303129`|100ml||
-|Brush Medium|AW2001P|Warpaints Air|48|49|41|![#303129](https://placehold.co/15x15/303129/303129.png) `#303129`|||
 |Brush-On Primer|WP3175P|Warpaints Fanatic Effects|71|70|66|![#474642](https://placehold.co/15x15/474642/474642.png) `#474642`|||
 |Buffed Hide|WP3114P|Warpaints Fanatic|149|98|83|![#956253](https://placehold.co/15x15/956253/956253.png) `#956253`|||
 |Bullwhack Brown|AW4123P|Warpaints Air|189|140|99|![#BD8C63](https://placehold.co/15x15/BD8C63/BD8C63.png) `#BD8C63`|||

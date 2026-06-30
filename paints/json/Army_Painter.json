@@ -143,6 +143,21 @@
       "description": null
     },
     {
+      "id": "army-painter-aw2001p",
+      "name": "Airbrush Medium",
+      "code": "AW2001P",
+      "set": "Warpaints Air",
+      "hex": "#303129",
+      "rgb": {
+        "r": 48,
+        "g": 49,
+        "b": 41
+      },
+      "shiftColors": null,
+      "potSizes": null,
+      "description": null
+    },
+    {
       "id": "army-painter-wp2045p",
       "name": "Algae Green",
       "code": "WP2045P",
@@ -1097,21 +1112,6 @@
           "unit": "ml"
         }
       ],
-      "description": null
-    },
-    {
-      "id": "army-painter-aw2001p",
-      "name": "Brush Medium",
-      "code": "AW2001P",
-      "set": "Warpaints Air",
-      "hex": "#303129",
-      "rgb": {
-        "r": 48,
-        "g": 49,
-        "b": 41
-      },
-      "shiftColors": null,
-      "potSizes": null,
       "description": null
     },
     {
