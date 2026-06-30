@@ -13,6 +13,13 @@ Feel free to use or improve any of these paints in your own personal projects. T
 ## RGB & HEX
 Unless otherwise stated, the RGB/Hex values for all paints are an approximation, as most manufacturers hold the spectral info secret. For the most part, the values have been sampled from product images either from the brands website or product catalogue.
 
+## Discontinues Paints
+I have yet to decide how to handle discontinued paints. It's a tricky one.
+
+I own paints that are now discontinued from Warhammer for example, but for brands I have not yet had the chance to use, I have no real idea what paints they have stopped making.
+
+This requires more thought on my part, but if you have ideas I'd be happy to hear them.
+
 ## Tasks
 
 - [X] Add contact information for each brand where possible
