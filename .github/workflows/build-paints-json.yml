@@ -1,8 +1,10 @@
 name: Build paints.json
 
-# Regenerate paints.json whenever a brand markdown file (or the build script)
-# changes on main, and commit the result back. The bot commit only touches
-# paints.json, which is not in the trigger paths, so it will not re-run.
+# Regenerate the JSON whenever a brand markdown file (or the build script)
+# changes on main, and commit the result back. build_paints.py writes both the
+# aggregate paints/paints.json and the per-brand paints/json/<Brand>.json files,
+# so the bot commits both. Neither path is in the trigger list, so it will not
+# re-run (the [skip ci] marker is a second safeguard).
 on:
   push:
     branches: [main]
@@ -27,14 +29,14 @@ jobs:
       - name: Build paints.json
         run: python scripts/build_paints.py
 
-      - name: Commit paints.json if it changed
+      - name: Commit regenerated JSON if it changed
         run: |
-          if [ -n "$(git status --porcelain paints/paints.json)" ]; then
+          if [ -n "$(git status --porcelain paints/paints.json paints/json)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add paints/paints.json
-            git commit -m "Auto-build paints.json [skip ci]"
+            git add paints/paints.json paints/json
+            git commit -m "Auto-build paints.json and per-brand JSON [skip ci]"
             git push
           else
-            echo "paints.json already up to date — nothing to commit."
+            echo "JSON already up to date — nothing to commit."
           fi
