@@ -19,7 +19,7 @@ JSON_DIR = os.path.join(ROOT, "paints", "json")
 
 # Dataset schema version, and the JSON Schema files each output document links to via
 # "$schema" (relative to the document's own location). See schema/ at the repo root.
-SCHEMA_VERSION = "miniature-paints/v3"
+SCHEMA_VERSION = "miniature-paints/v4"
 AGG_SCHEMA_REF = "../schema/paints.schema.json"        # for paints/paints.json
 BRAND_SCHEMA_REF = "../../schema/brand.schema.json"    # for paints/json/<stem>.json
 
@@ -144,6 +144,14 @@ def parse_paints(lines, brand_slug):
         else:
             hexv, shift_colors = (hexes[0] if hexes else None), None
 
+        # A colourless product (clear varnish, medium, thinner, etc.) is flagged
+        # by the literal word "colourless" in the Hex cell instead of a colour.
+        # It has no hex/rgb and is not a colour-shift paint.
+        colourless = 'colourless' in row.get('Hex', '').lower()
+        if colourless:
+            hexv, shift_colors = None, None
+            R = G = B = None
+
         base = f"{brand_slug}-{slug(code) if code else slug(name)}"
         pid, n = base, 2
         while pid in used_ids:
@@ -159,6 +167,7 @@ def parse_paints(lines, brand_slug):
             "hex": hexv,
             "rgb": {"r": R, "g": G, "b": B} if None not in (R, G, B) else None,
             "shiftColors": shift_colors,
+            "colourless": colourless,
             "potSizes": pots,
             "description": desc,
         })

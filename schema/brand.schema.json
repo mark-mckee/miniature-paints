@@ -10,7 +10,7 @@
     },
     "schema": {
       "type": "string",
-      "const": "miniature-paints/v3",
+      "const": "miniature-paints/v4",
       "description": "Dataset schema version (present only on the standalone files)."
     },
     "displayName": { "type": "string" },
@@ -72,7 +72,7 @@
         "hex": {
           "type": ["string", "null"],
           "pattern": "^#[0-9A-Fa-f]{6}$",
-          "description": "Single colour. Null for colour-shift paints (see shiftColors)."
+          "description": "Single colour. Null for colour-shift paints (see shiftColors) and for colourless products (see colourless)."
         },
         "rgb": {
           "type": ["object", "null"],
@@ -90,6 +90,10 @@
           "description": "Ordered hex stops for a colour-shift paint; null for normal paints. Mutually exclusive with a non-null hex.",
           "items": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" }
         },
+        "colourless": {
+          "type": "boolean",
+          "description": "True for products with no paint colour (clear varnishes, mediums, thinners, masks, etc.). When true, hex and rgb are null."
+        },
         "potSizes": {
           "type": ["array", "null"],
           "description": "Container sizes the colour is sold in; null when no size is recorded. Single-size brands are 1-element arrays.",
@@ -105,6 +109,7 @@
         "hex",
         "rgb",
         "shiftColors",
+        "colourless",
         "potSizes",
         "description"
       ],

@@ -10,7 +10,7 @@
     },
     "schema": {
       "type": "string",
-      "const": "miniature-paints/v3",
+      "const": "miniature-paints/v4",
       "description": "Dataset schema version."
     },
     "brandCount": { "type": "integer", "minimum": 0 },

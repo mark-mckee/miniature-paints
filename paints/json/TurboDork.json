@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v3",
+  "schema": "miniature-paints/v4",
   "displayName": "Turbo Dork",
   "company": "Turbo Dork",
   "address": {
@@ -28,6 +28,7 @@
         "b": 133
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -49,6 +50,7 @@
         "b": 79
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -70,6 +72,7 @@
         "b": 108
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -91,6 +94,7 @@
         "b": 69
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -112,6 +116,7 @@
         "b": 100
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -133,6 +138,7 @@
         "b": 170
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -154,6 +160,7 @@
         "b": 87
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -175,6 +182,7 @@
         "b": 98
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -196,6 +204,7 @@
         "b": 71
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -217,6 +226,7 @@
         "b": 168
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -238,6 +248,7 @@
         "b": 213
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -259,6 +270,7 @@
         "b": 203
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -280,6 +292,7 @@
         "b": 73
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -301,6 +314,7 @@
         "b": 255
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -322,6 +336,7 @@
         "b": 79
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -343,6 +358,7 @@
         "b": 100
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -364,6 +380,7 @@
         "b": 120
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -385,6 +402,7 @@
         "b": 186
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -406,6 +424,7 @@
         "b": 63
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -427,6 +446,7 @@
         "b": 254
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -448,6 +468,7 @@
         "b": 95
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -469,6 +490,7 @@
         "b": 81
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -490,6 +512,7 @@
         "b": 70
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -511,6 +534,7 @@
         "b": 255
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -532,6 +556,7 @@
         "b": 175
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -553,6 +578,7 @@
         "b": 82
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -574,6 +600,7 @@
         "b": 217
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -595,6 +622,7 @@
         "b": 77
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -616,6 +644,7 @@
         "b": 80
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -637,6 +666,7 @@
         "b": 203
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -658,6 +688,7 @@
         "b": 188
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -679,6 +710,7 @@
         "b": 130
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -700,6 +732,7 @@
         "b": 194
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -721,6 +754,7 @@
         "b": 88
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -742,6 +776,7 @@
         "b": 84
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -763,6 +798,7 @@
         "b": 175
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -784,6 +820,7 @@
         "b": 229
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -805,6 +842,7 @@
         "b": 207
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -826,6 +864,7 @@
         "b": 204
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -847,6 +886,7 @@
         "b": 88
       },
       "shiftColors": null,
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -867,6 +907,7 @@
         "#0E8F7E",
         "#9E1E4E"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -888,6 +929,7 @@
         "#0093B5",
         "#A111A6"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -909,6 +951,7 @@
         "#D9A100",
         "#BFE6A0"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -929,6 +972,7 @@
         "#1763E0",
         "#D14A8C"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -949,6 +993,7 @@
         "#F06FB6",
         "#C9A23A"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -969,6 +1014,7 @@
         "#E9BFD2",
         "#EFE9A0"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -989,6 +1035,7 @@
         "#3E8E80",
         "#1763E0"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1009,6 +1056,7 @@
         "#BFD8F2",
         "#D8C7EE"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1029,6 +1077,7 @@
         "#2A2FD6",
         "#8A1FD6"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1049,6 +1098,7 @@
         "#6E5F47",
         "#BFE6A0"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1069,6 +1119,7 @@
         "#4A2168",
         "#EFE9A0"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1090,6 +1141,7 @@
         "#7E4F94",
         "#F6C7B0"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1111,6 +1163,7 @@
         "#5C5E2A",
         "#C3CCA0"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1131,6 +1184,7 @@
         "#E3A8C6",
         "#6FA85C"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1152,6 +1206,7 @@
         "#3E8E80",
         "#B3A0C4"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1172,6 +1227,7 @@
         "#5E2E9E",
         "#2A0E3A"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1192,6 +1248,7 @@
         "#6E6A2E",
         "#2F7A3A"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1212,6 +1269,7 @@
         "#C5391B",
         "#FFB300"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1232,6 +1290,7 @@
         "#FF8A33",
         "#A9A05A"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1252,6 +1311,7 @@
         "#1FA9C9",
         "#A24FCB"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1273,6 +1333,7 @@
         "#C9C71E",
         "#5C7A1E"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1294,6 +1355,7 @@
         "#9B1FB0",
         "#A41020"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1314,6 +1376,7 @@
         "#1FB89B",
         "#7FC6D6"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1334,6 +1397,7 @@
         "#5E0E40",
         "#C75B3C"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1355,6 +1419,7 @@
         "#B01E63",
         "#E8731E"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1375,6 +1440,7 @@
         "#7E4F94",
         "#1F6FC4"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1395,6 +1461,7 @@
         "#6E1430",
         "#C75B3C"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1419,6 +1486,7 @@
         "#D6DBF6",
         "#ECD6F2"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1439,6 +1507,7 @@
         "#7FC6D6",
         "#0093B5"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1459,6 +1528,7 @@
         "#F07AA0",
         "#3B3FB0"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1480,6 +1550,7 @@
         "#9C7E3E",
         "#7E9B3C"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1505,6 +1576,7 @@
         "#5E5CE6",
         "#AF52DE"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1525,6 +1597,7 @@
         "#D14A8C",
         "#A111A6"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1546,6 +1619,7 @@
         "#5C7A1E",
         "#0A6E86"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1566,6 +1640,7 @@
         "#7A2E9E",
         "#BFE6A0"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1586,6 +1661,7 @@
         "#B8902A",
         "#EFE9A0"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1607,6 +1683,7 @@
         "#16586B",
         "#3E1A66"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1628,6 +1705,7 @@
         "#D14A8C",
         "#FFCB7A"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1648,6 +1726,7 @@
         "#1FB89B",
         "#27B463"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
@@ -1668,6 +1747,7 @@
         "#103C9E",
         "#3E1A66"
       ],
+      "colourless": false,
       "potSizes": [
         {
           "raw": "22ml",
